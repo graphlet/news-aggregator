@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI News Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <h1>AI News Dashboard</h1>
+    <p class="subtitle">
+      A curated static aggregation of recent AI news links, refreshed automatically.
+    </p>
+  </header>
+
+  <main>
+    <section id="developers">
+      <h2>🛠 For Developers</h2>
+      <div class="items-list" data-category="developers">
+        <p class="placeholder">Loading…</p>
+      </div>
+    </section>
+
+    <section id="everyone">
+      <h2>🌍 For Everyone</h2>
+      <div class="items-list" data-category="everyone">
+        <p class="placeholder">Loading…</p>
+      </div>
+    </section>
+
+    <section id="advancements">
+      <h2>🔬 Sector Advancements</h2>
+      <div class="items-list" data-category="advancements">
+        <p class="placeholder">Loading…</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p id="last-updated"></p>
+    <p class="note">
+      This page is a curated static aggregation of recent AI news links.
+      It refreshes automatically every few hours via GitHub Actions.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

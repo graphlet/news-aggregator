@@ -1,0 +1,153 @@
+/* ---------------------------------------------------------------------------
+   AI News Dashboard – Styles
+   --------------------------------------------------------------------------- */
+
+/* --- CSS Variables --- */
+:root {
+  --color-bg: #f8f9fa;
+  --color-surface: #ffffff;
+  --color-text: #212529;
+  --color-muted: #6c757d;
+  --color-link: #0969da;
+  --color-link-hover: #0550ae;
+  --color-border: #dee2e6;
+  --color-accent: #e9ecef;
+  --radius: 6px;
+  --max-width: 760px;
+  --spacing: 1rem;
+}
+
+/* --- Reset & Base --- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+  padding: var(--spacing);
+}
+
+/* --- Layout --- */
+header,
+main,
+footer {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+/* --- Header --- */
+header {
+  text-align: center;
+  padding: 2rem 0 1rem;
+}
+
+header h1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.subtitle {
+  color: var(--color-muted);
+  font-size: 0.95rem;
+  margin-top: 0.25rem;
+}
+
+/* --- Sections --- */
+section {
+  margin-top: 2rem;
+}
+
+section h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--color-border);
+  margin-bottom: 0.75rem;
+}
+
+/* --- News Items --- */
+.news-item {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  transition: box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.news-item:hover {
+  border-color: var(--color-link);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+
+.news-item a {
+  color: var(--color-link);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.98rem;
+  line-height: 1.4;
+}
+
+.news-item a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+.news-meta {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-top: 0.2rem;
+}
+
+.news-meta .source {
+  font-weight: 500;
+}
+
+/* --- Placeholder / Empty --- */
+.placeholder,
+.error-message {
+  color: var(--color-muted);
+  font-style: italic;
+  padding: 1rem 0;
+}
+
+.error-message {
+  color: #b91c1c;
+}
+
+/* --- Footer --- */
+footer {
+  margin-top: 3rem;
+  padding: 1rem 0 2rem;
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--color-muted);
+  border-top: 1px solid var(--color-border);
+}
+
+footer .note {
+  margin-top: 0.25rem;
+}
+
+/* --- Responsive --- */
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 1.4rem;
+  }
+
+  section h2 {
+    font-size: 1.1rem;
+  }
+
+  .news-item {
+    padding: 0.6rem 0.75rem;
+  }
+}
