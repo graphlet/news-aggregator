@@ -68,76 +68,14 @@
         });
     }
 
-    /** Format a number with locale grouping. */
-    function formatNum(n) {
-        if (n == null) return "—";
-        return n.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-    }
-
-    /** Format a percentage with sign and color class. */
-    function formatPct(pct) {
-        if (pct == null) return '<span class="trend-metric-value">—</span>';
-        var sign = pct >= 0 ? "+" : "";
-        var cls = pct >= 0 ? "trend-up" : "trend-down";
-        return '<span class="trend-metric-value ' + cls + '">' + sign + pct.toFixed(2) + "%</span>";
-    }
-
-    /** Render market trend cards grouped by region. */
+    /** Render market trend news items. */
     function renderTrends(trends) {
-        var container = document.getElementById("trends-container");
-        if (!container) return;
-        container.innerHTML = "";
-
-        if (!trends || trends.length === 0) {
-            var p = document.createElement("p");
-            p.className = "placeholder";
-            p.textContent = "No trend data available.";
-            container.appendChild(p);
-            return;
-        }
-
-        // Group by region
-        var regions = {};
-        trends.forEach(function (t) {
-            var key = (t.flag || "") + " " + (t.region || "Other");
-            if (!regions[key]) regions[key] = [];
-            regions[key].push(t);
-        });
-
-        Object.keys(regions).forEach(function (regionLabel) {
-            var heading = document.createElement("h3");
-            heading.className = "trend-region-heading";
-            heading.textContent = regionLabel;
-            container.appendChild(heading);
-
-            var grid = document.createElement("div");
-            grid.className = "trend-grid";
-
-            regions[regionLabel].forEach(function (t) {
-                var upDown = (t.dayChange != null && t.dayChange >= 0) ? "trend-card-up" : "trend-card-down";
-                var card = document.createElement("div");
-                card.className = "trend-card " + upDown;
-                card.innerHTML =
-                    '<div class="trend-header">' +
-                    '<span class="trend-name">' + escapeHtml(t.name) + "</span>" +
-                    '<span class="trend-price">' + formatNum(t.price) + "</span>" +
-                    "</div>" +
-                    '<div class="trend-metrics">' +
-                    '<div class="trend-metric"><span class="trend-metric-label">Day</span>' + formatPct(t.dayChangePct) + "</div>" +
-                    '<div class="trend-metric"><span class="trend-metric-label">1M</span>' + formatPct(t.month1Pct) + "</div>" +
-                    '<div class="trend-metric"><span class="trend-metric-label">3M</span>' + formatPct(t.month3Pct) + "</div>" +
-                    '<div class="trend-metric"><span class="trend-metric-label">YTD</span>' + formatPct(t.ytdPct) + "</div>" +
-                    "</div>";
-                grid.appendChild(card);
-            });
-
-            container.appendChild(grid);
-        });
+        renderSection("trends", trends);
     }
 
     /** Show an error message in all sections. */
     function showError(message) {
-        var containers = document.querySelectorAll(".items-list, #trends-container");
+        var containers = document.querySelectorAll(".items-list");
         containers.forEach(function (c) {
             c.innerHTML = "";
             var p = document.createElement("p");

@@ -70,16 +70,6 @@ async function fetchSource(source, parser) {
 // Main
 // ---------------------------------------------------------------------------
 async function main() {
-    // Fetch market trends first (before RSS feeds to avoid Yahoo rate-limits)
-    console.log("Fetching market trends…");
-    let trends = [];
-    try {
-        trends = await fetchTrends();
-        console.log(`Fetched ${trends.length} index trends\n`);
-    } catch (err) {
-        console.warn("Failed to fetch trends:", err.message);
-    }
-
     console.log("Fetching sources…");
 
     const parser = new Parser({
@@ -90,6 +80,16 @@ async function main() {
     // Partition sources by domain
     const aiSources = sources.filter((s) => s.domain === "ai");
     const financeSources = sources.filter((s) => s.domain === "finance");
+
+    // Fetch market trend news
+    console.log("Fetching market trends…");
+    let trends = [];
+    try {
+        trends = await fetchTrends();
+        console.log(`Fetched ${trends.length} trend items\n`);
+    } catch (err) {
+        console.warn("Failed to fetch trends:", err.message);
+    }
 
     // Fetch all sources concurrently
     const [aiResults, finResults] = await Promise.all([
