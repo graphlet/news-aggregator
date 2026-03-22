@@ -4,46 +4,85 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI News Dashboard</title>
+    <title>News Dashboard</title>
     <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
 
     <header>
-        <h1>AI News Dashboard</h1>
+        <h1>News Dashboard</h1>
         <p class="subtitle">
-            A curated static aggregation of recent AI news links, refreshed automatically.
+            A curated static aggregation of recent news links, refreshed automatically.
         </p>
     </header>
 
+    <nav class="tabs" role="tablist">
+        <button class="tab active" role="tab" aria-selected="true" aria-controls="tab-ai" data-tab="tab-ai">
+            🤖 AI News
+        </button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="tab-finance" data-tab="tab-finance">
+            💰 Finance News
+        </button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="tab-trends" data-tab="tab-trends">
+            📊 Market Trends
+        </button>
+    </nav>
+
     <main>
-        <section id="developers">
-            <h2>🛠 For Developers</h2>
-            <div class="items-list" data-category="developers">
-                <p class="placeholder">Loading…</p>
-            </div>
-        </section>
+        <div id="tab-ai" class="tab-content active" role="tabpanel">
+            <section id="developers">
+                <h2>🛠 For Developers</h2>
+                <div class="items-list" data-category="developers">
+                    <p class="placeholder">Loading…</p>
+                </div>
+            </section>
 
-        <section id="everyone">
-            <h2>🌍 For Everyone</h2>
-            <div class="items-list" data-category="everyone">
-                <p class="placeholder">Loading…</p>
-            </div>
-        </section>
+            <section id="everyone">
+                <h2>🌍 For Everyone</h2>
+                <div class="items-list" data-category="everyone">
+                    <p class="placeholder">Loading…</p>
+                </div>
+            </section>
 
-        <section id="advancements">
-            <h2>🔬 Sector Advancements</h2>
-            <div class="items-list" data-category="advancements">
-                <p class="placeholder">Loading…</p>
-            </div>
-        </section>
+            <section id="advancements">
+                <h2>🔬 Sector Advancements</h2>
+                <div class="items-list" data-category="advancements">
+                    <p class="placeholder">Loading…</p>
+                </div>
+            </section>
+        </div>
+
+        <div id="tab-finance" class="tab-content" role="tabpanel">
+            <section id="markets">
+                <h2>📈 Markets</h2>
+                <div class="items-list" data-category="markets">
+                    <p class="placeholder">Loading…</p>
+                </div>
+            </section>
+
+            <section id="crypto">
+                <h2>🪙 Crypto</h2>
+                <div class="items-list" data-category="crypto">
+                    <p class="placeholder">Loading…</p>
+                </div>
+            </section>
+        </div>
+
+        <div id="tab-trends" class="tab-content" role="tabpanel">
+            <section>
+                <h2>📊 Market Trends</h2>
+                <div id="trends-container">
+                    <p class="placeholder">Loading…</p>
+                </div>
+            </section>
+        </div>
     </main>
 
     <footer>
         <p id="last-updated"></p>
         <p class="note">
-            This page is a curated static aggregation of recent AI news links.
+            This page is a curated static aggregation of recent news links.
             It refreshes automatically every few hours via GitHub Actions.
         </p>
     </footer>

@@ -1,7 +1,7 @@
 {
-    "name": "ai-news-dashboard",
-    "version": "1.0.0",
-    "description": "A lightweight static AI news dashboard that aggregates and categorizes recent AI news links.",
+    "name": "news-dashboard",
+    "version": "2.0.0",
+    "description": "A lightweight static news dashboard that aggregates and categorizes AI and Finance news links.",
     "type": "module",
     "scripts": {
         "build-news": "node scripts/build-news.js",

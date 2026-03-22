@@ -6,8 +6,8 @@
 // This script:
 //   1. Fetches RSS feeds from the configured sources
 //   2. Normalises each item into a common shape
-//   3. Classifies items using keyword rules
-//   4. Deduplicates by URL, title, and fuzzy similarity
+//   3. Classifies items using keyword rules (AI or Finance)
+//   4. Deduplicates by URL, title, and fuzzy similarity (per domain)
 //   5. Sorts by recency, limits per category
 //   6. Writes docs/news.json
 // ---------------------------------------------------------------------------
@@ -18,8 +18,9 @@ import { fileURLToPath } from "node:url";
 import Parser from "rss-parser";
 
 import sources from "./sources.js";
-import { classify } from "./classify.js";
+import { classify, classifyFinance } from "./classify.js";
 import { deduplicate } from "./dedupe.js";
+import { fetchTrends } from "./build-trends.js";
 
 // ---------------------------------------------------------------------------
 // Config
@@ -44,6 +45,7 @@ function safeDate(raw) {
 
 /** Fetch a single RSS feed and return normalised items. */
 async function fetchSource(source, parser) {
+    const classifyFn = source.domain === "finance" ? classifyFinance : classify;
     try {
         const feed = await parser.parseURL(source.url);
         const items = (feed.items || []).map((entry) => {
@@ -53,7 +55,7 @@ async function fetchSource(source, parser) {
                 source: source.name,
                 publishedAt: safeDate(entry.isoDate || entry.pubDate).toISOString(),
             };
-            item.category = classify(item, source.defaultCategory);
+            item.category = classifyFn(item, source.defaultCategory);
             return item;
         });
         console.log(`  ✓ ${source.name}: ${items.length} items`);
@@ -68,49 +70,86 @@ async function fetchSource(source, parser) {
 // Main
 // ---------------------------------------------------------------------------
 async function main() {
+    // Fetch market trends first (before RSS feeds to avoid Yahoo rate-limits)
+    console.log("Fetching market trends…");
+    let trends = [];
+    try {
+        trends = await fetchTrends();
+        console.log(`Fetched ${trends.length} index trends\n`);
+    } catch (err) {
+        console.warn("Failed to fetch trends:", err.message);
+    }
+
     console.log("Fetching sources…");
 
     const parser = new Parser({
         timeout: REQUEST_TIMEOUT_MS,
-        headers: { "User-Agent": "ai-news-dashboard/1.0" },
+        headers: { "User-Agent": "news-dashboard/1.0" },
     });
 
+    // Partition sources by domain
+    const aiSources = sources.filter((s) => s.domain === "ai");
+    const financeSources = sources.filter((s) => s.domain === "finance");
+
     // Fetch all sources concurrently
-    const results = await Promise.all(
-        sources.map((src) => fetchSource(src, parser))
-    );
-    const allItems = results.flat();
-    console.log(`\nTotal raw items: ${allItems.length}`);
+    const [aiResults, finResults] = await Promise.all([
+        Promise.all(aiSources.map((src) => fetchSource(src, parser))),
+        Promise.all(financeSources.map((src) => fetchSource(src, parser))),
+    ]);
 
-    // Sort all items newest-first before dedup so the first occurrence kept is the newest
-    allItems.sort(
-        (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
-    );
+    const aiItems = aiResults.flat();
+    const finItems = finResults.flat();
+    console.log(`\nTotal raw items – AI: ${aiItems.length}, Finance: ${finItems.length}`);
 
-    // Deduplicate
-    const unique = deduplicate(allItems);
-    console.log(`After deduplication: ${unique.length}`);
+    // Sort newest-first before dedup (per domain)
+    const sortByDate = (a, b) =>
+        new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+    aiItems.sort(sortByDate);
+    finItems.sort(sortByDate);
+
+    // Deduplicate per domain
+    const uniqueAI = deduplicate(aiItems);
+    const uniqueFin = deduplicate(finItems);
+    console.log(`After dedup – AI: ${uniqueAI.length}, Finance: ${uniqueFin.length}`);
 
     // Bucket into categories
-    const buckets = { developers: [], everyone: [], advancements: [] };
-    for (const item of unique) {
-        if (buckets[item.category]) {
-            buckets[item.category].push(item);
+    const aiBuckets = { developers: [], everyone: [], advancements: [] };
+    for (const item of uniqueAI) {
+        if (aiBuckets[item.category]) {
+            aiBuckets[item.category].push(item);
+        }
+    }
+
+    const finBuckets = { markets: [], crypto: [] };
+    for (const item of uniqueFin) {
+        if (finBuckets[item.category]) {
+            finBuckets[item.category].push(item);
         }
     }
 
     // Limit per category
-    for (const cat of Object.keys(buckets)) {
-        buckets[cat] = buckets[cat].slice(0, ITEMS_PER_CATEGORY);
-        console.log(`  ${cat}: ${buckets[cat].length} items`);
+    for (const cat of Object.keys(aiBuckets)) {
+        aiBuckets[cat] = aiBuckets[cat].slice(0, ITEMS_PER_CATEGORY);
+        console.log(`  ai.${cat}: ${aiBuckets[cat].length} items`);
+    }
+    for (const cat of Object.keys(finBuckets)) {
+        finBuckets[cat] = finBuckets[cat].slice(0, ITEMS_PER_CATEGORY);
+        console.log(`  finance.${cat}: ${finBuckets[cat].length} items`);
     }
 
     // Build output
     const output = {
         lastUpdated: new Date().toISOString(),
-        developers: buckets.developers,
-        everyone: buckets.everyone,
-        advancements: buckets.advancements,
+        ai: {
+            developers: aiBuckets.developers,
+            everyone: aiBuckets.everyone,
+            advancements: aiBuckets.advancements,
+        },
+        finance: {
+            markets: finBuckets.markets,
+            crypto: finBuckets.crypto,
+        },
+        trends,
     };
 
     // Ensure docs/ exists and write
