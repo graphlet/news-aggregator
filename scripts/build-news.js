@@ -26,7 +26,7 @@ import { fetchTrends } from "./build-trends.js";
 // Config
 // ---------------------------------------------------------------------------
 const ITEMS_PER_CATEGORY = 15;
-const REQUEST_TIMEOUT_MS = 15_000;
+const REQUEST_TIMEOUT_MS = 8_000;
 
 // Resolve paths relative to this script file
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -81,18 +81,13 @@ async function main() {
     const aiSources = sources.filter((s) => s.domain === "ai");
     const financeSources = sources.filter((s) => s.domain === "finance");
 
-    // Fetch market trend news
+    // Fetch market trend news, AI sources, and finance sources all concurrently
     console.log("Fetching market trends…");
-    let trends = [];
-    try {
-        trends = await fetchTrends();
-        console.log(`Fetched ${trends.length} trend items\n`);
-    } catch (err) {
-        console.warn("Failed to fetch trends:", err.message);
-    }
-
-    // Fetch all sources concurrently
-    const [aiResults, finResults] = await Promise.all([
+    const [trends, aiResults, finResults] = await Promise.all([
+        fetchTrends().catch((err) => {
+            console.warn("Failed to fetch trends:", err.message);
+            return [];
+        }),
         Promise.all(aiSources.map((src) => fetchSource(src, parser))),
         Promise.all(financeSources.map((src) => fetchSource(src, parser))),
     ]);

@@ -7,13 +7,9 @@
 
 import Parser from "rss-parser";
 
-const REQUEST_TIMEOUT_MS = 15_000;
+const REQUEST_TIMEOUT_MS = 8_000;
 
 const TREND_SOURCES = [
-    {
-        name: "Reuters – Markets",
-        url: "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best",
-    },
     {
         name: "MarketWatch",
         url: "https://feeds.content.dowjones.io/public/rss/mw_topstories",

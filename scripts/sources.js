@@ -76,13 +76,6 @@ const sources = [
         domain: "finance",
         defaultCategory: "markets",
     },
-    {
-        name: "Moneycontrol",
-        url: "https://www.moneycontrol.com/rss/latestnews.xml",
-        domain: "finance",
-        defaultCategory: "markets",
-    },
-
     // -----------------------------------------------------------------------
     // Finance Sources – Crypto
     // -----------------------------------------------------------------------
