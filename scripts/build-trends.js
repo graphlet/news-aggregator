@@ -15,6 +15,7 @@ const INDEXES = [
 ];
 
 const DELAY_MS = 1500; // delay between requests to avoid 429s
+const TRENDS_TIMEOUT_MS = 30_000; // hard cap for the entire trends fetch
 
 function sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
 
@@ -70,6 +71,17 @@ async function fetchChart(symbol) {
  * Returns an array of objects ready to be embedded in news.json.
  */
 export async function fetchTrends() {
+    // Wrap the entire fetch in a hard timeout so it can't stall the build
+    return Promise.race([
+        _fetchTrends(),
+        sleep(TRENDS_TIMEOUT_MS).then(() => {
+            console.warn(`  ⚠ Trends fetch timed out after ${TRENDS_TIMEOUT_MS / 1000}s – returning partial results`);
+            return [];
+        }),
+    ]);
+}
+
+async function _fetchTrends() {
     const now = new Date();
     const year = now.getFullYear();
 
