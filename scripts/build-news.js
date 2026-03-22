@@ -153,7 +153,9 @@ async function main() {
     console.log(`\nWrote ${OUTPUT_PATH}`);
 }
 
-main().catch((err) => {
+main().then(() => {
+    process.exit(0);
+}).catch((err) => {
     console.error("Fatal error:", err);
     process.exit(1);
 });
