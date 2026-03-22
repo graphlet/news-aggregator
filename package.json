@@ -1,13 +1,13 @@
 {
-  "name": "ai-news-dashboard",
-  "version": "1.0.0",
-  "description": "A lightweight static AI news dashboard that aggregates and categorizes recent AI news links.",
-  "type": "module",
-  "scripts": {
-    "build-news": "node scripts/build-news.js",
-    "serve": "npx serve docs"
-  },
-  "dependencies": {
-    "rss-parser": "^3.13.0"
-  }
+    "name": "ai-news-dashboard",
+    "version": "1.0.0",
+    "description": "A lightweight static AI news dashboard that aggregates and categorizes recent AI news links.",
+    "type": "module",
+    "scripts": {
+        "build-news": "node scripts/build-news.js",
+        "serve": "npx serve docs"
+    },
+    "dependencies": {
+        "rss-parser": "^3.13.0"
+    }
 }

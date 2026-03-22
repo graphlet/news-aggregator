@@ -13,31 +13,31 @@
 // ---------------------------------------------------------------------------
 
 const sources = [
-  {
-    name: "Hacker News – AI",
-    url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT&count=30",
-    defaultCategory: "developers",
-  },
-  {
-    name: "MIT Technology Review",
-    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    defaultCategory: "everyone",
-  },
-  {
-    name: "The Verge – AI",
-    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-    defaultCategory: "everyone",
-  },
-  {
-    name: "OpenAI Blog",
-    url: "https://openai.com/blog/rss.xml",
-    defaultCategory: "advancements",
-  },
-  {
-    name: "Google AI Blog",
-    url: "https://blog.google/technology/ai/rss/",
-    defaultCategory: "advancements",
-  },
+    {
+        name: "Hacker News – AI",
+        url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT&count=30",
+        defaultCategory: "developers",
+    },
+    {
+        name: "MIT Technology Review",
+        url: "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        defaultCategory: "everyone",
+    },
+    {
+        name: "The Verge – AI",
+        url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        defaultCategory: "everyone",
+    },
+    {
+        name: "OpenAI Blog",
+        url: "https://openai.com/blog/rss.xml",
+        defaultCategory: "advancements",
+    },
+    {
+        name: "Google AI Blog",
+        url: "https://blog.google/technology/ai/rss/",
+        defaultCategory: "advancements",
+    },
 ];
 
 export default sources;
