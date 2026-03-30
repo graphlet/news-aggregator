@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T15:33:37.363Z",
+  "lastUpdated": "2026-03-30T18:24:53.328Z",
   "ai": {
     "developers": [
       {
@@ -38,13 +38,6 @@
         "category": "developers"
       },
       {
-        "title": "Nurturing agentic AI beyond the toddler stage",
-        "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-03-16T13:00:00.000Z",
-        "category": "developers"
-      },
-      {
         "title": "Why Codex Security Doesn’t Include a SAST Report",
         "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
         "source": "OpenAI Blog",
@@ -80,15 +73,15 @@
         "category": "developers"
       },
       {
-        "title": "GPT-5.4 Thinking System Card",
-        "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+        "title": "Introducing GPT-5.4",
+        "url": "https://openai.com/index/introducing-gpt-5-4",
         "source": "OpenAI Blog",
         "publishedAt": "2026-03-05T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Introducing GPT-5.4",
-        "url": "https://openai.com/index/introducing-gpt-5-4",
+        "title": "GPT-5.4 Thinking System Card",
+        "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
         "source": "OpenAI Blog",
         "publishedAt": "2026-03-05T10:00:00.000Z",
         "category": "developers"
@@ -106,9 +99,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-03-03T10:00:00.000Z",
         "category": "developers"
+      },
+      {
+        "title": "GPT-5.3 Instant System Card",
+        "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-03T10:00:00.000Z",
+        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "There are more AI health tools than ever—but how well do they work?",
+        "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-03-30T16:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Okta&#8217;s CEO is betting big on AI agent identity",
         "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
@@ -206,16 +213,16 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-03-25T09:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Powering product discovery in ChatGPT",
-        "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-03-24T09:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+        "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-03-30T15:42:50.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Helping disaster response teams turn AI into action across Asia",
         "url": "https://openai.com/index/helping-disaster-response-teams-asia",
@@ -313,125 +320,146 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-03-17T00:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "How AI is helping improve heart health in rural Australia",
-        "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-03-12T15:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
+        "title": "JetBlue Airways raises bag fees as fuel prices soar",
+        "url": "https://www.cnbc.com/2026/03/30/jetblue-airways-raises-checked-baggage-fees-as-fuel-prices-soar.html",
+        "source": "CNBC",
+        "publishedAt": "2026-03-30T18:17:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Millions of drivers mis-sold car finance to receive average £829 in compensation",
+        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-03-30T18:05:45.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
+        "url": "https://www.cnbc.com/2026/03/30/china-suppliers-warn-higher-us-prices-hormuz-closure.html",
+        "source": "CNBC",
+        "publishedAt": "2026-03-30T18:05:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "NFL asks prediction market operators to refrain from 'objectionable bets'",
+        "url": "https://www.cnbc.com/2026/03/30/nfl-asks-prediction-markets-to-refrain-from-objectionable-bets.html",
+        "source": "CNBC",
+        "publishedAt": "2026-03-30T17:58:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "US lawmakers press SEC's top official over enforcement director's exit",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-lawmakers-press-secs-top-official-over-enforcement-directors-exit/articleshow/129908337.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-03-30T17:52:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+        "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
+        "source": "CNBC",
+        "publishedAt": "2026-03-30T17:52:19.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "More than 7 million student loan borrowers face deadline to leave Biden-era repayment plan. What to know",
+        "url": "https://www.cnbc.com/2026/03/30/student-loan-borrowers-deadline-save.html",
+        "source": "CNBC",
+        "publishedAt": "2026-03-30T17:46:46.000Z",
+        "category": "markets"
+      },
+      {
         "title": "401(k) alternative asset rule proposed by Labor Department",
         "url": "https://www.cnbc.com/2026/03/30/401ks-alternative-investments.html",
         "source": "CNBC",
-        "publishedAt": "2026-03-30T15:30:20.000Z",
+        "publishedAt": "2026-03-30T17:45:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Is Deere (DE) a Top Stock Pick of Bill Gates in 2026?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/deere-top-stock-pick-bill-152348082.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:23:48.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mistral raises $830M in debt for Paris data center",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/mistral-raises-830m-debt-paris-152035908.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:20:35.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The Dow And Nasdaq Have Fallen Into Correction Territory. But Investor Sentiment Has Looked This Gloomy Before -- and Markets Recovered",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dow-nasdaq-fallen-correction-territory-152011861.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:20:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "These telecom giants that haven't done too much in recent years just made Josh Brown's list",
-        "url": "https://www.cnbc.com/2026/03/30/these-telecom-giants-that-havent-done-too-much-in-recent-years-just-made-josh-browns-list.html",
+        "title": "Stocks making the biggest moves midday: Fannie Mae, Boston Scientific, Blackstone, Palo Alto Networks and more",
+        "url": "https://www.cnbc.com/2026/03/30/stocks-making-the-biggest-moves-midday-fnma-bsx-bx-panw.html",
         "source": "CNBC",
-        "publishedAt": "2026-03-30T15:19:24.000Z",
+        "publishedAt": "2026-03-30T17:43:38.000Z",
         "category": "markets"
       },
       {
-        "title": "Delony Tells Houston Caller With Secret-Account Husband: ‘The Marriage Y’all Had Is Over’",
-        "url": "https://finance.yahoo.com/markets/articles/delony-tells-houston-caller-secret-151506918.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:15:06.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Carvana Slumps 8%: 3 Reasons Bears Are Gaining the Upper Hand in This Battleground Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/carvana-slumps-8-3-reasons-151439108.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:14:39.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stock Market Today: Dow Up As Software Gains; This Aluminum Stock Soars Amid Iran Attacks (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-news-powell/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:11:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Helium “Tsunami” to Hit Chipmakers — The Surprising Winner to Profit From the Coming Shortage",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/helium-tsunami-hit-chipmakers-surprising-151110637.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:11:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Why Palo Alto Networks Stock Popped Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-151101768.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:11:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The S&P 500 Is Up. Mondays Have Been the Market's Only Reprieve.",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-033026/card/stocks-lose-some-gains-monday-morning-dip-buying-emerges--BZxc0GWDoI0wtFNFzubI?siteid=yhoof2&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:10:35.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Why Microsoft May Be the Best Artificial Intelligence (AI) Stock for Retirees",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-may-best-artificial-150904868.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:09:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Interview: Clear Junction’s Dima Kats on why banks are finally embracing digital assets",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/interview-clear-junction-dima-kats-150714957.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T15:07:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Bill Ackman says it’s one of the best times in a long time to buy quality stocks",
-        "url": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html",
+        "title": "Brent oil heads for record monthly surge as Iran war enters fifth week",
+        "url": "https://www.cnbc.com/2026/03/30/oil-price-today-wti-brent-yemen-houthis-israel-iran-war.html",
         "source": "CNBC",
-        "publishedAt": "2026-03-30T15:00:57.000Z",
+        "publishedAt": "2026-03-30T17:38:22.000Z",
         "category": "markets"
       },
       {
-        "title": "Fed Governor Miran still backs cuts, says interest rates could be 'about a point' lower this year",
-        "url": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html",
+        "title": "Air Canada CEO will retire this year after his English-only crash message was criticized",
+        "url": "https://www.cnbc.com/2026/03/30/air-canada-ceo-will-retire-this-year-after-his-english-only-crash-message-was-criticized.html",
         "source": "CNBC",
-        "publishedAt": "2026-03-30T14:54:18.000Z",
+        "publishedAt": "2026-03-30T17:31:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Private credit fears have ripped through Wall Street in 2026. Why they may be overblown",
+        "url": "https://www.cnbc.com/2026/03/30/private-credit-fears-have-ripped-through-wall-street-in-2026-why-they-may-be-overblown.html",
+        "source": "CNBC",
+        "publishedAt": "2026-03-30T17:24:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Sysco stock sinks 12% after U.S. food giant strikes $29 billion deal for Restaurant Depot",
+        "url": "https://www.cnbc.com/2026/03/30/sysco-strikes-29-billion-deal-for-jetro-restaurant-depot.html",
+        "source": "CNBC",
+        "publishedAt": "2026-03-30T17:24:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "RBI defers implementation of capital market exposures norms to July 1",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-defers-implementation-of-capital-market-exposures-norms-to-july-1/articleshow/129907335.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-03-30T17:16:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "All eyes on the S&P 500 after other indexes slip into correction territory, says NYSE insider Jay Woods",
+        "url": "https://www.cnbc.com/2026/03/30/watch-the-sp-after-other-indexes-fall-into-correction-says-jay-woods.html",
+        "source": "CNBC",
+        "publishedAt": "2026-03-30T17:12:24.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Jack Dorsey’s Square auto-enables bitcoin payments for millions of U.S. businesses",
+        "url": "https://www.coindesk.com/business/2026/03/30/jack-dorsey-s-square-auto-enables-bitcoin-payments-for-millions-of-u-s-businesses",
+        "source": "CoinDesk",
+        "publishedAt": "2026-03-30T18:15:28.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Nium launches stablecoin card issuance platform across Visa and Mastercard",
+        "url": "https://cointelegraph.com/news/nium-launches-stablecoin-card-issuance-platform-across-visa-and-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-03-30T17:35:45.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Trump-backed American Bitcoin hits 7,000 BTC as holdings expand rapidly",
+        "url": "https://www.coindesk.com/markets/2026/03/30/trump-backed-american-bitcoin-hits-7-000-btc-as-holdings-expand-rapidly",
+        "source": "CoinDesk",
+        "publishedAt": "2026-03-30T17:07:25.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto fuels drone purchases in Russia and Iran, report says",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/crypto-fuels-drone-purchases-in-russia-and-iran-report-says/articleshow/129905169.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-03-30T15:29:57.000Z",
+        "category": "crypto"
+      },
       {
         "title": "What was the 1970s oil crisis, and are we heading for something worse?",
         "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
@@ -454,6 +482,13 @@
         "category": "crypto"
       },
       {
+        "title": "AI music needs blockchain infrastructure",
+        "url": "https://cointelegraph.com/news/ai-music-blockchain-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-03-30T15:00:00.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Midas raises $50M to build instant liquidity layer for tokenized yield",
         "url": "https://cointelegraph.com/news/midas-raises-50-million-instant-liquidity-layer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -472,13 +507,6 @@
         "url": "https://www.coindesk.com/business/2026/03/30/bitmine-makes-biggest-ether-purchase-in-2026-while-other-digital-asset-treasuries-pull-back",
         "source": "CoinDesk",
         "publishedAt": "2026-03-30T14:38:56.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases",
-        "url": "https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-03-30T14:37:57.000Z",
         "category": "crypto"
       },
       {
@@ -508,157 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-03-30T13:53:45.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Charles Hoskinson’s $200 million bet: Midnight goes live to tackle crypto’s biggest flaws",
-        "url": "https://www.coindesk.com/tech/2026/03/30/charles-hoskinson-s-usd200-million-bet-midnight-goes-live-to-tackle-crypto-s-biggest-flaws",
-        "source": "CoinDesk",
-        "publishedAt": "2026-03-30T13:53:06.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Coinbase survey finds many crypto users still misunderstand taxes",
-        "url": "https://cointelegraph.com/news/half-crypto-users-misunderstand-tax-rules-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-03-30T13:37:41.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Lido DAO proposes $20 million LDO buyback to boost price after 95% slide",
-        "url": "https://www.coindesk.com/markets/2026/03/30/lido-dao-proposes-usd20-million-ldo-buyback-to-boost-price-after-95-slide",
-        "source": "CoinDesk",
-        "publishedAt": "2026-03-30T13:26:33.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-03-30T13:20:52.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Powell Says Fed Watching Private Credit 'Super Carefully'",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-30/powell-fed-watching-private-credit-super-carefully-video",
+      "title": "Apollo Said to Near $10 Billion Deal for KKR’S Atlantic Aviation",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-30/apollo-said-to-near-10-billion-deal-for-kkr-s-atlantic-aviation",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-03-30T15:25:59.000Z"
+      "publishedAt": "2026-03-30T18:02:31.000Z"
     },
     {
-      "title": "Bonds emerging as hedge amid Middle East tensions, says Citadel Securities",
-      "url": "https://www.investing.com/news/economy-news/bonds-emerging-as-hedge-amid-middle-east-tensions-says-citadel-4588290",
+      "title": "Poland to maintain budget, social spending amid fuel price surge",
+      "url": "https://www.investing.com/news/economy-news/poland-to-maintain-budget-social-spending-amid-fuel-price-surge-93CH-4588526",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-03-30T15:24:21.000Z"
+      "publishedAt": "2026-03-30T17:54:02.000Z"
     },
     {
-      "title": "Why Trump Is Eying Iran’s Kharg Island Oil Export Hub",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-30/kharg-island-why-trump-is-considering-seizing-iran-s-oil-export-hub",
+      "title": "‘Several hurricanes have come close’: I’m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?",
+      "url": "https://www.marketwatch.com/story/several-hurricanes-have-come-close-im-73-and-live-in-a-mobile-home-in-florida-do-i-ditch-my-2-400-home-insurance-87397157?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-03-30T17:54:00.000Z"
+    },
+    {
+      "title": "Trump may ask Arab nations to help fund Iran war costs, White House says",
+      "url": "https://www.investing.com/news/economy-news/trump-may-ask-arab-nations-to-help-fund-iran-war-costs-white-house-says-93CH-4588522",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-03-30T17:50:06.000Z"
+    },
+    {
+      "title": "ECB must respond quickly to signs of inflation drift, says Stournaras",
+      "url": "https://www.investing.com/news/economy-news/ecb-must-respond-quickly-to-signs-of-inflation-drift-says-stournaras-4588521",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-03-30T17:49:20.000Z"
+    },
+    {
+      "title": "Mideast War Boosts US Petrochemicals as Methanol Hits Four-Year High",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-30/mideast-war-boosts-us-petchems-as-methanol-hits-four-year-high",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-03-30T15:22:22.000Z"
+      "publishedAt": "2026-03-30T17:48:38.000Z"
+    },
+    {
+      "title": "White House says Iran talks progressing despite public posturing",
+      "url": "https://www.investing.com/news/economy-news/white-house-says-iran-talks-progressing-despite-public-posturing-93CH-4588511",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-03-30T17:38:01.000Z"
+    },
+    {
+      "title": "Citi Approaching Lenders to Fund Ecolab’s $4.8 Billion Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-30/citi-approaching-lenders-to-fund-ecolab-s-4-8-billion-deal",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-03-30T17:35:10.000Z"
+    },
+    {
+      "title": "Markets Brace For Fallout | Open Interest 3/30/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-30/open-interest-3-30-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-03-30T17:34:17.000Z"
+    },
+    {
+      "title": "When Commodity Prices Become ‘Academic’",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-30/when-commodity-prices-become-academic",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-03-30T17:19:58.000Z"
+    },
+    {
+      "title": "E*Trade in Talks to Lead SpaceX IPO for Retail, Report Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-30/e-trade-in-talks-to-lead-spacex-ipo-for-retail-reuters-says",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-03-30T17:12:01.000Z"
+    },
+    {
+      "title": "This is a reason the Middle East’s major oil-producing countries have been selling their U.S. Treasurys",
+      "url": "https://www.marketwatch.com/story/this-is-a-reason-the-middle-easts-major-oil-producing-countries-have-been-selling-their-u-s-treasurys-e5df841c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-03-30T17:05:00.000Z"
+    },
+    {
+      "title": "ECB must act quickly if inflation expectations drift, says Greek central bank governor",
+      "url": "https://www.investing.com/news/economy-news/ecb-must-act-quickly-if-inflation-expectations-drift-says-greek-central-bank-governor-93CH-4588468",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-03-30T16:52:50.000Z"
+    },
+    {
+      "title": "Iranian strike on Kuwaiti power and water plant stokes infrastructure fears",
+      "url": "https://www.ft.com/content/11904ce7-332d-4770-802f-9a0a08b7cfd9",
+      "source": "Financial Times",
+      "publishedAt": "2026-03-30T16:51:02.000Z"
     },
     {
       "title": "Fed chief Powell says risks to economy suggest rates could go lower or higher",
       "url": "https://www.marketwatch.com/story/powell-says-risks-to-economy-suggest-rates-could-go-lower-or-higher-b0a4134f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-03-30T15:22:00.000Z"
+      "publishedAt": "2026-03-30T16:46:00.000Z"
     },
     {
-      "title": "Oil prices set for record monthly surge as Trump threatens to ‘blow up’ Iran’s power plants, oil wells and Kharg Island if no deal reached",
-      "url": "https://www.marketwatch.com/story/oil-prices-head-towards-highest-close-in-four-years-as-iran-conflict-shows-no-sign-of-ending-af9a093c?mod=mw_rss_topstories",
+      "title": "Soybean Oil Surges With Iran War Adding to Biofuel Tailwinds",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-30/soybean-oil-surges-with-iran-war-adding-to-biofuel-tailwinds",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-03-30T16:44:13.000Z"
+    },
+    {
+      "title": "‘She has taken my inheritance’: My mom bullied my grandmother to change her will and physically abused her. What can we do?",
+      "url": "https://www.marketwatch.com/story/she-has-taken-my-inheritance-my-mom-bullied-my-grandmother-to-change-her-will-and-physically-abused-her-what-can-we-do-2c4ee13f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-03-30T15:20:00.000Z"
+      "publishedAt": "2026-03-30T16:44:00.000Z"
     },
     {
-      "title": "Powell Sees Tension Currently Between Fed’s Two Mandates",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-30/powell-sees-tension-currently-between-fed-s-two-mandates-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-03-30T15:19:19.000Z"
-    },
-    {
-      "title": "Italy Nears Leader Decisions at State Firms Worth €250 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-30/italy-nears-leader-decisions-at-state-firms-worth-250-billion",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-03-30T15:18:45.000Z"
-    },
-    {
-      "title": "Churchill's Kencel on the State of Private Credit",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-30/churchill-s-kencel-on-the-state-of-private-credit-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-03-30T15:13:49.000Z"
-    },
-    {
-      "title": "NATO intercepts Iranian another missile over Turkey, fourth this month",
-      "url": "https://www.investing.com/news/economy-news/nato-intercepts-iranian-another-missile-over-turkey-fourth-this-month-93CH-4588374",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-03-30T15:13:00.000Z"
-    },
-    {
-      "title": "Powell says Fed positioned to ’wait and see’ how war affects economy",
-      "url": "https://www.investing.com/news/economy-news/on-the-horns-of-an-inflationgrowth-dilemma-fed-chair-powell-to-speak-at-harvard-4587126",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-03-30T15:12:58.000Z"
-    },
-    {
-      "title": "Treasuries Rally as Powell Touts Fed’s Limits on Supply Shocks",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-30/treasuries-rally-as-powell-touts-fed-s-limits-on-supply-shocks",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-03-30T15:12:36.000Z"
-    },
-    {
-      "title": "Trump to take first steps in opening retirement funds to private markets",
-      "url": "https://www.ft.com/content/f38575bf-7d7e-41a8-ae77-6e25c44de3a2",
-      "source": "Financial Times",
-      "publishedAt": "2026-03-30T15:08:36.000Z"
-    },
-    {
-      "title": "Fed’s Powell says policy in good place to ’wait and see’ effects of Iran conflict",
-      "url": "https://www.investing.com/news/economy-news/feds-powell-says-policy-in-good-place-to-wait-and-see-effects-of-iran-conflict-4588363",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-03-30T15:07:39.000Z"
-    },
-    {
-      "title": "Iran war is dimming outlook for many economies, IMF says",
-      "url": "https://www.investing.com/news/economy-news/iran-war-is-dimming-outlook-for-many-economies-imf-says-4588364",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-03-30T15:06:35.000Z"
-    },
-    {
-      "title": "Top Iron Ore Miner Vale Targets India as China’s Star Fades",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-30/top-iron-ore-miner-vale-targets-india-as-china-s-star-fades",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-03-30T15:01:54.000Z"
-    },
-    {
-      "title": "A major change may be in the works for your 401(k) plan’s oversight",
-      "url": "https://www.marketwatch.com/story/a-major-change-may-be-in-the-works-for-your-401-k-plans-oversight-de1d97c8?mod=mw_rss_topstories",
+      "title": "How do I know my money is safe with my financial adviser — and not a Ponzi scheme?",
+      "url": "https://www.marketwatch.com/story/how-do-i-know-my-money-is-safe-with-my-financial-adviser-and-not-a-ponzi-scheme-3d54d380?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-03-30T15:00:00.000Z"
+      "publishedAt": "2026-03-30T16:44:00.000Z"
     },
     {
-      "title": "IMF Says Iran War Means Higher Prices, Slower Growth Worldwide",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-30/imf-says-iran-war-means-higher-prices-slower-growth-worldwide",
+      "title": "European stocks edge higher; Middle East jitters temper relief",
+      "url": "https://www.investing.com/news/economy-news/european-stocks-steady-ahead-of-inflation-data-4586837",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-03-30T16:42:33.000Z"
+    },
+    {
+      "title": "Carlyle Said to Plan Defense Fund as Governments Hike Spending",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-30/carlyle-said-to-plan-defense-fund-as-governments-hike-spending",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-03-30T15:00:00.000Z"
-    },
-    {
-      "title": "NATO Intercepts Fourth Iranian Missile Targeting Turkey",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-30/nato-intercepts-fourth-iranian-missile-targeting-turkey",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-03-30T14:57:09.000Z"
-    },
-    {
-      "title": "These stocks are surging as the next hot play on the Iran war",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-surging-as-the-next-hot-play-on-the-iran-war-3531bcbb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-03-30T14:55:00.000Z"
-    },
-    {
-      "title": "Want to watch all of the Yankees’ games on TV this season? It’ll cost you over $1,200.",
-      "url": "https://www.marketwatch.com/story/want-to-watch-all-of-the-yankees-games-on-tv-this-season-itll-cost-you-over-1-200-1bdc9ac5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-03-30T14:53:00.000Z"
+      "publishedAt": "2026-03-30T16:33:28.000Z"
     }
   ]
 }
