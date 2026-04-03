@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-04-03T00:39:12.817Z",
+  "lastUpdated": "2026-04-03T03:58:44.092Z",
   "ai": {
     "developers": [
+      {
+        "title": "How are people treating/deploying on-device AI?",
+        "url": "https://minimal-light-theme.yliu.me/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T03:50:13.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "When a reasoning LLM chooses, which comes first: thought or decision?",
+        "url": "https://arxiv.org/abs/2604.01202",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T03:43:55.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Framecraft – Generate demo videos from a prompt using HTML Canvas/Skill/MCP/LLM",
+        "url": "https://github.com/vaddisrinivas/framecraft",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T03:34:34.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Most AI trading tools: one model, one prediction, done",
+        "url": "https://orallexa-ui.vercel.app",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T03:33:39.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI Applications and Vertical Integration",
+        "url": "https://www.tanayj.com/p/ai-applications-and-vertical-integration",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T02:55:59.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Jobs Being Created by AI",
+        "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T02:25:56.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Run a Local LLM, and discover why LLMs are unpredictable",
+        "url": "https://newsletter.bphogan.com/archive/issue-51-run-a-local-llm-and-discover-why-llms/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T02:06:48.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Pinterest and Shopmy for AI-powered fashion shopping",
+        "url": "https://faishion.ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T01:42:57.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Composer – AI architect / MCP for software architecture diagrams",
+        "url": "https://www.usecomposer.com/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T01:24:13.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "I simulated a 19th-century utopian commune with AI agents",
+        "url": "https://github.com/menggg22/utopia",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T01:20:43.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: LM Gate – Auth and access-control gateway for self-hosted LLM back ends",
+        "url": "https://github.com/hkdb/lmgate",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T01:12:59.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Open-source runtime security toolkit for autonomous AI agents covering OWASP Top",
+        "url": "https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T00:54:28.000Z",
+        "category": "developers"
+      },
       {
         "title": "Show HN: Trytet – Deterministic WASM substrate for stateful AI agents",
         "url": "https://trytet.com",
@@ -22,90 +106,6 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-02T23:42:18.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Lisa Core – semantic compression for AI conversations (80:1 ratio, 100% local)",
-        "url": "https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T23:33:54.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI for Software Engineering",
-        "url": "https://mattamonroe.substack.com/p/ai-for-software-engineering",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T23:25:45.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI-derived heart fat measures improve accuracy of cardio disease risk prediction",
-        "url": "https://newsnetwork.mayoclinic.org/discussion/including-ai-derived-heart-fat-measurement-improves-accuracy-of-cardiovascular-disease-risk-prediction/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T23:15:12.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Genesis Agent – A self-modifying AI agent that runs local (Electron, Ollama)",
-        "url": "https://github.com/Garrus800-stack/genesis-agent",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T23:00:37.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Currant – Anonymus social media for NON-AI agents",
-        "url": "https://currantfeed.cc",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T23:00:37.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: OpenVole – VoleNet Distributed AI Agent Networking",
-        "url": "https://news.ycombinator.com/item?id=47620865",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T22:13:50.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "BlackSwanX,174 AI agents predict the future by fighting each other,run on Ollama",
-        "url": "https://github.com/Kalki-M/BlackSwanX",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T21:59:20.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: SharpSkill – AI writes your code. We teach you to understand it",
-        "url": "https://sharpskill.dev/en",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T21:30:29.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Are you still copy/pasting in GPT to correct your text?",
-        "url": "https://rewritecmd.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T21:19:02.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "ON1 Restore AI Turns Old Family Photos into Grotesque Nightmare Fuel",
-        "url": "https://petapixel.com/2026/03/25/on1-restore-ai-turns-old-family-photos-into-grotesque-nightmare-fuel/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T21:18:57.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are",
-        "url": "https://www.governance.fyi/p/marc-andreessen-is-right-that-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T21:03:15.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: AI tax filing – upload W-2s and 1099s, get completed IRS forms back",
-        "url": "https://autocook.io",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T20:59:09.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -114,20 +114,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
         "source": "The Verge – AI",
         "publishedAt": "2026-04-02T21:56:16.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Our first AI E-magazine, anny feedback will be appreciated",
-        "url": "https://teamcal.ai/ezine/2026/03_AI_Edge_For_Leaders_Is_AI_Aware.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T20:34:50.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI Futures Project: Q1 2026 Timelines Update",
-        "url": "https://blog.aifutures.org/p/q1-2026-timelines-update",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T20:27:23.000Z",
         "category": "everyone"
       },
       {
@@ -213,9 +199,30 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-03-26T16:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-03-26T15:21:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "This startup wants to change how mathematicians do math",
+        "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-03-25T13:59:17.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Nvidia IGX Thor powers industrial, medical and robotics edge AI applications",
+        "url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-03T01:24:19.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Show HN: MicroSafe-RL – Sub-microsecond safety layer for Edge AI 1.18µs latency",
         "url": "https://github.com/Kretski/MicroSafe-RL",
@@ -228,13 +235,6 @@
         "url": "https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/",
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-02T22:47:26.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-        "url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-02T19:49:51.000Z",
         "category": "advancements"
       },
       {
@@ -326,24 +326,73 @@
   "finance": {
     "markets": [
       {
-        "title": "Microsoft executive touts Copilot sales traction as AI anxiety weighs on stock",
-        "url": "https://www.cnbc.com/2026/04/02/microsoft-executive-touts-copilot-traction-after-analyst-pressure.html",
+        "title": "Raamdeo Agrawal's portfolio is down 17–18% — and he says this is not the time to panic",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/raamdeo-agrawals-portfolio-is-down-1718-and-he-says-this-is-not-the-time-to-panic/articleshow/129978869.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-03T03:30:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Indices plunge 2%, then ride rupee rebound to log gains",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indices-plunge-2-then-ride-rupee-rebound-to-log-gains/articleshow/129993271.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-03T03:27:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Rupee logs biggest gain in 12 years",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-logs-biggest-gain-in-12-years/articleshow/129992898.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-03T03:21:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Pharma calls in sick after Trump’s 100% tariff threat",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pharma-calls-in-sick-after-trumps-100-tariff-threat/articleshow/129993216.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-03T03:19:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Global Market Check | Asian shares edge higher as volatile week draws to an end",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-check-asian-shares-edge-higher-as-volatile-week-draws-to-an-end/articleshow/129993174.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-03T03:14:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Rupee at 100 will be a harsh check on India’s ambitions",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-at-100-will-be-a-harsh-check-on-indias-ambitions-andy-mukherjeeby/articleshow/129993097.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-03T03:08:24.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Asia-Pacific markets mostly rise in Easter trade on hopes for Hormuz reopening",
+        "url": "https://www.cnbc.com/2026/04/03/asia-markets-live-hormuz-iran-oil-prices-nikkei-225.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-03T00:36:22.000Z",
+        "publishedAt": "2026-04-03T02:57:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock market holiday today for Good Friday 2026: Are NSE, BSE and MCX open or closed on April 3? Check now",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-today-for-good-friday-2026-are-nse-bse-and-mcx-open-or-closed-on-april-3-check-now/articleshow/129992986.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-03T02:52:25.000Z",
         "category": "markets"
       },
       {
         "title": "Tiger Woods called Trump after DUI crash, he told cop on bodycam video",
         "url": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-03T00:30:52.000Z",
+        "publishedAt": "2026-04-03T00:55:24.000Z",
         "category": "markets"
       },
       {
-        "title": "Asia-Pacific markets rise in Easter trade on hopes for Hormuz reopening",
-        "url": "https://www.cnbc.com/2026/04/03/asia-markets-live-hormuz-iran-oil-prices-nikkei-225.html",
+        "title": "Microsoft executive touts Copilot sales traction as AI anxiety weighs on stock",
+        "url": "https://www.cnbc.com/2026/04/02/microsoft-executive-touts-copilot-traction-after-analyst-pressure.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-03T00:15:12.000Z",
+        "publishedAt": "2026-04-03T00:36:22.000Z",
         "category": "markets"
       },
       {
@@ -380,58 +429,30 @@
         "source": "CNBC",
         "publishedAt": "2026-04-02T22:11:06.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Pharmaceuticals face 100% tariffs in US - unless firms strike a deal",
-        "url": "https://www.bbc.com/news/articles/cx29kke01gpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-02T22:06:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
-        "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-02T21:11:48.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dow closes lower as Trump comments dampen traders’ hopes for Iran war ending: Live updates",
-        "url": "https://www.cnbc.com/2026/04/01/stock-market-today-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-02T20:47:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "United flyers without a credit card will now earn fewer miles. Here's what's changed",
-        "url": "https://www.cnbc.com/select/why-united-credit-cards-are-becoming-essential/",
-        "source": "CNBC",
-        "publishedAt": "2026-04-02T20:36:31.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Polymarket expands into equities and commodities with Pyth price feeds",
-        "url": "https://cointelegraph.com/news/polymarket-expands-into-equities-and-commodities-with-pyth-price-feeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-02T20:34:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump fires Attorney General Pam Bondi",
-        "url": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-02T20:32:48.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report",
-        "url": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-02T20:26:51.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin miner Riot sold 3,778 BTC during Q1 amid profitability pressures",
+        "url": "https://cointelegraph.com/news/riot-sells-3778-bitcoin-miners-shift-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-03T03:19:07.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Big Tech firms back new x402 Foundation to advance agentic AI adoption",
+        "url": "https://cointelegraph.com/news/big-tech-companies-join-x402-protocol-agentic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-03T01:26:34.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Army chief of staff fired by Hegseth, sources say",
+        "url": "https://www.cnbc.com/2026/04/02/army-chief-of-staff-fired-by-hegseth-sources-say.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-03T01:03:30.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Todd Blanche, author of DOJ crypto enforcement memo, is now interim AG",
         "url": "https://www.coindesk.com/policy/2026/04/02/todd-blanche-author-of-doj-crypto-enforcement-memo-now-interim-ag",
@@ -515,31 +536,76 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-02T18:25:33.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "SoFi expands into institutional finance with integrated crypto services",
-        "url": "https://cointelegraph.com/news/sofi-institutional-banking-platform-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-02T16:56:28.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin miner Soluna acquires $53M wind farm to power AI facility",
-        "url": "https://cointelegraph.com/news/bitcoin-miner-soluna-acquires-53m-wind-farm-to-power-ai-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-02T16:37:49.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Coinbase wins initial bank regulator nod for trust charter, boosting custody push",
-        "url": "https://www.coindesk.com/policy/2026/04/02/coinbase-wins-initial-occ-nod-for-trust-charter-boosting-sustody-push",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-02T16:18:15.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Trump warns of strikes on Iran power plants, bridges in new post",
+      "url": "https://www.investing.com/news/economy-news/trump-warns-of-strikes-on-iran-power-plants-bridges-in-new-post-4596855",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-03T03:47:48.000Z"
+    },
+    {
+      "title": "Indonesia Flags Tightly Held Companies in Effort to Satisfy MSCI",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-03/indonesia-flags-tycoon-linked-firms-for-concentrated-ownership",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-03T03:21:38.000Z"
+    },
+    {
+      "title": "Japan finance minister warns of high FX volatility, signals  readiness to act",
+      "url": "https://www.investing.com/news/economy-news/japan-finance-minister-warns-of-high-fx-volatility-signals--readiness-to-act-4596783",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-03T02:24:27.000Z"
+    },
+    {
+      "title": "Pam Bondi was just fired by Trump. Here’s how the stock market has fared since her infamous ‘Dow is over 50,000’ comment.",
+      "url": "https://www.marketwatch.com/story/pam-bondi-was-just-fired-by-trump-heres-how-the-stock-market-has-fared-since-her-infamous-dow-is-over-50-000-comment-694a261c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-03T02:21:00.000Z"
+    },
+    {
+      "title": "Indonesian Finance Minister Purbaya on Growth, Stability",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-03/indonesian-finance-minister-sadewa-on-growth-stability-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-03T02:03:25.000Z"
+    },
+    {
+      "title": "China services activity growth cools in March, private PMI shows",
+      "url": "https://www.investing.com/news/economy-news/china-services-activity-growth-cools-in-march-private-pmi-shows-4596760",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-03T01:54:26.000Z"
+    },
+    {
+      "title": "China Services Gauge Slows After Boost From New Year Holiday",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-03/china-services-gauge-slows-after-boost-from-new-year-holiday",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-03T01:47:57.000Z"
+    },
+    {
+      "title": "Japan Power Retailers Halt New Industrial Clients on Fuel Risks",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-03/japan-power-retailers-halt-new-industrial-clients-on-fuel-risks",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-03T01:42:36.000Z"
+    },
+    {
+      "title": "Japan’s Fast Retailing Profit Grows on Uniqlo, Seven &amp; i Mixed",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-03/japan-s-fast-retailing-profit-grows-on-uniqlo-seven-i-mixed",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-03T01:37:18.000Z"
+    },
+    {
+      "title": "Mortgage rates rise for the fifth week in a row. Here’s how much more homebuyers are paying since the Iran war started.",
+      "url": "https://www.marketwatch.com/story/mortgage-rates-rise-for-the-fifth-week-in-a-row-heres-how-much-more-homebuyers-are-paying-since-the-iran-wars-start-910bd100?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-03T00:52:00.000Z"
+    },
+    {
+      "title": "Jera’s US Purchase Agreement With Commonwealth LNG Terminated",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-03/jera-s-us-purchase-agreement-with-commonwealth-lng-terminated",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-03T00:39:01.000Z"
+    },
     {
       "title": "Starbucks made two big moves to help its turnaround today — but they didn’t help the coffee chain’s stock",
       "url": "https://www.marketwatch.com/story/starbucks-made-two-big-moves-to-help-its-turnaround-today-but-they-didnt-help-the-coffee-chains-stock-f8ccd9dc?mod=mw_rss_topstories",
@@ -589,76 +655,10 @@
       "publishedAt": "2026-04-02T22:30:00.000Z"
     },
     {
-      "title": "Asian Shares Open Higher After US Stocks Rebound: Markets Wrap",
+      "title": "Asian Shares Rise as Volatile Week Draws to an End: Markets Wrap",
       "url": "https://www.bloomberg.com/news/articles/2026-04-02/asian-equities-may-open-higher-after-us-rebound-markets-wrap",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-04-02T22:29:17.000Z"
-    },
-    {
-      "title": "Stock Rally Hits Wall as Oil Holds Gains | The Close 4/2/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-02/the-close-4-2-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-02T22:11:19.000Z"
-    },
-    {
-      "title": "‘We’re aiming for a monthly income of $11,500’: I’m 64. I’ve $1.5 million in a 401(k). How do I time my withdrawals?",
-      "url": "https://www.marketwatch.com/story/were-aiming-for-a-monthly-income-of-11-500-im-64-ive-1-5-million-in-a-401-k-how-do-i-time-my-withdrawals-ae3e6f40?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-02T22:08:00.000Z"
-    },
-    {
-      "title": "‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?",
-      "url": "https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-02T22:06:00.000Z"
-    },
-    {
-      "title": "These charts show the cracks in the stock market are widening",
-      "url": "https://www.marketwatch.com/story/these-charts-show-the-cracks-in-the-stock-market-are-widening-9ee6a281?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-02T21:43:00.000Z"
-    },
-    {
-      "title": "Energy-price surge will work through economy slowly, Fed’s Williams tells Fox Business",
-      "url": "https://www.investing.com/news/economy-news/energyprice-surge-will-work-through-economy-slowly-feds-williams-tells-fox-business-4596529",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-02T21:25:32.000Z"
-    },
-    {
-      "title": "Trump fires Pam Bondi as US attorney general",
-      "url": "https://www.investing.com/news/economy-news/trump-fires-pam-bondi-as-us-attorney-general-white-house-official-says-4596138",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-02T21:24:56.000Z"
-    },
-    {
-      "title": "Pete & Gerry's CEO: Overpopulation Lowering Egg Prices",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-02/pete-gerry-s-ceo-overpopulation-lowering-egg-prices-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-02T21:18:17.000Z"
-    },
-    {
-      "title": "Trading Day: Oil Strait back up again",
-      "url": "https://www.investing.com/news/economy-news/trading-day-oil-strait-back-up-again-4596553",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-02T21:07:34.000Z"
-    },
-    {
-      "title": "Intel’s stock has been climbing — and this could be its next big catalyst",
-      "url": "https://www.marketwatch.com/story/intels-stock-has-been-climbing-and-this-could-be-its-next-big-catalyst-adc95a17?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-02T21:07:00.000Z"
-    },
-    {
-      "title": "Complex CEO on Launch of 'Complex Bets' with Fanatics",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-02/complex-ceo-on-launch-of-complex-bets-with-fanatics-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-02T20:58:17.000Z"
-    },
-    {
-      "title": "British Columbia Gets Fifth Credit Downgrade From S&amp;P Since 2021",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-02/british-columbia-gets-fifth-credit-downgrade-from-s-p-since-2021",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-02T20:52:42.000Z"
     }
   ]
 }
