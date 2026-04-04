@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-04-04T03:50:55.817Z",
+  "lastUpdated": "2026-04-04T06:27:16.204Z",
   "ai": {
     "developers": [
+      {
+        "title": "Show HN: AI Dev Board – Job Board for AI Developers with a Full REST API",
+        "url": "https://aidevboard.com/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-04T05:21:06.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "It's open season for refusing AI",
+        "url": "https://www.bloodinthemachine.com/p/its-open-season-for-refusing-ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-04T05:03:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "AI agents are now playing Mafia (social deduction with humans)",
         "url": "https://mafiamystery.com/agents",
@@ -92,23 +106,16 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-03T23:12:50.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Writing an LLM from scratch, part 32h – Interventions: full fat float32",
-        "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-03T23:08:18.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Y Combinator's CEO says he ships 37,000 lines of AI code per day",
-        "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-03T23:06:55.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "ModelReins – The Browser for AI Tools",
+        "url": "https://modelreins.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-04T04:02:50.000Z",
+        "category": "everyone"
+      },
       {
         "title": "ClawTrak – free tool to check if your AI product is invisible to AI agents",
         "url": "https://clawtrak.com/",
@@ -206,16 +213,16 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-03-31T14:12:50.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "There are more AI health tools than ever—but how well do they work?",
-        "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-03-30T16:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Thoughts on AI and Research [pdf]",
+        "url": "https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-04T05:14:02.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Billion dollar AI company was built on lies [video]",
         "url": "https://www.youtube.com/watch?v=0A2SP-QBByI",
@@ -313,18 +320,46 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-03-29T22:15:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "STADLER reshapes knowledge work at a 230-year-old company",
-        "url": "https://openai.com/index/stadler",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-03-27T22:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
+      {
+        "title": "Smallcap Stars: 10 stocks rally up to 72% despite 11% Nifty crash in March. Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-stars-10-stocks-rally-up-to-72-despite-11-nifty-crash-in-march-do-you-own-any/slideshow/130013994.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-04T05:39:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Global markets at an inflexion point: Q2 could reward patience over prediction",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-at-an-inflexion-point-q2-could-reward-patience-over-prediction/articleshow/130013139.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-04T04:40:54.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Concurrent Gainers: 9 smallcap stocks that rose for 5 days in a row",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-smallcap-stocks-that-rose-for-5-days-in-a-row/slideshow/130012990.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-04T04:19:57.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Nifty's rare 4-month losing streak just ended; history says a 40% rally could be next",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-rare-4-month-losing-streak-just-ended-history-says-a-40-rally-could-be-next/articleshow/130012841.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-04T04:17:22.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Wall Street Week Ahead: Inflation in focus for markets jostled by Middle East war signals",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-inflation-in-focus-for-markets-jostled-by-middle-east-war-signals/articleshow/130012703.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-04T03:55:56.000Z",
+        "category": "markets"
+      },
       {
         "title": "State pension age starts rising to 67 - here's how much you get and when",
         "url": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss",
@@ -394,44 +429,30 @@
         "source": "CNBC",
         "publishedAt": "2026-04-03T15:00:02.000Z",
         "category": "markets"
-      },
-      {
-        "title": "No jet fuel shortage for '4 to 6 weeks' - airline",
-        "url": "https://www.bbc.com/news/articles/c208ryxy23ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-03T14:59:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Wall Street snapped its 5-week losing streak. Here are 3 themes that caught our eye",
-        "url": "https://www.cnbc.com/2026/04/03/sp-500-snaps-its-5-week-losing-streak-here-are-3-themes-that-caught-our-eye.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-03T13:51:06.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
-        "url": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-03T13:35:34.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US jobs surge unexpectedly in March despite Iran war",
-        "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-03T13:35:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The cost to fly private is up as much as 20% with fuel prices soaring",
-        "url": "https://www.cnbc.com/2026/04/03/private-jet-travel-costs-rise-fuel-prices.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-03T13:00:01.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Selling by Bitcoin ‘whales’ blunts institutional demand",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/selling-by-bitcoin-whales-blunts-institutional-demand/articleshow/130014049.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-04T06:03:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Rethinking the role of AI in investing: What retail investors need in volatile markets",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/rethinking-the-role-of-ai-in-investing-what-retail-investors-need-in-volatile-markets/articleshow/130013054.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-04T04:36:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin ETFs 'will be larger' than gold ETFs: Analyst",
+        "url": "https://cointelegraph.com/news/bitcoin-gold-etfs-use-cases-analyst-james-seyffart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-04T03:35:01.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
         "url": "https://www.coindesk.com/tech/2026/03/31/what-does-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-mean",
@@ -515,31 +536,52 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-03T15:00:00.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Price predictions 4/3: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK",
-        "url": "https://cointelegraph.com/news/price-predictions-4-3-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-03T14:39:20.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Binance led Q1 crypto derivatives as Hyperliquid cracked top 10: CoinGlass",
-        "url": "https://cointelegraph.com/news/binance-derivatives-q1-hyperliquid-enters-top-10-coinglass?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-03T13:56:06.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ethereum L2s need responsive pricing to scale, says Offchain Labs",
-        "url": "https://cointelegraph.com/news/ethereum-l2s-responsive-pricing-scale-billions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-03T13:51:29.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "What’s behind Nomura’s call for later Fed rate cuts?",
+      "url": "https://www.investing.com/news/economy-news/whats-behind-nomuras-call-for-later-fed-rate-cuts-4597515",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-04T06:00:48.000Z"
+    },
+    {
+      "title": "Allies warn Trump’s military plan to open Hormuz is \"Mission Impossible\"",
+      "url": "https://www.investing.com/news/economy-news/allies-warn-trumps-military-plan-to-open-hormuz-is-mission-impossible-4597512",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-04T05:10:04.000Z"
+    },
+    {
+      "title": "U.S.-China ties stabilize as rare fugitive repatriation precedes Trump-Xi summit",
+      "url": "https://www.investing.com/news/economy-news/uschina-ties-stabilize-as-rare-fugitive-repatriation-precedes-trumpxi-summit-4597511",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-04T04:37:21.000Z"
+    },
+    {
+      "title": "The shadowy group claiming attacks around Europe",
+      "url": "https://www.ft.com/content/adc3e954-5928-471b-b7f2-e4385bbca540",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-04T04:00:42.000Z"
+    },
+    {
+      "title": "Japan cracks down on its wayward cyclists",
+      "url": "https://www.ft.com/content/6c33a7cf-9c25-4ad9-9526-50198074e3df",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-04T04:00:42.000Z"
+    },
+    {
+      "title": "Trump’s tales are still muddling markets",
+      "url": "https://www.ft.com/content/57f1c55a-7eab-4a3e-83d5-c8e228b7e99d",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-04T04:00:32.000Z"
+    },
+    {
+      "title": "Former CIA operative: regime change in Iran is much harder than the US thinks",
+      "url": "https://www.ft.com/content/2936458a-f5a1-4af2-aaf6-93b998a9cd12",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-04T04:00:22.000Z"
+    },
     {
       "title": "Vietnam’s Q1 growth cools as Middle East energy shock drives $3.6B trade deficit",
       "url": "https://www.investing.com/news/economy-news/vietnams-q1-growth-cools-as-middle-east-energy-shock-drives-36b-trade-deficit-4597510",
@@ -583,28 +625,10 @@
       "publishedAt": "2026-04-04T01:15:59.000Z"
     },
     {
-      "title": "Vietnam Growth Slows as Rising Energy Costs Feed Uncertainty",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-04/vietnam-growth-slows-as-rising-energy-costs-feed-uncertainty",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-04T01:03:33.000Z"
-    },
-    {
       "title": "U.S. Riyadh Embassy suffered \"extensive\" damage in Iranian drone strike - WSJ",
       "url": "https://www.investing.com/news/economy-news/us-riyadh-embassy-suffered-extensive-damage-in-iranian-drone-strike--wsj-4597487",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-04-04T00:46:46.000Z"
-    },
-    {
-      "title": "OpenAI chief operating officer takes on new role in shake-up",
-      "url": "https://www.ft.com/content/d82b6277-fdd3-4914-a500-2bb39f4a114b",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-03T22:13:27.000Z"
-    },
-    {
-      "title": "Trump directs Homeland Security to issue shutdown back-pay to all employees, White House says",
-      "url": "https://www.investing.com/news/economy-news/trump-directs-homeland-security-to-issue-shutdown-backpay-to-all-employees-white-house-says-4597428",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-03T22:12:45.000Z"
     },
     {
       "title": "How TBPN went from nerdy online talk show to splashy OpenAI acquisition",
@@ -635,30 +659,6 @@
       "url": "https://www.marketwatch.com/story/i-plan-to-take-out-a-mortgage-my-father-died-should-i-buy-the-family-home-from-my-mom-at-a-40-discount-b6a3ac7b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-04-03T20:19:00.000Z"
-    },
-    {
-      "title": "‘I’d like to be a superhost’: Is it unethical to use AI in my Airbnb photos to market my property?",
-      "url": "https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-03T20:18:00.000Z"
-    },
-    {
-      "title": "’We’re in war’: Trump says downing of U.S. jet won’t affect Iran talks",
-      "url": "https://www.investing.com/news/economy-news/trump-warns-of-strikes-on-iran-power-plants-bridges-in-new-post-4596855",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-03T20:00:20.000Z"
-    },
-    {
-      "title": "Buyers finally have leverage in the housing market. Here are 3 smart ways to use it.",
-      "url": "https://www.marketwatch.com/story/buyers-finally-have-leverage-in-the-housing-market-here-are-3-smart-ways-to-use-it-49abcfa3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-03T19:34:00.000Z"
-    },
-    {
-      "title": "In today’s job market, it’s more ‘show me a desk’ than ‘show me the money’",
-      "url": "https://www.marketwatch.com/story/in-todays-job-market-its-more-show-me-a-desk-than-show-me-the-money-3b66754e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-03T19:18:00.000Z"
     }
   ]
 }
