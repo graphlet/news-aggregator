@@ -1,121 +1,114 @@
 {
-  "lastUpdated": "2026-04-07T00:40:19.080Z",
+  "lastUpdated": "2026-04-07T04:00:48.986Z",
   "ai": {
     "developers": [
       {
-        "title": "Feynman: Open-source AI research agent",
-        "url": "https://www.feynman.is/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-07T00:28:52.000Z",
+        "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-03T23:52:49.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Knowledge Bases for AI/Human Sharing",
-        "url": "https://akuna.software/introduction",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-07T00:02:48.000Z",
+        "title": "New ways to balance cost and reliability in the Gemini API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-04-02T16:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "High AI judgment consistency does not mean high reasoning quality (preprint)",
-        "url": "https://zenodo.org/records/19446064",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T23:59:06.000Z",
+        "title": "Codex now offers more flexible pricing for teams",
+        "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-02T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "OpenAI's vision for the AI economy: public wealth funds, robot taxes, and more",
-        "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T23:55:34.000Z",
+        "title": "AI benchmarks are broken. Here’s what we need instead.",
+        "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-03-31T12:01:08.000Z",
         "category": "developers"
       },
       {
-        "title": "I use Pollinations as a lightweight LLM back end (faster than Hugging Face)",
-        "url": "https://pollinations.ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T23:49:23.000Z",
+        "title": "Agentic commerce runs on truth and context",
+        "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-03-25T11:48:13.000Z",
         "category": "developers"
       },
       {
-        "title": "AI-Displaced Workers Could Face Long Setbacks, Report Finds",
-        "url": "https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T23:37:28.000Z",
+        "title": "Helping developers build safer AI experiences for teens",
+        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-24T11:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Open-source sandboxes to run AI code, browser agents and computer-use",
-        "url": "https://github.com/CelestoAI/smolVM",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T23:29:23.000Z",
+        "title": "How we monitor internal coding agents for misalignment",
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-19T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
-        "url": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T23:16:27.000Z",
+        "title": "Our latest investment in open source security for the AI era",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-03-17T16:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "The AI University",
-        "url": "https://maestro.org/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T23:04:50.000Z",
+        "title": "Introducing GPT-5.4 mini and nano",
+        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-17T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Zopaf – A negotiation math engine as an MCP server (zero LLM tokens)",
-        "url": "https://zopaf-mcp-production.up.railway.app/mcp",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T22:42:36.000Z",
+        "title": "Why Codex Security Doesn’t Include a SAST Report",
+        "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-16T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Graphify: An AI skill for turning any folder into a queryable knowledge graph",
-        "url": "https://github.com/safishamsi/graphify",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T22:29:12.000Z",
+        "title": "Rakuten fixes issues twice as fast with Codex",
+        "url": "https://openai.com/index/rakuten",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-11T13:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: ACP – Governance for AI Coding Agents (Claude Code, OpenClaw)",
-        "url": "https://agenticcontrolplane.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T22:22:56.000Z",
+        "title": "From model to agent: Equipping the Responses API with a computer environment",
+        "url": "https://openai.com/index/equip-responses-api-computer-environment",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-11T11:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Reddit is the #1 most cited source across every major AI search platform",
-        "url": "https://virtualuncle.com/answer-engine-optimization-aeo-guide-2026/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T22:11:19.000Z",
+        "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-03-06T18:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Next Moca – control plane for AI agents (pre-seed @ $10M)",
-        "url": "https://www.nextmoca.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T22:02:21.000Z",
+        "title": "Codex Security: now in research preview",
+        "url": "https://openai.com/index/codex-security-now-in-research-preview",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-06T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-        "url": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T21:57:54.000Z",
+        "title": "Introducing GPT-5.4",
+        "url": "https://openai.com/index/introducing-gpt-5-4",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-05T10:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
-      {
-        "title": "Relation between Layoffs and AI tools subscriptions",
-        "url": "https://www.reddit.com/r/Layoffs/s/QlUYUyjWuP",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T21:11:38.000Z",
-        "category": "everyone"
-      },
       {
         "title": "The one piece of data that could actually shed light on your job and AI",
         "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
@@ -213,16 +206,16 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-03-26T16:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-03-26T15:21:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
-      {
-        "title": "Neuro-symbolic AI breakthrough cuts energy use by 100x while boosting accuracy",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-06T23:21:24.000Z",
-        "category": "advancements"
-      },
       {
         "title": "Announcing the OpenAI Safety Fellowship",
         "url": "https://openai.com/index/introducing-openai-safety-fellowship",
@@ -320,118 +313,146 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-03-26T17:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "Search Live is expanding globally",
+        "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-03-26T15:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "10-year benchmark sovereign bond yield falls 9 bps",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/10-year-benchmark-sovereign-bond-yield-falls-9-bps/articleshow/130073351.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-07T00:22:24.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Broadcom agrees to expanded chip deals with Google, Anthropic",
-        "url": "https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html",
+        "title": "Samsung shares rise after profit seen jumping 8-fold on AI chip boom",
+        "url": "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-07T00:22:09.000Z",
+        "publishedAt": "2026-04-07T03:58:28.000Z",
         "category": "markets"
       },
       {
-        "title": "Rupee sees marginal rise at 93.06 on dollar demand",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sees-marginal-rise-at-93-06-on-dollar-demand/articleshow/130073333.cms",
+        "title": "Crude above $100: The danger zone for Indian stocks and why the next 2 weeks are critical",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/crude-above-100-the-danger-zone-for-indian-stocks-and-why-the-next-2-weeks-are-critical/articleshow/130062201.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-07T00:17:52.000Z",
+        "publishedAt": "2026-04-07T03:30:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Asia-Pacific markets open higher as investors assess Trump's mixed messaging on Iran war",
+        "title": "Don't buy the bounce — Deepak Shenoy says wait for earnings commentary before calling the all-clear",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/dont-buy-the-bounce-deepak-shenoy-says-wait-for-earnings-commentary-before-calling-the-all-clear/articleshow/130060664.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-07T03:30:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Long-term patience along with discipline, not ‘multi-bagger hunting’, builds real wealth: Somil Mehta",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/long-term-patience-along-with-discipline-not-multi-bagger-hunting-builds-real-wealth-somil-mehta/articleshow/130059336.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-07T03:30:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "ETMarkets Smart Talk | Financials, IT turn attractive; microfinance seen as turnaround bet: Niraj Kumar",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-financials-it-turn-attractive-microfinance-seen-as-turnaround-bet-niraj-kumar/articleshow/130059162.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-07T03:30:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Godrej Consumer shares in focus after double-digit Q4 sales growth; flags cost pressures from Iran war",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/godrej-consumer-shares-in-focus-after-double-digit-q4-sales-growth-flags-cost-pressures-from-iran-war/articleshow/130075120.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-07T03:23:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "L&amp;T Finance among 8 stocks flashing bullish signals, hinting at a possible uptrend",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/lt-finance-among-8-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/130075082.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-07T03:15:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oil prices extend gains as Trump reaffirms Tuesday deadline for bombarding Iran's power plants, bridges",
+        "url": "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-07T03:13:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trent, RBL Bank among 8 stocks showing bullish RSI upswing",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/trent-rbl-bank-among-8-stocks-showing-bullish-rsi-upswing/slideshow/130074965.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-07T03:06:44.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Asia-Pacific markets trade mixed as investors assess Trump's hardened rhetoric on Iran war",
         "url": "https://www.cnbc.com/2026/04/07/asia-pacific-markets-toda-kospi-nikkei225-nifty50.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-07T00:14:18.000Z",
+        "publishedAt": "2026-04-07T02:53:27.000Z",
         "category": "markets"
       },
       {
-        "title": "Nifty aggregate profit to fall in Q4 but expect a better FY27",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-aggregate-profit-to-fall-in-q4-but-expect-a-better-fy27/articleshow/130073298.cms",
+        "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ trading activity report",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-today-live-07-apr-2026/liveblog/130074390.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-07T00:11:37.000Z",
+        "publishedAt": "2026-04-07T02:37:20.000Z",
         "category": "markets"
       },
       {
-        "title": "Jewellery stocks rise on talk of cut in base import price",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jewellery-stocks-rise-on-talk-of-cut-in-base-import-price/articleshow/130073292.cms",
+        "title": "HUL Share Price Live Updates: HUL's trading volume update",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-today-live-07-apr-2026/liveblog/130074383.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-07T00:07:30.000Z",
+        "publishedAt": "2026-04-07T02:36:37.000Z",
         "category": "markets"
       },
       {
-        "title": "D-Street grasps at ceasefire straw, rebounds 1% from early losses",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-grasps-at-ceasefire-straw-rebounds-1-from-early-losses/articleshow/130073270.cms",
+        "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Trading Volume Overview",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-today-live-updates-07-apr-2026/liveblog/130074380.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-07T00:02:34.000Z",
+        "publishedAt": "2026-04-07T02:36:24.000Z",
         "category": "markets"
       },
       {
-        "title": "Independent directors key to fixing governance gaps: Pandey",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/independent-directors-key-to-fixing-governance-gaps-pandey/articleshow/130073245.cms",
+        "title": "ITC Share Price Live Updates: ITC experiences notable trading volume",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-share-price-today-live-updates-07-apr-2026/liveblog/130074371.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-06T23:58:57.000Z",
+        "publishedAt": "2026-04-07T02:36:10.000Z",
         "category": "markets"
       },
       {
-        "title": "New Jersey cannot regulate Kalshi's prediction market, U.S. appeals court rules",
-        "url": "https://www.cnbc.com/2026/04/07/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-06T23:41:47.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
-        "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-06T23:34:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "S&P 500 futures are little changed as Trump’s deadline to reopen Strait of Hormuz nears: Live updates",
-        "url": "https://www.cnbc.com/2026/04/06/stock-market-today-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-06T23:24:33.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Businesses scramble to get noticed by AI search",
-        "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-06T23:20:52.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "CNBC's The China Connection newsletter: Why AI isn't replacing jobs in China (yet)",
-        "url": "https://www.cnbc.com/2026/04/07/ai-jobs-layoffs-us-china-engineers-hiring.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-06T23:02:23.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jim Cramer says potential stock market bottom is tied to interest rates, not war headlines",
-        "url": "https://www.cnbc.com/2026/04/06/jim-cramer-stock-market-bottom-interest-rates-war.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-06T22:25:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Epstein files: Commerce Secretary Howard Lutnick set for May 6 interview by House Oversight",
-        "url": "https://www.cnbc.com/2026/04/06/jeffrey-epstein-howard-lutnick-house-oversight-interview.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-06T21:22:58.000Z",
+        "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Market Activity",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-07-apr-2026/liveblog/130074370.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-07T02:36:04.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "SEC close to putting out 'reg crypto' for fundraising questions, Chair Atkins says",
+        "url": "https://www.coindesk.com/policy/2026/04/07/sec-close-to-putting-out-reg-crypto-for-fundraising-questions-chair-atkins-says",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-07T03:59:07.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin drops toward $68,000 as demand weakens and whales sell",
+        "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-drops-toward-usd68-000-as-demand-weakens-and-whales-sell",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-07T03:57:29.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Chaos Labs taps out as Aave's risk provider, decision ‘not made in haste’",
+        "url": "https://cointelegraph.com/news/defi-risk-manager-chaos-labs-leaves-aave-says-decision-not-made-haste?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-07T02:04:45.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -482,13 +503,6 @@
         "category": "crypto"
       },
       {
-        "title": "US Fed's Austan Goolsbee, Beth Hammack say inflation is flashing 'orange' or worse",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-austan-goolsbee-beth-hammack-say-inflation-is-flashing-orange-or-worse/articleshow/130067610.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-06T17:27:55.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "US Senate Banking panel member confirms April timeline for crypto market structure",
         "url": "https://cointelegraph.com/news/us-senator-bill-hagerty-timeline-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -522,24 +536,82 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-06T16:03:28.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "OpenAI CEO urges U.S. to prepare for AI ‘superintelligence’ risks and gains",
-        "url": "https://www.coindesk.com/tech/2026/04/06/openai-ceo-urges-u-s-to-prepare-for-ai-superintelligence-risks-and-gains",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-06T15:47:44.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Jamie Dimon says JPMorgan must move faster as tokenization reshapes finance",
-        "url": "https://www.coindesk.com/markets/2026/04/06/jamie-dimon-says-jpmorgan-must-move-faster-as-tokenization-reshapes-finance",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-06T15:41:24.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "\"Slim Hope For Resolution\" Before Trump's Iran Deadline",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/-slim-hope-for-resolution-before-trump-s-iran-deadline-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T03:56:33.000Z"
+    },
+    {
+      "title": "How Iran War Could Reshape US Alliances in Asia",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/how-iran-war-could-reshape-us-alliances-in-asia-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T03:47:28.000Z"
+    },
+    {
+      "title": "Japan 30-Year Bond Sale Sees Weaker Demand Than 12-Month Average",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/japan-30-year-bond-sale-sees-weaker-demand-than-12-month-average",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T03:40:55.000Z"
+    },
+    {
+      "title": "Iran Amplifies LNG Shortage by Blocking Passages Through Hormuz",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/iran-amplifies-lng-shortage-by-blocking-passages-through-hormuz",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T03:40:46.000Z"
+    },
+    {
+      "title": "Goldman Warns on Copper as Iran War Threatens Global Economy",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/goldman-warns-on-copper-as-iran-war-threatens-global-economy",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T03:29:48.000Z"
+    },
+    {
+      "title": "Taiwan Pivots to Coal Power as War Disrupts Global LNG Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/taiwan-pivots-to-coal-power-as-war-disrupts-global-lng-market",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T02:51:40.000Z"
+    },
+    {
+      "title": "India’s Stock Rout Creates Openings for Bargain Hunters",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-07/steep-nifty-correction-opens-up-value-buying-opportunities-in-many-india-sectors",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T02:46:18.000Z"
+    },
+    {
+      "title": "Homin Lee on Investment Scenarios Amid Hormuz Closure",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/homin-lee-on-investment-scenarios-amid-hormuz-closure-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T01:56:14.000Z"
+    },
+    {
+      "title": "China’s Coal Giants Bet on Chemicals as War Curbs Oil Supplies",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/china-s-coal-giants-bet-on-chemicals-as-war-curbs-oil-supplies",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T01:30:34.000Z"
+    },
+    {
+      "title": "Oil Shock Sends Philippine Inflation Surging to 20-Month High",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/oil-shock-sends-philippine-inflation-surging-to-20-month-high",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T01:04:31.000Z"
+    },
+    {
+      "title": "Anthropic in chips deals with Google and Broadcom worth hundreds of billions",
+      "url": "https://www.ft.com/content/28757ce7-0d9f-4ffb-bb91-16dc83f2cf6a",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-07T00:46:58.000Z"
+    },
+    {
+      "title": "CFR's Ewers: US and Iran Far From a Deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/cfr-s-ewers-us-and-iran-far-from-a-deal-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-07T00:43:42.000Z"
+    },
     {
       "title": "Trump Threatens Destruction in Iran, Demands Hormuz Open",
       "url": "https://www.bloomberg.com/news/videos/2026-04-07/trump-threatens-destruction-in-iran-demands-hormuz-open-video",
@@ -571,7 +643,7 @@
       "publishedAt": "2026-04-06T23:00:00.000Z"
     },
     {
-      "title": "Stocks, Oil Whipsaw With Iran Deadline in Focus: Markets Wrap",
+      "title": "Oil Up, S&amp;P 500 Futures Drop Before Iran Deadline: Markets Wrap",
       "url": "https://www.bloomberg.com/news/articles/2026-04-06/stock-market-today-dow-s-p-live-updates",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-04-06T22:36:30.000Z"
@@ -587,78 +659,6 @@
       "url": "https://www.ft.com/content/35346eaf-0869-4706-8ebb-2d171e15266f",
       "source": "Financial Times",
       "publishedAt": "2026-04-06T22:30:58.000Z"
-    },
-    {
-      "title": "Gold Steadies as Traders Weigh Trump’s Deadline to Strike Iran",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/gold-steadies-as-traders-weigh-trump-s-deadline-to-strike-iran",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-06T22:22:01.000Z"
-    },
-    {
-      "title": "Amazon, USPS strike a deal — showing they still need each other despite threats of big delivery cuts",
-      "url": "https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-06T22:22:00.000Z"
-    },
-    {
-      "title": "Oil Steadies as Trump’s Iran Threats Escalate Before Deadline",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/latest-oil-market-news-and-analysis-for-april-7",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-06T22:07:26.000Z"
-    },
-    {
-      "title": "Here’s the somewhat surprising stock that will soon join the S&P 500",
-      "url": "https://www.marketwatch.com/story/an-s-p-500-change-may-be-imminent-these-stocks-are-leading-contenders-to-join-the-index-497eb076?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-06T22:02:00.000Z"
-    },
-    {
-      "title": "Middle East war means ’all roads’ lead to higher prices, slower growth, IMF chief says",
-      "url": "https://www.investing.com/news/economy-news/war-in-middle-east-will-lead-to-slower-growth-higher-inflation-imf-chief-tells-reuters-4599020",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-06T22:00:30.000Z"
-    },
-    {
-      "title": "As stocks approach a true comeback, here’s where investors can find the richest opportunities",
-      "url": "https://www.marketwatch.com/story/as-stocks-approach-a-true-comeback-heres-where-investors-can-find-the-richest-opportunities-71bbc2cf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-06T22:00:00.000Z"
-    },
-    {
-      "title": "One-Dyas Expands Gas Output in Protected North Sea Marine Zone",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/one-dyas-expands-gas-output-in-protected-north-sea-marine-zone",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-06T22:00:00.000Z"
-    },
-    {
-      "title": "Two Sigma Profits From Chaotic March, Beating Multistrat Peers",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/two-sigma-profits-from-chaotic-march-beating-multistrat-peers",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-06T21:57:50.000Z"
-    },
-    {
-      "title": "A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran",
-      "url": "https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-06T21:48:00.000Z"
-    },
-    {
-      "title": "Phillips 66 Sees Nearly $1 Billion in Losses as Oil Prices Surge",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/phillips-66-sees-nearly-1-billion-in-losses-as-oil-prices-surge",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-06T21:36:56.000Z"
-    },
-    {
-      "title": "Goldman Says It’s Ready to Pounce as Retail Flees Private Credit",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/goldman-says-it-s-ready-to-pounce-as-retail-flees-private-credit",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-06T21:34:49.000Z"
-    },
-    {
-      "title": "2026 is World’s Largest Sports Year: Paul Caine",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-06/2026-is-world-s-largest-sports-year-paul-caine-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-06T21:31:26.000Z"
     }
   ]
 }
