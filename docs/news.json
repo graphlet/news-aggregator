@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-04-11T06:28:23.138Z",
+  "lastUpdated": "2026-04-11T09:18:35.386Z",
   "ai": {
     "developers": [
+      {
+        "title": "I built a skill manager for AI agents. The agents install the skills themselves",
+        "url": "https://github.com/nattergabriel/reseed",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T08:21:01.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "My AI workflow evolved from prompts to a near-autonomous workflow",
+        "url": "https://news.ycombinator.com/item?id=47728487",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T07:57:51.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "MLSharp Single-View High-Quality AI Reconstruction Pipeline",
+        "url": "https://suto.bex.jp/mac/mlsharp/index.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T07:26:46.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI is the boss at this retail store. What could go wrong?",
+        "url": "https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T07:24:36.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "IPFS Bot AI Agent Content",
+        "url": "https://ipfs.bot/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T07:23:24.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "I put my cognitive field based AI's runtime on GitHub",
+        "url": "https://github.com/AuraCoreCF/AuraCoreCF.github.io/tree/main/AuraRuntime",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T07:04:31.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Is Numble the first AI-proof game?",
+        "url": "https://medium.com/@shauntrennery/is-numble-the-first-ai-proof-game-b0de302d2ed0",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T06:50:16.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Ramp Up AI Skills",
+        "url": "https://soundcloud.com/robenfarzad/deepali-vyas-the-elite",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T06:41:52.000Z",
+        "category": "developers"
+      },
       {
         "title": "Hindsight – A design spec for self-improving LLM agents",
         "url": "https://github.com/anitiue/Hindsight",
@@ -50,65 +106,16 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-11T02:40:10.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Show HN: Collabmem – a memory system for long-term collaboration with AI",
-        "url": "https://github.com/visionscaper/collabmem",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-11T01:02:17.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "We gave an AI a 3-year Lease. It opened a store",
-        "url": "https://andonlabs.com/blog/andon-market-launch",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-11T01:01:31.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Open Source LLM Comparison – Is Opus Cooked?",
-        "url": "https://paradise-runner.github.io/frontier-comparison/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-11T00:47:07.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
-        "url": "https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-11T00:44:12.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Maki – the efficient coder (AI agent)",
-        "url": "https://maki.sh/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-10T23:35:02.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Offline AI dev assistant (no API, runs locally)",
-        "url": "https://store.steampowered.com/app/4111530/FriedrichAI_Offline_AI_Dev_Assistant/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-10T23:25:55.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Hit Claude usage limits? Resume your AI coding session elsewhere",
-        "url": "https://github.com/inevolin/resume-cli",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-10T23:21:08.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The history and future of AI at Google, with Sundar Pichai",
-        "url": "https://cheekypint.substack.com/p/the-history-and-future-of-ai-at-google",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-10T23:13:23.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Show HN: RelayFreeLLM — Free AI Gateway with Auto-Failover (Updates)",
+        "url": "https://github.com/msmarkgu/RelayFreeLLM",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T06:33:26.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Show HN: Palmier – Dispatch and schedule AI agents from your phone",
         "url": "https://www.palmier.me",
@@ -206,16 +213,30 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "ChatGPT for sales teams",
-        "url": "https://openai.com/academy/sales",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Gen Z workers who fear AI will take their job actively sabotaging its rollout",
+        "url": "https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T09:10:05.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "How AI Is Reimagining the Game of Golf–For Both Players and Courses",
+        "url": "https://www.wsj.com/sports/golf/ai-in-golf-technology-impact-4122d0e1",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T08:50:53.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "A3: Kubernetes for autonomous AI agent fleets",
+        "url": "https://www.leonidasr.com/posts/a3-kubernetes-for-autonomous-ai-agent-fleets/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-11T06:41:57.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Unleashing the Advantage of Quantum AI",
         "url": "https://quantumfrontiers.com/2026/04/09/unleashing-the-advantage-of-quantum-ai/",
@@ -299,32 +320,74 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Healthcare",
-        "url": "https://openai.com/academy/healthcare",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Using skills",
-        "url": "https://openai.com/academy/skills",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-        "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-09T00:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
+      {
+        "title": "OpenAI identifies security issue involving third-party tool, says user data was not accessed",
+        "url": "https://www.cnbc.com/2026/04/11/openai-identifies-security-issue-involving-third-party-tool.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-11T08:18:18.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "U.S.-Iran talks set to begin in Pakistani capital after delegations arrive",
+        "url": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-11T07:49:26.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Nifty holds 24,000; 23,700 key support as Akshay Bhagwat bets on Power Grid, Adani Ports",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/nifty-holds-24000-23700-key-support-as-akshay-bhagwat-bets-on-power-grid-adani-ports/articleshow/130186908.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-11T07:33:20.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "UltraTech Cement, HPCL among 5 stocks Emkay adds to model portfolio; upside seen at 118%",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ultratech-cement-hpcl-among-5-stocks-emkay-adds-to-model-portfolio-upside-seen-at-118/slideshow/130186856.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-11T07:27:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "This time it’s different? Why your brain betrays you in a market crash",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/this-time-its-different-why-your-brain-betrays-you-in-a-market-crash/articleshow/130186709.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-11T07:19:36.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Execution, order inflows to drive L&amp;T growth; BEL rides defence push: Siddhartha Khemka",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/execution-order-inflows-to-drive-lt-growth-bel-rides-defence-push-siddhartha-khemka/articleshow/130186637.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-11T07:15:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Unique Picks: 8 stocks held by a single MF scheme in March; fall up to 35% in CY26",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-8-stocks-held-by-a-single-mf-scheme-in-march-fall-up-to-35-in-cy26/slideshow/130186581.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-11T06:55:05.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Defence stocks set for mixed Q4; Nuvama bets on BEL, Solar Industries, and a smallcap pick",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-set-for-mixed-q4-nuvama-bets-on-bel-solar-industries-and-a-smallcap-pick/articleshow/130186050.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-11T06:53:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "725X jump: Sebi bans 39 entities for alleged stock price manipulation in interim order",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/725x-jump-sebi-bans-39-entities-for-alleged-stock-price-manipulation-in-interim-order/articleshow/130185978.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-11T06:28:55.000Z",
+        "category": "markets"
+      },
       {
         "title": "From complexity to clarity: How AI is transforming insurance for customers",
         "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-complexity-to-clarity-how-ai-is-transforming-insurance-for-customers/articleshow/130185935.cms",
@@ -366,72 +429,16 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-04-11T04:38:25.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Global funds flee Indian stocks at record pace on growth fears",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-funds-flee-indian-stocks-at-record-pace-on-growth-fears/articleshow/130184531.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-11T04:36:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Regulator bars 39 entities for alleged manipulation of RRP Semicon share price",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/regulator-bars-39-entities-for-alleged-manipulation-of-rrp-semicon-share-price/articleshow/130184461.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-11T04:30:20.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Guardrails for MFIs need to continue",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/guardrails-for-mfis-need-to-continue/articleshow/130184371.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-11T04:22:26.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Meet broad-based rules while serving AIFs, Sebi clarifies",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/meet-broad-based-rules-while-serving-aifs-sebi-clarifies/articleshow/130184324.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-11T04:19:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "D-Street goes green after streak of red",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-goes-green-after-streak-of-red/articleshow/130184153.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-11T04:07:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
-        "url": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-11T02:02:56.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump's 250-foot 'triumphal arch' would loom over Potomac, new renderings show",
-        "url": "https://www.cnbc.com/2026/04/10/trump-arch-renderings-arlington.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-11T01:41:53.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rep. Eric Swalwell denies sexual assault allegations, allies yank support for his California governor run",
-        "url": "https://www.cnbc.com/2026/04/10/eric-swalwell-denies-assault-allegations-governor-race.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-11T01:38:33.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Artemis II astronauts hurtle home from moon toward splashdown",
-        "url": "https://www.cnbc.com/2026/04/10/nasa-artemis-ii-astronauts-splashdown-orion-integrity.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-11T00:35:35.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Federal court blocks Arizona crackdown on Kalshi’s event contracts",
+        "url": "https://cointelegraph.com/news/arizona-court-kalshi-gambling-enforcement-block?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-11T07:07:37.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Bitwise edges closer to Hyperliquid ETF launch with second amended filing",
         "url": "https://cointelegraph.com/news/bitwise-edges-closes-to-hyperliquid-etf-launch-with-second-amended-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -529,17 +536,58 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-10T16:10:54.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Star Xu calls CZ a ‘liar’ as founders of world’s largest crypto exchanges argue over past allegations",
-        "url": "https://www.coindesk.com/business/2026/04/10/star-xu-calls-cz-a-liar-as-founders-of-world-s-largest-crypto-exchanges-argue-over-past-allegations",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-10T15:38:47.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Djibouti president wins election with 97.8% of vote, state media says",
+      "url": "https://www.investing.com/news/economy-news/djibouti-president-wins-election-with-978-of-vote-state-media-says-4608975",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-11T08:30:35.000Z"
+    },
+    {
+      "title": "Europe Energy Traders Brace for 21-Hour Day as Volatility Surges",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-11/europe-energy-traders-brace-for-21-hour-day-as-volatility-surges",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-11T08:30:00.000Z"
+    },
+    {
+      "title": "Peace talks present big test on global stage for JD Vance",
+      "url": "https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-11T08:14:27.000Z"
+    },
+    {
+      "title": "The Big Macro Force That's Been Driving Stocks Higher for Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-11/new-fed-research-on-stock-market-valuations",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-11T08:00:04.000Z"
+    },
+    {
+      "title": "Odd Lots: The Big Macro Force That’s Kept Stocks High (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-04-11/odd-lots-the-big-macro-force-that-s-kept-stocks-high-podcast",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-11T08:00:00.000Z"
+    },
+    {
+      "title": "Mystery surrounds Iran’s new Supreme Leader as \"disfiguring\" injuries confirmed",
+      "url": "https://www.investing.com/news/economy-news/mystery-surrounds-irans-new-supreme-leader-as-disfiguring-injuries-confirmed-4608970",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-11T07:24:37.000Z"
+    },
+    {
+      "title": "AI Job-pocalypse: 5 million jobs at risk in new automated era",
+      "url": "https://www.investing.com/news/economy-news/ai-jobpocalypse-5-million-jobs-at-risk-in-new-automated-era-4608969",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-11T06:42:43.000Z"
+    },
+    {
+      "title": "JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran",
+      "url": "https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-11T06:32:51.000Z"
+    },
     {
       "title": "Japan approves additional $4 billion for chipmaker Rapidus",
       "url": "https://www.investing.com/news/economy-news/japan-approves-additional-4-billion-for-chipmaker-rapidus-4608966",
@@ -571,6 +619,12 @@
       "publishedAt": "2026-04-11T04:02:23.000Z"
     },
     {
+      "title": "The damage wrought on the Middle East’s oil and gas supplies",
+      "url": "https://www.ft.com/content/f7e61ecd-59cb-4be0-92c4-94198e60ba76",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-11T04:00:50.000Z"
+    },
+    {
       "title": "Only two events have mattered in my 30 years of investing",
       "url": "https://www.ft.com/content/2b6a532b-236f-472b-b386-cc7d30f8453c",
       "source": "Financial Times",
@@ -583,6 +637,18 @@
       "publishedAt": "2026-04-11T04:00:41.000Z"
     },
     {
+      "title": "Anthropic closes in on OpenAI as US business use surges",
+      "url": "https://www.ft.com/content/abb93a6f-9060-4095-8045-84b97d394a4c",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-11T04:00:32.000Z"
+    },
+    {
+      "title": "Dubai, eternal city",
+      "url": "https://www.ft.com/content/c9029475-b7cc-419c-823b-4caf78247ecf",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-11T04:00:21.000Z"
+    },
+    {
       "title": "‘Fortress China’ shows cracks as Iran war strains supply chains",
       "url": "https://www.ft.com/content/f201105e-cb6c-49ca-9c40-26eb52b41607",
       "source": "Financial Times",
@@ -593,72 +659,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-04-11/global-funds-flee-indian-stocks-at-record-pace-on-growth-fears",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-04-11T03:13:05.000Z"
-    },
-    {
-      "title": "IOI Properties Files REIT Listing That May Raise $500 Million",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-11/ioi-properties-files-reit-listing-that-may-raise-500-million",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-11T02:57:27.000Z"
-    },
-    {
-      "title": "Kalshi secures temporary halt to Arizona criminal case after CFTC intervention",
-      "url": "https://www.investing.com/news/economy-news/kalshi-secures-temporary-halt-to-arizona-criminal-case-after-cftc-intervention-4608955",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-11T02:46:01.000Z"
-    },
-    {
-      "title": "Can the MATCH Act trap China’s semiconductor ambitions?",
-      "url": "https://www.investing.com/news/economy-news/can-the-match-act-trap-chinas-semiconductor-ambitions-4608952",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-11T01:55:25.000Z"
-    },
-    {
-      "title": "Kalshi Wins Reprieve From Arizona Criminal Case at CFTC’s Urging",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-11/kalshi-wins-reprieve-from-arizona-criminal-case-at-cftc-s-urging",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-11T01:35:39.000Z"
-    },
-    {
-      "title": "Middle East war to cut growth, deliver cascading impact, World Bank chief says",
-      "url": "https://www.investing.com/news/economy-news/middle-east-war-to-cut-growth-deliver-cascading-impact-world-bank-chief-says-4608412",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-11T01:24:26.000Z"
-    },
-    {
-      "title": "Reid Wiseman, the astronaut hailing a new ‘golden age’ in space",
-      "url": "https://www.ft.com/content/2b948cc0-e744-4209-a90b-fcc4577c6029",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-11T01:20:12.000Z"
-    },
-    {
-      "title": "US Intelligence: Iran retains \"thousands\" of missiles after air campaign, says WSJ",
-      "url": "https://www.investing.com/news/economy-news/us-intelligence-iran-retains-thousands-of-missiles-after-air-campaign-4608893",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-11T01:00:57.000Z"
-    },
-    {
-      "title": "Lost mines in Strait of Hormuz block \"safe reopening\" ceasefire terms - NY Times",
-      "url": "https://www.investing.com/news/economy-news/lost-mines-in-strait-of-hormuz-block-full-safe-reopening-ceasefire-terms-4608938",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-11T00:57:16.000Z"
-    },
-    {
-      "title": "‘I am at a crossroads’: I’m 37 and have $1.3 million. Do I stop working to spend time with my young kids?",
-      "url": "https://www.marketwatch.com/story/i-am-at-a-crossroads-im-37-and-have-1-3-million-do-i-stop-working-to-spend-time-with-my-young-kids-fb2f1b20?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-11T00:32:00.000Z"
-    },
-    {
-      "title": "Historic Nasa Moon mission returns safely to Earth",
-      "url": "https://www.ft.com/content/8f92c5ae-49af-4a63-a5e6-66a571ea990c",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-11T00:27:02.000Z"
-    },
-    {
-      "title": "Fed probes bank ties to $1.8T private credit market as redemptions jump",
-      "url": "https://www.investing.com/news/economy-news/fed-probes-bank-ties-to-18t-private-credit-market-as-redemptions-jump-4608932",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-11T00:01:39.000Z"
     }
   ]
 }
