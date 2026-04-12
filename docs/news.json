@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T06:38:04.100Z",
+  "lastUpdated": "2026-04-12T09:20:56.863Z",
   "ai": {
     "developers": [
       {
@@ -159,15 +159,22 @@
         "category": "everyone"
       },
       {
-        "title": "Getting started with ChatGPT",
-        "url": "https://openai.com/academy/getting-started",
+        "title": "Using projects in ChatGPT",
+        "url": "https://openai.com/academy/projects",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "everyone"
       },
       {
-        "title": "Brainstorming with ChatGPT",
-        "url": "https://openai.com/academy/brainstorming",
+        "title": "ChatGPT for marketing teams",
+        "url": "https://openai.com/academy/marketing",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Analyzing data with ChatGPT",
+        "url": "https://openai.com/academy/data-analysis",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "everyone"
@@ -175,6 +182,13 @@
       {
         "title": "Writing with ChatGPT",
         "url": "https://openai.com/academy/writing",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "ChatGPT for operations teams",
+        "url": "https://openai.com/academy/operations",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "everyone"
@@ -194,28 +208,28 @@
         "category": "everyone"
       },
       {
-        "title": "Using projects in ChatGPT",
-        "url": "https://openai.com/academy/projects",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "ChatGPT for finance teams",
-        "url": "https://openai.com/academy/finance",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Applications of AI at OpenAI",
-        "url": "https://openai.com/academy/applications-of-ai",
+        "title": "Getting started with ChatGPT",
+        "url": "https://openai.com/academy/getting-started",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Using custom GPTs",
+        "url": "https://openai.com/academy/custom-gpts",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Using skills",
+        "url": "https://openai.com/academy/skills",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "category": "advancements"
+      },
       {
         "title": "ChatGPT for research",
         "url": "https://openai.com/academy/research",
@@ -245,6 +259,13 @@
         "category": "advancements"
       },
       {
+        "title": "Healthcare",
+        "url": "https://openai.com/academy/healthcare",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "category": "advancements"
+      },
+      {
         "title": "AI fundamentals",
         "url": "https://openai.com/academy/what-is-ai",
         "source": "OpenAI Blog",
@@ -254,27 +275,6 @@
       {
         "title": "Financial services",
         "url": "https://openai.com/academy/financial-services",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Using skills",
-        "url": "https://openai.com/academy/skills",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Using custom GPTs",
-        "url": "https://openai.com/academy/custom-gpts",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Healthcare",
-        "url": "https://openai.com/academy/healthcare",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "advancements"
@@ -326,6 +326,69 @@
   "finance": {
     "markets": [
       {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/130205041.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-12T08:56:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Vance heads back to the U.S. without striking a deal with Iran to bring an end to the war",
+        "url": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-12T08:27:10.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Market Trading Guide: Buy SBI and Bajaj Consumer on Monday for gains up to 6%",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-sbi-and-bajaj-consumer-on-monday-for-gains-up-to-6/articleshow/130204493.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-12T07:53:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "A panicked race for barrels grips global oil market, price up as much as $140",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/a-panicked-race-for-barrels-grips-global-oil-market-price-up-as-much-as-140/articleshow/130204411.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-12T07:47:09.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Mcap of 8 of top-10 most valued firms jumps Rs 4.13 lakh cr; HDFC, ICICI Bank top gainers",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-most-valued-firms-jumps-rs-4-13-lakh-cr-hdfc-icici-bank-top-gainers/articleshow/130204324.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-12T07:37:22.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "FIIs sell Indian equities worth Rs 1.6 lakh cr since outbreak of Iran-US war. Where are they going and when will they come back?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-equities-worth-rs-1-6-lakh-cr-since-outbreak-of-iran-us-war-where-are-they-going-and-when-will-they-come-back/articleshow/130204206.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-12T07:29:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Hungarians vote in landmark election closely watched by EU, Russia, U.S.",
+        "url": "https://www.cnbc.com/2026/04/12/hungarians-vote-in-closely-watched-landmark-election-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-12T07:09:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "7 Nifty 500 stocks with up to 60% upside potential. Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/7-nifty-500-stocks-with-up-to-60-upside-potential-do-you-own-any/slideshow/130203843.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-12T06:38:49.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "British Steel 'needs nationalising by the summer'",
+        "url": "https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-04-12T06:25:11.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Value in Volatility: Why smart money hunts ‘gaps’ in uncertain markets",
         "url": "https://economictimes.indiatimes.com/markets/stocks/news/value-in-volatility-why-smart-money-hunts-gaps-in-uncertain-markets/articleshow/130203467.cms",
         "source": "Economic Times – Markets",
@@ -347,7 +410,7 @@
         "category": "markets"
       },
       {
-        "title": "PMS Tracker: March meltdown ensured 97% of strategies sank up to 22%; Money Grow, ASK Investment bled the most",
+        "title": "PMS Tracker: March meltdown ensured 97% of strategies sank up to 22%",
         "url": "https://economictimes.indiatimes.com/markets/aif-pms/pms-tracker-march-meltdown-ensured-97-of-strategies-sank-up-to-22-money-grow-ask-investment-bled-the-most/articleshow/130202744.cms",
         "source": "Economic Times – Markets",
         "publishedAt": "2026-04-12T04:58:02.000Z",
@@ -366,72 +429,16 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-04-12T04:43:28.000Z",
         "category": "markets"
-      },
-      {
-        "title": "D-Street week ahead: Q4 earnings, Iran-US talks outcome to drive markets in truncated trading week",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-week-ahead-q4-earnings-iran-us-talks-outcome-to-drive-markets-in-truncated-trading-week/articleshow/130202228.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-12T03:55:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nifty Bank vs IT: Anand James on how to trade this week",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/nifty-bank-vs-it-anand-james-on-how-to-trade-this-week/articleshow/130202194.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-12T03:50:33.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Vance heads back to the U.S. without striking a deal with Iran to bring an end to the war",
-        "url": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-12T02:46:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Allies yank support for Swalwell’s California governor run after sexual assault allegations",
-        "url": "https://www.cnbc.com/2026/04/11/eric-swalwell-sexual-assault-allegations.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-11T22:48:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "How bond market's private credit crisis fears are playing out in fixed-income ETFs",
-        "url": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-11T21:37:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Judge told to reconsider national security implications of halting Trump's White House ballroom",
-        "url": "https://www.cnbc.com/2026/04/11/judge-told-to-reconsider-national-security-implications-of-halting-trumps-white-house-ballroom.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-11T20:27:34.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "A little known semiconductor packaging and testing stock is poised to gain in AI boom. Why analysts like it",
-        "url": "https://www.cnbc.com/2026/04/11/little-known-semiconductor-packaging-testing-stock-poised-to-gain.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-11T19:53:36.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "NI fuel protesters 'stand in solidarity' with Irish counterparts",
-        "url": "https://www.bbc.com/news/articles/crk1rrnydylo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-11T17:39:08.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks gain on Iran ceasefire, plus 3 more things that drove last week's market",
-        "url": "https://www.cnbc.com/2026/04/11/stocks-gain-on-iran-ceasefire-plus-3-things-that-drove-last-weeks-market.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-11T15:34:20.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Ether Machine scraps SPAC merger with Dynamix, citing market conditions",
+        "url": "https://cointelegraph.com/news/ether-machine-spac-ethm-cancelled-dynamix-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-12T07:37:14.000Z",
+        "category": "crypto"
+      },
       {
         "title": "XRP drops to $1.33 as bitcoin weakness pulls down majors",
         "url": "https://www.coindesk.com/markets/2026/04/12/xrp-drops-to-usd1-33-as-bitcoin-weakness-pulls-down-majors",
@@ -529,17 +536,58 @@
         "source": "CoinDesk",
         "publishedAt": "2026-04-11T16:00:00.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Crypto perpetuals predict the direction of Wall Street’s Monday open with 89% accuracy, data shows",
-        "url": "https://www.coindesk.com/markets/2026/04/11/crypto-perpetuals-predict-the-direction-of-wall-street-s-monday-open-with-89-accuracy-data-shows",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-11T14:46:55.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Vance leaves Pakistan talks with no deal. How financial markets are reacting.",
+      "url": "https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-12T09:01:00.000Z"
+    },
+    {
+      "title": "Saudi Arabia restores key pipeline to 7M bpd as Red Sea bypass ramps up",
+      "url": "https://www.investing.com/news/economy-news/saudi-arabia-restores-key-pipeline-to-7m-bpd-as-red-sea-bypass-ramps-up-4609034",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-12T08:25:37.000Z"
+    },
+    {
+      "title": "India Forex Regulator Criticizes Banks’ Rupee Arbitrage Trades",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-12/india-forex-regulator-criticizes-banks-rupee-arbitrage-trades",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-12T08:12:51.000Z"
+    },
+    {
+      "title": "Saudi Arabia Says East-West Pipeline Restored to Full Capacity",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-12/saudi-arabia-says-east-west-pipeline-restored-to-full-capacity",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-12T07:25:48.000Z"
+    },
+    {
+      "title": "Vance says US and Iran fail to reach deal",
+      "url": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-12T07:20:49.000Z"
+    },
+    {
+      "title": "Robinhood excludes some prediction markets over manipulation fears",
+      "url": "https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-12T06:57:16.000Z"
+    },
+    {
+      "title": "Pope Leo denounces ’madness of war’ as U.S.-Iran talks begin in Islamabad",
+      "url": "https://www.investing.com/news/economy-news/pope-leo-denounces-madness-of-war-as-usiran-talks-begin-in-islamabad-4609028",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-12T06:55:14.000Z"
+    },
+    {
+      "title": "South Korea nears Kazakhstan oil deal as Middle East supply risks mount",
+      "url": "https://www.investing.com/news/economy-news/south-korea-nears-kazakhstan-oil-deal-as-middle-east-supply-risks-mount-4609027",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-12T06:27:43.000Z"
+    },
     {
       "title": "Why is quantum computing seen as a challenge to Bitcoin?",
       "url": "https://www.investing.com/news/economy-news/why-is-quantum-computing-seen-as-a-challenge-to-bitcoin-4609025",
@@ -589,6 +637,12 @@
       "publishedAt": "2026-04-12T04:18:35.000Z"
     },
     {
+      "title": "Commodity traders lost ‘billions’ in early days of Iran war",
+      "url": "https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-12T04:00:20.000Z"
+    },
+    {
       "title": "Fees for seas: a history of taxing waterways",
       "url": "https://www.ft.com/content/9a5294cf-0b64-4201-b88c-12ba586bb4fd",
       "source": "Financial Times",
@@ -601,64 +655,10 @@
       "publishedAt": "2026-04-12T04:00:20.000Z"
     },
     {
-      "title": "Commodity traders lost ‘billions’ in early days of Iran war",
-      "url": "https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-12T04:00:20.000Z"
-    },
-    {
       "title": "The historic Iranian palaces caught up in US-Israeli strikes",
       "url": "https://www.ft.com/content/ae2855d8-f4e3-4138-ad14-d5bee53a804f",
       "source": "Financial Times",
       "publishedAt": "2026-04-12T04:00:12.000Z"
-    },
-    {
-      "title": "Wall Street banks set to report $40bn trading haul as Iran war rekindles volatility",
-      "url": "https://www.ft.com/content/7dfb2398-f414-4c82-927c-5db4d34cb5da",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-12T04:00:12.000Z"
-    },
-    {
-      "title": "Switzerland’s Zug becomes bolt-hole for Gulf-based wealth",
-      "url": "https://www.ft.com/content/e4444e33-8586-4d87-890a-e9270f2c26b5",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-12T04:00:12.000Z"
-    },
-    {
-      "title": "Why are Japanese equities so resilient despite the Middle East war?",
-      "url": "https://www.investing.com/news/economy-news/why-are-japanese-equities-so-resilient-despite-the-middle-east-war-4609019",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-12T03:51:46.000Z"
-    },
-    {
-      "title": "BOJ policy to boost yen could be an option to curb inflation, Japanese minister says",
-      "url": "https://www.investing.com/news/economy-news/boj-policy-to-boost-yen-could-be-an-option-to-curb-inflation-japanese-minister-says-4609018",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-12T03:36:24.000Z"
-    },
-    {
-      "title": "China Unveils Taiwan Goodwill Steps After Rare Opposition Talks",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-12/china-unveils-taiwan-goodwill-steps-after-rare-opposition-talks",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-12T03:29:24.000Z"
-    },
-    {
-      "title": "Japan to Work With Asian Nations to Ease Oil Bottleneck: Akazawa",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-12/japan-to-work-with-asian-nations-to-ease-oil-bottleneck-akazawa",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-12T03:29:05.000Z"
-    },
-    {
-      "title": "Australia forms urea task force as Hormuz crisis threatens food security",
-      "url": "https://www.investing.com/news/economy-news/australia-forms-urea-task-force-as-hormuz-crisis-threatens-food-security-4609014",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-12T02:07:41.000Z"
-    },
-    {
-      "title": "Middle East war live: Vance says US and Iran fail to reach deal",
-      "url": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-12T01:44:03.000Z"
     }
   ]
 }
