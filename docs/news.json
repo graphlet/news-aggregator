@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-04-14T15:31:01.561Z",
+  "lastUpdated": "2026-04-14T18:31:09.109Z",
   "ai": {
     "developers": [
+      {
+        "title": "Turn your best AI prompts into one-click tools in Chrome",
+        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-04-14T17:00:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
         "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
@@ -49,13 +56,6 @@
         "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-02T10:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI benchmarks are broken. Here’s what we need instead.",
-        "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-03-31T12:01:08.000Z",
         "category": "developers"
       },
       {
@@ -109,6 +109,27 @@
       }
     ],
     "everyone": [
+      {
+        "title": "The attacks on Sam Altman are a warning for the AI world",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-14T18:04:42.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Redefining the future of software engineering",
+        "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-04-14T18:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
+        "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-14T17:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Has Google’s AI watermarking system been reverse-engineered?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
@@ -166,20 +187,6 @@
         "category": "everyone"
       },
       {
-        "title": "Your article about AI doesn’t need AI art",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-04-11T15:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-04-11T14:00:00.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "ChatGPT for operations teams",
         "url": "https://openai.com/academy/operations",
         "source": "OpenAI Blog",
@@ -203,13 +210,6 @@
       {
         "title": "Brainstorming with ChatGPT",
         "url": "https://openai.com/academy/brainstorming",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "ChatGPT for marketing teams",
-        "url": "https://openai.com/academy/marketing",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "everyone"
@@ -326,112 +326,168 @@
   "finance": {
     "markets": [
       {
-        "title": "S&P 500 marches higher one day after benchmark wipes out Iran war losses: Live updates",
-        "url": "https://www.cnbc.com/2026/04/13/stock-markets-today-live-updates.html",
+        "title": "David Einhorn signals caution as his hedge fund Greenlight prioritizes capital protection",
+        "url": "https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-14T15:30:04.000Z",
+        "publishedAt": "2026-04-14T18:23:50.000Z",
         "category": "markets"
       },
       {
-        "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin",
-        "url": "https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-14T15:28:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Amazon to buy Globalstar to bolster Leo satellite business in deal worth about $11.6 billion",
-        "url": "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-14T15:27:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Lucid names auto industry outsider as CEO, expands Uber deal",
-        "url": "https://www.cnbc.com/2026/04/14/lucid-ceo-silvio-napoli.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-14T15:26:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
-        "url": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-14T15:26:23.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What is the triple lock and how much is the state pension worth?",
-        "url": "https://www.bbc.com/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
+        "title": "Customers failed over outages, water boss tells MPs",
+        "url": "https://www.bbc.com/news/articles/c98mqr83z49o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-04-14T15:25:50.000Z",
+        "publishedAt": "2026-04-14T18:19:37.000Z",
         "category": "markets"
       },
       {
-        "title": "CEOs are betting AI will augment work rather than displace all workers",
-        "url": "https://www.cnbc.com/2026/04/14/ceos-are-betting-ai-will-augment-work-rather-than-displace-all-workers.html",
+        "title": "Prediction markets will grow to $1 trillion by 2030, Bernstein estimates",
+        "url": "https://www.cnbc.com/2026/04/14/prediction-markets-will-grow-to-1-trillion-by-2030-bernstein-says.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-14T15:17:24.000Z",
+        "publishedAt": "2026-04-14T18:12:58.000Z",
         "category": "markets"
       },
       {
-        "title": "Iran war will hit UK growth the hardest of any rich economies, IMF says",
-        "url": "https://www.cnbc.com/2026/04/14/uk-downgrade-iran-war-uk-growth-middle-east-conflict-global-economy.html",
+        "title": "J&J is off to a strong start in 2026 — here's how our newest stock can build on it",
+        "url": "https://www.cnbc.com/2026/04/14/jj-is-off-to-a-strong-2026-how-our-newest-stock-can-build-on-it.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-14T15:17:16.000Z",
+        "publishedAt": "2026-04-14T18:09:21.000Z",
         "category": "markets"
       },
       {
-        "title": "SanDisk Falls 5% Before NASDAQ 100 Debut: Is the Short Squeeze Running Out of Steam?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-falls-5-nasdaq-100-151543253.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T15:15:43.000Z",
+        "title": "Fed nominee Warsh filings detail vast wealth, far exceeding past chairs",
+        "url": "https://www.cnbc.com/2026/04/14/federal-reserve-warsh-wealth.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-14T18:02:47.000Z",
         "category": "markets"
       },
       {
-        "title": "Fuel protests spread as tractors and trucks disrupt traffic",
+        "title": "How many ships are crossing the Strait of Hormuz?",
+        "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-04-14T17:59:21.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Blackstone’s Joan Solotar says investors should separate ‘signal from the noise’ in private credit",
+        "url": "https://www.cnbc.com/2026/04/14/blackstone-exec-joan-solotar-private-credit-signal-noise.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-14T17:59:10.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks",
+        "url": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-14T17:50:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Fines issued after fuel protests across NI disrupt traffic",
         "url": "https://www.bbc.com/news/articles/cx2e8wevpwyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-04-14T15:14:38.000Z",
+        "publishedAt": "2026-04-14T17:44:28.000Z",
         "category": "markets"
       },
       {
-        "title": "Escaping the card-first trap: why LPMs are the C-suite’s next growth lever",
-        "url": "https://finance.yahoo.com/economy/policy/articles/escaping-card-first-trap-why-151353510.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T15:13:53.000Z",
+        "title": "More U.S.-Iran peace deal talks are in discussion, White House says",
+        "url": "https://www.cnbc.com/2026/04/14/trump-iran-war-strait-of-hormuz-negotiations.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-14T17:33:46.000Z",
         "category": "markets"
       },
       {
-        "title": "Small-Cap Stocks May Be About to Pull Ahead, and IJR Will Win Big",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/small-cap-stocks-may-pull-151328063.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T15:13:28.000Z",
+        "title": "DA wants Sam Altman arson suspect Daniel Moreno-Gama held without bail",
+        "url": "https://www.cnbc.com/2026/04/14/sam-altman-openai-molotov-attack-arraignment.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-14T17:30:25.000Z",
         "category": "markets"
       },
       {
-        "title": "Is the iShares CORO ETF a Buy After Kelly Financial Initiated a Position Worth Over $28.5 Million?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-coro-etf-buy-kelly-151301335.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T15:13:01.000Z",
+        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+        "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-04-14T17:18:19.000Z",
         "category": "markets"
       },
       {
-        "title": "Altria vs. Philip Morris: One Dividend Is a Trap — Here’s Which One to Avoid",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/altria-vs-philip-morris-one-151239600.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T15:12:39.000Z",
+        "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
+        "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-04-14T17:10:52.000Z",
         "category": "markets"
       },
       {
-        "title": "Amazon Agrees To Buy Globalstar In $11.6 Billion Deal Amid Musk Space Battle",
-        "url": "https://www.investors.com/news/technology/amazon-buys-globalstar-elon-musk-space-battle/?src=A00220&yptr=yahoo",
+        "title": "What a United-American merger would mean, from antitrust hurdles to airfare",
+        "url": "https://www.cnbc.com/2026/04/14/united-airlines-american-airlines-merger-report.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-14T17:01:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Market Update: ATO, JPM",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_46727_MarketUpdate_1776185703000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T15:12:31.000Z",
+        "publishedAt": "2026-04-14T16:55:03.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Popular DeFi platform warns users to stay away from its site after security breach",
+        "url": "https://www.coindesk.com/tech/2026/04/14/popular-defi-platform-warns-users-to-stay-away-from-its-site-after-security-breach",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T18:27:59.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders",
+        "url": "https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T18:04:19.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ether replays 2025 fractal that sparked 250% ETH price rally",
+        "url": "https://cointelegraph.com/news/ether-replays-2025-fractal-that-sparked-250percent-eth-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-14T17:45:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Visa deepens blockchain push with Tempo validator node launch",
+        "url": "https://cointelegraph.com/news/visa-launches-validator-node-on-tempo-network-deepening-push-into-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-14T17:08:21.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto-aligned super PAC begins to endorse candidates for US midterms",
+        "url": "https://cointelegraph.com/news/crypto-super-pac-fellowship-endorsements-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-14T17:05:56.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Figure and Hastra widen DeFi credit offering with auto loan launch",
+        "url": "https://cointelegraph.com/news/figure-hastra-expand-tokenized-credit-auto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-14T16:30:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Federal Reserve chair nominee's disclosure includes crypto and AI holdings",
+        "url": "https://cointelegraph.com/news/federal-reserve-chair-nominee-discloses-holdings-in-crypto-and-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-14T15:37:27.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Goldman Sachs files for bitcoin income ETF in crypto push",
+        "url": "https://www.coindesk.com/business/2026/04/14/goldman-sachs-files-for-bitcoin-income-etf-in-crypto-push",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T15:31:09.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Bitcoin hits $76K after US PPI inflation stays tame: Will BTC hold its gains?",
         "url": "https://cointelegraph.com/news/bitcoin-hits-dollar76k-after-us-ppi-inflation-stays-tame-will-btc-hold-its-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -480,185 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-04-14T14:07:56.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "JPMorgan CFO warns stablecoins risk becoming ‘regulatory arbitrage’ play",
-        "url": "https://www.coindesk.com/business/2026/04/14/jpmorgan-cfo-warns-stablecoins-risk-becoming-regulatory-arbitrage-play",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T13:50:09.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-14T13:40:27.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "CoinDesk 20 performance update: Ethereum (ETH) price rises 5.4%",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/04/14/coindesk-20-performance-update-ethereum-eth-price-rises-5-4",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T13:18:34.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "X product chief Nikita Bier teases a crypto ‘fix’ amid market slump",
-        "url": "https://cointelegraph.com/news/x-product-chief-nikita-bier-fix-crypto-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-14T13:06:06.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "What are stablecoins and how do they work? A beginner's guide.",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/what-are-stablecoins-130000549.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "XRP Ledger adds zero-knowledge proofs targeting institutional privacy gap",
-        "url": "https://www.coindesk.com/tech/2026/04/14/xrp-ledger-adds-zero-knowledge-proofs-targeting-institutional-privacy-gap",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "From DeFi to deep space: How SkyMapper and Avalanche are securing the world's telescope records",
-        "url": "https://www.coindesk.com/tech/2026/04/13/avalanche-heads-to-the-stars-seti-telescope-data-goes-onchain",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "XRP Ledger taps Boundless for bank-grade privacy on public blockchains",
-        "url": "https://cointelegraph.com/news/xrpl-taps-boundless-for-bank-grade-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-14T13:00:00.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
+      "title": "US set to launch tariff refund system on April 20",
+      "url": "https://www.investing.com/news/economy-news/us-set-to-launch-tariff-refund-system-on-april-20-4613546",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-14T18:24:43.000Z"
+    },
+    {
+      "title": "Fed chair nominee Warsh’s Senate panel hearing set for April 21",
+      "url": "https://www.investing.com/news/economy-news/fed-chair-nominee-warshs-senate-panel-hearing-set-for-april-21-4613541",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-14T18:18:55.000Z"
+    },
+    {
+      "title": "Fintech SumUp Lines Up Banks for Possible London IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/fintech-sumup-is-said-to-line-up-banks-for-possible-london-ipo",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-14T18:18:21.000Z"
+    },
+    {
+      "title": "Lebanon and Israel hold first direct talks in decades as fighting continues",
+      "url": "https://www.ft.com/content/0e1c7785-0e3e-4b76-acb6-debaf658637b",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-14T18:13:22.000Z"
+    },
+    {
+      "title": "5 things to know about a potential merger of United and American airlines",
+      "url": "https://www.marketwatch.com/story/5-things-to-know-about-a-potential-merger-of-airlines-united-and-american-b140c0ed?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-14T18:12:00.000Z"
+    },
+    {
+      "title": "New Alzheimer’s research shows the disease affects men and women differently. What it could mean for testing and care.",
+      "url": "https://www.marketwatch.com/story/alzheimers-affects-men-and-womens-brains-differently-new-research-shows-what-it-could-mean-for-testing-and-care-ce3b9841?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-14T18:09:00.000Z"
+    },
+    {
       "title": "JPMorgan profit beats expectations on record trading revenue, strong dealmaking",
       "url": "https://www.investing.com/news/economy-news/jpmorgan-profit-rises-as-volatile-markets-drive-trading-division-4612264",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T15:25:28.000Z"
+      "publishedAt": "2026-04-14T17:54:33.000Z"
     },
     {
-      "title": "War is over for Wall Street, while oil drags down bonds and gold",
-      "url": "https://www.investing.com/news/economy-news/war-is-over-for-wall-street-while-oil-drags-down-bonds-and-gold-4613304",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T15:19:38.000Z"
-    },
-    {
-      "title": "Citadel’s Ken Griffin says Iran war threatens global recession",
-      "url": "https://www.investing.com/news/economy-news/citadels-ken-griffin-says-iran-war-threatens-global-recession-4613311",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T15:19:20.000Z"
-    },
-    {
-      "title": "IMF raises Russia 2026 GDP growth forecast to 1.1% on higher oil prices",
-      "url": "https://www.investing.com/news/economy-news/imf-raises-russia-2026-gdp-growth-forecast-to-11-on-higher-oil-prices-4613306",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T15:13:23.000Z"
-    },
-    {
-      "title": "United CEO Proposes American Airlines Merger",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-14/united-ceo-proposes-american-airlines-merger-video",
+      "title": "Tory Burch Seeks Loan to Buy Back General Atlantic’s Stake",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/tory-burch-seeks-loan-to-buy-back-general-atlantic-s-stake",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T15:11:17.000Z"
+      "publishedAt": "2026-04-14T17:53:30.000Z"
     },
     {
-      "title": "We asked our wedding guests to give money to St. Jude’s Children’s Hospital. Can we write off their donations?",
-      "url": "https://www.marketwatch.com/story/we-asked-our-wedding-guests-to-give-money-to-st-judes-childrens-hospital-can-we-write-off-their-donations-0a326156?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-14T15:07:00.000Z"
-    },
-    {
-      "title": "IMF cuts emerging economies’ growth estimate as war darkens outlook",
-      "url": "https://www.investing.com/news/economy-news/imf-cuts-emerging-economies-growth-estimate-as-war-darkens-outlook-4612976",
+      "title": "IMF cuts growth outlook, warns world already drifting toward more adverse scenario",
+      "url": "https://www.investing.com/news/economy-news/imf-cuts-growth-outlook-warns-of-potential-global-recession-if-iran-war-worsens-4612904",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T15:06:30.000Z"
+      "publishedAt": "2026-04-14T17:49:03.000Z"
     },
     {
-      "title": "Private credit not only won’t spark a financial crisis — it may be more stable than your bank",
-      "url": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-14T15:02:00.000Z"
-    },
-    {
-      "title": "Exclusive-Trump’s son Eric to join father’s state visit to China",
-      "url": "https://www.investing.com/news/economy-news/exclusivetrumps-son-eric-to-join-fathers-state-visit-to-china-4613223",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T15:01:16.000Z"
-    },
-    {
-      "title": "ECB has not made its mind up on rates, Lagarde says",
-      "url": "https://www.investing.com/news/economy-news/euro-zone-economy-between-ecbs-baseline-and-adverse-scenario-lagarde-says-4613204",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T15:00:43.000Z"
-    },
-    {
-      "title": "Israel poised to seize Hizbollah’s ‘capital of liberation’",
-      "url": "https://www.ft.com/content/33e31a68-ef31-4a3f-81ac-423c723dc64d",
+      "title": "Fed chair nominee Kevin Warsh reveals assets worth more than $130mn",
+      "url": "https://www.ft.com/content/c7d72f31-ef52-4817-9b2b-1e794b0bb975",
       "source": "Financial Times",
-      "publishedAt": "2026-04-14T14:58:36.000Z"
+      "publishedAt": "2026-04-14T17:42:26.000Z"
     },
     {
-      "title": "Analyst Warns That Oil Prices Threaten Banks",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-14/analyst-warns-that-oil-prices-threaten-banks-video",
+      "title": "Canada Regulator Reviewing Banks’ Private-Credit Exposures",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/canada-regulator-osfi-reviewing-banks-private-credit-exposures",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T14:57:57.000Z"
+      "publishedAt": "2026-04-14T17:41:02.000Z"
     },
     {
-      "title": "US producer inflation increases less than expected in March, but war boosts energy prices",
-      "url": "https://www.investing.com/news/economy-news/us-producer-prices-increase-less-than-expected-in-march-4612815",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T14:55:41.000Z"
-    },
-    {
-      "title": "Dollar declines on Middle East truce hopes",
-      "url": "https://www.investing.com/news/economy-news/dollar-steady-as-us-blocks-iranian-ships-talks-continue-4611612",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T14:55:23.000Z"
-    },
-    {
-      "title": "Bessent says confident that core inflation is going down, Fed will need to cut rates",
-      "url": "https://www.investing.com/news/economy-news/bessent-says-confident-that-core-inflation-is-going-down-fed-will-need-to-cut-rates-4613263",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T14:54:48.000Z"
-    },
-    {
-      "title": "ECB's Lagarde on Iran War's Economic Impact, Rates and AI",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-14/ecb-s-lagarde-on-iran-war-s-impact-rates-and-ai-video",
+      "title": "US to Let Iran Oil Sanctions Waiver Expire Amid Hormuz Blockade",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/us-to-let-iran-oil-sanctions-waiver-expire-amid-hormuz-blockade",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T14:52:07.000Z"
+      "publishedAt": "2026-04-14T17:40:08.000Z"
     },
     {
-      "title": "Katrina Dudley on Oil Prices, Market Impact of War In Iran",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-14/katrina-dudley-on-market-impact-of-war-in-iran-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T14:49:51.000Z"
-    },
-    {
-      "title": "Goldman Sachs Private Credit Fund to Sell $500 Million Bond",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-14/goldman-sachs-private-credit-fund-to-sell-500-million-bond",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T14:48:04.000Z"
-    },
-    {
-      "title": "Bessent Warns on Global Imbalance, China Trade Surplus",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-14/bessent-warns-on-global-imbalance-china-trade-surplus-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T14:47:52.000Z"
-    },
-    {
-      "title": "Credo’s stock surges. Here’s why its new acquisition ‘makes perfect sense.’",
-      "url": "https://www.marketwatch.com/story/credos-stock-surges-heres-why-its-new-acquisition-makes-perfect-sense-6f7a699a?mod=mw_rss_topstories",
+      "title": "Here’s the ‘biggest single reason’ gas prices haven’t hurt consumers, according to JPMorgan",
+      "url": "https://www.marketwatch.com/story/jpmorgans-markets-and-investment-banking-revenue-surge-but-heres-why-the-stock-is-pulling-back-2e03575f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-14T14:46:00.000Z"
+      "publishedAt": "2026-04-14T17:30:00.000Z"
+    },
+    {
+      "title": "Saks Offloads Its Gulfstream Jet in Push to Shrink in Bankruptcy",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/saks-sells-business-jet-as-luxury-retailer-shrinks-in-bankruptcy",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-14T17:29:31.000Z"
+    },
+    {
+      "title": "NBC just dethroned YouTube as ratings king. Here’s how it did it.",
+      "url": "https://www.marketwatch.com/story/nbc-just-dethroned-youtube-as-ratings-king-heres-how-it-did-it-c957438a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-14T17:29:00.000Z"
+    },
+    {
+      "title": "Trump says new US-Iran talks could happen ‘over next two days’",
+      "url": "https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-14T17:27:42.000Z"
+    },
+    {
+      "title": "Need to file for a tax extension tomorrow? Read this first.",
+      "url": "https://www.marketwatch.com/story/not-ready-for-tomorrows-tax-deadline-read-this-before-filing-for-a-last-minute-extension-c89c7849?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-14T17:26:00.000Z"
+    },
+    {
+      "title": "How the US can blockade the Strait of Hormuz",
+      "url": "https://www.ft.com/content/5cacda11-883b-42c6-93df-20dd56e12e0b",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-14T17:17:39.000Z"
+    },
+    {
+      "title": "Sotheby’s to Sell $825 Million Junk Bond In Refinancing Push",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/sotheby-s-to-sell-825-million-junk-bond-in-refinancing-push",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-14T17:13:43.000Z"
+    },
+    {
+      "title": "UK chancellor Rachel Reeves hits out at Iran war ‘folly’",
+      "url": "https://www.ft.com/content/5aac2394-3720-4723-b75a-4db51804b2d1",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-14T17:13:01.000Z"
     }
   ]
 }
