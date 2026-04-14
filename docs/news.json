@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-04-14T09:38:07.536Z",
+  "lastUpdated": "2026-04-14T12:28:22.703Z",
   "ai": {
     "developers": [
+      {
+        "title": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss",
+        "url": "https://www.theguardian.com/technology/2026/apr/13/meta-ai-mark-zuckerberg-staff-talk-to-the-boss",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T12:27:26.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: PolyMind – AI-Powered Real-Time Prediction Market Alerts",
+        "url": "https://polyminds.netlify.app",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T12:26:44.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Mapping Deception: Replicating an AI Honesty Benchmark",
+        "url": "https://sdsimmons.com/assets/writing/mask-blog-post/mask_eval.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T12:23:55.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Tradclaw: an open source AI mom for agentic parenting",
+        "url": "https://twitter.com/clairevo/status/2043862637851881756",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T12:23:17.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Google controls the most AI computing power, driven by its custom TPUs",
+        "url": "https://epochai.substack.com/p/google-controls-the-most-ai-computing",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T12:13:06.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI/ML Engineer for a Healthcare AI Startup with Vested Equity",
+        "url": "https://news.ycombinator.com/item?id=47764590",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T12:13:05.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "ASI-Evolve: AI Accelerates AI",
+        "url": "https://arxiv.org/abs/2603.29640",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T11:49:01.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Energy-Guard OS – A 411MB CPU-Native AI Security Gateway (4ms Latency)",
+        "url": "https://github.com/almoizsaad/Energy-Guard-OS-Security-Benchmark",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T11:02:03.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: VibeDrift – Measure drift in AI-generated codebases",
+        "url": "https://www.vibedrift.ai/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T10:43:04.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "I trained an AI to do my LinkedIn outreach, it books more meetings than me",
+        "url": "https://mimikflow.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T10:41:26.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Class #1 – Economics of the AI Supercycle Stanford",
+        "url": "https://www.youtube.com/watch?v=-ubIUNA-zRA",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T09:58:24.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Agentic AI Tools – A directory to find and compare AI agent tools",
+        "url": "https://agenticaitools.net/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T09:42:12.000Z",
+        "category": "developers"
+      },
       {
         "title": "Talking to a local LLM in the Firefox sidebar",
         "url": "https://code.mendhak.com/firefox-local-chatbot-ollama/",
@@ -22,98 +106,28 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-14T09:08:52.000Z",
         "category": "developers"
-      },
-      {
-        "title": "The Snake That Ate Itself: What Claude Source Revealed About AI Engg Culture",
-        "url": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T09:07:22.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Whisk AI",
-        "url": "https://whiskailabs.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T08:55:40.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Call Me a Jerk: Persuading AI to Comply with Objectionable Requests",
-        "url": "https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-ai/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T08:52:58.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "An AI Vibe Coding Horror Story",
-        "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T08:35:45.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Compare harnesses not models: Blitzy vs. GPT-5.4 on SWE-Bench Pro",
-        "url": "https://quesma.com/blog/verifying-blitzy-swe-bench-pro/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T08:32:45.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Jarvis – governed AI control plane with receipts, rollback, and agent guardrails",
-        "url": "https://github.com/animallee76-spec/jarvis-governed-control-plane",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T08:18:30.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Security Concerns in Generative AI Coding Assistants",
-        "url": "https://arxiv.org/abs/2604.08352",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T08:03:21.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Nous – A compiled language for self-healing AI agents",
-        "url": "https://nous-lang.org",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T07:08:39.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Nvidia AIStore – scalable storage for AI applications",
-        "url": "https://aistore.nvidia.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T07:05:44.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Burrow – Runtime Security for AI Agents",
-        "url": "https://news.ycombinator.com/item?id=47761957",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T06:25:47.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Ascend – open-source Job board and Claude AI prep plans for FAANG/YC interviews",
-        "url": "https://github.com/RajuRoopani/ascend-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T06:24:12.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Zuckerbot is coming: Meta is building an AI version of Mark Zuckerberg",
-        "url": "https://www.neowin.net/news/zuckerbot-is-coming-meta-is-reportedly-building-an-ai-version-of-mark-zuckerberg/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T06:20:09.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
       {
-        "title": "MCP server for personal finance so AI assistants can manage money",
-        "url": "https://era.app/articles/how-to-connect-claude-to-your-bank-account/",
+        "title": "Show HN: Lookout – AI Screen Assistant for macOS",
+        "url": "https://github.com/AnthonyDavidAdams/Lookout",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-04-14T03:12:38.000Z",
+        "publishedAt": "2026-04-14T12:19:08.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Apple AI Glasses Will Rival Meta's with Several Styles, Oval Cameras",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-14T12:12:04.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Coming soon: 10 Things That Matter in AI Right Now",
+        "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-04-14T11:00:00.000Z",
         "category": "everyone"
       },
       {
@@ -196,20 +210,6 @@
       {
         "title": "ChatGPT for finance teams",
         "url": "https://openai.com/academy/finance",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Brainstorming with ChatGPT",
-        "url": "https://openai.com/academy/brainstorming",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "ChatGPT for marketing teams",
-        "url": "https://openai.com/academy/marketing",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "everyone"
@@ -326,112 +326,189 @@
   "finance": {
     "markets": [
       {
-        "title": "Strategy's STRC sees record-breaking trading day, may surpass that on Tuesday",
-        "url": "https://www.coindesk.com/markets/2026/04/14/strategy-s-strc-sees-record-breaking-trading-day-may-surpass-that-on-tuesday",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T09:32:35.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "China calls U.S. blockade of the Strait of Hormuz 'dangerous and irresponsible'",
-        "url": "https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html",
+        "title": "Fed nominee Warsh filings detail vast wealth, far exceeding past chairs",
+        "url": "https://www.cnbc.com/2026/04/14/federal-reserve-warsh-wealth.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-14T09:29:14.000Z",
+        "publishedAt": "2026-04-14T12:27:41.000Z",
         "category": "markets"
       },
       {
-        "title": "One of Greg Abel's Forever Holdings at Berkshire Hathaway Is Breaking Warren Buffett's Most Important Investing Rule",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/one-greg-abels-forever-holdings-092600244.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T09:26:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Global Oil Demand to Contract in 2026, IEA Says",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-14-2026/card/global-oil-demand-to-fall-in-2026-iea-says-jocO9Jc6sJLxuGPhfPVZ?siteid=yhoof2&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T09:25:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Earnings Season Ramps Up: What to Watch for the Rest of the Week",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-14-2026/card/earnings-season-ramps-up-what-to-watch-for-the-rest-of-the-week-WkwmpzTOY8Inu9AJzXx2?siteid=yhoof2&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T09:25:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "PageGroup Q1 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/pagegroup-q1-earnings-call-highlights-092442146.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T09:24:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jenoptik Pitches Photonics Strategy at German Select Conference, Guides 2026 Growth and Margin Lift",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/jenoptik-pitches-photonics-strategy-german-092442310.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T09:24:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Church’s Texas Chicken to enter China with 600-unit deal",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/church-texas-chicken-enter-china-092150034.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T09:21:50.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nissan to trim global car lineup, boost use of AI driving tech",
-        "url": "https://www.cnbc.com/2026/04/14/nissan-to-trim-global-car-lineup-boost-use-of-ai-driving-tech.html",
+        "title": "Amazon to buy Globalstar to bolster Leo satellite business",
+        "url": "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-14T09:21:07.000Z",
+        "publishedAt": "2026-04-14T12:24:15.000Z",
         "category": "markets"
       },
       {
-        "title": "HSBC CEO Elhedery Says Hormuz Disruption Felt Globally",
-        "url": "https://finance.yahoo.com/video/hsbc-ceo-elhedery-says-hormuz-091935561.html",
+        "title": "Perella Weinberg to buy UK advisory boutique Gleacher Shacklock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/perella-weinberg-buy-uk-advisory-122049878.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T09:19:35.000Z",
+        "publishedAt": "2026-04-14T12:20:49.000Z",
         "category": "markets"
       },
       {
-        "title": "LVMH stock drops as analysts flag luxury recovery 'party postponed' amid Iran war",
-        "url": "https://www.cnbc.com/2026/04/14/lvmh-stock-luxury-sales-recovery-iran-war.html",
+        "title": "Two-part investing strategy helped a couple retire early on $1M — but most people miss a crucial step",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/two-part-investing-strategy-helped-121500299.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-14T12:15:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "JPMorgan tops estimates on Wall Street results, Dimon flags 'increasingly complex' economic risks",
+        "url": "https://www.cnbc.com/2026/04/14/jpmorgan-chase-jpm-earnings-1q-2026.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-14T09:16:26.000Z",
+        "publishedAt": "2026-04-14T12:12:25.000Z",
         "category": "markets"
       },
       {
-        "title": "Republican Rep. Tony Gonzales of Texas says he will retire after bipartisan calls for expulsion",
-        "url": "https://www.cnbc.com/2026/04/14/republican-rep-tony-gonzales-of-texas-says-he-will-retire-after-bipartisan-calls-for-expulsion.html",
+        "title": "Stock Market Today: Dow Wavers Ahead Of Key Inflation Data; Bloom Soars On This Oracle News (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-ppi/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-14T12:08:20.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oil falls as IEA predicts ‘demand destruction will spread’ and hopes for fresh Iran talks grow",
+        "url": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-14T09:10:07.000Z",
+        "publishedAt": "2026-04-14T12:07:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Credo Stock Is On a Roll. Why This AI Deal Can Extend the Rally.",
-        "url": "https://www.barrons.com/articles/credo-technology-stock-dustphotonics-acquisition-fe23e4fa?siteid=yhoof2&yptr=yahoo",
+        "title": "Amazon signs $11.57 billion deal for satellite firm Globalstar to challenge Musk's Starlink",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-signs-11-57-billion-120533254.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T09:07:00.000Z",
+        "publishedAt": "2026-04-14T12:05:33.000Z",
         "category": "markets"
       },
       {
-        "title": "Copper hits one-month high as US-Iran talk hopes lift metal prices",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/copper-hits-one-month-high-as-us-iran-talk-hopes-lift-metal-prices/articleshow/130255502.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-14T09:06:32.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Publicis Posts Top-Line Growth Despite Hit From Middle East War",
-        "url": "https://www.wsj.com/business/earnings/publicis-posts-top-line-growth-despite-hit-from-middle-east-war-8dfb8718?siteid=yhoof2&yptr=yahoo",
+        "title": "If You Missed Out on Nvidia's Wild Gains, This Might Finally Be the Time to Buy Nvidia Stock.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/missed-nvidias-wild-gains-might-120500459.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-14T09:06:00.000Z",
+        "publishedAt": "2026-04-14T12:05:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "JPMorgan Chase Q1 2026 earnings beat expectations",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-q1-2026-earnings-120423417.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-14T12:04:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Citigroup beats estimates, boosted by gains in fixed income",
+        "url": "https://www.cnbc.com/2026/04/14/citigroup-c-earnings-1q-2026.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-14T12:02:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Who's Buying LA? The Rise Of The International All-Cash Buyer",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/whos-buying-la-rise-international-120103295.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-14T12:01:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The top 10 large U.S. cities for recent college graduates in 2026, according to new report—3 are in Texas",
+        "url": "https://www.cnbc.com/2026/04/14/top-large-us-cities-for-recent-college-grads-in-2026.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-14T12:01:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Four Tickers That Turn $1 Million Into $60,000 of Annual Income",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/four-tickers-turn-1-million-120058274.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-14T12:00:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "$21 billion in frozen EU funds are at stake as Hungary's markets surge on Orbán's stunning defeat",
+        "url": "https://finance.yahoo.com/markets/currencies/articles/21-billion-frozen-eu-funds-120000080.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-14T12:00:00.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin passes halfway point in halving cycle as price gains trail prior cycles",
+        "url": "https://www.coindesk.com/markets/2026/04/14/bitcoin-passes-halfway-point-in-halving-cycle-as-price-gains-trail-prior-cycles",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T12:23:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Deutsche Börse invests $200 million in Kraken parent Payward",
+        "url": "https://cointelegraph.com/news/deutsche-borse-invest-200m-kraken-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-14T11:18:43.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin, ether in Goldilocks rally while smaller coins take a back seat",
+        "url": "https://www.coindesk.com/daybook-us/2026/04/14/bitcoin-ether-in-goldilocks-rally-while-smaller-coins-take-a-back-seat",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T11:17:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "OneCoin victims get a $40 million lifeline more than a decade after the scam began",
+        "url": "https://www.coindesk.com/policy/2026/04/14/u-s-doj-opens-up-claim-process-for-victims-of-onecoin-s-usd4-billion-fraud-case",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T11:17:08.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "A fake Ledger app on the Apple App Store drained $9.5 million in crypto",
+        "url": "https://www.coindesk.com/business/2026/04/14/a-fake-ledger-app-on-the-apple-app-store-just-drained-usd9-5-million-in-crypto",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T11:12:37.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Deutsche Börse takes 1.5% stake in crypto exchange Kraken for $200 million",
+        "url": "https://www.coindesk.com/business/2026/04/14/deutsche-boerse-takes-1-5-stake-in-crypto-exchange-kraken-for-usd200-million",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T10:51:02.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin tests $75,000 as $200 million in shorts face liquidation risk",
+        "url": "https://www.coindesk.com/markets/2026/04/14/bitcoin-tests-usd75-000-as-usd200-million-in-shorts-face-liquidation-risk",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T10:30:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Nauru taps Bitcoiner Dadvan Yousuf for trade role in digital asset push",
+        "url": "https://cointelegraph.com/news/nauru-appoints-dadvan-yousuf-trade-commissioner-crypto-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-14T10:07:11.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bank of Korea nominee backs central bank-led digital currency, sees limited role for stablecoins",
+        "url": "https://www.coindesk.com/policy/2026/04/14/bank-of-korea-nominee-backs-central-bank-led-digital-currency-sees-limited-role-for-stablecoins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-14T10:01:43.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin ETFs clock $291M outflows as BTC blasts past $74K",
+        "url": "https://cointelegraph.com/news/bitcoin-etfs-291-million-outflow-btc-surge-74000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-14T09:48:54.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Web3 hacks cost $482M in Q1 as phishing drives majority of losses: Hacken",
+        "url": "https://cointelegraph.com/news/web3-hacks-cost-464-million-in-q1-hacken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-14T09:25:08.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Here are key bitcoin price levels to watch as the rally gathers steam",
         "url": "https://www.coindesk.com/markets/2026/04/14/here-are-key-bitcoin-price-levels-to-watch-as-the-rally-gathers-steam",
@@ -459,206 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-04-14T06:13:50.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Justice Department opens compensation for victims of $4B OneCoin crypto fraud",
-        "url": "https://cointelegraph.com/news/doj-onecoin-compensation-victims-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-14T06:05:49.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Little-known token ranks alongside bitcoin and ether in the top three — just not in the way you think",
-        "url": "https://www.coindesk.com/markets/2026/04/14/rave-ranks-alongside-bitcoin-and-ether-in-the-top-three-just-not-in-the-way-you-think",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T05:57:53.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Japan's central bank cools rate hike expectations, removing a key risk for bitcoin's rally",
-        "url": "https://www.coindesk.com/markets/2026/04/14/japan-s-central-bank-cools-rate-hike-expectations-removing-a-key-risk-for-bitcoin-s-rally",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T05:56:36.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin bears eye $50K bottom as analysts claim final flush still to come",
-        "url": "https://cointelegraph.com/news/analysts-still-see-final-flush-to-50k-despite-current-market-hopium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-14T05:41:03.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Dogecoin climbs 3% toward 10 cents as ether breakout drives memecoin bets",
-        "url": "https://www.coindesk.com/markets/2026/04/14/dogecoin-climbs-3-toward-10-cents-as-ether-breakout-drive-memecoin-bets",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T05:16:57.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "XRP climbs 3% to $1.37 as accumulation builds, but key breakout still ahead",
-        "url": "https://www.coindesk.com/markets/2026/04/14/xrp-climbs-3-to-usd1-37-as-accumulation-builds-but-key-breakout-still-ahead",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T05:13:35.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin nears $75,000 as crypto market rallies on $1.1 billion inflows; Ethereum holds above $2,300",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-nears-75000-as-crypto-market-rallies-on-1-1-billion-inflows-ethereum-holds-above-2300/articleshow/130251519.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-14T05:12:56.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Banks challenge White House report on stablecoin yields",
-        "url": "https://cointelegraph.com/news/banks-criticize-white-house-report-favoring-stablecoin-yield-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-14T05:02:21.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bearish bets lose $430 million as BTC, ETH surge as much as 7%",
-        "url": "https://www.coindesk.com/markets/2026/04/14/bearish-bets-lose-usd430-million-as-btc-eth-surge-as-much-as-7",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T04:53:04.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week",
-        "url": "https://www.coindesk.com/markets/2026/04/14/ether-outpaces-bitcoin-as-etf-flows-split-and-ethereum-activity-jumps-41-on-week",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-14T04:05:06.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Former CFTC chair Giancarlo leaves law to focus on crypto advisory",
-        "url": "https://cointelegraph.com/news/former-cftc-chair-giancarlo-leaves-law-focus-on-crypto-advisory?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-14T03:23:58.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Stock Investors Look Past Iran War Despite Shaky Ceasefire",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-04-14/stock-investors-look-past-iran-war-despite-shaky-ceasefire",
+      "title": "Iran War Lifts Africa Debt Costs That Have Surged Since Pandemic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/iran-war-lifts-africa-debt-costs-that-have-surged-since-pandemic",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T09:26:01.000Z"
+      "publishedAt": "2026-04-14T12:16:38.000Z"
     },
     {
-      "title": "March saw the largest increase in global energy inflation in 25 years",
-      "url": "https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories",
+      "title": "EU to Bet on Electricification to Avert Recurring Energy Crises",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/eu-to-bet-on-electricification-to-avert-recurring-energy-crises",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-14T12:14:50.000Z"
+    },
+    {
+      "title": "Wells Fargo sees little change in guidance despite spike in oil prices",
+      "url": "https://www.marketwatch.com/story/wells-fargo-sees-little-change-in-guidance-despite-spike-in-oil-prices-1a79bbc3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-14T09:25:00.000Z"
+      "publishedAt": "2026-04-14T12:10:00.000Z"
     },
     {
-      "title": "HSBC CEO Elhedery Says Hormuz Disruption Felt Globally",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-14/hsbc-ceo-elhedery-says-hormuz-disruption-felt-globally",
+      "title": "Citi Logs Best Returns in Five Years as Revamp Takes Hold",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/citi-logs-best-returns-in-five-years-as-fraser-revamp-takes-hold",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T09:21:42.000Z"
+      "publishedAt": "2026-04-14T12:04:17.000Z"
     },
     {
-      "title": "China Evergrande’s billionaire boss falls from circles of power to fraud plea",
-      "url": "https://www.investing.com/news/economy-news/china-evergrandes-billionaire-boss-falls-from-circles-of-power-to-fraud-plea-4611944",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T09:19:34.000Z"
-    },
-    {
-      "title": "China Evergrande founder pleads guilty to fraud in Shenzhen court",
-      "url": "https://www.investing.com/news/economy-news/china-evergrande-founder-pleads-guilty-to-fraud-in-shenzhen-court-4611676",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T09:19:13.000Z"
-    },
-    {
-      "title": "Exclusive-China finance ministry to meet underwriters on special treasury bond issuance plan",
-      "url": "https://www.investing.com/news/economy-news/exclusivechina-finance-ministry-to-meet-underwriters-on-special-treasury-bond-issuance-plan-4611951",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T09:18:51.000Z"
-    },
-    {
-      "title": "Golden Goose Starts Marketing Bond Sale Linked to PE Firm Buyout",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-14/golden-goose-starts-marketing-bond-sale-linked-to-pe-firm-buyout",
+      "title": "Merz Says EU €90 Billion Loan for Kyiv Should Be Disbursed Now",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/merz-says-eu-90-billion-loan-for-kyiv-should-be-disbursed-now",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T09:17:40.000Z"
+      "publishedAt": "2026-04-14T12:00:59.000Z"
     },
     {
-      "title": "Vietnam Ready to Act to Stabilize Dong, Will Boost Liquidity",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-14/vietnam-ready-to-act-to-stabilize-dong-will-boost-liquidity",
+      "title": "Property Mogul Targets Top Texas Finance Job With Anti-Tax Pitch",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/don-huffines-is-on-track-to-win-texas-comptroller-job-with-anti-tax-pitch",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T09:16:13.000Z"
+      "publishedAt": "2026-04-14T12:00:00.000Z"
     },
     {
-      "title": "U.S. Hormuz blockade enters second day amid reports of peace talk progress",
-      "url": "https://www.investing.com/news/economy-news/us-iran-weigh-second-round-of-talks-ahead-of-ceasefire-deadline--bloomberg-4611604",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T09:14:29.000Z"
-    },
-    {
-      "title": "Chinese Tire Venture Service Long Files for Record Pakistan IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-14/chinese-tire-venture-service-long-files-for-record-pakistan-ipo",
+      "title": "Iran Weighs Pausing Hormuz Shipping to Avoid Derailing Talks",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/iran-weighs-pausing-its-hormuz-shipping-to-avoid-derailing-talks",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T09:09:35.000Z"
+      "publishedAt": "2026-04-14T11:59:12.000Z"
     },
     {
-      "title": "Safe-haven dollar nudges lower as traders hope for Mideast breakthrough",
+      "title": "US, Iran Mull Second Meeting; Hormuz Blockade Begins | Horizons Middle East & Africa 4/14/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-14/horizons-middle-east-africa-04-14-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-14T11:50:57.000Z"
+    },
+    {
+      "title": "UK’s Reeves Calls Out Folly of US War in Iran Without Exit Plan",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/uk-chancellor-en-route-to-washington-calls-out-folly-of-us-war",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-14T11:46:13.000Z"
+    },
+    {
+      "title": "US, Iran Weigh More Talks; United Pitches Tie-Up with American Airlines | Bloomberg Brief 4/14/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-14/bloomberg-brief-4-14-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-14T11:41:07.000Z"
+    },
+    {
+      "title": "Dollar falls as traders hope for Mideast conflict resolution",
       "url": "https://www.investing.com/news/economy-news/dollar-steady-as-us-blocks-iranian-ships-talks-continue-4611612",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T09:07:19.000Z"
+      "publishedAt": "2026-04-14T11:37:48.000Z"
     },
     {
-      "title": "I gave my friend’s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?",
-      "url": "https://www.marketwatch.com/story/it-feels-awkward-i-gave-my-friends-daughter-cash-for-her-wedding-silence-do-i-say-something-2d4c9562?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-14T09:07:00.000Z"
-    },
-    {
-      "title": "ECB seeks bigger say on banks’ capital requirements",
-      "url": "https://www.investing.com/news/economy-news/ecb-seeks-bigger-say-on-banks-capital-requirements-4612011",
+      "title": "JPMorgan profit beats estimates on record trading haul, strong dealmaking",
+      "url": "https://www.investing.com/news/economy-news/jpmorgan-profit-rises-as-volatile-markets-drive-trading-division-4612264",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-14T09:06:38.000Z"
+      "publishedAt": "2026-04-14T11:36:58.000Z"
     },
     {
-      "title": "Treasuries Climb as Oil Prices Drop on Iran Peace Deal Optimism",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-14/treasuries-climb-as-oil-prices-drop-on-iran-peace-deal-optimism",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T09:05:56.000Z"
+      "title": "Investors are bracing for a growth shock in Europe, new survey shows",
+      "url": "https://www.investing.com/news/economy-news/investors-are-bracing-for-a-growth-shock-in-europe-new-survey-shows-4612494",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-14T11:35:04.000Z"
     },
     {
-      "title": "Pink buys striking Greenwich Village townhouse for $21 million: ‘A piece of New York City history’",
-      "url": "https://www.marketwatch.com/story/pink-buys-striking-greenwich-village-townhouse-for-21-million-a-piece-ofnew-yorkcity-history-92810655?mod=mw_rss_topstories",
+      "title": "‘It is their fault’: My condo board forgot to bill for storage fees. Must I pay retroactively?",
+      "url": "https://www.marketwatch.com/story/it-is-their-fault-my-condo-board-forgot-to-bill-for-storage-fees-must-i-pay-retroactively-e5f6246b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-14T09:03:00.000Z"
+      "publishedAt": "2026-04-14T11:34:00.000Z"
     },
     {
-      "title": "Kenneth Cole is asking $16 million for his longtime upstate New York home once rented by George Clooney",
-      "url": "https://www.marketwatch.com/story/kenneth-cole-is-asking-16-million-for-his-longtime-upstate-new-york-home-once-rented-by-george-clooney-0575ef8e?mod=mw_rss_topstories",
+      "title": "Warning Sign for Stocks Seen in Surging Inflation Expectations",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/warning-sign-for-stocks-seen-in-surging-inflation-expectations",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-14T11:32:25.000Z"
+    },
+    {
+      "title": "JPMorgan sees revenue surge in markets and investment banking, but here’s why the stock is pulling back",
+      "url": "https://www.marketwatch.com/story/jpmorgans-markets-and-investment-banking-revenue-surge-but-heres-why-the-stock-is-pulling-back-2e03575f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-14T09:01:00.000Z"
+      "publishedAt": "2026-04-14T11:31:00.000Z"
     },
     {
-      "title": "Private Jet Company Bond Ups Bombardier Commitment to $5 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-14/private-jet-company-bond-ups-bombardier-commitment-to-5-billion",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T09:00:00.000Z"
+      "title": "India auto industry warns of Middle East war impact on production",
+      "url": "https://www.investing.com/news/economy-news/india-auto-industry-warns-of-middle-east-war-impact-on-production-93CH-4612474",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-14T11:29:19.000Z"
     },
     {
-      "title": "Korea’s Pension Fund NPS Expands Currency Hedging to Bolster Won",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-14/korea-s-pension-fund-nps-expands-currency-hedging-to-bolster-won",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T08:47:07.000Z"
+      "title": "Fund-manager pessimism builds but it’s not at ‘close your eyes and buy’ levels, says Bank of America",
+      "url": "https://www.marketwatch.com/story/fund-manager-pessimism-builds-but-not-at-close-your-eyes-and-buy-levels-says-bank-of-america-92f114fd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-14T11:27:00.000Z"
     },
     {
-      "title": "What to Expect From JPMorgan, Citi After Goldman's Bond-Trading Miss",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-14/jpmorgan-citi-to-report-after-goldman-s-bond-desk-miss-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T08:45:22.000Z"
+      "title": "Why two Wall Street titans just turned bullish on U.S. stocks",
+      "url": "https://www.marketwatch.com/story/why-two-wall-street-titans-have-turned-bullish-on-u-s-stocks-afd0924a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-14T11:25:00.000Z"
     },
     {
-      "title": "IEA Says Gulf Can Resume Half of Shut Oil Fields Weeks After War",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-14/iea-says-gulf-can-resume-half-of-shut-oil-fields-weeks-after-war",
+      "title": "France's Lescure on Iran Ceasefire, Energy, Economy",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-14/france-s-lescure-on-iran-ceasefire-energy-economy-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-14T08:43:19.000Z"
+      "publishedAt": "2026-04-14T11:20:37.000Z"
     }
   ]
 }
