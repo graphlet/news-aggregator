@@ -1,128 +1,114 @@
 {
-  "lastUpdated": "2026-04-18T03:59:49.160Z",
+  "lastUpdated": "2026-04-18T06:32:11.374Z",
   "ai": {
     "developers": [
       {
-        "title": "LLM wiki daemon with per-wiki filesystem isolation",
-        "url": "https://github.com/wastedcode/memex",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T03:37:46.000Z",
+        "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-16T17:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Why hasn't AI improved design quality the way it improved dev speed?",
-        "url": "https://starzup.vercel.app/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T03:26:37.000Z",
+        "title": "Codex for (almost) everything",
+        "url": "https://openai.com/index/codex-for-almost-everything",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-16T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "OpenAI's Vision for the AI Economy",
-        "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T03:11:45.000Z",
+        "title": "The next evolution of the Agents SDK",
+        "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-15T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: devnexus – shared AI brain across repos, sessions, and engineers",
-        "url": "https://github.com/JoshBong/devnexus",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T03:09:05.000Z",
+        "title": "Turn your best AI prompts into one-click tools in Chrome",
+        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-04-14T17:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "The Abstraction Fallacy: Why AI Can Simulate but Not Instantiate Consciousness",
-        "url": "https://deepmind.google/research/publications/231971/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T02:53:44.000Z",
+        "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+        "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-13T06:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Open Soucrce AI-powered screen recording",
-        "url": "https://github.com/getcoherence/studio",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T02:53:34.000Z",
+        "title": "Our response to the Axios developer tool compromise",
+        "url": "https://openai.com/index/axios-developer-tool-compromise",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Unweight: We compressed an LLM 22% without sacrificing quality",
-        "url": "https://blog.cloudflare.com/unweight-tensor-compression/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T02:46:03.000Z",
+        "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+        "url": "https://openai.com/index/cyberagent",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-09T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Objection.ai - The AI Tribunal of Truth",
-        "url": "https://objection.ai/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T02:25:42.000Z",
+        "title": "New ways to balance cost and reliability in the Gemini API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-04-02T16:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Effective Conversational AI Book: Detailed Review",
-        "url": "https://noroinsight.com/effective-conversational-ai-book-review/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T01:58:00.000Z",
+        "title": "Codex now offers more flexible pricing for teams",
+        "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-02T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "New AI-generated videos of Iran war spread across social media",
-        "url": "https://www.youtube.com/watch?v=0mKCBAM4wZs",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T01:28:44.000Z",
+        "title": "Helping developers build safer AI experiences for teens",
+        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-24T11:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN - TokensAI – Mint for AI Usage",
-        "url": "https://tokensai.dev",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T00:43:56.000Z",
+        "title": "How we monitor internal coding agents for misalignment",
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-19T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Steno – Compressed memory with RAG for AI agents",
-        "url": "https://github.com/KultMember6Banger/steno",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T00:26:48.000Z",
+        "title": "Our latest investment in open source security for the AI era",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-03-17T16:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Agentic Dev – AI dev-tools news, curated daily by Claude",
-        "url": "https://agenticdev.blog/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T00:02:42.000Z",
+        "title": "Introducing GPT-5.4 mini and nano",
+        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-17T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Vibecheck: AI Web Design Slop Fingerprinter",
-        "url": "https://www.vibecheck.fail/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-17T23:45:26.000Z",
+        "title": "Why Codex Security Doesn’t Include a SAST Report",
+        "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-16T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Stop using naive RAG – adding relationships to AI context",
-        "url": "https://news.ycombinator.com/item?id=47811753",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-17T23:35:02.000Z",
+        "title": "From model to agent: Equipping the Responses API with a computer environment",
+        "url": "https://openai.com/index/equip-responses-api-computer-environment",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-11T11:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
-      {
-        "title": "Show HN: Mind-OS – First free online AI dependency self‑assessment",
-        "url": "https://iamalex-afk.github.io/human-os-patch-33-protocols/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-17T21:40:25.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Logfare.ai – Free LLM Inference. No Auth. No Limits",
-        "url": "https://news.ycombinator.com/submit",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-17T21:26:11.000Z",
-        "category": "everyone"
-      },
       {
         "title": "OpenAI’s former Sora boss is leaving",
         "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
@@ -213,23 +199,23 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-04-15T15:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Building trust in the AI era with privacy-led UX",
+        "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-04-15T06:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Redefining the future of software engineering",
+        "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-04-14T18:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
-      {
-        "title": "Cerebras Files for IPO as Demand Surges for More Efficient AI Chips",
-        "url": "https://www.wsj.com/tech/chip-startup-cerebras-files-for-initial-public-offering-4aa27ae3",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-17T22:50:04.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Update: EntropyLoop is now the first AI native MCP'd Quantum RNG",
-        "url": "https://github.com/QuantumVillage/EntropyLoop",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-17T22:17:27.000Z",
-        "category": "advancements"
-      },
       {
         "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
         "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
@@ -320,11 +306,116 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "Prompting fundamentals",
+        "url": "https://openai.com/academy/prompting",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Financial services",
+        "url": "https://openai.com/academy/financial-services",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
+      {
+        "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
+        "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-04-18T06:06:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "IPO activity remains muted next week with just one issue opening; three listings lined up",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-activity-remains-muted-next-week-with-just-one-issue-opening-three-listings-lined-up/articleshow/130347804.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T05:48:05.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why Motilal Oswal’s BFSI fund is betting big on capital market ecosystem: Prateek Agarwal of Motilal Oswal AMC",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/why-motilal-oswals-bfsi-fund-is-betting-big-on-capital-market-ecosystem-prateek-agarwal-of-motilal-oswal-amc/articleshow/130347563.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T05:40:57.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Iran war causing staycation spike - holiday firms",
+        "url": "https://www.bbc.com/news/articles/c1eq2xvlg9wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-04-18T05:37:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oil prices well below $100 as Strait of Hormuz reopens but experts aren’t convinced just yet. Here’s why",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-well-below-100-as-strait-of-hormuz-reopens-but-experts-arent-convinced-just-yet-heres-why/articleshow/130347471.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T05:18:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bonus issue, stock split, dividend: 9 stocks to turn ex-record date next week, check details",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-stock-split-dividend-9-stocks-to-turn-ex-record-date-next-week-check-details/slideshow/130347332.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T04:26:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AU Small Finance Bank, ICICI Bank top picks as banking sector shows resilience: Siddhartha Khemka",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/au-small-finance-bank-icici-bank-top-picks-as-banking-sector-shows-resilience-siddhartha-khemka/articleshow/130346954.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T04:23:50.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Akshaya Tritiya: Tapan Patel on why you shouldn't let the recent dip in gold scare you",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/akshaya-tritiya-tapan-patel-on-why-you-shouldnt-let-the-recent-dip-in-gold-scare-you/articleshow/130346907.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T04:20:13.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Gold demand set to remain resilient ahead of Akshaya Tritiya; Bullion remains preferred safe-haven for wealth creation",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-demand-set-to-remain-resilient-ahead-of-akshaya-tritiya-bullion-remains-preferred-safe-haven-for-wealth-creation/articleshow/130346851.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T04:10:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Global Market: Japan says recent yen moves driven by speculative trade",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-says-recent-yen-moves-driven-by-speculative-trade/articleshow/130346764.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T04:01:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Berkshire CEO Abel sold stocks managed by ex-portfolio manager Combs, WSJ reports",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-ceo-abel-sold-stocks-managed-by-ex-portfolio-manager-combs-wsj-reports/articleshow/130346726.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T03:58:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "5 world market themes for the week ahead",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/130346710.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T03:56:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Wall Street Week Ahead: Surging record-high US stocks to wade deeper into earnings season",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-surging-record-high-us-stocks-to-wade-deeper-into-earnings-season/articleshow/130346693.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T03:54:07.000Z",
+        "category": "markets"
+      },
       {
         "title": "X's new Cashtags feature drives $1B trading volume in first two days",
         "url": "https://cointelegraph.com/news/x-cashtags-feature-drives-1-billion-trading-volume-first-two-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -338,100 +429,30 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-04-18T02:28:39.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Social media outlets told to take down fake NSE accounts",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/social-media-outlets-told-to-take-down-fake-nse-accounts/articleshow/130345979.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-18T02:27:08.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Bullish momentum continues, but analysts warn of near-term resistance",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bullish-momentum-continues-but-analysts-warn-of-near-term-resistance/articleshow/130345908.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-18T02:19:16.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jio Financial Q4 net profit falls 14% as expenses spike to Rs 692 crore",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q4-net-profit-falls-14-as-expenses-spike-to-rs-692-crore/articleshow/130345836.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-18T02:07:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Even a Rs 15,000-crore buyback fails to cheer Wipro investors",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/even-a-rs-15000-crore-buyback-fails-to-cheer-wipro-investors/articleshow/130345806.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-18T02:02:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nifty 'maturity' sets stage for a bull market: ICICI Direct",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-direct-view-nifty-maturity-sets-stage-for-a-bull-market/articleshow/130345752.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-18T01:54:20.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Irdai keeps FY27 cession rate at 4%, backs GIC Re role",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/irdai-keeps-fy27-cession-rate-at-4-backs-gic-re-role/articleshow/130345647.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-18T01:29:47.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Sebi clears IPOs of Avaada, Grand Housing &amp; 2 others",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-clears-ipos-of-avaada-grand-housing-2-others/articleshow/130345630.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-18T01:25:20.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jim Cramer on the market's 'remarkable' rally — and what to watch in a big earnings week ahead",
-        "url": "https://www.cnbc.com/2026/04/17/jim-cramer-remarkable-rally-what-to-watch-ahead.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-18T00:42:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Adani bags top spot in richest Asians’ club",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-bags-top-spot-in-richest-asians-club/articleshow/130345547.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-18T00:00:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mortgage rates show signs of falling after Iran war peak",
-        "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-17T23:33:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "RBI’s oil forex window set to fuel rupee recovery",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-oil-fx-window-set-to-fuel-rupee-recovery-state-refiners-crude/articleshow/130345574.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-17T23:30:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
-        "url": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-17T23:23:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
-        "url": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-17T23:22:57.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "XRP leads majors with 8% weekly outperformance, what next after breakout",
+        "url": "https://www.coindesk.com/markets/2026/04/18/xrp-leads-majors-with-8-weekly-outperformance-what-next-after-breakout",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-18T04:54:49.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Circle unveils USDC Bridge for native cross-chain stablecoin transfers",
+        "url": "https://cointelegraph.com/news/circle-launches-usdc-bridge-native-cross-chain-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-18T04:46:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin’s fragile recovery sets up a big short-squeeze risk",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoins-fragile-recovery-sets-up-a-big-short-squeeze-risk/articleshow/130346887.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-18T04:15:05.000Z",
+        "category": "crypto"
+      },
       {
         "title": "How a quantum computer can be used to actually steal your bitcoin in '9 minutes'",
         "url": "https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes",
@@ -515,31 +536,76 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-17T17:37:07.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Singapore Gulf Bank adds stablecoin mint and redeem for 24/7 settlement",
-        "url": "https://cointelegraph.com/news/singapore-gulf-bank-stablecoin-mint-redeem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-17T17:33:41.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "French finance minister backs euro-pegged stablecoins to compete with US",
-        "url": "https://cointelegraph.com/news/french-finance-minister-euro-pegged-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-17T17:14:20.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Beaten-down digital asset treasury names lead crypto stock surge as bitcoin hits $78,000",
-        "url": "https://www.coindesk.com/markets/2026/04/17/beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits-usd78-000",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-17T16:01:15.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Lufthansa’s 100th Birthday Bash Leaves Little Cause for Cheers",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-18/lufthansa-s-100th-birthday-bash-leaves-little-cause-for-cheers",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-18T06:00:00.000Z"
+    },
+    {
+      "title": "Bangladesh Continues Talks with IMF on Key Reforms Tied to Loan",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-18/bangladesh-continues-talks-with-imf-on-key-reforms-tied-to-loan",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-18T05:46:30.000Z"
+    },
+    {
+      "title": "Greek, Indian Tankers U-Turn Before Hormuz Amid Reopening Doubt",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-18/greek-indian-tankers-u-turn-before-hormuz-amid-reopening-doubt",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-18T05:12:54.000Z"
+    },
+    {
+      "title": "Trump threatens to bomb Iran again if no deal is reached by Wednesday",
+      "url": "https://www.investing.com/news/economy-news/trump-threatens-to-bomb-iran-again-if-no-deal-is-reached-by-wednesday-4622107",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-18T05:12:16.000Z"
+    },
+    {
+      "title": "UK Bears Scars to Economy, Trump Ties Even as War Risks Subside",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-18/uk-bears-scars-to-economy-trump-ties-even-as-war-risks-subside",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-18T05:00:00.000Z"
+    },
+    {
+      "title": "Australia extends fuel-quality waivers as supply chain strains persist",
+      "url": "https://www.investing.com/news/economy-news/australia-extends-fuelquality-waivers-as-supply-chain-strains-persist-4622103",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-18T04:30:31.000Z"
+    },
+    {
+      "title": "Why higher pay hasn’t made young adults feel richer",
+      "url": "https://www.ft.com/content/b61f60a3-d4d7-46d9-aa6f-dd78dffe71f5",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-18T04:00:48.000Z"
+    },
+    {
+      "title": "The return of Londonophobia",
+      "url": "https://www.ft.com/content/ba3b3ed8-4f6f-486e-aa8c-fbec8a87ffd6",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-18T04:00:40.000Z"
+    },
+    {
+      "title": "The coming global food crisis",
+      "url": "https://www.ft.com/content/36343e24-b06f-434d-a7e5-6046e7bcf3df",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-18T04:00:25.000Z"
+    },
+    {
+      "title": "Turkey promotes ‘Middle Corridor’ as Strait of Hormuz alternative",
+      "url": "https://www.ft.com/content/a1ea2038-b4d7-4d94-bd02-bfb65d730f45",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-18T04:00:04.000Z"
+    },
+    {
+      "title": "Trump eyes \"historic\" China summit as Xi welcomes Hormuz reopening",
+      "url": "https://www.investing.com/news/economy-news/trump-eyes-historic-china-summit-as-xi-welcomes-hormuz-reopening-4622100",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-18T03:54:12.000Z"
+    },
     {
       "title": "Markets weigh optimism against uncertainty as Trump signals Iran breakthrough",
       "url": "https://www.investing.com/news/economy-news/markets-weigh-optimism-against-uncertainty-as-trump-signals-iran-breakthrough-4622090",
@@ -593,72 +659,6 @@
       "url": "https://www.marketwatch.com/story/cal-maines-stock-falls-as-doj-reportedly-weighs-bigger-crackdown-on-major-egg-producers-96e8315b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-04-17T22:56:00.000Z"
-    },
-    {
-      "title": "I’m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building — or rent it out?",
-      "url": "https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-17T22:41:00.000Z"
-    },
-    {
-      "title": "World Bank launches new strategy to help small states tackle challenges",
-      "url": "https://www.investing.com/news/economy-news/world-bank-launches-new-strategy-to-help-small-states-tackle-challenges-4621937",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-17T22:30:45.000Z"
-    },
-    {
-      "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
-      "url": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-17T22:30:00.000Z"
-    },
-    {
-      "title": "Blue Owl co-founders no longer pledging shares for personal loans",
-      "url": "https://www.ft.com/content/a90dce4c-764c-4b72-8411-685479f46eed",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-17T22:24:55.000Z"
-    },
-    {
-      "title": "Blue Owl Co-CEOs’ Personal Loans No Longer Backed by Firm Shares",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-17/blue-owl-co-ceos-personal-loans-no-longer-backed-by-firm-shares",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-17T22:21:32.000Z"
-    },
-    {
-      "title": "Why do older sellers get less money for their homes than younger sellers?",
-      "url": "https://www.marketwatch.com/story/why-do-older-sellers-get-less-money-for-their-homes-than-younger-sellers-9e48c2ce?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-17T22:16:00.000Z"
-    },
-    {
-      "title": "Geothermal Power Firm Fervo Energy Files for IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-17/geothermal-power-firm-fervo-files-for-initial-public-offering",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-17T22:09:27.000Z"
-    },
-    {
-      "title": "REAL Cookies Founders on The Future of Healthy Snaking",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-17/real-cookies-founders-on-the-future-of-healthy-snaking-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-17T22:09:07.000Z"
-    },
-    {
-      "title": "‘We keep our finances separate’: My boyfriend is in his 50s with no retirement savings — how worried should I be?",
-      "url": "https://www.marketwatch.com/story/we-keep-our-finances-separate-my-boyfriend-is-in-his-50s-with-no-retirement-savings-how-worried-should-i-be-65983086?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-17T22:09:00.000Z"
-    },
-    {
-      "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?",
-      "url": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-17T22:08:00.000Z"
-    },
-    {
-      "title": "Mythos a serious threat but more will follow, Barclays CEO says",
-      "url": "https://www.investing.com/news/economy-news/mythos-a-serious-threat-but-more-will-follow-barclays-ceo-says-4621718",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-17T22:06:33.000Z"
     }
   ]
 }
