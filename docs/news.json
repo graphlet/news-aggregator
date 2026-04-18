@@ -1,142 +1,114 @@
 {
-  "lastUpdated": "2026-04-18T15:17:27.065Z",
+  "lastUpdated": "2026-04-18T18:17:57.063Z",
   "ai": {
     "developers": [
       {
-        "title": "Show HN: SupportBridge – Deterministic AI support that refuses to hallucinate",
-        "url": "https://news.ycombinator.com/item?id=47816451",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T15:01:21.000Z",
+        "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-16T17:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Jetbrain's Research: Understanding AI's Impact on Developer Workflows",
-        "url": "https://blog.jetbrains.com/research/2026/04/ai-impact-developer-workflows/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T14:50:37.000Z",
+        "title": "Codex for (almost) everything",
+        "url": "https://openai.com/index/codex-for-almost-everything",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-16T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "What does annoy you the most with AI today?",
-        "url": "https://news.ycombinator.com/item?id=47816159",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T14:23:44.000Z",
+        "title": "The next evolution of the Agents SDK",
+        "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-15T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Real-time poker engine (replay, telemetry, AI players)",
-        "url": "https://oxyklon.net/portal",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T14:18:54.000Z",
+        "title": "Turn your best AI prompts into one-click tools in Chrome",
+        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-04-14T17:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
-        "url": "https://arxiv.org/abs/2604.14228",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T13:53:58.000Z",
+        "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+        "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-13T06:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Huoziime: An On-Device LLM-Enhanced Input Method for Deep Personalization",
-        "url": "https://arxiv.org/abs/2604.14159",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T13:45:51.000Z",
+        "title": "Our response to the Axios developer tool compromise",
+        "url": "https://openai.com/index/axios-developer-tool-compromise",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "The Abstraction Fallacy: Why AI Can Simulate but Not Instantiate Consciousness",
-        "url": "https://philpapers.org/rec/LERTAF",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T13:36:38.000Z",
+        "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+        "url": "https://openai.com/index/cyberagent",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-09T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "An LLM becomes more coherent as we train it",
-        "url": "https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T13:24:21.000Z",
+        "title": "New ways to balance cost and reliability in the Gemini API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-04-02T16:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Failed Companies Are Selling Old Slack Chats and Email Archives to Train AI",
-        "url": "https://gizmodo.com/failed-companies-are-selling-old-slack-chats-and-email-archives-to-train-ai-2000747916",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T13:07:12.000Z",
+        "title": "Codex now offers more flexible pricing for teams",
+        "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-02T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "SemanticForge: Making AI Values Verifiable Across Cultures",
-        "url": "https://github.com/xiaojialove-DRP/SemanticForge",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T12:27:17.000Z",
+        "title": "Helping developers build safer AI experiences for teens",
+        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-24T11:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: ApplyPilot – Self-Hosted AI-Powered Job Search Companion. Open Source",
-        "url": "https://github.com/eliornl/applypilot",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T12:17:13.000Z",
+        "title": "How we monitor internal coding agents for misalignment",
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-19T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "GPT‑2: 1.5B release (2019)",
-        "url": "https://openai.com/index/gpt-2-1-5b-release/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T12:03:59.000Z",
+        "title": "Our latest investment in open source security for the AI era",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-03-17T16:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "\"The AI burnout is real\"",
-        "url": "https://www.ericdodds.com/blog/the-ai-burnout-is-real",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T11:56:46.000Z",
+        "title": "Introducing GPT-5.4 mini and nano",
+        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-17T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "AI Is Finding More Bugs Than Open-Source Teams Can Fight Off",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-mythos-adds-strain-on-cybersecurity-teams-facing-ai-threats",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T11:50:52.000Z",
+        "title": "Why Codex Security Doesn’t Include a SAST Report",
+        "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-16T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Ricci Flow – AI Web Scraper",
-        "url": "https://chromewebstore.google.com/detail/ricci-flow-â-ai-web-scrap/ngeodkdeahmlnceiomeeidoidhniopam",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T11:34:51.000Z",
+        "title": "From model to agent: Equipping the Responses API with a computer environment",
+        "url": "https://openai.com/index/equip-responses-api-computer-environment",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-03-11T11:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
-      {
-        "title": "Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform",
-        "url": "https://blog.mulerun.com/p/ai-immortality-postmortem/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T15:03:03.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI Agents Can Now Apply for Jobs at G42",
-        "url": "https://www.g42.ai/resources/news/ai-agents-can-now-apply-jobs-g42",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T14:43:58.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "I calculated AI image generation cost for 18 models",
-        "url": "https://komelin.com/blog/ai-image-generation-cost-analysis",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T14:31:41.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "My AI writes to my Apple Health in real time: observations on personal software",
-        "url": "https://shuyangli.substack.com/p/my-ai-writes-to-my-apple-health-in",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T13:47:35.000Z",
-        "category": "everyone"
-      },
       {
         "title": "OpenAI’s former Sora boss is leaving",
         "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
@@ -213,16 +185,37 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-04-16T13:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Why having “humans in the loop” in an AI war is an illusion",
+        "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-04-16T12:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-04-15T15:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Building trust in the AI era with privacy-led UX",
+        "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-04-15T06:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Redefining the future of software engineering",
+        "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-04-14T18:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
-      {
-        "title": "Atlassian's new data collection policy protects rich customers, AI eats the rest",
-        "url": "https://www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-18T11:26:16.000Z",
-        "category": "advancements"
-      },
       {
         "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
         "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
@@ -320,16 +313,114 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "Financial services",
+        "url": "https://openai.com/academy/financial-services",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
+        "title": "Three things to know about FISA Section 702: Congress passes short-term extension of controversial surveillance program",
+        "url": "https://www.cnbc.com/2026/04/17/section-702-fisa-congress-surveillance.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-18T18:09:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Social media giant lays off 1,000 amid AI shift",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/social-media-giant-lays-off-180300652.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T18:03:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The Three Numbers That Determine If Your Social Security Gets Taxed",
+        "url": "https://finance.yahoo.com/economy/policy/articles/three-numbers-determine-social-security-175003093.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T17:50:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Retail Sentiment on TMC Has Flipped Bullish Even as the Stock Sits 17% Down This Year",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/retail-sentiment-tmc-flipped-bullish-175000419.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T17:50:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "JPMorgan has stark message on Qualcomm stock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stark-message-qualcomm-stock-174700656.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T17:47:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why This China Internet ETF Pays Monthly but Caps Your Gains",
+        "url": "https://finance.yahoo.com/markets/options/articles/why-china-internet-etf-pays-174324644.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T17:43:24.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "I Asked ChatGPT How the Stock Market Would Look If We Ignored the 7 Biggest Stocks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/asked-chatgpt-stock-market-look-173906448.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T17:39:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Will There Ever Be Another Dogecoin or Shiba Inu?",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/ever-another-dogecoin-shiba-inu-173500841.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T17:35:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "How Will Dow Jones Futures, Oil Prices React As Iran, Hormuz News Turns?",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-strait-of-hormuz-tesla-earnings/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T17:33:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Inside the Race to Control the World’s Lithium Supply",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/inside-race-control-world-lithium-170000235.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T17:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "ADB chief warns of yen pressure from Japan's too-slow rate hikes",
+        "url": "https://finance.yahoo.com/markets/currencies/articles/adb-chief-warns-yen-pressure-163900561.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T16:39:00.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Iran says Strait of Hormuz is closed again as vessel attempting to cross comes under gunfire",
         "url": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-18T15:14:34.000Z",
+        "publishedAt": "2026-04-18T15:49:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Justice Department refuses to assist French probe into Musk’s X, WSJ reports",
+        "url": "https://www.cnbc.com/2026/04/18/justice-department-france-probe-exlon-musk-x.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-18T15:36:44.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "X Says Cashtags Drove $1 Billion in Trading Volume Within Two Days",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/x-says-cashtags-drove-1-150700942.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-18T15:07:00.000Z",
         "category": "markets"
       },
       {
@@ -338,112 +429,35 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-04-18T15:05:00.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Elon Musk's X Launches Cashtags Feature As It Aims To Bring 'Real-Time Financial Data' To Platform: Here's How It Will Work",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-x-launches-cashtags-150207451.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T15:02:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Should You Sell Adaptive Biotechnologies (ADPT) After Its President and COO Sold 57,000 Shares?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sell-adaptive-biotechnologies-adpt-president-145738490.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:57:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Which Is the Better ETF, Vanguard's Mega-Cap MGK or iShares' Small-Cap IWO?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/better-etf-vanguards-mega-cap-145501572.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:55:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dave Ramsey Helped Him Become A Millionaire By 28. Now He Is Asking For Another Advice About A Creepy Neighbor. 'Go Rent An $800,000 House'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-helped-him-become-144602112.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:46:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Netflix price target raised to $119 from $115 at Seaport Research",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-price-target-raised-119-144137447.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:41:37.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Kailera Therapeutics indicated to open at $24, IPO priced at $16",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/kailera-therapeutics-indicated-open-24-144016735.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:40:16.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The CEO of MoonLake Immunotherapeutics Dumped Shares Worth $2.8 Million. Should Investors Avoid the Stock?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-moonlake-immunotherapeutics-dumped-shares-143701552.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:37:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "There's an 'art' to writing AI prompts for personal finance, MIT professor says",
-        "url": "https://www.cnbc.com/2026/04/18/ai-prompts-personal-finance-advice.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-18T14:30:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump signs order to speed review of psychedelics, including the controversial drug ibogaine",
-        "url": "https://www.cnbc.com/2026/04/18/trump-executive-order-psychedelic-drugs-ibogaine.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-18T14:25:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "This 20-year-old lotto winner chose $1000/week for life over $1M in cash. Here’s why the internet says that’s a mistake",
-        "url": "https://finance.yahoo.com/markets/options/articles/20-old-lotto-winner-chose-141500397.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:15:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
-        "url": "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-18T14:13:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Iran war, $4 gas, took all the fun out of the U.S. consumer economy. There's only so much time to bring it back",
-        "url": "https://www.cnbc.com/2026/04/18/iran-war-gas-prices-consumer-spending-economy.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-18T14:08:53.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "'No tax on tips' wasn't meant to help people buy homes — but 4 million tipped workers could benefit",
-        "url": "https://finance.yahoo.com/economy/policy/articles/no-tax-tips-wasnt-meant-140500628.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:05:00.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "You Do Not Have to Pick the Next Bitcoin to Profit From Crypto. Here Is the Simpler Play.",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/not-pick-next-bitcoin-profit-145000657.html",
+        "title": "6 crypto predictions for 2026, according to analysts",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/6-crypto-predictions-2026-according-100000171.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:50:00.000Z",
+        "publishedAt": "2026-04-18T18:00:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "Solana Price Prediction: How Much Will 1 SOL Be Worth in 2030?",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/solana-price-prediction-much-1-143610296.html",
+        "title": "Crypto Billionaire Attacks Trump Family-Linked World Liberty Financial's Structure, Says Single Individual Can Freeze Any Token Holder's Assets",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-billionaire-attacks-trump-family-173143152.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T14:36:10.000Z",
+        "publishedAt": "2026-04-18T17:31:43.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Binance and Bitget to probe RAVE’s 4,500% token surge as claims of insider-orchestrated rally grow",
+        "url": "https://www.coindesk.com/business/2026/04/18/binance-and-biget-to-probe-rave-s-4-500-token-surge-as-claims-of-insider-orchestrated-rally-grow",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-18T16:46:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "The Lightning Network isn’t ‘helplessly broken’",
+        "url": "https://www.coindesk.com/opinion/2026/04/18/the-lightning-network-isn-t-helplessly-broken",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-18T16:30:00.000Z",
         "category": "crypto"
       },
       {
@@ -451,6 +465,13 @@
         "url": "https://www.coindesk.com/business/2026/04/18/zondacrypto-under-fire-as-poland-s-prime-minister-links-exchange-to-legislative-interference",
         "source": "CoinDesk",
         "publishedAt": "2026-04-18T14:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin 'plebs eat first' mining pool Parasite finds its second BTC block",
+        "url": "https://www.coindesk.com/tech/2026/04/18/bitcoin-plebs-eat-first-mining-pool-parasite-finds-its-second-btc-block",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-18T13:21:26.000Z",
         "category": "crypto"
       },
       {
@@ -472,13 +493,6 @@
         "url": "https://cointelegraph.com/news/poland-parliament-fails-again-to-override-presidential-veto-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-18T12:24:23.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Big Short investor Michael Burry says Trump's Iran war decisions are being driven by something other than foreign policy",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/big-short-investor-michael-burry-121500216.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-18T12:15:00.000Z",
         "category": "crypto"
       },
       {
@@ -522,24 +536,70 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-18T07:32:40.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin falls back to $76,000 as Iran shuts Hormuz again",
-        "url": "https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-18T05:04:12.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "XRP leads majors with 8% weekly outperformance, what next after breakout",
-        "url": "https://www.coindesk.com/markets/2026/04/18/xrp-leads-majors-with-8-weekly-outperformance-what-next-after-breakout",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-18T04:54:49.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Nearly 90% of American adults are vulnerable because they are missing this key document",
+      "url": "https://www.marketwatch.com/story/nearly-90-of-american-adults-are-vulnerable-because-they-are-missing-this-key-document-62820176?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-18T17:15:00.000Z"
+    },
+    {
+      "title": "I gave my friend’s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?",
+      "url": "https://www.marketwatch.com/story/it-feels-awkward-i-gave-my-friends-daughter-cash-for-her-wedding-silence-do-i-say-something-2d4c9562?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-18T17:12:00.000Z"
+    },
+    {
+      "title": "ADB chief warns of yen pressure from Japan’s too-slow rate hikes",
+      "url": "https://www.investing.com/news/economy-news/adb-chief-warns-of-yen-pressure-from-japans-tooslow-rate-hikes-4622167",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-18T16:42:28.000Z"
+    },
+    {
+      "title": "Bloomberg This Weekend 4/18/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-18/bloomberg-this-weekend-4-18-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-18T16:25:10.000Z"
+    },
+    {
+      "title": "Orban Loss, Meloni Setback Signal Left’s EU Return, Ribera Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-18/orban-loss-meloni-setback-signals-left-s-eu-return-ribera-says",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-18T16:16:05.000Z"
+    },
+    {
+      "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?",
+      "url": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-18T16:10:00.000Z"
+    },
+    {
+      "title": "It’s ridiculously easy for kids to get hooked on gambling. Here’s how parents can help.",
+      "url": "https://www.marketwatch.com/story/its-ridiculously-easy-for-kids-to-get-hooked-on-online-gambling-heres-how-parents-can-help-a242ac1b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-18T15:32:00.000Z"
+    },
+    {
+      "title": "How JLL is Embracing Artificial Intelligence | C-Suite Saturdays",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-18/how-jll-is-embracing-artificial-intelligence-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-18T15:11:51.000Z"
+    },
+    {
+      "title": "Iran claims ‘strict control’ of Strait of Hormuz and says it will not be fully reopened",
+      "url": "https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-18T15:10:32.000Z"
+    },
+    {
+      "title": "US Preparing to Board Iran-Linked Ships in Coming Days, WSJ Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-18/us-preparing-to-board-iran-linked-ships-in-coming-days-wsj-says",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-18T15:09:47.000Z"
+    },
     {
       "title": "My friend’s girlfriend went ‘ballistic’ after learning he gives his kids $19,000 a year. Is this a red flag?",
       "url": "https://www.marketwatch.com/story/my-friends-girlfriend-went-ballistic-after-he-gave-his-kids-19-000-a-year-is-this-a-red-flag-c894366f?mod=mw_rss_topstories",
@@ -551,12 +611,6 @@
       "url": "https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-04-18T15:00:00.000Z"
-    },
-    {
-      "title": "Iran claims ‘strict control’ of Strait of Hormuz and says it will not be fully reopened",
-      "url": "https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-18T14:49:44.000Z"
     },
     {
       "title": "Iran Claims ‘Strict Control’ of Strait of Hormuz",
@@ -605,60 +659,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-04-18/federal-agency-probes-suspicious-oil-trades-video",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-04-18T13:58:28.000Z"
-    },
-    {
-      "title": "Peace Deal Uncertain as Iran Says Strait of Hormuz is Shut",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-18/peace-deal-uncertain-iran-says-strait-of-hormuz-is-shut-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-18T13:48:08.000Z"
-    },
-    {
-      "title": "Nigeria Expands Stocks Trading Hours After Frontier Index Return",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-18/nigeria-expands-stocks-trading-hours-after-frontier-index-return",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-18T13:39:26.000Z"
-    },
-    {
-      "title": "Strong Earnings Results Can’t Save Stocks from Dimming Forecasts",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-18/strong-earnings-results-can-t-save-stocks-from-dimming-forecasts",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-18T13:30:00.000Z"
-    },
-    {
-      "title": "Trump expects his Fed chair nominee to cut interest rates. Here’s how Kevin Warsh might try to do it.",
-      "url": "https://www.marketwatch.com/story/trump-expects-his-fed-chair-nominee-to-cut-interest-rates-heres-how-kevin-warsh-might-try-to-do-it-f4cf11cd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-18T13:00:00.000Z"
-    },
-    {
-      "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
-      "url": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-18T13:00:00.000Z"
-    },
-    {
-      "title": "These Alzheimer’s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated.",
-      "url": "https://www.marketwatch.com/story/these-alzheimers-drugs-were-supposed-to-revolutionize-the-way-we-fight-the-disease-the-reality-is-more-complicated-80223b95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-18T13:00:00.000Z"
-    },
-    {
-      "title": "Reed Hastings created a work culture that made Netflix a giant. Can it survive without him?",
-      "url": "https://www.marketwatch.com/story/reed-hastings-created-a-work-culture-that-made-netflix-a-giant-can-it-survive-without-him-cb6d0508?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-18T12:30:00.000Z"
-    },
-    {
-      "title": "Stocks Jump in Face of Uncertainty Over Strait of Hormuz",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-18/stocks-jump-in-face-of-uncertainty-over-strait-of-hormuz-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-18T12:26:06.000Z"
-    },
-    {
-      "title": "The real outcome of the Iran war: America is now the world’s most secure energy power",
-      "url": "https://www.marketwatch.com/story/the-real-outcome-of-the-iran-war-america-is-now-the-worlds-most-secure-energy-power-70498648?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-18T12:10:00.000Z"
     }
   ]
 }
