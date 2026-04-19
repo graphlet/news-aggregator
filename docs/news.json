@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-04-19T18:17:50.905Z",
+  "lastUpdated": "2026-04-19T21:14:44.885Z",
   "ai": {
     "developers": [
+      {
+        "title": "How are you handling security for AI agents that use MCP tools?",
+        "url": "https://news.ycombinator.com/item?id=47827684",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T21:11:02.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Context.ai seemingly cause of Vercel breach",
+        "url": "https://twitter.com/jaimeblascob/status/2045960143209152981",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T21:01:37.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Ask HN: Is giving AI agents DB access the new BI-tool problem?",
+        "url": "https://news.ycombinator.com/item?id=47827486",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T20:44:39.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The time when we suffer from large amounts of AI slop is gone",
+        "url": "https://lists.haxx.se/pipermail/daniel/2026-April/000153.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T20:24:18.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
+        "url": "https://arxiv.org/abs/2604.04721",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T20:12:26.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Lmcli v0.5.0 – A useable tool for LLM minimalists",
+        "url": "https://codeberg.org/mlow/lmcli",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T19:58:05.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The Economist who was terrified of AI just found a rare reason for hope",
+        "url": "https://fortune.com/2026/04/19/alex-imas-human-jobs-ai-economy-chicago-economist-substack-doomsday-scenario/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T19:30:25.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The LLM costs are not going up",
+        "url": "https://simianwords.bearblog.dev/conclusive-proofs-that-llm-costs-are-going-down/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T19:26:13.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Stop Creating AI Slop [video]",
+        "url": "https://www.youtube.com/watch?v=Yxxk0LCeP3s",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T19:06:36.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Epistemic Suicide: Why AI Is Collapsing into Mediocrity",
+        "url": "https://medium.com/@erinacius4455/full-linkedin-article-english-version-6611a87d02c5",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T18:24:03.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Cardynal – AI support agent for businesses, no code, WhatsApp and web chat",
+        "url": "https://cardynal.io",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T18:23:39.000Z",
+        "category": "developers"
+      },
       {
         "title": "Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend",
         "url": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
@@ -29,86 +106,23 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-19T17:18:43.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Auto pentest your LLM endpoint and watch the chat in real-time",
-        "url": "https://www.wraith.sh/scan",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T17:15:01.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Self-healing GitHub CI that won't let AI touch your application code",
-        "url": "https://github.com/mosidze/aiheal",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T16:25:55.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Is Killing Open Source SaaS Too",
-        "url": "https://nmn.gl/blog/open-source-killed-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T16:25:38.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The State of LLM Bug Bounties in 2026",
-        "url": "https://wraith.sh/learn/state-of-llm-bug-bounties-2026",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T16:19:52.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Passmark: Open-source Playwright library for AI regression testing",
-        "url": "https://passmark.dev",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T15:51:28.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Sandboxed AI agent orchestration platform",
-        "url": "https://github.com/superhq-ai/superhq",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T15:51:06.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Scoring 500 Show HN pages for AI design slop",
-        "url": "https://www.adriankrebs.ch/blog/design-slop/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T15:27:41.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Nvidia's once-tight bond with gamers is cracking over AI",
-        "url": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T14:59:35.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Why AI Needs a Sense of Smell",
-        "url": "https://www.noemamag.com/why-ai-needs-a-sense-of-smell/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T14:21:58.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The Vertical AI OS: What I'd Build If I Were Starting a SaaS Today",
-        "url": "https://substack.com/home/post/p-194446321",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T14:04:53.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "DictaFlow – hold-to-talk AI dictation that works inside Citrix and RDP",
-        "url": "https://dictaflow.io/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T14:02:26.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "The demand for local AI could shape a new business model for Apple",
+        "url": "https://9to5mac.com/2026/04/19/apple-local-ai-server-hosting-new-business-model/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T21:10:57.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Cloud development platform Vercel was hacked",
+        "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-19T19:54:52.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Show HN: A privacy-first, local-LLM note app for iOS (Google Keep alternative)",
         "url": "https://github.com/moeen-mahmud/remen",
@@ -128,13 +142,6 @@
         "url": "https://innerzero.com",
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-19T14:58:24.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "0: I built an app that creates AI real estate videos",
-        "url": "https://www.tourestateai.com/en",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T11:57:30.000Z",
         "category": "everyone"
       },
       {
@@ -194,13 +201,6 @@
         "category": "everyone"
       },
       {
-        "title": "Gemini can now pull from Google Photos to generate personalized images",
-        "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-04-16T16:00:00.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "New ways to create personalized images in the Gemini app",
         "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
         "source": "Google AI Blog",
@@ -217,17 +217,17 @@
     ],
     "advancements": [
       {
+        "title": "Autoloom – Autonomous AI Agent built on tinyloom",
+        "url": "https://github.com/thresher-sh/autoloom",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-19T20:18:08.000Z",
+        "category": "advancements"
+      },
+      {
         "title": "Building Autonomous Business Systems with AI Agents",
         "url": "https://ainative.business/book/",
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-19T17:07:18.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Atlassian's new data collection policy protects rich customers while AI eats",
-        "url": "https://www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-19T11:58:15.000Z",
         "category": "advancements"
       },
       {
@@ -326,112 +326,126 @@
   "finance": {
     "markets": [
       {
-        "title": "Meet the Monster Stock That Continues to Crush the Market",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/meet-monster-stock-continues-crush-175000325.html",
+        "title": "Prediction: It's Not Too Late to Buy Broadcom Stock After Another Win for the Company",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-not-too-buy-broadcom-210500591.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:50:00.000Z",
+        "publishedAt": "2026-04-19T21:05:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Fast food value war: McDonald’s vs Taco Bell vs Chipotle",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/fast-food-value-war-mcdonald-174700036.html",
+        "title": "3 Signs You’re Insurance-Rich and Cash-Poor — How To Save Hundreds Now",
+        "url": "https://finance.yahoo.com/markets/articles/3-signs-insurance-rich-cash-205506442.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:47:00.000Z",
+        "publishedAt": "2026-04-19T20:55:06.000Z",
         "category": "markets"
       },
       {
-        "title": "Elser Financial Planning Loads Up on Merchants Bancorp Shares Worth $1.1 Billion",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elser-financial-planning-loads-merchants-174543396.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:45:43.000Z",
+        "title": "Trump says U.S. struck and seized Iranian-flagged cargo ship in Gulf of Oman",
+        "url": "https://www.cnbc.com/2026/04/19/trump-navy-iran-ship-gulf-of-oman.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-19T20:53:36.000Z",
         "category": "markets"
       },
       {
-        "title": "Mesoblast Limited (MESO), One of the Best Long-Term ASX Stocks To Buy Right Now; See Why",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mesoblast-limited-meso-one-best-173522404.html",
+        "title": "Here’s Simulations Plus Inc (SLP)’s Vision for AI in Drug Development",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/simulations-plus-inc-slp-vision-205135993.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:35:22.000Z",
+        "publishedAt": "2026-04-19T20:51:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Citi Remains Confident in Life360 (LIF)’s Long-Term Potential with Raised PT of $68.3",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/citi-remains-confident-life360-lif-173521354.html",
+        "title": "What’s Schrodinger Inc (SDGR) Working Out with Anthropic?",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/schrodinger-inc-sdgr-working-anthropic-205127908.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:35:21.000Z",
+        "publishedAt": "2026-04-19T20:51:27.000Z",
         "category": "markets"
       },
       {
-        "title": "Woodside Energy (WDS) Looks to Improve Analyst Sentiment With New Non-Operated Oil Discovery at Bandit-1 Site",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/woodside-energy-wds-looks-improve-173519423.html",
+        "title": "Why Recursion Pharmaceuticals Inc (RXRX) Expanded Citeline Partnership",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/why-recursion-pharmaceuticals-inc-rxrx-205117919.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:35:19.000Z",
+        "publishedAt": "2026-04-19T20:51:17.000Z",
         "category": "markets"
       },
       {
-        "title": "National Bank Downgrades Newmont (NEM) to “Sector Perform” Amid Rising Costs Tied to Higher Diesel Prices",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/national-bank-downgrades-newmont-nem-173517561.html",
+        "title": "Butterfly Network Inc (BFLY): Top Medical AI Stock to Buy",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/butterfly-network-inc-bfly-top-205109124.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:35:17.000Z",
+        "publishedAt": "2026-04-19T20:51:09.000Z",
         "category": "markets"
       },
       {
-        "title": "JPMorgan Initiates ResMed (RMD) With “Overweight” Rating and A$37.6 PT",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-initiates-resmed-rmd-overweight-173516566.html",
+        "title": "Here is Why Lantheus Holdings Inc (LNTH) Is Among the Best Medical AI Stocks to Invest In",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/why-lantheus-holdings-inc-lnth-205100222.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:35:16.000Z",
+        "publishedAt": "2026-04-19T20:51:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Truist Cuts PT on Amcor plc (AMCR) to $50 Amid Higher Energy and Freight Costs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/truist-cuts-pt-amcor-plc-173514015.html",
+        "title": "Teladoc Health Inc (TDOC): AI Push Amid Share BuyBack Calls",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/teladoc-health-inc-tdoc-ai-205050466.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:35:14.000Z",
+        "publishedAt": "2026-04-19T20:50:50.000Z",
         "category": "markets"
       },
       {
-        "title": "Strong Analyst Sentiment on Block (XYZ) As Company Looks to Streamline and Differentiate Its Fintech Platform",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/strong-analyst-sentiment-block-xyz-173511501.html",
+        "title": "Here’s What TD Cowen Thinks About Tempus AI Inc (TEM) Stock",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/td-cowen-thinks-tempus-ai-205041783.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:35:11.000Z",
+        "publishedAt": "2026-04-19T20:50:41.000Z",
         "category": "markets"
       },
       {
-        "title": "Intel Stock Has Added More Than $137 Billion in Value Since March 30. Here's What Happens Next.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-added-more-137-173500487.html",
+        "title": "Favorable Zio Results Brighten iRhythm Holdings, Inc (IRTC)’s Prospects",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/favorable-zio-results-brighten-irhythm-205031899.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:35:00.000Z",
+        "publishedAt": "2026-04-19T20:50:31.000Z",
         "category": "markets"
       },
       {
-        "title": "Analyst sends bold stock market message as S&P 500 hits new highs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-sends-bold-stock-market-173300092.html",
+        "title": "What Makes Veeva Systems Inc (VEEV)’s Future Bright?",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/makes-veeva-systems-inc-veev-205021311.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:33:00.000Z",
+        "publishedAt": "2026-04-19T20:50:21.000Z",
         "category": "markets"
       },
       {
-        "title": "Forget The Chip Boom: Wall Street's 'Ultimate Contrarian Trade' Favors Software For 2026",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/forget-chip-boom-wall-streets-173111755.html",
+        "title": "Here’s What Piper Sandler Thinks About Boston Scientific Corp (BSX) Now",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/piper-sandler-thinks-boston-scientific-205012055.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:31:11.000Z",
+        "publishedAt": "2026-04-19T20:50:12.000Z",
         "category": "markets"
       },
       {
-        "title": "People Say Their Power Bills Are Spiking Even Though They Haven't Changed Their Habits. 'I'm Kicking Myself That I Didn't Get Solar Years Ago'",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/people-power-bills-spiking-even-173105643.html",
+        "title": "Tesla Has Reclaimed Its Spot as the Leading Global EV Manufacturer, but Is the Stock a Buy?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-reclaimed-spot-leading-global-204100652.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:31:05.000Z",
+        "publishedAt": "2026-04-19T20:41:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Prediction: The Biggest Winners of 2026 Are These 5 AI Stocks Nobody's Paying Attention to Right Now",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/prediction-biggest-winners-2026-5-172100955.html",
+        "title": "Wall Street just sent oil stocks a brutal message after Iran’s move",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/wall-street-just-sent-oil-203300330.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:21:00.000Z",
+        "publishedAt": "2026-04-19T20:33:00.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "2024 BTC cycle 'dramatically' underperforming previous halvings: Analyst",
+        "url": "https://cointelegraph.com/news/bitcoin-cycle-dramatically-underperform-halving?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-19T18:48:06.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Previewing Consensus' Policy Summit: State of Crypto",
+        "url": "https://www.coindesk.com/policy/2026/04/19/previewing-consensus-policy-summit-state-of-crypto",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-19T18:30:00.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Web3 VCs have a differentiation problem",
         "url": "https://www.coindesk.com/opinion/2026/04/19/web3-vcs-have-a-differentiation-problem",
@@ -440,31 +454,10 @@
         "category": "crypto"
       },
       {
-        "title": "Pakistan's Crypto Leap Leaving India Behind? Here Are How The Two South Asian Countries Compare",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/pakistans-crypto-leap-leaving-india-180109143.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T18:01:09.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "'DeFi is dead': crypto community scrambles after this year's biggest hack exposes contagion risks",
         "url": "https://www.coindesk.com/news-analysis/2026/04/19/defi-is-dead-crypto-community-scrambles-after-usd292-million-hack-exposes-cross-chain-risks",
         "source": "CoinDesk",
         "publishedAt": "2026-04-19T17:49:03.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Alcoa (AA) Well-Positioned In A Highly Volatile Mining Backdrop, According to Morgan Stanley",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alcoa-aa-well-positioned-highly-173513468.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:35:13.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Michael Saylor’s Latest Post Has the Market Looking for Strategy’s Next Bitcoin Buy",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-latest-post-market-172400811.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-19T17:24:00.000Z",
         "category": "crypto"
       },
       {
@@ -536,27 +529,106 @@
         "source": "CoinDesk",
         "publishedAt": "2026-04-19T11:00:00.000Z",
         "category": "crypto"
+      },
+      {
+        "title": "Aluminum giant Alcoa to sell dormant smelter to Bitcoin miner NYDIG: Report",
+        "url": "https://cointelegraph.com/news/alcoa-sells-massena-smelter-nydig-bitcoin-mining-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-19T10:19:28.000Z",
+        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Iran rejects second round of talks, suspects possible U.S. attack - report",
+      "title": "Hedge Fund Pay Spirals Even Higher in New Trader-Poaching Strategy",
+      "url": "https://www.bloomberg.com/news/features/2026-04-19/hedge-funds-frenzied-job-market-sends-pay-spiraling-higher",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-19T21:00:12.000Z"
+    },
+    {
+      "title": "Investors brace for renewed volatility after this weekend’s Iran developments",
+      "url": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-19T20:54:00.000Z"
+    },
+    {
+      "title": "The S&P 500 has blown past 7,000 in an epic comeback rally. Here’s why it can keep going.",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-19T20:41:00.000Z"
+    },
+    {
+      "title": "UAE in Talks With US for Possible Financial Lifeline, WSJ Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-19/uae-in-talks-with-us-for-possible-financial-lifeline-wsj-says",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-19T20:39:54.000Z"
+    },
+    {
+      "title": "These Alzheimer’s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated.",
+      "url": "https://www.marketwatch.com/story/these-alzheimers-drugs-were-supposed-to-revolutionize-the-way-we-fight-the-disease-the-reality-is-more-complicated-80223b95?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-19T20:13:00.000Z"
+    },
+    {
+      "title": "U.S. fires at, takes custody of Iranian cargo ship - Trump",
       "url": "https://www.investing.com/news/economy-news/vp-vance-to-lead-us-team-in-pakistan-as-trump-warns-iran-of-strikes-if-talks-fail-4622219",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-19T17:29:44.000Z"
+      "publishedAt": "2026-04-19T19:55:23.000Z"
+    },
+    {
+      "title": "Traders Brace for Renewed Turmoil on Hormuz Standoff",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-19/traders-brace-for-renewed-turmoil-on-hormuz-standoff-markets-wrap",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-19T19:45:33.000Z"
+    },
+    {
+      "title": "Germany’s Merz, Brazil’s Lula stress close European-Brazilian cooperation",
+      "url": "https://www.investing.com/news/economy-news/germanys-merz-brazils-lula-stress-close-europeanbrazilian-cooperation-4622243",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-19T19:42:47.000Z"
+    },
+    {
+      "title": "Trump Says US Military Seized An Iranian Vessel in Gulf of Oman",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-19/trump-says-us-military-seized-an-iranian-vessel-in-gulf-of-oman",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-19T19:29:34.000Z"
+    },
+    {
+      "title": "QXO to buy insulation company TopBuild in $17bn deal",
+      "url": "https://www.ft.com/content/b205801e-1fb7-4ae4-ad1d-be0c18bdbd1b",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-19T19:02:18.000Z"
+    },
+    {
+      "title": "Next Catalyst for Treasury Bonds Is Named Kevin Warsh",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-19/kevin-warsh-fed-hearings-will-be-treasury-bonds-next-catalyst",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-19T19:00:00.000Z"
+    },
+    {
+      "title": "Bank Debate Interview: Umar Farooq and Shahmir Khaliq",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-19/bank-debate-interview-umar-farooq-and-shahmir-khaliq-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-19T18:19:10.000Z"
+    },
+    {
+      "title": "After Long Avoiding Politics, Commodity Traders Cozy Up to Trump",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-19/after-long-avoiding-politics-commodity-traders-cosy-up-to-trump",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-19T18:08:23.000Z"
+    },
+    {
+      "title": "Pro-Russia ex-president on course to win Bulgaria’s elections",
+      "url": "https://www.ft.com/content/0a4fc2b2-cebf-4202-9ac5-56a965fb262e",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-19T17:19:08.000Z"
     },
     {
       "title": "Impact of Iran war will hurt US even after conflict ends, economists warn",
       "url": "https://www.ft.com/content/80436d72-25e1-4a97-be09-3327c2d0af9a",
       "source": "Financial Times",
       "publishedAt": "2026-04-19T17:00:07.000Z"
-    },
-    {
-      "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here’s why it can keep going.",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-19T16:57:00.000Z"
     },
     {
       "title": "Pointed News Quiz | Investigations, Business Leaders, Cons",
@@ -587,78 +659,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-04-19/rep-stutzman-war-has-made-life-harder-for-constituents-video",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-04-19T15:14:15.000Z"
-    },
-    {
-      "title": "Trump to send US officials to Pakistan for fresh peace talks with Iran",
-      "url": "https://www.ft.com/content/0e51cdea-99df-4913-8c71-03396c4a6faf",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-19T15:11:07.000Z"
-    },
-    {
-      "title": "Fmr. Secretary of Defense Esper: \"It's Gonna Be Hard To Get a Deal Done\"",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-19/fmr-sod-esper-it-s-gonna-be-hard-to-get-a-deal-done-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-19T15:02:10.000Z"
-    },
-    {
-      "title": "Why Private Credit Is Not a Financial Crisis Threat",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-19/why-private-credit-is-not-a-financial-crisis-threat-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-19T14:49:46.000Z"
-    },
-    {
-      "title": "Jon Finer Criticizes Lack of Expertise in Iran Negotiations",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-19/finer-criticizes-lack-of-expertise-in-iran-negotiations-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-19T14:36:05.000Z"
-    },
-    {
-      "title": "Global leftists rally in Spain hoping to spark resurgence against far right",
-      "url": "https://www.investing.com/news/economy-news/global-leftists-rally-in-spain-hoping-to-spark-resurgence-against-far-right-4622225",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-19T14:18:30.000Z"
-    },
-    {
-      "title": "Achieving a Comfortable Retirement Amid Rising Costs",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-19/achieving-a-comfortable-retirement-amid-rising-costs-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-19T14:10:05.000Z"
-    },
-    {
-      "title": "Are the Rich Paying Their Fair Share of Taxes?",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-19/are-the-rich-paying-their-fair-share-of-taxes-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-19T14:03:45.000Z"
-    },
-    {
-      "title": "Option Traders Chasing Torrid Stock Rally Turn Focus to Earnings",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-19/option-traders-chasing-torrid-stock-rally-turn-focus-to-earnings",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-19T14:00:00.000Z"
-    },
-    {
-      "title": "EU Special Rep. Ollogren Says Peace Requires Israel Restrains Itself",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-19/eusr-says-peace-requires-israel-restrains-itself-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-19T13:39:52.000Z"
-    },
-    {
-      "title": "Hormuz shipping chaos returns as Iran reverses transit reopening",
-      "url": "https://www.investing.com/news/economy-news/hormuz-shipping-chaos-returns-as-iran-reverses-transit-reopening-4622178",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-19T13:33:53.000Z"
-    },
-    {
-      "title": "Big Tech’s $4 Trillion Boomerang Powers S&amp;P 500 to New Heights",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-19/big-tech-s-4-trillion-boomerang-powers-s-p-500-to-new-heights",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-19T13:00:07.000Z"
-    },
-    {
-      "title": "Chef Andrew Zimmern Explains Eating for Sustainability",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-19/chef-andrew-zimmern-explains-eating-for-sustainability-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-19T12:53:26.000Z"
     }
   ]
 }
