@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T06:53:31.425Z",
+  "lastUpdated": "2026-04-20T09:41:06.140Z",
   "ai": {
     "developers": [
       {
@@ -110,6 +110,13 @@
     ],
     "everyone": [
       {
+        "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+        "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-04-20T09:00:00.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Cloud development platform Vercel was hacked",
         "url": "https://www.theverge.com/tech/914723/vercel-hacked",
         "source": "The Verge – AI",
@@ -205,13 +212,6 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
         "source": "Google AI Blog",
         "publishedAt": "2026-04-15T15:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Building trust in the AI era with privacy-led UX",
-        "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-04-15T06:00:00.000Z",
         "category": "everyone"
       }
     ],
@@ -326,117 +326,159 @@
   "finance": {
     "markets": [
       {
-        "title": "Trent shares jump 4% ahead of board meet to consider bonus issue on April 22",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-jump-4-ahead-of-board-meet-to-consider-bonus-issue-on-april-22/articleshow/130384879.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T06:50:52.000Z",
+        "title": "Dow futures decline as Iranian war tensions escalate: Live updates",
+        "url": "https://www.cnbc.com/2026/04/19/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-20T09:39:20.000Z",
         "category": "markets"
       },
       {
-        "title": "ICICI Bank’s sharp drop in provisions signals strength; HDFC Bank treads carefully amid growth concerns: Dnyanada Vaidya",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/icici-banks-sharp-drop-in-provisions-signals-strength-hdfc-bank-treads-carefully-amid-growth-concerns-dnyanada-vaidya/articleshow/130384639.cms",
+        "title": "Valeo and RESRG Automotive expand partnership to China",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/valeo-resrg-automotive-expand-partnership-093855407.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T09:38:55.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Major 7.5-magnitude quake hits off Japan, triggers tsunami warnings",
+        "url": "https://www.cnbc.com/2026/04/20/japan-earthquake-tsunami-warning.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-20T09:35:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Gerresheimer shuns Silgan bid to focus on accounting clean-up – report",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/gerresheimer-shuns-silgan-bid-focus-093543489.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T09:35:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "2 Consumer-Staples Dividend Stocks to Buy for High-Yield Dividend Growth",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/2-consumer-staples-dividend-stocks-093500348.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T09:35:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Tesla Stock Investors Just Got Good News From Elon Musk About a Trillion-Dollar Market",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-investors-just-got-093200801.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T09:32:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "GGN’s 6.5% Yield Hides a Costly Secret for Income Investors",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ggn-6-5-yield-hides-093030004.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T09:30:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "HYG Investors Collect 10% Gains Plus Stable Dividends This Year",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hyg-investors-collect-10-gains-092846827.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T09:28:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Market Crash: 2 Healthcare Stocks Worth Loading Up on at a Discount",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/market-crash-2-healthcare-stocks-092800164.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T09:28:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Servicing fees from private funds topped $2bn for advisers, FT analysis",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/servicing-fees-private-funds-topped-092746055.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T09:27:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "K1x secures $175m to scale AI-native tax data platform",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/k1x-secures-175m-scale-ai-092639961.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T09:26:39.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Global Markets | Japan's Nikkei climbs as AI optimism outweighs Mideast concerns",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-climbs-as-ai-optimism-outweighs-mideast-concerns/articleshow/130387901.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T06:43:07.000Z",
+        "publishedAt": "2026-04-20T09:18:28.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Indian market faces AI narrative problem; it'll be smallcaps over largecaps for next 5 years: Manish Gunwani",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/indian-market-faces-ai-narrative-problem-itll-be-smallcaps-over-largecaps-for-next-5-years-manish-gunwani/articleshow/130387635.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-20T09:01:04.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "China calls for ‘concerted’ industry efforts to tackle excess solar production",
+        "url": "https://www.cnbc.com/2026/04/20/china-solar-production-energy-iran-war.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-20T08:53:54.000Z",
         "category": "markets"
       },
       {
         "title": "Oil prices rise after Trump says Iranian ship seized",
         "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-04-20T06:41:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Asia markets mostly rise as U.S.-Iran tensions escalate after ship seizure",
-        "url": "https://www.cnbc.com/2026/04/20/asia-markets-set-to-open-higher-amid-renewed-iran-us-tensions-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-20T06:40:41.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Suzlon Energy shares drop 2% after 35% rally in April so far. Should you buy?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-drop-2-after-35-rally-in-april-so-far-should-you-buy/articleshow/130384566.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T06:38:35.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "'Resumption of hostilities': seized ship, vessel attacks push U.S.-Iran ceasefire toward brink",
-        "url": "https://www.cnbc.com/2026/04/20/us-iran-war-middle-east-conflict-peace-deal-strait-hormuz-shipping-ceasefire-tensions.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-20T06:37:36.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "HDFC Bank vs ICICI Bank vs YES Bank: Which one to buy after Q4 results?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-vs-icici-bank-vs-yes-bank-which-one-to-buy-after-q4-results/articleshow/130383888.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T05:57:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "BHEL shares rally 5% after reporting 18% YoY rise in FY26 provisional turnover",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-shares-rally-5-after-reporting-18-yoy-rise-in-fy26-provisional-turnover/articleshow/130383831.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T05:53:34.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Where to invest now: Chemicals, capital goods, and banking top the list, says Aditya Shah",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/where-to-invest-now-chemicals-capital-goods-and-banking-top-the-list-says-aditya-shah/articleshow/130383774.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T05:51:52.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Apollo Micro Systems shares jump 23% in 2 days after securing arms manufacturing licence",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-micro-systems-shares-jump-23-in-2-days-after-securing-arms-manufacturing-licence/articleshow/130383424.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T05:45:47.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "European stocks set to slump as Gulf tanker attacks threaten ceasefire",
-        "url": "https://www.cnbc.com/2026/04/20/european-markets-stoxx-600-ftse-dax-cac-oil-iran-latest-news.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-20T05:42:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Adani Power shares jump 3% to fresh 52-week high as firm expands nuclear energy ambitions",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-jump-3-to-fresh-52-week-high-as-firm-expands-nuclear-energy-ambitions/articleshow/130383329.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T05:25:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Debt problems in seaside town among  UK's worst",
-        "url": "https://www.bbc.com/news/articles/c3ex27kkq0xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-20T05:23:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Global Markets: Uncertain global outlook keeps investors balancing risk and opportunity",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-uncertain-global-outlook-keeps-investors-balancing-risk-and-opportunity/articleshow/130383279.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T05:22:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rajesh Palviya sees Nifty rally extending this week on strong bullish momentum",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/rajesh-palviya-sees-nifty-rally-extending-this-week-on-strong-bullish-momentum/articleshow/130383167.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-20T05:19:02.000Z",
+        "publishedAt": "2026-04-20T08:41:12.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
+        "title": "A $300 million borrowing spike on Aave signals liquidity crunch after exploit",
+        "url": "https://www.coindesk.com/markets/2026/04/20/a-usd300m-borrowing-spike-on-aave-signals-liquidity-crunch-after-exploit",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-20T09:27:53.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin consolidates near $74,500 after hitting 10-week high of $78,000 as Hormuz tensions weigh on sentiment",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-near-74500-after-hitting-10-week-high-of-78000-as-hormuz-tensions-weigh-on-sentiment/articleshow/130387975.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-20T09:19:21.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Deccan Gold Mines shares rally 16% on India’s first private gold mining project. Check details",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/deccan-gold-mines-shares-rally-16-on-indias-first-private-gold-mining-project-check-details/articleshow/130387076.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-20T08:31:47.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Saylor teases 'bigger' BTC buy days after floating semi-monthly dividends",
+        "url": "https://cointelegraph.com/news/strategy-semi-monthly-dividends-saylor-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-20T06:49:48.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Mixed geopolitical signals making market moves hard to decode: Seth R Freeman",
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/mixed-geopolitical-signals-making-market-moves-hard-to-decode-seth-r-freeman/articleshow/130384112.cms",
         "source": "Economic Times – Markets",
         "publishedAt": "2026-04-20T06:09:38.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Coinbase is testing AI agents that show up on Slack and email",
+        "url": "https://cointelegraph.com/news/coinbase-introduces-two-ai-agents-assist-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-20T06:07:01.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Cloud hosting firm Vercel confirms ‘limited’ hack of user info",
+        "url": "https://cointelegraph.com/news/cloud-hosting-vercel-confirms-limited-hack-user-info?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-20T06:05:56.000Z",
         "category": "crypto"
       },
       {
@@ -451,6 +493,13 @@
         "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-ether-solana-slide-oil-jumps-on-renewed-u-s-iran-war-risks",
         "source": "CoinDesk",
         "publishedAt": "2026-04-20T05:36:18.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Global cooperation on stablecoins critically important, BIS says",
+        "url": "https://finance.yahoo.com/news/global-cooperation-stablecoins-critically-important-050808408.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-20T05:08:08.000Z",
         "category": "crypto"
       },
       {
@@ -487,178 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-20T03:13:37.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Hack at Vercel sends crypto developers scrambling to lock down API keys",
-        "url": "https://www.coindesk.com/tech/2026/04/20/hack-at-vercel-sends-crypto-developers-scrambling-to-lock-down-api-keys",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-20T01:47:28.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "The $292 million Kelp exploit: how it happened, and what it means for DeFi",
-        "url": "https://www.coindesk.com/business/2026/04/19/the-usd292-million-kelp-exploit-how-it-happened-and-what-it-means-for-defi",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-19T22:27:17.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-19T21:42:19.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Stablecoins not a threat to banks in the near-term: Moody's analyst",
-        "url": "https://cointelegraph.com/news/stablecoins-not-a-threat-to-banking-sector-in-the-near-term-moody-s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-19T21:37:01.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "2024 BTC cycle 'dramatically' underperforming previous halvings: Analyst",
-        "url": "https://cointelegraph.com/news/bitcoin-cycle-dramatically-underperform-halving?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-19T18:48:06.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Previewing Consensus' Policy Summit: State of Crypto",
-        "url": "https://www.coindesk.com/policy/2026/04/19/previewing-consensus-policy-summit-state-of-crypto",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-19T18:30:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Web3 VCs have a differentiation problem",
-        "url": "https://www.coindesk.com/opinion/2026/04/19/web3-vcs-have-a-differentiation-problem",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-19T18:13:00.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Tariff refunds are coming: Here’s who will get them first",
-      "url": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories",
+      "title": "I will retire in my early 50s. I have $3.2 million — only $200,000 is in a traditional IRA. Have I beaten the IRS?",
+      "url": "https://www.marketwatch.com/story/i-will-retire-in-my-early-50s-i-have-3-2-million-only-200-000-is-in-a-traditional-ira-have-i-beaten-the-irs-3ab5df98?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-20T06:48:00.000Z"
+      "publishedAt": "2026-04-20T09:30:00.000Z"
     },
     {
-      "title": "Oil jumps, stocks wobble as Mideast ceasefire hangs in the balance",
+      "title": "Goldman’s Snider Says Narrow Earnings Strength Fuels Stock Rally",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/goldman-s-snider-says-narrow-earnings-strength-fuels-stock-rally",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-20T09:22:59.000Z"
+    },
+    {
+      "title": "Oil futures climb after Strait of Hormuz closed again as peace talks thrown into uncertainty",
+      "url": "https://www.marketwatch.com/story/oil-futures-climb-after-strait-of-hormuz-closed-again-as-peace-talks-thrown-into-uncertainty-11988c5b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-20T09:21:00.000Z"
+    },
+    {
+      "title": "Is Europe’s energy debate shifting from affordability to security?",
+      "url": "https://www.investing.com/news/economy-news/is-europes-energy-debate-shifting-from-affordability-to-security-4622600",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-20T09:19:00.000Z"
+    },
+    {
+      "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
+      "url": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-20T09:15:00.000Z"
+    },
+    {
+      "title": "Iran War Seen Boosting Africa’s Renewable Energy Deals",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/iran-war-seen-boosting-africa-s-renewable-energy-deals",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-20T09:11:51.000Z"
+    },
+    {
+      "title": "India, South Korea Aim to Double Trade, Deepen Shipbuilding Ties",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/india-south-korea-aim-to-double-trade-deepen-shipbuilding-ties",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-20T09:11:14.000Z"
+    },
+    {
+      "title": "Fate of new U.S.-Iran peace talks uncertain as ceasefire expiration looms",
+      "url": "https://www.investing.com/news/economy-news/vp-vance-to-lead-us-team-in-pakistan-as-trump-warns-iran-of-strikes-if-talks-fail-4622219",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-20T09:06:23.000Z"
+    },
+    {
+      "title": "Singer Meghan Trainor finally sold her SoCal home for $6.8 million just before canceling her tour",
+      "url": "https://www.marketwatch.com/story/singer-meghan-trainor-finally-sold-her-socal-home-for-6-8-million-just-before-canceling-her-tour-f2d3c976?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-20T09:05:00.000Z"
+    },
+    {
+      "title": "‘Red flags’: Ryan Seacrest on what he looks for in a date, and he lists stunning Napa Valley estate for $19.8 million",
+      "url": "https://www.marketwatch.com/story/red-flags-ryan-seacrest-on-what-he-looks-for-in-a-date-and-he-lists-stunning-napa-valley-estate-for-19-8-million-aa52e6c2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-20T09:01:00.000Z"
+    },
+    {
+      "title": "Iran Wavers on Peace Talks as Tensions Rise After US Seizes Ship",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/iran-wavers-on-peace-talks-as-tensions-rise-after-us-seizes-ship",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-20T09:01:00.000Z"
+    },
+    {
+      "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?",
+      "url": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-20T09:00:00.000Z"
+    },
+    {
+      "title": "I’m planning to retire at 60. Should I sell my house and invest the $500,000?",
+      "url": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-20T09:00:00.000Z"
+    },
+    {
+      "title": "World’s leading political risk consultant says a collapse in the Strait of Hormuz cease-fire is still a big threat",
+      "url": "https://www.marketwatch.com/story/worlds-leading-political-risk-consultant-says-a-collapse-in-the-strait-of-hormuz-cease-fire-is-still-a-big-threat-36845cbc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-20T08:59:00.000Z"
+    },
+    {
+      "title": "Israeli Stock Valuations Soar as Investors Bet on Post-War Gains",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/israeli-stock-valuations-soar-as-investors-bet-on-post-war-boom",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-20T08:56:32.000Z"
+    },
+    {
+      "title": "Top Philippine Property Firm Pauses Luxury Tower on War Fallout",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/top-philippine-property-firm-pauses-luxury-tower-on-war-fallout",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-20T08:47:47.000Z"
+    },
+    {
+      "title": "Hedge Funds Get 'Gazumped' in New Poaching Strategy",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/hedge-funds-get-gazumped-in-new-poaching-strategy-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-20T08:42:59.000Z"
+    },
+    {
+      "title": "Oil jumps, stocks pull back as Mideast ceasefire hangs in the balance",
       "url": "https://www.investing.com/news/economy-news/oil-jumps-and-stock-futures-slip-as-iran-tensions-unsettle-markets-4622263",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-20T06:36:25.000Z"
+      "publishedAt": "2026-04-20T08:42:48.000Z"
     },
     {
-      "title": "How Niche Insurance Shielded Bad Bunny From Bad Weather",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/how-niche-insurance-shielded-bad-bunny-from-bad-weather",
+      "title": "Dollar Will Continue to Fall in Next Few Months, Barclays Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/dollar-to-continue-to-fall-in-next-few-months-barclays-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T06:30:00.000Z"
+      "publishedAt": "2026-04-20T08:35:45.000Z"
     },
     {
-      "title": "A Stock Trader’s Guide to a Fractured Economic World",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/a-stock-trader-s-guide-to-a-fractured-economic-world",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T06:15:00.000Z"
-    },
-    {
-      "title": "Has the U.S. Seizure of an Iranian Ship Doomed Peace Talks? | Insight with Haslinda Amin 04/20/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-20/insight-with-haslinda-amin-4-20-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T06:14:15.000Z"
-    },
-    {
-      "title": "Ninety One Sees South Africa Opportunities in War Volatility",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/ninety-one-sees-south-africa-opportunities-in-war-volatility",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T06:08:42.000Z"
-    },
-    {
-      "title": "Revolut CEO Storonsky Says Digital Bank’s IPO Is Two Years Out",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/revolut-ceo-storonsky-says-digital-bank-s-ipo-is-two-years-out",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T06:00:00.000Z"
-    },
-    {
-      "title": "U.S. stock futures tumble, oil surges as this weekend’s Iran developments rekindle uncertainty",
-      "url": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-20T05:58:00.000Z"
-    },
-    {
-      "title": "US navy seizes Iranian ship after it breaches blockade",
-      "url": "https://www.ft.com/content/0e51cdea-99df-4913-8c71-03396c4a6faf",
+      "title": "Japan issues tsunami warning after major earthquake",
+      "url": "https://www.ft.com/content/2840bbee-d440-40c8-b339-3c2ad2296dbf",
       "source": "Financial Times",
-      "publishedAt": "2026-04-20T05:56:18.000Z"
-    },
-    {
-      "title": "Stocks Set to Fall on Renewed US-Iran Tensions",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-04-20/ftse-100-live-iran-war-trump-hormuz-oil-prices-starmer-pound-bonds-what-s-moving-uk-markets-right-now-markets-today",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T05:54:42.000Z"
-    },
-    {
-      "title": "Investors Bet ‘Peak Uncertainty’ Has Passed as Asia Stocks Climb",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/investors-bet-peak-uncertainty-has-passed-as-asia-stocks-climb",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T05:39:53.000Z"
-    },
-    {
-      "title": "Zimbabwe’s Currency Is Undervalued by Nearly Half, Governor Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/zimbabwe-s-currency-is-undervalued-by-nearly-half-governor-says",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T05:31:00.000Z"
-    },
-    {
-      "title": "Germany’s Sovereign Wealth Fund Is Dropping Weapons Exclusions",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/germany-s-sovereign-wealth-fund-is-dropping-weapons-exclusions",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T05:30:00.000Z"
-    },
-    {
-      "title": "Battle-scarred developing nations look for path out of permacrisis",
-      "url": "https://www.investing.com/news/economy-news/battlescarred-developing-nations-look-for-path-out-of-permacrisis-4622339",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-20T05:24:27.000Z"
-    },
-    {
-      "title": "Iran War Deepens China’s Dependence on the US for Niche Gas",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/iran-war-deepens-china-s-dependence-on-the-us-for-niche-gas",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T05:20:35.000Z"
-    },
-    {
-      "title": "US Seizes Iranian Ship, Peace Talks in Doubt",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-20/us-seizes-iranian-ship-peace-talks-in-doubt-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T05:19:42.000Z"
-    },
-    {
-      "title": "Japan households’ inflation expectations roughly steady, BOJ survey shows",
-      "url": "https://www.investing.com/news/economy-news/japan-households-inflation-expectations-roughly-steady-boj-survey-shows-4622320",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-20T05:18:51.000Z"
-    },
-    {
-      "title": "Iron Ore Gains With China Demand Resilient Ahead of May Day",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/iron-ore-gains-with-china-demand-resilient-ahead-of-may-day",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T05:07:23.000Z"
-    },
-    {
-      "title": "Global cooperation on stablecoins critically important, BIS says",
-      "url": "https://www.investing.com/news/economy-news/global-cooperation-on-stablecoins-critically-important-bis-says-4622337",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-20T05:06:38.000Z"
-    },
-    {
-      "title": "US-Iran Peace Talks in Doubt After Weekend Chaos | The China Show 4/20/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-20/the-china-show-4-20-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-20T04:52:00.000Z"
+      "publishedAt": "2026-04-20T08:24:02.000Z"
     }
   ]
 }
