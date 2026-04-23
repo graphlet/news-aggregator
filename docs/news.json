@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T00:46:34.293Z",
+  "lastUpdated": "2026-04-23T04:06:02.686Z",
   "ai": {
     "developers": [
       {
@@ -308,15 +308,15 @@
         "category": "advancements"
       },
       {
-        "title": "Using custom GPTs",
-        "url": "https://openai.com/academy/custom-gpts",
+        "title": "Prompting fundamentals",
+        "url": "https://openai.com/academy/prompting",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "advancements"
       },
       {
-        "title": "Responsible and safe use of AI",
-        "url": "https://openai.com/academy/responsible-and-safe-use",
+        "title": "ChatGPT for research",
+        "url": "https://openai.com/academy/research",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "advancements"
@@ -326,112 +326,133 @@
   "finance": {
     "markets": [
       {
-        "title": "Japan, South Korea stocks hit record highs as Iran ceasefire extension lifts sentiment",
-        "url": "https://www.cnbc.com/2026/04/23/asia-markets-today-nikkei-kospi-hangseng-sensex-asx-iran-trump.html",
+        "title": "Justin Trudeau tells CNBC that international organizations may no longer be fit for purpose. Watch live",
+        "url": "https://www.cnbc.com/2026/04/23/justin-trudeau-canada-trade-us-trump-geopolitics-iran-war.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-23T00:42:46.000Z",
+        "publishedAt": "2026-04-23T04:01:32.000Z",
         "category": "markets"
       },
       {
-        "title": "Upstream oil and gas producers to shine in Q4, but OMCs and gas distributors face profit squeeze",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/upstream-oil-and-gas-producers-to-shine-in-q4-but-omcs-and-gas-distributors-face-profit-squeeze/articleshow/130454216.cms",
+        "title": "World Liberty accuses Justin Sun of 'misconduct' in response to Tron founder's defamation claims",
+        "url": "https://www.coindesk.com/markets/2026/04/23/world-liberty-accuses-justin-sun-of-misconduct-in-response-to-tron-founder-s-defamation-claims",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-23T03:47:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "SBI Life shares in focus after Q4 net profit declines 1%: Here's why Nomura, Nuvama, other brokerages remain bullish",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-life-shares-in-focus-after-q4-net-profit-declines-1-heres-why-nomura-nuvama-other-brokerages-remain-bullish/articleshow/130456124.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-23T00:34:10.000Z",
+        "publishedAt": "2026-04-23T03:35:09.000Z",
         "category": "markets"
       },
       {
-        "title": "IT takes D-St on a tumble, AI fears pop up on HCL Q4 miss",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-takes-d-st-on-a-tumble-ai-fears-pop-up-on-hcl-q4-miss/articleshow/130454163.cms",
+        "title": "IT stocks could return 20-30% from here, but don't expect a structural bull run: Sandip Agarwal",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/it-stocks-could-return-20-30-from-here-but-dont-expect-a-structural-bull-run-sandip-agarwal/articleshow/130442329.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-23T00:18:26.000Z",
+        "publishedAt": "2026-04-23T03:30:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative",
-        "url": "https://www.cnbc.com/2026/04/22/meta-tracks-employee-usage-on-google-linkedin-ai-training-project.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-23T00:18:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Step aside Tesla, BYD: Japanese carmakers deepen their hold on India's auto market with hybrids",
-        "url": "https://www.cnbc.com/2026/04/23/japanese-carmakers-deepen-hold-in-india-with-hybrids.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-23T00:14:48.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rupee falls for a 3rd day, loses 30 paise to 93.79/$",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-for-a-3rd-day-loses-30-paise-to-93-79/articleshow/130454123.cms",
+        "title": "Adani Power among 4 stocks flashing bullish signals, hinting at a possible uptrend",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-among-4-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/130456096.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-23T00:11:26.000Z",
+        "publishedAt": "2026-04-23T03:29:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Reliance Industries shares down over 15% from peak. Can Q4 results, Jio IPO turn things around?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-down-over-15-from-peak-can-q4-results-jio-ipo-turn-things-around/articleshow/130455993.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-23T03:26:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Piramal Finance among 5 stocks showing bullish RSI upswing",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/piramal-finance-among-5-stocks-showing-bullish-rsi-upswing/slideshow/130455702.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-23T03:02:21.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "IBM revenue growth slows on AI worries; shares fall",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ibm-revenue-growth-slows-on-ai-worries-shares-fall/articleshow/130455556.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-23T02:57:26.000Z",
         "category": "markets"
       },
       {
         "title": "SK Hynix posts record first-quarter profit, in line with estimates as memory prices climb",
         "url": "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-23T00:00:55.000Z",
+        "publishedAt": "2026-04-23T02:45:56.000Z",
         "category": "markets"
       },
       {
-        "title": "JAL Case: NCLAT reserves ruling on Vedanta plea",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jal-case-nclat-reserves-ruling-on-vedanta-plea/articleshow/130454078.cms",
+        "title": "Japan's Nikkei crosses key 60,000 level for first time on tech rally",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-crosses-key-60000-level-for-first-time-on-tech-rally/articleshow/130455336.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-22T23:59:09.000Z",
+        "publishedAt": "2026-04-23T02:43:13.000Z",
         "category": "markets"
       },
       {
-        "title": "Pirro says DOJ won't drop Fed probe, will appeal judge's order blocking Powell subpoenas",
-        "url": "https://www.cnbc.com/2026/04/22/fed-powell-trump-warsh-pirro-appeal.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-22T23:47:42.000Z",
+        "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Financial Highlights",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-today-live-updates-23-apr-2026/liveblog/130455226.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-23T02:34:39.000Z",
         "category": "markets"
       },
       {
-        "title": "IBM shares drop as company beats but opts to maintain guidance",
-        "url": "https://www.cnbc.com/2026/04/22/ibm-q1-earnings-report-2026.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-22T23:35:25.000Z",
+        "title": "Eicher Motors Share Price Live Updates: Eicher Motors shows promising returns",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-23-apr-2026/liveblog/130455223.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-23T02:34:21.000Z",
         "category": "markets"
       },
       {
-        "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
-        "url": "https://www.cnbc.com/2026/04/22/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-22T23:31:35.000Z",
+        "title": "Asian Paints Share Price Live Updates: Strong performance for Asian Paints in the last month",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-23-apr-2026/liveblog/130455222.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-23T02:34:20.000Z",
         "category": "markets"
       },
       {
-        "title": "U.S. Navy Secretary John Phelan leaving Trump administration: Pentagon",
-        "url": "https://www.cnbc.com/2026/04/22/navy-secretary-john-phelan-iran-war.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-22T23:06:14.000Z",
+        "title": "Dr Reddys Share Price Live Updates: Dr. Reddy's Laboratories faces a challenging month",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-23-apr-2026/liveblog/130455214.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-23T02:34:03.000Z",
         "category": "markets"
       },
       {
-        "title": "How a pivot to hair accessories led to business success",
-        "url": "https://www.bbc.com/news/articles/c23992zv9rko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-22T23:04:39.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AI is flattening the jobs market for young people, says Sunak",
-        "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-04-22T23:01:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Tesla misses on revenue but beats on profit as auto margins jump",
-        "url": "https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-22T22:55:08.000Z",
+        "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV achieves notable monthly gains",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-livestock-price-today-live-updates-23-apr-2026/liveblog/130455213.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-23T02:34:01.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Kalshi bans 3 US politicians for betting on their own election races",
+        "url": "https://cointelegraph.com/news/kalshi-bans-us-candidates-election-betting-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-23T02:38:19.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "LONGITUDE recap: Adam Back on Satoshi, crypto regulation needs tweaks",
+        "url": "https://cointelegraph.com/news/longitude-recap-adam-back-on-satoshi-crypto-regulation-needs-tweaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-23T00:30:34.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Four reasons why the crypto market is rallying today: Will bulls maintain control?",
+        "url": "https://cointelegraph.com/news/four-reasons-why-the-crypto-market-is-rallying-today-will-bulls-maintain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-23T00:30:00.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Bitcoin chases monthly high above $80K as nearly all BTC price metrics turn bullish",
         "url": "https://cointelegraph.com/news/bitcoin-chases-monthly-high-above-dollar80k-as-nearly-all-btc-price-metrics-turn-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -515,150 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-22T17:30:14.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Pyth Network to determine outcomes in Kalshi’s commodities expansion",
-        "url": "https://cointelegraph.com/news/kalshi-pyth-commodities-market-pricing-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-22T17:13:45.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Robinhood Venture Fund's $75M stake in OpenAI aims to enable retail investments",
-        "url": "https://cointelegraph.com/news/robinhood-venture-fund-invests-75m-in-openai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-22T16:38:27.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Banks seek to slow down implementation of crypto's GENIUS Act on stablecoin oversight",
-        "url": "https://www.coindesk.com/policy/2026/04/22/banks-seek-to-slow-down-implementation-of-crypto-s-genius-act-on-stablecoin-oversight",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-22T16:23:10.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Why ServiceNow’s stock is sliding in the wake of earnings",
-      "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-23T00:23:00.000Z"
+      "title": "Trampled Underfoot by a Stampede of Unicorns",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-04-23/ipos-trampled-underfoot-by-a-stampede-of-unicorns",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T04:00:24.000Z"
     },
     {
-      "title": "IBM’s stock falls as software revenue underwhelms",
-      "url": "https://www.marketwatch.com/story/ibms-stock-falls-as-software-revenue-underwhelms-61ae8276?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-23T00:22:00.000Z"
+      "title": "Gotion Founder on US Expansion, Supply Chains, and Industry Competition",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/gotion-founder-on-us-expansion-supply-chains-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T03:55:33.000Z"
     },
     {
-      "title": "US Navy secretary fired amid Iran blockade",
-      "url": "https://www.ft.com/content/e2553227-d5d9-46dc-81c4-ca0066b13ad0",
+      "title": "Indonesia Rupiah Falls Most in Seven Months on Rising Oil Prices",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/idr-usd-indonesia-rupiah-falls-most-in-seven-months-on-rising-oil-prices",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T03:47:01.000Z"
+    },
+    {
+      "title": "Copper Falls From Highest Since February With Iran War in Limbo",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/copper-falls-from-highest-since-february-with-iran-war-in-limbo",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T03:24:06.000Z"
+    },
+    {
+      "title": "No Deadline for Iran Proposal Amid Hormuz Standoff: US",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/no-deadline-for-iran-proposal-amid-hormuz-standoff-us-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T03:22:24.000Z"
+    },
+    {
+      "title": "AI Boom Sparks Rush Into Chinese Optical Stocks as Top Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/ai-boom-sparks-rush-into-chinese-optical-stocks-as-top-trade",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T03:22:00.000Z"
+    },
+    {
+      "title": "SpaceX and Tesla are on an inevitable collision course",
+      "url": "https://www.ft.com/content/6ca9125f-f6fa-47ed-9a3b-5202757c02e9",
       "source": "Financial Times",
-      "publishedAt": "2026-04-23T00:21:12.000Z"
+      "publishedAt": "2026-04-23T03:09:01.000Z"
     },
     {
-      "title": "Lululemon is getting a Nike veteran as its new CEO. An analyst says that could be a problem.",
-      "url": "https://www.marketwatch.com/story/lululemon-is-getting-a-nike-veteran-as-its-new-ceo-an-analyst-says-that-could-be-a-problem-500004d1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-23T00:20:00.000Z"
+      "title": "Bank of Japan seen dropping hawkish signs even as it keeps rates steady",
+      "url": "https://www.investing.com/news/economy-news/bank-of-japan-seen-dropping-hawkish-signs-even-as-it-keeps-rates-steady-4631148",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-23T03:06:27.000Z"
     },
     {
-      "title": "CSX says more businesses are shipping via rail to avoid surging fuel costs",
-      "url": "https://www.marketwatch.com/story/csx-says-more-businesses-are-shipping-via-rail-to-avoid-surging-fuel-costs-c674dbab?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-23T00:18:00.000Z"
-    },
-    {
-      "title": "Garuda Leads Losses in Bonds of Asian Airlines Stung by Iran War",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/garuda-leads-losses-in-bonds-of-asian-airlines-stung-by-iran-war",
+      "title": "SoftBank Seeks $10 Billion Loan Backed by OpenAI Shares",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/softbank-seeks-10-billion-loan-backed-by-openai-shares-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-23T00:00:00.000Z"
+      "publishedAt": "2026-04-23T03:05:17.000Z"
     },
     {
-      "title": "POET Technologies’ stock is rocketing. What’s behind the company’s controversial AI-powered rise.",
-      "url": "https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-22T23:58:00.000Z"
-    },
-    {
-      "title": "Tesla Boosts Spending Plan in AI, Robotics Push",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-22/tesla-boosts-spending-plan-in-ai-robotics-push-video",
+      "title": "JPMorgan to Add Philippine Bonds to Key EM Index in 2027",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/jpmorgan-to-add-philippine-bonds-to-key-em-index-in-2027",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-22T23:57:45.000Z"
+      "publishedAt": "2026-04-23T03:00:21.000Z"
+    },
+    {
+      "title": "China’s Factory Hub Faces Gas Price Shock as War Tightens Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/china-s-factory-hub-faces-gas-price-shock-as-war-tightens-supply",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T02:51:43.000Z"
+    },
+    {
+      "title": "Pricey Crude May Pressure Indian Rupee, Trigger More Foreign Outflows",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-23/indian-rupee-may-lag-peers-as-rbi-rebuilds-fx-reserves-infosys-earnings-eyed",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T02:45:38.000Z"
+    },
+    {
+      "title": "Nvidia supplier SK Hynix hails ‘structural shift’ after another record quarter",
+      "url": "https://www.ft.com/content/eea7a8dd-9fe1-44c2-8848-e0730e02c6d5",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-23T02:33:14.000Z"
     },
     {
       "title": "US Senate poised to advance ICE, border funding plan after marathon voting session",
       "url": "https://www.investing.com/news/economy-news/us-senate-poised-to-advance-ice-border-funding-plan-after-marathon-voting-session-4631071",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-22T23:54:23.000Z"
+      "publishedAt": "2026-04-23T02:30:28.000Z"
     },
     {
-      "title": "Intel boosted as Musk says his Terafab will use its latest chipmaking tech",
-      "url": "https://www.ft.com/content/86fa539b-dfbe-4f29-a60e-8d572e9ddbce",
+      "title": "Tokyo Condo Prices Fall Two Months in Row in Sign Boom May Fade",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/tokyo-condo-prices-fall-two-months-in-row-in-sign-boom-may-fade",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T02:01:37.000Z"
+    },
+    {
+      "title": "Australian Pensions Set to Boost Currency Hedging, Survey Shows",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/australian-pensions-to-lift-currency-hedging-as-iran-war-lingers",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-23T01:57:51.000Z"
+    },
+    {
+      "title": "A central banking star comes home",
+      "url": "https://www.ft.com/content/382e4dfb-78f7-434c-a2b2-9de966fce5ea",
       "source": "Financial Times",
-      "publishedAt": "2026-04-22T23:49:21.000Z"
+      "publishedAt": "2026-04-23T01:47:06.000Z"
     },
     {
-      "title": "Australia’s Sovereign Wealth Fund Names Brandweiner as CIO",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/australia-s-sovereign-wealth-fund-names-brandweiner-as-new-cio",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-22T23:48:53.000Z"
-    },
-    {
-      "title": "South Korea economic growth roared past estimates in Q1, thanks to chips",
-      "url": "https://www.investing.com/news/economy-news/south-korea-economic-growth-roared-past-estimates-in-q1-thanks-to-chips-4631064",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-22T23:36:36.000Z"
-    },
-    {
-      "title": "Tesla boosts spending plans to $25bn as Musk doubles down on AI bet",
-      "url": "https://www.ft.com/content/7ce83108-9f2d-48b4-8ce1-28865045bd67",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-22T23:30:15.000Z"
-    },
-    {
-      "title": "Philippine Rate Decision Too Close to Call on Stagflation Risk",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/philippine-rate-decision-too-close-to-call-on-stagflation-risk",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-22T23:00:00.000Z"
-    },
-    {
-      "title": "Why It’s Getting Hard to Use Miles to Book Your Flight",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/why-it-s-getting-hard-to-use-miles-to-book-your-flight",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-22T23:00:00.000Z"
-    },
-    {
-      "title": "Private credit funds for wealthy individuals raise 45% less new money in Q1, RA Stanger says",
-      "url": "https://www.investing.com/news/economy-news/private-credit-funds-for-wealthy-individuals-raise-45-less-new-money-in-q1-ra-stanger-says-4631021",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-22T22:55:50.000Z"
-    },
-    {
-      "title": "3 tests Apple’s new CEO must pass to prove he can grow the company in ways Tim Cook never did",
-      "url": "https://www.marketwatch.com/story/apples-new-ceo-is-a-hardware-legend-that-didnt-save-intel-investors-and-it-wont-guarantee-an-ai-win-c9a0911a?mod=mw_rss_topstories",
+      "title": "FICO’s stock falls as Fannie and Freddie deal the credit-score company a new blow",
+      "url": "https://www.marketwatch.com/story/ficos-stock-falls-as-fannie-and-freddie-deal-the-credit-score-company-a-new-blow-7269c2ab?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-22T22:48:00.000Z"
+      "publishedAt": "2026-04-23T01:43:00.000Z"
     },
     {
-      "title": "Gold Steadies as Hormuz Standoff Keeps Inflation Risk High",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/gold-steadies-as-hormuz-standoff-keeps-inflation-risk-high",
+      "title": "Tesla Boosts Spending Plan to $25 Billion in AI, Robotics Push",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/tesla-boosts-spending-plan-to-25-billion-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-22T22:40:26.000Z"
+      "publishedAt": "2026-04-23T01:42:11.000Z"
     },
     {
-      "title": "Suburban Propane CEO: Producing Record Levels Domestically",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-22/suburban-propane-ceo-see-record-domestic-production-video",
+      "title": "Indonesia Sells ¥172.1 Billion Samurai Bond on Strong Demand",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/indonesia-sells-172-1-billion-samurai-bond-on-strong-demand",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-22T22:22:41.000Z"
-    },
-    {
-      "title": "Asian Equities to Rise After US Stocks Hit Record: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/stock-market-today-dow-s-p-live-updates",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-22T22:18:21.000Z"
+      "publishedAt": "2026-04-23T01:34:52.000Z"
     }
   ]
 }
