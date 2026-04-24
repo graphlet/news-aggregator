@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T12:28:40.237Z",
+  "lastUpdated": "2026-04-24T15:31:08.039Z",
   "ai": {
     "developers": [
       {
@@ -110,7 +110,14 @@
     ],
     "everyone": [
       {
-        "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+        "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+        "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-24T14:43:07.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
         "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
         "source": "The Verge – AI",
         "publishedAt": "2026-04-24T12:00:00.000Z",
@@ -142,13 +149,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
         "source": "The Verge – AI",
         "publishedAt": "2026-04-23T13:45:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
-        "url": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-04-23T11:34:18.000Z",
         "category": "everyone"
       },
       {
@@ -326,116 +326,179 @@
   "finance": {
     "markets": [
       {
-        "title": "Procter & Gamble earnings beat estimates as sales grow 7%",
-        "url": "https://www.cnbc.com/2026/04/24/procter-gamble-pg-q3-2026-earnings.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-24T12:27:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "S&P 500 futures gain as oil declines, Intel shares pop: Live updates",
+        "title": "S&P 500 rises as Intel soars, investors bet on Iran talks restarting: Live updates",
         "url": "https://www.cnbc.com/2026/04/23/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-24T12:26:15.000Z",
+        "publishedAt": "2026-04-24T15:29:10.000Z",
         "category": "markets"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Intel, Advanced Micro Devices, Procter & Gamble & more",
-        "url": "https://www.cnbc.com/2026/04/24/stocks-making-the-biggest-moves-premarket-intc-amd-pg.html",
+        "title": "US justice department drops probe into Fed chairman Jerome Powell",
+        "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-04-24T15:21:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "We're booking a 375% gain in a stock to raise cash for unloved names",
+        "url": "https://www.cnbc.com/2026/04/24/were-booking-a-375percent-gain-in-a-stock-to-raise-cash-for-unloved-names-.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-24T12:22:28.000Z",
+        "publishedAt": "2026-04-24T15:21:09.000Z",
         "category": "markets"
       },
       {
-        "title": "Retirees are thinking of annuities the wrong way — and it may trip them up, advisors say",
-        "url": "https://www.cnbc.com/2026/04/24/retirement-annuities-how-to-buy.html",
+        "title": "Procter & Gamble’s Tides Turning in China, Per Earnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-tides-turning-china-152042391.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:20:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "DOJ drops criminal probe of Fed Chair Powell, removes hurdle for Warsh confirmation",
+        "url": "https://www.cnbc.com/2026/04/24/fed-powell-doj-warsh-trump.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-24T12:15:01.000Z",
+        "publishedAt": "2026-04-24T15:19:33.000Z",
         "category": "markets"
       },
       {
-        "title": "Sebi eases FPI settlement norms, allows netting of funds in cash market to cut costs, improve efficiency",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-fpi-settlement-norms-allows-netting-of-funds-in-cash-market-to-cut-costs-improve-efficiency/articleshow/130493617.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-24T12:10:47.000Z",
+        "title": "The Humanoid Robot Boom Is Here. These 3 ETFs Capture the Entire Supply Chain",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/humanoid-robot-boom-3-etfs-151716628.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:17:16.000Z",
         "category": "markets"
       },
       {
-        "title": "Here are Friday's biggest analyst calls: Apple, AMD, Intel, Oracle, Caterpillar, Shake Shack & more",
-        "url": "https://www.cnbc.com/2026/04/24/friday-wall-street-analyst-calls-like-apple.html",
+        "title": "FDA fast-tracks psychedelic drug research following Trump executive order",
+        "url": "https://www.cnbc.com/2026/04/24/fda-psychedelic-drug-research-trump.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-24T12:05:50.000Z",
+        "publishedAt": "2026-04-24T15:17:11.000Z",
         "category": "markets"
       },
       {
-        "title": "AI data center backlash threatens Pennsylvania GOP incumbents in 2026 election",
-        "url": "https://www.cnbc.com/2026/04/24/ai-data-centers-pennsylvania-republicans-2026-election.html",
+        "title": "AMD Stock Is Up 13% Today – Is It Outperforming Other CPU Companies Like ARM?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-13-today-outperforming-151231707.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:12:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Employee buyouts like Microsoft’s could become more common. Here’s what workers need to know.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/employee-buyouts-microsoft-could-become-211200658.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:12:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "European Defense Rearmament Is Reshaping Markets: These 3 ETFs Capture the Shift",
+        "url": "https://finance.yahoo.com/economy/policy/articles/european-defense-rearmament-reshaping-markets-151107652.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:11:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "SPSM Offers Lower Costs and Higher Yield Than ISCB",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spsm-offers-lower-costs-higher-151027364.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:10:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Xpeng targets 2027 for full-scale flying car delivery",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/xpeng-targets-2027-full-scale-150836105.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:08:36.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AMD shares soar 12% on no company news. Here's what has investors so excited",
+        "url": "https://www.cnbc.com/2026/04/24/amd-shares-soar-on-no-company-news-heres-what-has-investors-so-excited.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-24T12:00:01.000Z",
+        "publishedAt": "2026-04-24T15:08:22.000Z",
         "category": "markets"
       },
       {
-        "title": "Meta will adopt hundreds of thousands of AWS Graviton chips in latest AI infrastructure grab",
-        "url": "https://www.cnbc.com/2026/04/24/meta-will-use-hundreds-of-thousands-of-aws-graviton-chips.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-24T12:00:01.000Z",
+        "title": "Insider Trading Scandals Compound Prediction Market Pressures; Two Stocks Downgraded",
+        "url": "https://www.investors.com/news/prediction-markets-insider-trading-scandals-polymarket-kalshi-white-house-trump-iran-draftkings-flutter/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:03:38.000Z",
         "category": "markets"
       },
       {
-        "title": "Nike cuts 1,400 roles in second round of layoffs this year",
-        "url": "https://www.cnbc.com/2026/04/23/nike-job-cuts-layoffs.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-24T11:46:54.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump warns of ‘big tariff’ if UK doesn’t drop digital services tax on U.S. tech firms",
-        "url": "https://www.cnbc.com/2026/04/24/trump-tariffs-uk-tech-apple-google-meta.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-24T11:45:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Polymarket gambler makes $35,000 profit by using hair dryer to tamper with temperature readings at Paris airport",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/polymarket-gambler-makes-35000-profit-by-using-hair-dryer-to-tamper-with-temperature-readings-at-paris-airport/articleshow/130492802.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-24T11:39:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Porsche is selling its Bugatti Rimac stake and walking away from Rimac",
-        "url": "https://www.cnbc.com/2026/04/24/porsche-bugatti-bluefive-hof-capital-european-supercar-automakers.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-24T11:34:41.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
-        "url": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-24T11:28:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "IndusInd Bank Q4 Results: Lender reports profit of Rs 533 cr vs loss year ago; declares Rs 1.5/share final dividend",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q4-results-lender-reports-profit-of-rs-533-cr-vs-loss-year-ago-declares-rs-1-5/share-final-dividend-check-record-date/articleshow/130492287.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-24T11:20:48.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Foreign car companies bet on technology to hang onto once-lucrative China auto market",
-        "url": "https://www.cnbc.com/2026/04/24/foreign-car-companies-use-technology-to-hang-onto-china-auto-market.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-24T11:18:47.000Z",
+        "title": "Does Lumentum Still Have Gas In Its Tank After A Massive Run?",
+        "url": "https://www.investors.com/stock-lists/ibd-50/lumentum-stock-lite-fiber-optics-data-center-ai-networking/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:02:07.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
+        "title": "Researcher wins 1 bitcoin bounty for 'largest quantum attack' on underlying tech",
+        "url": "https://www.coindesk.com/tech/2026/04/24/researcher-wins-1-bitcoin-bounty-for-largest-quantum-attack-on-underlying-tech",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-24T15:14:31.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin News: Bitcoin ETFs Just Turned Positive Across Every Timeframe",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-bitcoin-etfs-just-151207323.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:12:07.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Michael Saylor Says the Crypto Winter Is Over",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-crypto-winter-151000200.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-04-24T15:10:00.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Wall Street's 'fear gauge' is doing something unusual. What it means",
         "url": "https://www.cnbc.com/2026/04/24/wall-streets-fear-gauge-is-doing-something-unusual-what-it-means.html",
         "source": "CNBC",
+        "publishedAt": "2026-04-24T14:57:02.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "China’s new online marketing rules tighten ban on crypto promotions",
+        "url": "https://cointelegraph.com/news/china-s-new-online-marketing-rules-tighten-ban-on-crypto-promotions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-24T14:26:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "ECB signs standards deals to cut digital euro integration costs",
+        "url": "https://cointelegraph.com/news/ecb-seeks-lower-digital-euro-adoption-costs-as-banks-face-multibillion-euro-burden?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-24T14:23:23.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Zondacrypto CEO goes off radar as Poland probe deepens",
+        "url": "https://cointelegraph.com/news/zonda-crypto-ceo-vanish-prosecutor-probe-poland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-24T13:33:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "XRP price risks 40% decline versus Bitcoin despite 9-day ETF inflow streak",
+        "url": "https://cointelegraph.com/markets/xrp-price-risks-40-decline-versus-bitcoin-despite-9-day-etf-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-24T11:55:11.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin price set for best gains since Q4 2024 with $77.5K monthly close",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-set-for-best-gains-since-q4-2024-with-77-5k-monthly-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-24T11:51:45.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Succinct launches iPhone app to cryptographically verify photos",
+        "url": "https://cointelegraph.com/news/zk-firm-succinct-targets-ai-fakes-with-cryptographically-signed-camera-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
         "publishedAt": "2026-04-24T11:44:11.000Z",
         "category": "crypto"
       },
@@ -473,192 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-04-24T10:03:36.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "India pushes e-rupee through welfare pilots as BRICS digital currency plan takes shape",
-        "url": "https://www.coindesk.com/policy/2026/04/24/india-pushes-digital-rupee-through-welfare-pilots-as-brics-cbdc-plan-takes-shape",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-24T09:25:07.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin-holder Metaplanet raises $50 million to buy more BTC",
-        "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-holder-metaplanet-raises-usd50-million-in-zero-interest-bonds-to-buy-more-btc",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-24T08:02:38.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "White House confirms Trump to address memecoin gala on Saturday",
-        "url": "https://cointelegraph.com/news/trump-to-address-memecoin-event-after-speculation-of-no-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-24T07:17:14.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "US DOJ strike force 'restrains' $701M in crypto in ongoing scam crackdown",
-        "url": "https://cointelegraph.com/news/us-scam-center-task-force-restrains-crypto-in-southeast-asia-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-24T07:15:03.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Morgan Stanley is positioning itself as the reserve manager for the stablecoin industry",
-        "url": "https://www.coindesk.com/markets/2026/04/24/morgan-stanley-is-positioning-itself-as-the-reserve-manager-for-the-stablecoin-industry",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-24T06:39:39.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Morgan Stanley launches stablecoin offering through money market fund",
-        "url": "https://cointelegraph.com/news/morgan-stanley-launches-stablecoin-offering-through-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-24T06:17:07.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin ETFs just pulled in $2 billion in 8 days while short-term holders quietly started selling",
-        "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-etfs-just-pulled-usd2-billion-in-8-days-while-short-term-holders-quietly-started-selling",
-        "source": "CoinDesk",
-        "publishedAt": "2026-04-24T06:07:38.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "US vows to fight ‘industrial scale’ AI theft by Chinese firms",
-        "url": "https://cointelegraph.com/news/us-government-reveals-plan-counter-foreign-ai-distillation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-24T06:05:37.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin holds near $78,000 on strong ETF inflows, exchange reserves near record lows",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-78000-on-strong-etf-inflows-exchange-reserves-near-record-lows/articleshow/130484642.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-24T05:34:00.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "There’s never been a semiconductor rally like this one — and that’s triggering a number of warnings",
-      "url": "https://www.marketwatch.com/story/theres-never-been-a-semiconductor-rally-like-this-one-and-thats-triggering-a-number-of-warnings-bf622cfa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-24T12:17:00.000Z"
-    },
-    {
-      "title": "Intel’s stock extends its spectacular run — and could see its best daily gain on record",
-      "url": "https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-24T12:10:00.000Z"
-    },
-    {
-      "title": "The Shape of a Deal to Come",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-04-24/fed-treasury-the-shape-of-a-deal-to-come",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T12:00:20.000Z"
-    },
-    {
       "title": "Here’s a smart way to beat the U.S. stock market — and 10 ETFs to get you there",
       "url": "https://www.marketwatch.com/story/heres-a-smart-way-to-beat-the-u-s-stock-market-and-10-etfs-to-get-you-there-3c33aef6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-24T11:55:00.000Z"
+      "publishedAt": "2026-04-24T15:29:00.000Z"
     },
     {
-      "title": "US Premarket Movers for April 24, 2026",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/us-stock-futures-today-intel-maxlinear-organon-procter-gamble",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T11:53:18.000Z"
-    },
-    {
-      "title": "China's DeepSeek Unveils AI Model To Challenge Anthropic, OpenAI | The Pulse 4/24",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/the-pulse-4-24-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T11:44:32.000Z"
-    },
-    {
-      "title": "‘Bubble’ Signal Flagged by BofA as Tech Stocks, Volatility Soar",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/-bubble-signal-flagged-by-bofa-as-tech-stocks-volatility-soar",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T11:41:12.000Z"
-    },
-    {
-      "title": "Hedge Fund at Center of Avis Squeeze Added to Stake Before Rout",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/hedge-fund-at-center-of-avis-squeeze-added-to-stake-before-rout",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T11:37:20.000Z"
-    },
-    {
-      "title": "Oil Declines as Officials in Pakistan Say US-Iran Talks Expected",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/oil-declines-as-officials-in-pakistan-say-us-iran-talks-expected",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T11:36:48.000Z"
-    },
-    {
-      "title": "Gas prices matter for households. But here’s why they still look too low for Trump to give in to Iran right now.",
-      "url": "https://www.marketwatch.com/story/gas-prices-matter-for-households-but-heres-why-they-still-look-too-low-for-trump-to-give-in-to-iran-right-now-e1f3c777?mod=mw_rss_topstories",
+      "title": "Pirro drops probe into Fed’s Powell, paving way for Warsh confirmation",
+      "url": "https://www.marketwatch.com/story/pirro-drops-probe-into-feds-powell-paving-way-for-warsh-confirmation-b77bc126?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-24T11:30:00.000Z"
+      "publishedAt": "2026-04-24T15:16:00.000Z"
     },
     {
-      "title": "Deliveries of a $300,000 flying car may be coming later this year",
-      "url": "https://www.marketwatch.com/story/deliveries-of-a-300-000-flying-car-may-be-coming-later-this-year-f4a1299c?mod=mw_rss_topstories",
+      "title": "Mortgage rates inch lower — and chip away at the ‘lock-in effect’ that has hurt home buyers",
+      "url": "https://www.marketwatch.com/story/mortgage-rates-inch-lower-and-chip-away-at-the-lock-in-effect-that-has-hurt-home-buyers-f1d27717?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-24T11:23:00.000Z"
+      "publishedAt": "2026-04-24T15:15:00.000Z"
     },
     {
-      "title": "Europe’s Growing Jet Fuel Problem Sends Airlines Into a Spin",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-04-24/europe-s-growing-jet-fuel-problem-sends-airlines-into-a-spin",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T11:15:01.000Z"
-    },
-    {
-      "title": "Intel Shares Soar on AI-Fueled Outlook; US-Iran Peace Talks Stalemate | Bloomberg Brief 4/24/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/bloomberg-brief-4-24-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T11:12:38.000Z"
-    },
-    {
-      "title": "I will inherit my parents’ $1.5 million estate. Do I fire the adviser who charges a 3% fee?",
-      "url": "https://www.marketwatch.com/story/some-stocks-have-risen-but-others-have-flopped-i-will-soon-inherit-my-parents-1-5-million-estate-do-i-fire-the-adviser-who-charges-a-3-fee-6b5b2caa?mod=mw_rss_topstories",
+      "title": "As Americans turn to blue-collar jobs for stability, here’s which ones offer the most security — and which offer the least",
+      "url": "https://www.marketwatch.com/story/as-americans-turn-to-blue-collar-jobs-for-stability-heres-which-ones-offer-the-most-security-and-which-offer-the-least-b24c8b2d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-04-24T11:00:00.000Z"
+      "publishedAt": "2026-04-24T15:15:00.000Z"
     },
     {
-      "title": "Europe’s markets watchdog warns cyber threats are growing as AI speeds up risks",
-      "url": "https://www.investing.com/news/economy-news/europes-markets-watchdog-warns-cyber-threats-are-growing-as-ai-speeds-up-risks-4635206",
+      "title": "Canada budget deficit over first 11 months of 2025/26 rises to C$25.55 billion",
+      "url": "https://www.investing.com/news/economy-news/canada-budget-deficit-over-first-11-months-of-202526-rises-to-c2555-billion-4636268",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-24T10:55:00.000Z"
+      "publishedAt": "2026-04-24T15:14:00.000Z"
     },
     {
-      "title": "Iran War: Hormuz Stalemate Lifts Oil for a 5th Day | The Opening Trade 4/24/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/the-opening-trade-4-24-2026-video",
+      "title": "Justice Dept to close investigation into Fed Chair Powell, US Attorney Pirro says",
+      "url": "https://www.investing.com/news/economy-news/justice-dept-to-close-investigation-of-federal-reserve-renovations-us-attorney-pirro-says-4636153",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-24T15:12:49.000Z"
+    },
+    {
+      "title": "Employee buyouts like Microsoft’s could become more common. Here’s what workers need to know.",
+      "url": "https://www.marketwatch.com/story/employee-buyouts-like-microsofts-could-become-more-common-heres-what-workers-need-to-know-2b439281?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-24T15:12:00.000Z"
+    },
+    {
+      "title": "Fuel Shortages Reappear Across Bolivia, Rattling New US Ally",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/bolivia-is-running-out-of-fuel-again-bedeviling-a-us-ally",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T10:52:46.000Z"
+      "publishedAt": "2026-04-24T15:10:07.000Z"
     },
     {
-      "title": "Airline Stock Rout Spills Over to Engine Makers and Suppliers",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/europe-s-aerospace-stocks-rack-up-biggest-weekly-losses-in-years",
+      "title": "Hut 8 Readies High-Grade Bond Sale For Google-Backed Data Center",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/hut-8-readies-high-grade-bond-sale-for-google-backed-data-center",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T10:47:04.000Z"
+      "publishedAt": "2026-04-24T15:08:51.000Z"
     },
     {
-      "title": "US to loosen marijuana rules in major shift for $47 billion industry",
-      "url": "https://www.investing.com/news/economy-news/doj-reclassifies-certain-marijuana-products-as-a-lessdangerous-drug-4632539",
+      "title": "Jane Street Group posts record $39.6 billion trading revenue",
+      "url": "https://www.investing.com/news/economy-news/jane-street-group-posts-record-396-billion-trading-revenue-93CH-4636250",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-24T10:42:29.000Z"
+      "publishedAt": "2026-04-24T15:08:43.000Z"
     },
     {
-      "title": "Factbox-Key ECB policymaker comments in run up to April 30 meeting",
-      "url": "https://www.investing.com/news/economy-news/factboxkey-ecb-policymaker-comments-in-run-up-to-april-30-meeting-4635145",
+      "title": "Iran ‘Will Always Believe’ They Control Hormuz",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-24/iran-will-always-believe-they-control-hormuz-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-24T15:06:42.000Z"
+    },
+    {
+      "title": "Treasuries Gain as DOJ Drops Fed Probe, Opening Path for Warsh",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/treasuries-gain-as-doj-drops-fed-probe-opening-path-for-warsh",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-24T15:03:29.000Z"
+    },
+    {
+      "title": "US and EU unveil plan to coordinate critical minerals trade policy",
+      "url": "https://www.investing.com/news/economy-news/us-and-eu-unveil-plan-to-coordinate-critical-minerals-trade-policy-93CH-4636232",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-24T10:37:05.000Z"
+      "publishedAt": "2026-04-24T15:03:14.000Z"
     },
     {
-      "title": "Intel shares set to hit record high on AI sales boom",
+      "title": "Retiring abroad? Watch out for this expensive housing mistake.",
+      "url": "https://www.marketwatch.com/story/retiring-abroad-watch-out-for-this-expensive-housing-mistake-1c647caa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-24T15:01:00.000Z"
+    },
+    {
+      "title": "US, EU Reach Critical Minerals Deal to Weaken China’s Grip",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/us-eu-reach-critical-minerals-deal-to-weaken-china-s-grip",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-24T15:00:07.000Z"
+    },
+    {
+      "title": "Amazon’s chip business scores another major win",
+      "url": "https://www.marketwatch.com/story/amazons-chip-business-scores-another-major-win-6b65f2db?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-24T14:50:00.000Z"
+    },
+    {
+      "title": "US prosecutors drop criminal probe into Fed chair Powell",
+      "url": "https://www.ft.com/content/3588428b-ddcd-4505-b4bd-d6bcae33b5d1",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-24T14:48:14.000Z"
+    },
+    {
+      "title": "Intel shares surge on AI boom to surpass dotcom bubble high",
       "url": "https://www.ft.com/content/37261470-d1aa-4a3b-8a13-abec38f34523",
       "source": "Financial Times",
-      "publishedAt": "2026-04-24T10:31:05.000Z"
+      "publishedAt": "2026-04-24T14:44:31.000Z"
+    },
+    {
+      "title": "I’m 56. My home has $400,000 in equity. If I lose my job, should I do a reverse mortgage?",
+      "url": "https://www.marketwatch.com/story/im-56-my-home-has-400-000-in-equity-if-i-lose-my-job-should-i-do-a-reverse-mortgage-593a85f0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-04-24T14:44:00.000Z"
+    },
+    {
+      "title": "The golden age of arbitrage has begun",
+      "url": "https://www.ft.com/content/c4669693-0c5b-4733-99f7-173f18cfa843",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-24T14:41:47.000Z"
     }
   ]
 }
