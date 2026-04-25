@@ -1,77 +1,7 @@
 {
-  "lastUpdated": "2026-04-25T00:42:13.570Z",
+  "lastUpdated": "2026-04-25T04:01:12.431Z",
   "ai": {
     "developers": [
-      {
-        "title": "You're about to feel the AI money squeeze",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T23:50:12.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Alex Bores' AI Policy Framework for Congress [pdf]",
-        "url": "https://www.alexbores.nyc/files/Bores_AI_Framework.pdf",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T23:35:27.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Giving AI Agents Database Access Is Way Harder Than It Looks",
-        "url": "https://querybear.com/blog/architecture-of-querybear",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T23:06:19.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The xAI exodus: Meet the people who have left Musk's AI company",
-        "url": "https://www.fastcompany.com/91531084/inside-the-xai-exodus",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T22:53:02.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Study: Does the brain work like an LLM in predicting words?",
-        "url": "https://www.nyu.edu/about/news-publications/news/2026/april/does-the-brain-work-like-an-llm-in-predicting-words--new-study-s.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T22:44:09.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "GPT 5.5 sets new record in proofreading benchmark",
-        "url": "https://revise.io/errata-bench",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T22:41:28.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "After call from Beijing, China's auto industry races to embed AI in everything",
-        "url": "https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T22:39:38.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Replacing probabilistic AI with deterministic math and Dafny formal verification",
-        "url": "https://gist.github.com/Solymus-foundation/5be1dbb91b29d7a8d40760dbc77c8ceb",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T22:31:50.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The Space Between Humans, AI, and the Work We've Been Avoiding",
-        "url": "https://www.bettyjunod.com/blog/the-space-between-humans-ai-and-the-work-weve-been-avoiding",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T22:06:42.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Editable 3D models with code or AI in Roblox",
-        "url": "https://twitter.com/roblox/status/2047406073263382834",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T21:49:38.000Z",
-        "category": "developers"
-      },
       {
         "title": "Three reasons why DeepSeek’s new model matters",
         "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
@@ -80,31 +10,101 @@
         "category": "developers"
       },
       {
-        "title": "What AI Needs That $700B Can't Buy",
-        "url": "https://cyrusradfar.com/thoughts/what-700-billion-cant-buy",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T21:28:34.000Z",
+        "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-24T09:45:30.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: I built a CLI that turns your codebase into clean LLM input",
-        "url": "https://github.com/NoahCristino/llmcat",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T21:25:07.000Z",
+        "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-23T22:27:11.000Z",
         "category": "developers"
       },
       {
-        "title": "OpenAI Pres. Greg Brockman on GPT-5.5 \"Spud\", Model Moats and 'Compute Economy'",
-        "url": "https://www.bigtechnology.com/p/openai-president-greg-brockman-on",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T21:07:43.000Z",
+        "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-23T18:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Obscura – V8-powered headless browser for scraping and AI agents",
-        "url": "https://github.com/h4ckf0r0day/obscura",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T20:46:58.000Z",
+        "title": "Introducing GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-23T11:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "GPT-5.5 System Card",
+        "url": "https://openai.com/index/gpt-5-5-system-card",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-23T11:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Top 10 uses for Codex at work",
+        "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-23T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Plugins and skills",
+        "url": "https://openai.com/academy/codex-plugins-and-skills",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-23T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Working with Codex",
+        "url": "https://openai.com/academy/working-with-codex",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-23T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Codex settings",
+        "url": "https://openai.com/academy/codex-settings",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-23T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "What is Codex?",
+        "url": "https://openai.com/academy/what-is-codex",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-23T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How to get started with Codex",
+        "url": "https://openai.com/academy/codex-how-to-start",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-23T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Making ChatGPT better for clinicians",
+        "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-22T15:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "We're launching two specialized TPUs for the agentic era.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-04-22T12:00:00.000Z",
         "category": "developers"
       }
     ],
@@ -217,13 +217,6 @@
     ],
     "advancements": [
       {
-        "title": "LLM research on Hacker News is drying up",
-        "url": "https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-24T18:12:15.000Z",
-        "category": "advancements"
-      },
-      {
         "title": "Anthropic&#8217;s Mythos breach was humiliating",
         "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
         "source": "The Verge – AI",
@@ -319,6 +312,13 @@
         "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-14T00:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "ChatGPT for research",
+        "url": "https://openai.com/academy/research",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
         "category": "advancements"
       }
     ]
@@ -433,6 +433,13 @@
     ],
     "crypto": [
       {
+        "title": "Hyperliquid whale holds $38M short against Bitcoin, but does it matter?",
+        "url": "https://cointelegraph.com/markets/hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-25T02:35:18.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "US authorities freeze $344M in crypto linked to Iran",
         "url": "https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -529,17 +536,34 @@
         "source": "CoinDesk",
         "publishedAt": "2026-04-24T15:47:48.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "South Africa draft bill would tighten crypto capital controls",
-        "url": "https://cointelegraph.com/news/south-africa-draft-bill-tighten-crypto-capital-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-24T15:20:19.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Leadership fractures in Tehran complicate U.S.-Iran war peace talks",
+      "url": "https://www.investing.com/news/economy-news/leadership-fractures-in-tehran-complicate-usiran-war-peace-talks-4637275",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-25T03:20:06.000Z"
+    },
+    {
+      "title": "AI chip surge pushes Taiwan, South Korea past UK in global market rankings",
+      "url": "https://www.investing.com/news/economy-news/ai-chip-surge-pushes-taiwan-south-korea-past-uk-in-global-market-rankings-4637273",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-25T02:48:19.000Z"
+    },
+    {
+      "title": "Malaysia Picks a Former Judge to Lead Its Anti-Graft Agency",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/malaysia-picks-abdul-halim-bin-aman-as-its-new-anti-graft-chief",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-25T02:11:24.000Z"
+    },
+    {
+      "title": "The wind is at Democrats’ backs as the election cycle heats up, say strategists",
+      "url": "https://www.investing.com/news/economy-news/the-wind-is-at-democrats-backs-as-the-election-cycle-heats-up-say-strategists-4637261",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-25T01:23:57.000Z"
+    },
     {
       "title": "State Department signals crackdown on Chinese AI model ‘distillation’",
       "url": "https://www.investing.com/news/economy-news/state-department-signals-crackdown-on-chinese-ai-model-distillation-4637237",
@@ -635,30 +659,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-04-24/fmr-fed-governor-betsy-duke-on-warsh-s-future-rates-video",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-04-24T20:50:47.000Z"
-    },
-    {
-      "title": "Private Credit Needs to Close the Trust Gap: Kasser",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/private-credit-needs-to-close-the-trust-gap-kasser-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T20:46:12.000Z"
-    },
-    {
-      "title": "'Pockets of Complacency' in Credit: Barings' Best",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/-pockets-of-complacency-in-credit-barings-best-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-24T20:38:27.000Z"
-    },
-    {
-      "title": "New York sues US for canceling $73.5 million in highway funding",
-      "url": "https://www.investing.com/news/economy-news/new-york-sues-us-for-canceling-735-million-in-highway-funding-4636679",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-24T20:36:37.000Z"
-    },
-    {
-      "title": "AMD’s stock is red-hot — and just hit a major milestone",
-      "url": "https://www.marketwatch.com/story/amds-stock-is-red-hot-and-on-track-to-hit-a-major-milestone-0b3d9f9d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-24T20:36:00.000Z"
     }
   ]
 }
