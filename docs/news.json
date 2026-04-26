@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-04-25T21:15:08.020Z",
+  "lastUpdated": "2026-04-26T00:47:35.275Z",
   "ai": {
     "developers": [
+      {
+        "title": "Google unveils way to train AI models across distributed data centers",
+        "url": "https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-26T00:39:35.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI cannot plan",
+        "url": "https://orchidfiles.com/ai-will-build-your-roadmap-in-ten-seconds/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-26T00:34:50.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "What Managerial Economics can tell us about AI and Software Development",
+        "url": "https://www.germanvelasco.com/blog/managerial-economics-ai-and-software-development",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-26T00:00:57.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: A privacy first companion AI",
+        "url": "https://www.friendai.pro",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-25T22:36:49.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: LLM-wiki – One command Karpathy's wiki with QMD search for Claude/Codex",
+        "url": "https://github.com/ivankuznetsov/llm-wiki",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-25T22:29:13.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "MCP Spine – Middleware proxy for LLM tool calls with security and token control",
+        "url": "https://github.com/Donnyb369/mcp-spine",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-25T21:38:56.000Z",
+        "category": "developers"
+      },
       {
         "title": "Our Survey on Creativity, Writing, and Reading in the Age of AI",
         "url": "https://ellipsus.com/blog/survey-on-writing-and-ai",
@@ -10,7 +52,7 @@
         "category": "developers"
       },
       {
-        "title": "The AI Industry Is Discovering That the Public Hates It",
+        "title": "The AI industry is discovering that the public hates it",
         "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-25T21:11:11.000Z",
@@ -63,48 +105,6 @@
         "url": "https://github.com/Oaklight/llm-rosetta",
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-25T19:57:36.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "You're about to feel the AI money squeeze",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T19:53:59.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Self-Hosted AI Red Team Tools",
-        "url": "https://aetherverseintel.gumroad.com/l/vpzqnk",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T19:43:33.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Agentic AI Chip Design Built a Full RISC-V Core",
-        "url": "https://spectrum.ieee.org/ai-chip-design",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T19:42:45.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "#009: The Flavor of the AI Interface",
-        "url": "https://metedata.substack.com/p/009-the-flavor-of-the-ai-interface",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T19:32:31.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "GPT-5.5-Pro did worse in BullshitBench",
-        "url": "https://twitter.com/petergostev/status/2047773402090426548",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T19:13:18.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Bulk URL Checker – check 75k URLs from any LLM via MCP",
-        "url": "https://bulkurlchecker.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T18:51:32.000Z",
         "category": "developers"
       }
     ],
@@ -217,20 +217,6 @@
     ],
     "advancements": [
       {
-        "title": "Research Topics in AI and ML in 2026 and Their Philosophical Connections",
-        "url": "https://omseeth.github.io/blog/2026/philosophy_2026/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T17:47:42.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "The AI Compute Crunch Is Here (and It's Affecting the Economy)",
-        "url": "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T17:33:12.000Z",
-        "category": "advancements"
-      },
-      {
         "title": "Anthropic&#8217;s Mythos breach was humiliating",
         "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
         "source": "The Verge – AI",
@@ -320,72 +306,37 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-04-14T09:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "Trusted access for the next era of cyber defense",
+        "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-14T00:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "ChatGPT for research",
+        "url": "https://openai.com/academy/research",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Michael Burry buys beaten-down mega tech stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-buys-beaten-down-210300665.html",
+        "title": "Morgan Stanley issues blunt take on Tesla stock after earnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-issues-blunt-tesla-223300458.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T21:03:00.000Z",
+        "publishedAt": "2026-04-25T22:33:00.000Z",
         "category": "markets"
       },
       {
-        "title": "VCIT vs. IEI Comes Down to What Job Your Bond Sleeve Is Doing",
-        "url": "https://finance.yahoo.com/markets/options/articles/vcit-vs-iei-comes-down-204929759.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T20:49:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The Best Artificial Intelligence (AI) Growth Stock on the Nasdaq That Morningstar Says Is Still Undervalued",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/best-artificial-intelligence-ai-growth-203500208.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T20:35:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Garrett Motion adds a turbocharged twist to Carmel's AI-heavy portfolio",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/garrett-motion-adds-turbocharged-twist-203321086.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T20:33:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Ex-Stepdad Gets $135K 401(k) But Pushes For 27-Year-Old's $419K Inheritance Too — Dave Ramsey Says, 'You Do Not Owe This Guy A Dime'",
-        "url": "https://finance.yahoo.com/markets/options/articles/ex-stepdad-gets-135k-401-203106531.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T20:31:06.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "SpaceX Is Going Public at a $1.75 Trillion Valuation. Here Is 1 Stock to Buy Before It Does.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-going-public-1-75-202500656.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T20:25:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Re-Budget After a Raise: 6 Smart Moves To Make in 2026",
-        "url": "https://finance.yahoo.com/markets/articles/budget-raise-6-smart-moves-201205087.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T20:12:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Adobe Is Buying Back $25 Billion of Its Shares. Will It Halt the Price Decline?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-buying-back-25-billion-195700175.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T19:57:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "SpaceX just cut a $60B deal with an AI startup built by 4 MIT dropouts — its CEO is 25 and worth $1.3B",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-just-cut-60b-deal-193500859.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T19:35:00.000Z",
+        "title": "3 forces that drove another historic – yet volatile – week for the S&P 500",
+        "url": "https://www.cnbc.com/2026/04/25/3-forces-that-drove-another-historic-yet-volatile-week-for-the-sp-500.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-25T21:36:28.000Z",
         "category": "markets"
       },
       {
@@ -403,24 +354,10 @@
         "category": "markets"
       },
       {
-        "title": "Dow Jones Futures: Iran Talks Off; Apple, Amazon, Google Lead Earnings Wave",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-google-earnings-ai-iran-talks/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T18:42:20.000Z",
-        "category": "markets"
-      },
-      {
         "title": "Trump and journalists will be closely watched to see how they get along at White House correspondents' dinner",
         "url": "https://www.cnbc.com/2026/04/25/trump-white-house-correspondents-dinner.html",
         "source": "CNBC",
         "publishedAt": "2026-04-25T17:37:33.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump bought at least $51 million in bonds in March, disclosure shows",
-        "url": "https://finance.yahoo.com/news/trump-bought-least-51-million-173547214.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T17:35:47.000Z",
         "category": "markets"
       },
       {
@@ -429,21 +366,84 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-04-25T16:00:51.000Z",
         "category": "markets"
+      },
+      {
+        "title": "From car and phone to tractor owners, a populist wave is rising to end the 'captive' repair economy",
+        "url": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-25T14:17:59.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
+        "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-25T14:03:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Some young Americans scale back dating as costs and apps add pressure, survey shows",
+        "url": "https://www.cnbc.com/2026/04/25/why-some-young-americans-are-dating-less-in-2026.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-25T13:30:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "$300 bags, $150 earrings, $60 hats: Mid-priced products are a status symbol for young shoppers",
+        "url": "https://www.cnbc.com/2026/04/25/how-mid-priced-retail-products-became-status-symbol-for-young-shoppers.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-25T13:05:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "36-year-old left the U.S. for China—now pays $1,000 rent and $100 for groceries for family of 4: It's my 'version of the American Dream’",
+        "url": "https://www.cnbc.com/2026/04/25/36-year-old-left-the-us-for-chinanow-pays-1000-rent-and-100-for-groceries-for-family-of-4.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-25T13:00:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+        "url": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-25T12:43:39.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Berkshire attracts interest as it slips further behind the S&P 500",
+        "url": "https://www.cnbc.com/2026/04/25/berkshire-attracts-interest-as-it-slips-further-behind-the-sp-500.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-25T12:35:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Semiconductor names make up a big portion of this week’s most overbought stocks",
+        "url": "https://www.cnbc.com/2026/04/25/semiconductor-names-make-up-a-big-portion-of-this-weeks-most-overbought-stocks.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-25T12:24:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Morgan Stanley says these top stocks have more room to run ahead of earnings",
+        "url": "https://www.cnbc.com/2026/04/25/morgan-stanley-makes-top-stocks-heading-into-earnings.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-25T12:18:51.000Z",
+        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
+        "url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-04-25T22:05:44.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Trump hosts crypto contest winners at Mar-a-Lago as his coin languishes",
         "url": "https://www.cnbc.com/2026/04/25/trump-hosts-crypto-contest-winners-at-mar-a-lago-as-his-coin-languishes.html",
         "source": "CNBC",
         "publishedAt": "2026-04-25T21:00:08.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "JPMorgan Says Tokenization Could Transform Fund Operations Over the Next Few Years",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-says-tokenization-could-transform-201500274.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T20:15:00.000Z",
         "category": "crypto"
       },
       {
@@ -479,13 +479,6 @@
         "url": "https://www.coindesk.com/tech/2026/04/25/how-anthropic-s-mythos-model-is-forcing-the-crypto-industry-to-rethink-everything-about-security",
         "source": "CoinDesk",
         "publishedAt": "2026-04-25T17:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Aurelion Allocates $48 Million in Tether Gold to XAUE Yield Protocol",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/aurelion-allocates-48-million-tether-162100751.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-04-25T16:21:00.000Z",
         "category": "crypto"
       },
       {
@@ -536,10 +529,59 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-04-25T12:22:17.000Z",
         "category": "crypto"
+      },
+      {
+        "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
+        "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-25T10:00:00.000Z",
+        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Trump’s Hormuz Blockade Has Deepened a Historic Shipping Crisis",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-26/iran-war-hormuz-double-blockade-halts-ship-traffic-dims-hope-for-the-economy",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-26T00:04:49.000Z"
+    },
+    {
+      "title": "Global central banks brace for ’holding pattern’ as energy volatility bites",
+      "url": "https://www.investing.com/news/economy-news/global-central-banks-brace-for-holding-pattern-as-energy-volatility-bites-4637410",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-25T23:59:47.000Z"
+    },
+    {
+      "title": "Trump Scraps US Trip for Iran Talks, Leaving Ceasefire in Limbo",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-25/trump-scraps-us-trip-for-iran-talks-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-25T23:59:29.000Z"
+    },
+    {
+      "title": "Failed Pakistan envoys’ trip compels Trump to reassess Iran strategy",
+      "url": "https://www.investing.com/news/economy-news/failed-pakistan-envoys-trip-compels-trump-to-reassess-iran-strategy-4637406",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-25T22:49:37.000Z"
+    },
+    {
+      "title": "U.S. Navy intercepts Iran-linked vessel in Arabian Sea, orders return to Iran",
+      "url": "https://www.investing.com/news/economy-news/diplomatic-stalemate-lingers-as-us-envoys-head-to-pakistan-iran-reopens-airport-4637338",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-25T21:54:00.000Z"
+    },
+    {
+      "title": "Who is Kevin Warsh and what does his policy entail?",
+      "url": "https://www.investing.com/news/economy-news/who-is-kevin-warsh-and-what-does-his-policy-entail-4637398",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-25T21:28:15.000Z"
+    },
+    {
+      "title": "Trump cancels trip by US negotiators for Iran peace talks",
+      "url": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-25T21:10:13.000Z"
+    },
     {
       "title": "Fed Set to Lead Uneasy G-7 With Rates Kept on Hold This Week",
       "url": "https://www.bloomberg.com/news/articles/2026-04-25/fed-set-to-lead-uneasy-g-7-with-rates-kept-on-hold-this-week",
@@ -551,12 +593,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-04-25/hungary-s-next-premier-warns-investors-to-shun-orban-tied-assets",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-04-25T19:44:09.000Z"
-    },
-    {
-      "title": "’We have all the cards, they have none’ - Trump, after talks with Iran canceled",
-      "url": "https://www.investing.com/news/economy-news/diplomatic-stalemate-lingers-as-us-envoys-head-to-pakistan-iran-reopens-airport-4637338",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-25T19:35:00.000Z"
     },
     {
       "title": "White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.",
@@ -613,12 +649,6 @@
       "publishedAt": "2026-04-25T17:41:00.000Z"
     },
     {
-      "title": "Trump cancels trip by US negotiators for Iran peace talks",
-      "url": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-25T17:13:51.000Z"
-    },
-    {
       "title": "Market chaos gives money managers a chance to beat index funds — just like they’re supposed to do",
       "url": "https://www.marketwatch.com/story/market-chaos-gives-skilled-managers-a-chance-to-beat-index-funds-just-like-theyre-supposed-to-do-b85cfd52?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -629,36 +659,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-04-25/bloomberg-this-weekend-04-25-2026-video",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-04-25T16:27:31.000Z"
-    },
-    {
-      "title": "Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners — and losers.",
-      "url": "https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-25T16:25:00.000Z"
-    },
-    {
-      "title": "A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man",
-      "url": "https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-25T16:17:00.000Z"
-    },
-    {
-      "title": "EU Leaders Convene in Cyprus Amid Iran War",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-25/eu-leaders-convene-in-cyprus-amid-iran-war-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-25T16:05:43.000Z"
-    },
-    {
-      "title": "Billion-Barrel Hormuz Oil Shock Is About to Crash Demand",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-25/billion-barrel-hormuz-oil-shock-is-about-to-crash-demand-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-25T16:00:39.000Z"
-    },
-    {
-      "title": "BTW | FIFA World Cup, Chili, Pokémon",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-25/btw-fifa-world-cup-chili-pokemon-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-25T15:45:50.000Z"
     }
   ]
 }
