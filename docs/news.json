@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-04-26T04:12:55.606Z",
+  "lastUpdated": "2026-04-26T06:44:33.472Z",
   "ai": {
     "developers": [
+      {
+        "title": "Show HN: Implit – Catch fake AI-generated dependencies",
+        "url": "https://github.com/build-neurall/implit",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-26T05:49:42.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Stt.ai MCP Server",
+        "url": "https://pypi.org/project/sttai-mcp/0.1.0/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-26T04:52:55.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "I asked my local LLM to add 23 numbers and got seven wrong answers",
+        "url": "https://viggy28.dev/article/local-llm-seven-wrong-answers/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-26T04:30:13.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Track official AI company news and blogs in your Chrome side panel",
+        "url": "https://chromewebstore.google.com/detail/bigtech-ai-news/aehmpingbppjnlppejppiifmijdjjiej",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-26T04:19:47.000Z",
+        "category": "developers"
+      },
       {
         "title": "Dataland, the first museum of AI arts, sets opening date and first exhibition",
         "url": "https://www.latimes.com/entertainment-arts/story/2026-04-23/refik-anadol-ai-art-museum-dataland-opening-date",
@@ -77,34 +105,6 @@
         "url": "https://www.germanvelasco.com/blog/managerial-economics-ai-and-software-development",
         "source": "Hacker News – AI",
         "publishedAt": "2026-04-26T00:00:57.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: A privacy first companion AI",
-        "url": "https://www.friendai.pro",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T22:36:49.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: LLM-wiki – One command Karpathy's wiki with QMD search for Claude/Codex",
-        "url": "https://github.com/ivankuznetsov/llm-wiki",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T22:29:13.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "MCP Spine – Middleware proxy for LLM tool calls with security and token control",
-        "url": "https://github.com/Donnyb369/mcp-spine",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T21:38:56.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Our Survey on Creativity, Writing, and Reading in the Age of AI",
-        "url": "https://ellipsus.com/blog/survey-on-writing-and-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-04-25T21:13:56.000Z",
         "category": "developers"
       }
     ],
@@ -217,6 +217,13 @@
     ],
     "advancements": [
       {
+        "title": "The reporters at this news site are AI bots. OpenAI's super PAC is funding it",
+        "url": "https://twitter.com/TheMidasProj/status/2047692328396034490",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-04-26T06:43:14.000Z",
+        "category": "advancements"
+      },
+      {
         "title": "The AI Compute Crunch Is Here (and It's Affecting the Economy)",
         "url": "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
         "source": "Hacker News – AI",
@@ -313,13 +320,6 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-04-14T09:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Trusted access for the next era of cyber defense",
-        "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
@@ -329,7 +329,77 @@
         "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
         "url": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
         "source": "CNBC",
-        "publishedAt": "2026-04-26T03:28:54.000Z",
+        "publishedAt": "2026-04-26T06:35:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "‘He has the market in a chokehold’: Stocks swing as Trump posts",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/he-has-the-market-in-a-chokehold-stocks-swing-as-trump-posts/articleshow/130527373.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T06:19:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "10 midcap stocks with massive upside potential up to 60%. Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-with-massive-upside-potential-up-to-60-do-you-own-any/slideshow/130527460.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T06:18:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/130527337.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T06:13:37.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock Market Holiday: NSE, BSE to remain shut one day this week. Check upcoming market holidays",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-long-weekend-ahead-nse-bse-to-remain-shut-on-friday-check-9-upcoming-holidays/articleshow/130527250.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T06:04:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "IDFC First Bank Q4 profit up 5% on lower provisions; fraud hits ops 42%",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/idfc-first-bank-q4-profit-up-5-on-lower-provisions-fraud-hits-ops-42/articleshow/130527004.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T05:54:55.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Uco Bank Q4 profit jumps 23% on lower provisions; margins dip",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/uco-bank-q4-profit-jumps-23-on-lower-provisions-margins-dip/articleshow/130526891.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T05:33:22.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "US Fed set to hold rates steady again on cost hikes from Mideast war",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-set-to-hold-rates-steady-again-on-cost-hikes-from-mideast-war/articleshow/130526835.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T05:27:50.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "14 penny stocks surge up to 125% in a month; 2 turn multibaggers. Did you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/14-penny-stocks-surge-up-to-125-in-a-month-2-turn-multibaggers-did-you-own-any/slideshow/130526814.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T04:59:04.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Fed FOMC, Q4 earnings and FII action among 9 factors set to steer D-Street this week",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fed-fomc-q4-earnings-and-fii-action-among-9-factors-set-to-steer-d-street-this-week/articleshow/130526129.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T04:03:09.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Axis Bank Q4 profit dips on higher provisions, trading loss",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q4-profit-dips-on-higher-provisions-trading-loss/articleshow/130526095.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-04-26T03:54:54.000Z",
         "category": "markets"
       },
       {
@@ -358,76 +428,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-ceo-sends-strong-174700950.html",
         "source": "Yahoo Finance",
         "publishedAt": "2026-04-25T17:47:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump and journalists will be closely watched to see how they get along at White House correspondents' dinner",
-        "url": "https://www.cnbc.com/2026/04/25/trump-white-house-correspondents-dinner.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-25T17:37:33.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Elon Musk's case against ChatGPT maker OpenAI, Sam Altman set to go for trial; fraud claims withdrawn",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musks-case-against-chatgpt-maker-openai-sam-altman-set-to-go-for-trial-fraud-claims-withdrawn/articleshow/130518414.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-04-25T16:00:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "From car and phone to tractor owners, a populist wave is rising to end the 'captive' repair economy",
-        "url": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-25T14:17:59.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
-        "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-04-25T14:03:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Some young Americans scale back dating as costs and apps add pressure, survey shows",
-        "url": "https://www.cnbc.com/2026/04/25/why-some-young-americans-are-dating-less-in-2026.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-25T13:30:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "$300 bags, $150 earrings, $60 hats: Mid-priced products are a status symbol for young shoppers",
-        "url": "https://www.cnbc.com/2026/04/25/how-mid-priced-retail-products-became-status-symbol-for-young-shoppers.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-25T13:05:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "36-year-old left the U.S. for China—now pays $1,000 rent and $100 for groceries for family of 4: It's my 'version of the American Dream’",
-        "url": "https://www.cnbc.com/2026/04/25/36-year-old-left-the-us-for-chinanow-pays-1000-rent-and-100-for-groceries-for-family-of-4.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-25T13:00:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
-        "url": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-25T12:43:39.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Berkshire attracts interest as it slips further behind the S&P 500",
-        "url": "https://www.cnbc.com/2026/04/25/berkshire-attracts-interest-as-it-slips-further-behind-the-sp-500.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-25T12:35:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Semiconductor names make up a big portion of this week’s most overbought stocks",
-        "url": "https://www.cnbc.com/2026/04/25/semiconductor-names-make-up-a-big-portion-of-this-weeks-most-overbought-stocks.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-25T12:24:06.000Z",
         "category": "markets"
       }
     ],
@@ -541,10 +541,88 @@
   },
   "trends": [
     {
-      "title": "Trump says shooter at correspondents’ dinner is in custody, nobody injured",
+      "title": "AI is boosting output rather than cutting jobs: analyst",
+      "url": "https://www.investing.com/news/economy-news/ai-is-boosting-output-rather-than-cutting-jobs-analyst-4637429",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-26T06:15:09.000Z"
+    },
+    {
+      "title": "Egypt economic outlook trimmed slightly due to Iran war: Reuters poll",
+      "url": "https://www.investing.com/news/economy-news/egypt-economic-outlook-trimmed-slightly-due-to-iran-war-reuters-poll-4637428",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-26T06:06:49.000Z"
+    },
+    {
+      "title": "Q2 catalyst: Will World Cup innovation deliver the rebound Nike and Adidas need?",
+      "url": "https://www.investing.com/news/economy-news/q2-catalyst-will-world-cup-innovation-deliver-the-rebound-nike-and-adidas-need-4637425",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-26T05:36:18.000Z"
+    },
+    {
+      "title": "Trump says shooter at correspondents’ dinner is in custody, DA unveils charges",
       "url": "https://www.investing.com/news/economy-news/trump-removed-from-white--house-correspondents-dinner-after-security-alarm-4637415",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-26T03:43:00.000Z"
+      "publishedAt": "2026-04-26T05:31:25.000Z"
+    },
+    {
+      "title": "HK Finance Chief Says City’s 2026 IPOs Have Raised $17.9 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-26/hk-finance-chief-says-city-s-2026-ipos-have-raised-17-9-billion",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-26T05:28:37.000Z"
+    },
+    {
+      "title": "Gunman Detained After Shooting at Press Dinner",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-26/gunman-detained-after-shooting-at-press-dinner-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-04-26T05:05:23.000Z"
+    },
+    {
+      "title": "Taiwan defiant as diplomatic mission overcomes airspace blockade",
+      "url": "https://www.investing.com/news/economy-news/taiwan-defiant-as-diplomatic-mission-overcomes-airspace-blockade-4637424",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-26T04:44:21.000Z"
+    },
+    {
+      "title": "Strait of Hormuz deadlock deepens as U.S. blockade halts shipping",
+      "url": "https://www.investing.com/news/economy-news/strait-of-hormuz-deadlock-deepens-as-us-blockade-halts-shipping-4637423",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-04-26T04:30:28.000Z"
+    },
+    {
+      "title": "Can AI discriminate if it can’t justify itself?",
+      "url": "https://www.ft.com/content/47f73399-df62-4683-93c2-ee210d983460",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-26T04:00:16.000Z"
+    },
+    {
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-26T04:00:16.000Z"
+    },
+    {
+      "title": "Iran war hits pistachio supplies amid Dubai chocolate boom",
+      "url": "https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-26T04:00:08.000Z"
+    },
+    {
+      "title": "How to demine the Strait of Hormuz",
+      "url": "https://www.ft.com/content/78a983c8-6ed5-42f3-b794-7fed9ee189ed",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-26T04:00:07.000Z"
+    },
+    {
+      "title": "China’s smartphone king takes on Elon Musk in Europe with premium EVs",
+      "url": "https://www.ft.com/content/31f80e68-dc0a-4251-a657-351e2e614fe2",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-26T04:00:07.000Z"
+    },
+    {
+      "title": "Vladimir Putin’s regime turns on book publishers",
+      "url": "https://www.ft.com/content/120db39e-4ec0-4ef7-8041-4a1fdafb9ef0",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-26T04:00:07.000Z"
     },
     {
       "title": "Trump rushed offstage at White House correspondents’ dinner after shots fired",
@@ -581,84 +659,6 @@
       "url": "https://www.investing.com/news/economy-news/failed-pakistan-envoys-trip-compels-trump-to-reassess-iran-strategy-4637406",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-04-25T22:49:37.000Z"
-    },
-    {
-      "title": "U.S. Navy intercepts Iran-linked vessel in Arabian Sea, orders return to Iran",
-      "url": "https://www.investing.com/news/economy-news/diplomatic-stalemate-lingers-as-us-envoys-head-to-pakistan-iran-reopens-airport-4637338",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-25T21:54:00.000Z"
-    },
-    {
-      "title": "Who is Kevin Warsh and what does his policy entail?",
-      "url": "https://www.investing.com/news/economy-news/who-is-kevin-warsh-and-what-does-his-policy-entail-4637398",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-25T21:28:15.000Z"
-    },
-    {
-      "title": "Trump cancels trip by US negotiators for Iran peace talks",
-      "url": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-25T21:10:13.000Z"
-    },
-    {
-      "title": "Fed Set to Lead Uneasy G-7 With Rates Kept on Hold This Week",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-25/fed-set-to-lead-uneasy-g-7-with-rates-kept-on-hold-this-week",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-25T20:00:00.000Z"
-    },
-    {
-      "title": "Hungary’s Next Premier Warns Investors to Shun Orban-Tied Assets",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-25/hungary-s-next-premier-warns-investors-to-shun-orban-tied-assets",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-25T19:44:09.000Z"
-    },
-    {
-      "title": "White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.",
-      "url": "https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-25T19:05:00.000Z"
-    },
-    {
-      "title": "Cheap Private Credit Funds Draw Bargain Hunters",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-25/cheap-private-credit-funds-draw-bargain-hunters-credit-weekly",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-04-25T19:00:00.000Z"
-    },
-    {
-      "title": "These investments promise high yield with bond-like safety. But what looks too good to be true often is.",
-      "url": "https://www.marketwatch.com/story/when-dentists-start-getting-cold-calls-about-private-credit-you-know-the-fad-has-peaked-67f1ef78?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-25T18:44:00.000Z"
-    },
-    {
-      "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
-      "url": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-25T18:28:00.000Z"
-    },
-    {
-      "title": "What Apple investors need to know about the next steps for the company and its new CEO",
-      "url": "https://www.marketwatch.com/story/this-is-what-apple-investors-need-to-know-about-whats-next-for-the-company-and-its-new-ceo-9997df15?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-25T18:27:00.000Z"
-    },
-    {
-      "title": "‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?",
-      "url": "https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-25T18:25:00.000Z"
-    },
-    {
-      "title": "From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can’t afford economy",
-      "url": "https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-25T17:56:00.000Z"
-    },
-    {
-      "title": "Tax refunds vs. higher energy costs: What is the impact on the U.S. consumer?",
-      "url": "https://www.investing.com/news/economy-news/tax-refunds-vs-higher-energy-costs-what-is-the-impact-on-the-us-consumer-4637387",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-04-25T17:41:56.000Z"
     }
   ]
 }
