@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-05-03T06:57:26.841Z",
+  "lastUpdated": "2026-05-03T09:34:25.166Z",
   "ai": {
     "developers": [
+      {
+        "title": "Thoth – open-source Local-first AI Assistant",
+        "url": "https://github.com/siddsachar/Thoth",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T09:18:25.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Comparison: Different AI systems structure decisions under real-world scenarios",
+        "url": "https://zenodo.org/records/19443285",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T09:15:10.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "NIST's CAISI Evaluation of DeepSeek V4 Pro finds it to be on par with GPT-5",
+        "url": "https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T08:53:58.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Editor, Browser, Terminal, Mail, Agents. AI Sharing Context",
+        "url": "https://github.com/raiyanyahya/kit",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T08:11:11.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "PocketOS AI Fiasco – Lesson in Automation Access",
+        "url": "https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T08:09:04.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How to Test AI Agents When They Never Give the Same Answer Twice",
+        "url": "https://adlrocha.substack.com/p/adlrocha-the-eval-problem-how-to",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T08:02:10.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The Human Line Project: Documenting AI Chatbot Harm",
+        "url": "https://www.thehumanlineproject.org/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T07:08:56.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Musk vs. Altman week 1: Elon Musk says he was duped, warns AI could kill us all",
+        "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T07:02:25.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Musk's AI told me people were coming to kill me (BBC)",
+        "url": "https://www.bbc.com/news/articles/c242pzr1zp2o",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T06:57:14.000Z",
+        "category": "developers"
+      },
       {
         "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
         "url": "https://acai.sh/blog/specsmaxxing",
@@ -43,69 +106,6 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-05-03T04:51:58.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Can AI Design Therapies?",
-        "url": "https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-03T04:48:50.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Big Tech will spend nearly $700B on AI in 2026. No one knows where buildout ends",
-        "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-03T04:29:51.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Suno picks up Songkick as part of AI licensing deal with Warner Music",
-        "url": "https://completemusicupdate.com/suno-picks-up-songkick-as-part-of-ai-licensing-deal-with-warner-music/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-03T04:13:17.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-03T04:05:28.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Claude-powered AI agent's confession",
-        "url": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-03T04:05:04.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Carrier – AI-first back end compiler (Rust/Java/Node)",
-        "url": "https://github.com/nikoma/carrier",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-03T03:49:41.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Fun, open-source AI transparency project",
-        "url": "https://github.com/realalonw/agent-receipts",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-03T02:44:42.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI, Intimacy, and the Data You Never Meant to Share",
-        "url": "https://fshot.org/techzone/the-algorithm-knows.php",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-03T02:42:43.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The AI workflow I use to build apps",
-        "url": "https://juanmanuelalloron.com/post/my-current-ai-workflow-for-building-apps/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-03T02:14:48.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -114,20 +114,6 @@
         "url": "https://github.com/st-hannibal/arknet",
         "source": "Hacker News – AI",
         "publishedAt": "2026-05-03T06:53:20.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Show HN: A marketplace for LLM-powered webapps earning on token margins",
-        "url": "https://codeplusequalsai.com/dashboard",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T20:54:11.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-        "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-01T22:08:19.000Z",
         "category": "everyone"
       },
       {
@@ -213,9 +199,37 @@
         "source": "The Verge – AI",
         "publishedAt": "2026-04-30T16:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+        "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-04-28T16:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+        "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-04-27T22:52:57.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Show HN: Enoch – Control Plane for Autonomous AI Research",
+        "url": "https://github.com/alias8818/enoch-agentic-research-system",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T07:45:21.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Cajal – Local AI that writes peer-reviewed papers with simulated peer review",
+        "url": "https://huggingface.co/Agnuxo/CAJAL-4B-P2PCLAW",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T07:16:52.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
@@ -306,25 +320,39 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-04-22T10:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Introducing OpenAI Privacy Filter",
-        "url": "https://openai.com/index/introducing-openai-privacy-filter",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-04-22T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-        "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-04-21T14:30:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
+      {
+        "title": "The global markets are an AI story…or are they?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-global-markets-are-an-ai-storyor-are-they/articleshow/130729891.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-03T09:22:57.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Airlines can cancel flights in advance over fuel shortages under new plans",
+        "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-05-03T09:13:54.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "10 Largecap stocks with strong upside potential of up to 50%! Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-largecap-stocks-with-strong-upside-potential-of-up-to-50-do-you-own-any/slideshow/130728775.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-03T06:56:36.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "FY27 earnings growth may drop to 10%: Jitendra Sriram on the impact of sustained $100 oil",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/fy27-earnings-growth-may-drop-to-10-jitendra-sriram-on-the-impact-of-sustained-100-oil/articleshow/130728428.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-03T06:47:10.000Z",
+        "category": "markets"
+      },
       {
         "title": "The Hormuz blockade: Why a fragile ceasefire may not lower global oil prices",
         "url": "https://economictimes.indiatimes.com/markets/commodities/news/the-hormuz-blockade-why-a-fragile-ceasefire-may-not-lower-global-oil-prices/articleshow/130728422.cms",
@@ -400,34 +428,6 @@
         "url": "https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html",
         "source": "CNBC",
         "publishedAt": "2026-05-03T00:26:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump says the U.S. will reduce number of troops in Germany 'a lot further' than withdrawal of 5,000",
-        "url": "https://www.cnbc.com/2026/05/02/trump-says-us-will-withdraw-troops-in-germany-a-lot-more-than-5000.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-03T00:06:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Abortion pill makers ask U.S. Supreme Court to restore mail-order access",
-        "url": "https://www.cnbc.com/2026/05/02/danco-laboratories-supreme-court-mail-order-abortion-drugs.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-02T23:50:41.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump says he is reviewing a new Iranian proposal to end the war",
-        "url": "https://www.cnbc.com/2026/05/02/trump-iran-strait-of-hormuz.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-02T23:27:59.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Spirit Airlines shutting down after rescue talks collapse",
-        "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-05-02T23:16:13.000Z",
         "category": "markets"
       }
     ],
@@ -541,6 +541,60 @@
   },
   "trends": [
     {
+      "title": "OPEC+ targets 188,000 bpd hike to signal stability post-UAE exit",
+      "url": "https://www.investing.com/news/economy-news/opec-targets-188000-bpd-hike-to-signal-stability-postuae-exit-4654821",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-03T08:42:39.000Z"
+    },
+    {
+      "title": "China, Philippines trade accusations over South China Sea",
+      "url": "https://www.investing.com/news/economy-news/china-philippines-trade-accusations-over-south-china-sea-4654820",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-03T08:42:29.000Z"
+    },
+    {
+      "title": "Japan targets Australian critical minerals to counter China supply risks",
+      "url": "https://www.investing.com/news/economy-news/japan-targets-australian-critical-minerals-to-counter-china-supply-risks-4654819",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-03T08:16:42.000Z"
+    },
+    {
+      "title": "Major Russian Oil Export Port Primorsk Suffers Fire From UAV",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/fire-put-out-at-russia-s-primorsk-port-from-drone-governor-says",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-03T07:52:12.000Z"
+    },
+    {
+      "title": "Will airlines simply pass on higher fuel prices to consumers?",
+      "url": "https://www.investing.com/news/economy-news/will-airlines-simply-pass-on-higher-fuel-prices-to-consumers-4654814",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-03T07:43:37.000Z"
+    },
+    {
+      "title": "Takaichi Set for Australia Visit to Strengthen Japan Alliance",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/takaichi-set-for-australia-visit-to-strengthen-japan-alliance",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-03T07:13:05.000Z"
+    },
+    {
+      "title": "Emerging markets hit record highs as AI boom and oil exports offset war risks",
+      "url": "https://www.investing.com/news/economy-news/emerging-markets-hit-record-highs-as-ai-boom-and-oil-exports-offset-war-risks-4654812",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-03T07:00:29.000Z"
+    },
+    {
+      "title": "OPEC+ Meeting Offers Chance to Show Unity After UAE’s Shock Exit",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/opec-meeting-offers-chance-to-show-unity-after-uae-s-shock-exit",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-03T07:00:00.000Z"
+    },
+    {
+      "title": "Philippines Accuses China of Conducting Illegal Marine Research",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/philippines-accuses-china-of-conducting-illegal-marine-research",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-03T06:52:41.000Z"
+    },
+    {
       "title": "Madrid prepared to fight for ECB influence as de Guindos departs",
       "url": "https://www.investing.com/news/economy-news/madrid-prepared-to-fight-for-ecb-influence-as-de-guindos-departs-4654811",
       "source": "Investing.com – Economy",
@@ -605,60 +659,6 @@
       "url": "https://www.ft.com/content/1dd9f27e-ddef-43ab-80f5-c30b6a82b4d2",
       "source": "Financial Times",
       "publishedAt": "2026-05-03T04:00:05.000Z"
-    },
-    {
-      "title": "IMF criticises EU governments for ignoring energy subsidy warnings",
-      "url": "https://www.ft.com/content/8b4cb5a2-67ab-4313-bce1-b77f542eeed5",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-03T04:00:05.000Z"
-    },
-    {
-      "title": "Private equity investor body sounds alarm on ‘conflict vehicles’",
-      "url": "https://www.ft.com/content/88c4bafb-a329-47fa-b1f6-8c9d7c51bc10",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-03T04:00:05.000Z"
-    },
-    {
-      "title": "Nvidia’s pivot to physical AI ignites rally across Asian supply chain",
-      "url": "https://www.investing.com/news/economy-news/nvidias-pivot-to-physical-ai-ignites-rally-across-asian-supply-chain-4654804",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-03T02:34:51.000Z"
-    },
-    {
-      "title": "Vietnam Inflation Quickens as Iran War Raises Energy Costs",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-03/vietnam-inflation-quickens-as-iran-war-drives-up-energy-costs",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-03T02:08:57.000Z"
-    },
-    {
-      "title": "Japan’s Katayama mum on suspected FX intervention amid Golden Week",
-      "url": "https://www.investing.com/news/economy-news/japans-katayama-mum-on-suspected-fx-intervention-amid-golden-week-4654802",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-03T01:47:33.000Z"
-    },
-    {
-      "title": "Trump says he is reviewing Iran peace plan but would consider new strikes",
-      "url": "https://www.ft.com/content/fb1aae4a-ec0c-48ed-bf0a-6639071499d3",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-03T01:19:06.000Z"
-    },
-    {
-      "title": "Philippines Says Thousands Evacuated as Mayon Volcano Erupts",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-03/philippines-says-thousands-evacuated-as-mayon-volcano-erupts",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-03T00:55:25.000Z"
-    },
-    {
-      "title": "Japan’s Katayama Declines to Comment on FX Intervention For Now",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-03/japan-s-katayama-declines-to-comment-on-fx-intervention-for-now",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-03T00:52:43.000Z"
-    },
-    {
-      "title": "Drugmakers petition Supreme Court to restore mifepristone mail-order access",
-      "url": "https://www.investing.com/news/economy-news/drugmakers-petition-supreme-court-to-restore-mifepristone-mailorder-access-4654800",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-03T00:46:32.000Z"
     }
   ]
 }
