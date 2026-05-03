@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-05-03T00:52:07.059Z",
+  "lastUpdated": "2026-05-03T04:22:16.793Z",
   "ai": {
     "developers": [
+      {
+        "title": "Suno picks up Songkick as part of AI licensing deal with Warner Music",
+        "url": "https://completemusicupdate.com/suno-picks-up-songkick-as-part-of-ai-licensing-deal-with-warner-music/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T04:13:17.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T04:05:28.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Claude-powered AI agent's confession",
+        "url": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T04:05:04.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Carrier – AI-first back end compiler (Rust/Java/Node)",
+        "url": "https://github.com/nikoma/carrier",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T03:49:41.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Fun, open-source AI transparency project",
+        "url": "https://github.com/realalonw/agent-receipts",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T02:44:42.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI, Intimacy, and the Data You Never Meant to Share",
+        "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T02:42:43.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The AI workflow I use to build apps",
+        "url": "https://juanmanuelalloron.com/post/my-current-ai-workflow-for-building-apps/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T02:14:48.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "US Navy signs deal with AI firm for training underwater drones",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-03T01:52:14.000Z",
+        "category": "developers"
+      },
       {
         "title": "In real-world test, an AI model did better than doctors at diagnosing patients",
         "url": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
@@ -50,62 +106,6 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-05-02T22:03:15.000Z",
         "category": "developers"
-      },
-      {
-        "title": "CISA, NSA & Five Eyes publishes guide on how to safely deploy AI agents",
-        "url": "https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T21:10:53.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Rotato – Node.js proxy that rotates LLM API keys on 429 errors",
-        "url": "https://github.com/p32929/rotato",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T21:08:46.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Automate Anything with Python and AI",
-        "url": "https://codeonix.app/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T20:46:35.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Narrow by Design: The Case for Composable AI Teams",
-        "url": "https://substack.com/@ashconway/note/p-196059865",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T20:28:22.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: I built a dev workspace with AI as backbone",
-        "url": "https://thekit.dev/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T20:20:36.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Preliminary Findings on AI Automation from Worker Evaluations",
-        "url": "https://arxiv.org/abs/2604.01363",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T20:14:29.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "New Oscars rules: No AI actors, human-written scripts only",
-        "url": "https://www.dw.com/en/new-oscars-rules-exclude-ai-performers-require-scripts-written-by-human/a-77016539",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T19:29:28.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Which public repos are friendliest to an AI coding agent?",
-        "url": "https://www.agentfriendlycode.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T19:14:21.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -135,13 +135,6 @@
         "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
         "source": "Hacker News – AI",
         "publishedAt": "2026-05-02T18:56:43.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI may be coming to Windows 11's Clock app as Microsoft turns it into focus tool",
-        "url": "https://www.windowslatest.com/2026/04/29/new-clock-app-focus-sessions/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-02T17:43:09.000Z",
         "category": "everyone"
       },
       {
@@ -212,6 +205,13 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
         "source": "The Verge – AI",
         "publishedAt": "2026-04-30T18:16:57.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-04-30T16:57:14.000Z",
         "category": "everyone"
       }
     ],
@@ -433,6 +433,13 @@
     ],
     "crypto": [
       {
+        "title": "Bitcoin logs best monthly performance in 12 months during April",
+        "url": "https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-03T03:29:34.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list",
         "url": "https://cointelegraph.com/news/linux-copy-fail-a-trivially-exploitable-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -529,17 +536,94 @@
         "source": "CoinDesk",
         "publishedAt": "2026-05-02T06:24:06.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst",
-        "url": "https://cointelegraph.com/news/bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-02T06:11:22.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Spain should get new seat on ECB board, outgoing VP says",
+      "url": "https://www.investing.com/news/economy-news/spain-should-get-new-seat-on-ecb-board-outgoing-vp-says-4654807",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-03T04:06:53.000Z"
+    },
+    {
+      "title": "Detroit carmakers warn of $5bn commodities shock due to Iran war",
+      "url": "https://www.ft.com/content/a24a24f6-064b-4f00-a339-edf597596d5a",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-03T04:00:13.000Z"
+    },
+    {
+      "title": "Chicken wars ruffle feathers in Paris suburb",
+      "url": "https://www.ft.com/content/8090bb09-6cf7-4714-a8a1-eb9f17500d85",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-03T04:00:13.000Z"
+    },
+    {
+      "title": "Investors pile into clean energy as Iran war drives push for energy security",
+      "url": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-03T04:00:05.000Z"
+    },
+    {
+      "title": "Everyone loves Nintendo — except investors",
+      "url": "https://www.ft.com/content/1dd9f27e-ddef-43ab-80f5-c30b6a82b4d2",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-03T04:00:05.000Z"
+    },
+    {
+      "title": "IMF criticises EU governments for ignoring energy subsidy warnings",
+      "url": "https://www.ft.com/content/8b4cb5a2-67ab-4313-bce1-b77f542eeed5",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-03T04:00:05.000Z"
+    },
+    {
+      "title": "Private equity investor body sounds alarm on ‘conflict vehicles’",
+      "url": "https://www.ft.com/content/88c4bafb-a329-47fa-b1f6-8c9d7c51bc10",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-03T04:00:05.000Z"
+    },
+    {
+      "title": "Nvidia’s pivot to physical AI ignites rally across Asian supply chain",
+      "url": "https://www.investing.com/news/economy-news/nvidias-pivot-to-physical-ai-ignites-rally-across-asian-supply-chain-4654804",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-03T02:34:51.000Z"
+    },
+    {
+      "title": "Vietnam Inflation Quickens as Iran War Raises Energy Costs",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/vietnam-inflation-quickens-as-iran-war-drives-up-energy-costs",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-03T02:08:57.000Z"
+    },
+    {
+      "title": "Japan’s Katayama mum on suspected FX intervention amid Golden Week",
+      "url": "https://www.investing.com/news/economy-news/japans-katayama-mum-on-suspected-fx-intervention-amid-golden-week-4654802",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-03T01:47:33.000Z"
+    },
+    {
+      "title": "Trump says he is reviewing Iran peace plan but would consider new strikes",
+      "url": "https://www.ft.com/content/fb1aae4a-ec0c-48ed-bf0a-6639071499d3",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-03T01:19:06.000Z"
+    },
+    {
+      "title": "Philippines Says Thousands Evacuated as Mayon Volcano Erupts",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/philippines-says-thousands-evacuated-as-mayon-volcano-erupts",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-03T00:55:25.000Z"
+    },
+    {
+      "title": "Japan’s Katayama Declines to Comment on FX Intervention For Now",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/japan-s-katayama-declines-to-comment-on-fx-intervention-for-now",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-03T00:52:43.000Z"
+    },
+    {
+      "title": "Drugmakers petition Supreme Court to restore mifepristone mail-order access",
+      "url": "https://www.investing.com/news/economy-news/drugmakers-petition-supreme-court-to-restore-mifepristone-mailorder-access-4654800",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-03T00:46:32.000Z"
+    },
     {
       "title": "Trump signals deeper U.S. troop cuts in Germany amid rising NATO tensions",
       "url": "https://www.investing.com/news/economy-news/trump-signals-deeper-us-troop-cuts-in-germany-amid-rising-nato-tensions-4654798",
@@ -575,90 +659,6 @@
       "url": "https://www.marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-05-02T20:10:00.000Z"
-    },
-    {
-      "title": "US Jobs Report to Show Resilience in the Wake of Iran War",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-02/us-jobs-report-to-show-resilience-in-the-wake-of-iran-war",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-02T20:00:00.000Z"
-    },
-    {
-      "title": "Recent inflation data was ’bad news,’ Fed’s Goolsbee says",
-      "url": "https://www.investing.com/news/economy-news/recent-inflation-data-was-bad-news-feds-goolsbee-says-4654785",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-02T19:12:30.000Z"
-    },
-    {
-      "title": "Aegon, Barclays Say Prepare for Market Pain",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-02/aegon-barclays-say-prepare-for-market-pain-credit-weekly",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-02T19:00:00.000Z"
-    },
-    {
-      "title": "Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient",
-      "url": "https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-02T18:49:24.000Z"
-    },
-    {
-      "title": "Trump administration fast-tracks $8.6bn in arms sales to Middle East allies",
-      "url": "https://www.ft.com/content/a9a3273f-d5c3-4277-932d-27b1969e975f",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-02T18:36:28.000Z"
-    },
-    {
-      "title": "Berkshire Investors Praise Greg Abel at Post-Buffett Meeting",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-02/berkshire-meeting-highlights-tough-balancing-act-for-greg-abel",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-02T18:16:31.000Z"
-    },
-    {
-      "title": "These financial adviser fees pinch your portfolio — and 2 questions can stop them",
-      "url": "https://www.marketwatch.com/story/how-to-spot-the-silent-fees-and-hidden-costs-your-adviser-isnt-mentioning-c821812a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-02T17:57:00.000Z"
-    },
-    {
-      "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
-      "url": "https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-02T17:38:00.000Z"
-    },
-    {
-      "title": "Two investment strategies for people who are afraid of the stock market",
-      "url": "https://www.marketwatch.com/story/two-investment-strategies-for-people-who-are-afraid-of-the-stock-market-a68bbe15?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-02T17:14:00.000Z"
-    },
-    {
-      "title": "Spirit Airlines made this critical mistake that drove its demise",
-      "url": "https://www.marketwatch.com/story/spirit-airlines-made-this-critical-mistake-that-drove-its-demise-df3ea39d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-02T17:12:00.000Z"
-    },
-    {
-      "title": "Spirit Airlines Shuts Down at Airports Across US",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-02/spirit-airlines-shuts-down-at-airports-across-us-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-02T16:13:25.000Z"
-    },
-    {
-      "title": "Bloomberg This Weekend 5/02/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-02/bloomberg-this-weekend-5-02-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-02T16:01:03.000Z"
-    },
-    {
-      "title": "Private credit isn’t safer than banks — it’s just better at hiding losses",
-      "url": "https://www.marketwatch.com/story/private-credit-isnt-safer-than-banks-its-just-better-at-hiding-losses-84937515?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-02T15:55:00.000Z"
-    },
-    {
-      "title": "UAE Departs OPEC as Iran Feel Economic Sting of Blockade",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-02/uae-departs-opec-as-iran-feel-economic-sting-of-blockade-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-02T15:46:25.000Z"
     }
   ]
 }
