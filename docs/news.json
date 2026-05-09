@@ -1,128 +1,114 @@
 {
-  "lastUpdated": "2026-05-09T15:23:27.540Z",
+  "lastUpdated": "2026-05-09T18:24:56.652Z",
   "ai": {
     "developers": [
+      {
+        "title": "Show HN: How-to-Train-Your-GPT",
+        "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T18:10:21.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI wants direct access to your data",
+        "url": "https://matthiasplappert.com/blog/2026/ai-wants-direct-data-access/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T18:04:03.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Go Players Disempower Themselves to AI",
+        "url": "https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T17:36:55.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "He Couldn't Land a Job Interview. Was AI to Blame?",
+        "url": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T17:35:23.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI doesn't know – it guesses. What if meaning lived outside the model?",
+        "url": "https://github.com/pekkalepola/colibri-clf",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T17:32:34.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Gartner: AI layoffs don't create returns, they just create vacancies",
+        "url": "https://www.theregister.com/ai-and-ml/2026/05/06/ai-layoffs-backfire-as-cutting-staff-doesnt-cut-it-firms-warned/5230631",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T17:03:46.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "A soccer simulator played by AI Agents",
+        "url": "https://gangtao.github.io/AgentPitch/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T16:50:46.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Open-source experiment: collaborative AI cognition through wiki pages",
+        "url": "https://mentisphere.wiki/wiki/Main_Page",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T16:39:40.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: My AI agents bully each other to prevent context drift",
+        "url": "https://wuphf.team",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T16:22:23.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Using perspective lines to identify AI generated photos",
+        "url": "https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T16:19:36.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker",
+        "url": "https://github.com/ArmorerLabs/Armorer",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T16:09:51.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Adola: Reducing LLM input tokens by 70%",
+        "url": "https://adola.app/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T15:42:26.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How are folks affordably self-training in AI?",
+        "url": "https://news.ycombinator.com/item?id=48075805",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T15:36:37.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "SubQ: A New LLM with a 12M Token Context That Rivals Claude and ChatGPT",
+        "url": "https://felloai.com/subq-llm-review/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-09T15:31:56.000Z",
+        "category": "developers"
+      },
       {
         "title": "AI Accelerator UALink Maintains Rapid Update Pace- EE Times",
         "url": "https://www.eetimes.com/ai-accelerator-spec-maintains-rapid-update-pace/",
         "source": "Hacker News – AI",
         "publishedAt": "2026-05-09T15:22:46.000Z",
         "category": "developers"
-      },
-      {
-        "title": "LLM generated parsers and compliance checkers for Sparrow DSL",
-        "url": "https://news.ycombinator.com/item?id=48075633",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T15:13:59.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI or a Composite? An Award-Winning Owl 'Photo' Ruffled a Lot of Feathers",
-        "url": "https://petapixel.com/2026/05/06/ai-or-a-composite-an-award-winning-owl-photo-ruffled-a-lot-of-feathers/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T15:05:35.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "If AI made Cloudflare more productive, the layoffs are the wrong move",
-        "url": "https://lord.technology/2026/05/08/if-ai-made-cloudflare-more-productive-the-layoffs-are-the-wrong-move.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T14:58:59.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Can Hang Up Now, It Still Takes the Abuse",
-        "url": "https://kuber.studio/blog/AI/AI-Can-Hang-Up-Now-It-Still-Takes-the-Abuse",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T14:49:42.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Novo Navis Intelligence Sobers Up the AI Community",
-        "url": "https://news.novonavis.com/news/intel_090526_3827",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T14:23:42.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Canvas Data Breach; DeepSeek V4 Flash Boosts LLM Inference 4.3x",
-        "url": "https://presciente.com/edition/77",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T14:08:43.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "It Was a Good Quarter for \"Other Income\" [A16Z Charts on AI Growth]",
-        "url": "https://www.a16z.news/p/charts-of-the-week-it-was-a-good",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T14:03:21.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Article: What are LLMs and Generative AI good at",
-        "url": "https://jackpritz.com/blog/what-are-llms-and-generative-ai-good-at",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T13:36:23.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI makes weak engineers less harmful",
-        "url": "https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T13:22:36.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "OpenSpec – a lightweight AI-driven spec framework",
-        "url": "https://www.danclarke.com/openspec/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T13:17:21.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-        "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T12:54:16.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "How AI Is recasting cement manufacturing",
-        "url": "https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/05/06/how-ai-is-recasting-cement-manufacturing/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T12:49:23.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Typewhisper: Local speech-to-text on-device AI, private, optional cloud",
-        "url": "https://github.com/TypeWhisper/typewhisper-mac",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T12:47:44.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "I think AI is pushing me toward the AGPL – by Julio Merino",
-        "url": "https://blogsystem5.substack.com/p/ai-and-agpl-licensing",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T12:35:37.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
-      {
-        "title": "The groundbreaking AI tool helping Victorian rangers protect native species",
-        "url": "https://www.abc.net.au/news/2026-04-27/ai-helps-parks-victoria-manage-native-species-pests-after-fires/106589360",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T11:20:03.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Cloudflare's slowing growth disappoints investors betting on AI boost",
-        "url": "https://www.reuters.com/business/cloudflares-slowing-growth-disappoints-investors-betting-ai-boost-2026-05-08/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T09:26:15.000Z",
-        "category": "everyone"
-      },
       {
         "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
         "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
@@ -213,6 +199,20 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-05-06T08:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Introducing ChatGPT Futures: Class of 2026",
+        "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "A blueprint for using AI to strengthen democracy",
+        "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-05T09:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
@@ -235,13 +235,6 @@
         "url": "https://turntrout.com/self-fulfilling-misalignment",
         "source": "Hacker News – AI",
         "publishedAt": "2026-05-09T14:03:23.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "I've Solved AI Alignment,'Godfather' of AI, Yoshua Bengio",
-        "url": "https://www.youtube.com/watch?v=PZqDFs2sbiY",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-09T12:43:26.000Z",
         "category": "advancements"
       },
       {
@@ -320,118 +313,181 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-05-04T17:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "How OpenAI delivers low-latency voice AI at scale",
+        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-05-04T00:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Dutch Bros Q1 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-q1-earnings-call-150726256.html",
+        "title": "Shell CEO sends blunt message on oil and the economy",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/shell-ceo-sends-blunt-message-181700697.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T15:07:26.000Z",
+        "publishedAt": "2026-05-09T18:17:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Accel Entertainment Shareholders Back Board, Executive Pay at Annual Meeting",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/accel-entertainment-shareholders-back-board-150726284.html",
+        "title": "Some commuters now pay $1,600 a month just to get to work — how the cost of gas is changing the math on where you live",
+        "url": "https://finance.yahoo.com/economy/articles/commuters-now-pay-1-600-181000608.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T15:07:26.000Z",
+        "publishedAt": "2026-05-09T18:10:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Bowlero Q3 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bowlero-q3-earnings-call-highlights-150725059.html",
+        "title": "The Best AI Software Stock to Buy in 2026",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/best-ai-software-stock-buy-181000109.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T15:07:25.000Z",
+        "publishedAt": "2026-05-09T18:10:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Blend Labs Q1 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/blend-labs-q1-earnings-call-150724494.html",
+        "title": "Outset Medical (OM) Q4 2025 Earnings Transcript",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/outset-medical-om-q4-2025-180809875.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T15:07:24.000Z",
+        "publishedAt": "2026-05-09T18:08:09.000Z",
         "category": "markets"
       },
       {
-        "title": "BKV Q1 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/bkv-q1-earnings-call-highlights-150724522.html",
+        "title": "Why This Wealth Firm Added Nearly $3 Million to a 4.6% Yield Bond ETF",
+        "url": "https://finance.yahoo.com/markets/options/articles/why-wealth-firm-added-nearly-180605927.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T15:07:24.000Z",
+        "publishedAt": "2026-05-09T18:06:05.000Z",
         "category": "markets"
       },
       {
-        "title": "BlackSky Technology Q1 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/blacksky-technology-q1-earnings-call-150723124.html",
+        "title": "In 10 Years, Will You Wish You'd Bought NuScale Power Stock Right Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/10-years-wish-youd-bought-180500688.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T15:07:23.000Z",
+        "publishedAt": "2026-05-09T18:05:00.000Z",
         "category": "markets"
       },
       {
-        "title": "How Are the AI-Immune HALO Stocks Doing in 2026?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-immune-halo-stocks-doing-150500104.html",
+        "title": "Allison Transmission Shareholders Approve Board, Auditor and Executive Pay at Annual Meeting",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-shareholders-approve-board-180432576.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T15:05:00.000Z",
+        "publishedAt": "2026-05-09T18:04:32.000Z",
         "category": "markets"
       },
       {
-        "title": "KeyBanc Reiterates Service Now’s (NOW) Underweight Rating",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/keybanc-reiterates-now-now-underweight-145149352.html",
+        "title": "Cherry Hill Mortgage Investment Q1 Earnings Call Highlights",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cherry-hill-mortgage-investment-q1-180432040.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T14:51:49.000Z",
+        "publishedAt": "2026-05-09T18:04:32.000Z",
         "category": "markets"
       },
       {
-        "title": "Microsoft Corp. (MSFT) to Invest in European Data Center Regions",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-corp-msft-invest-european-145058016.html",
+        "title": "CF Industries Q1 Earnings Call Highlights",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cf-industries-q1-earnings-call-180431759.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T14:50:58.000Z",
+        "publishedAt": "2026-05-09T18:04:31.000Z",
         "category": "markets"
       },
       {
-        "title": "Want Safe Dividend Income in 2026 and Beyond? Invest in This Ultra-High-Yield Stock.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/want-safe-dividend-income-2026-145000021.html",
+        "title": "Apollo CEO warns there’s now a 35% chance of a major market shock amid AI-driven upheaval. How to stay afloat",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-ceo-warns-now-35-173000193.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T14:50:00.000Z",
+        "publishedAt": "2026-05-09T17:30:00.000Z",
         "category": "markets"
       },
       {
-        "title": "CrowdStrike Holdings (CRWD) Expands Cybersecurity Coalition with Additional Partners",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-expands-cybersecurity-144940925.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T14:49:40.000Z",
+        "title": "Frontier jet hits and kills pedestrian on runway in Denver during takeoff",
+        "url": "https://www.cnbc.com/2026/05/09/frontier-airlines-plane-engine-fire-pedestrian.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-09T17:23:21.000Z",
         "category": "markets"
       },
       {
-        "title": "Palantir Technologies (PLTR) Price Target Raised to $225 by Citi",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-pltr-price-target-144939914.html",
+        "title": "'A good scapegoat': Wall Street assesses latest AI-linked job cuts",
+        "url": "https://finance.yahoo.com/markets/article/a-good-scapegoat-wall-street-assesses-latest-ai-linked-job-cuts-170836684.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T14:49:39.000Z",
+        "publishedAt": "2026-05-09T17:08:36.000Z",
         "category": "markets"
       },
       {
-        "title": "Snowflake Inc. (SNOW) Collaborates with O9 Solutions for Application Integration",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-inc-snow-collaborates-o9-144937844.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T14:49:37.000Z",
+        "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
+        "url": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-09T17:00:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Piper Sandler Raises Arista Networks (ANET) Price Target to $181 on AI Exposure",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-raises-arista-networks-144935497.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T14:49:35.000Z",
+        "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+        "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-09T16:41:22.000Z",
         "category": "markets"
       },
       {
-        "title": "Is Intuit Inc. (INTU) One of the Best American AI Stocks to Buy Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-inc-intu-one-best-144934970.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-09T14:49:34.000Z",
+        "title": "There's little chance of a hantavirus global outbreak. What the latest odds say",
+        "url": "https://www.cnbc.com/2026/05/09/hantavirus-outbreak-little-chance-says-kalshi.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-09T16:41:15.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
+        "url": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-09T17:42:09.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
+        "url": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-09T17:28:08.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Trump Media Reports $2.2B in Assets as Crypto Holdings Drive Q1 Loss",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/trump-media-reports-2-2b-170800533.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-09T17:08:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
+        "url": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-09T16:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto industry cheers Senate Clarity Act markup date as market structure push resumes",
+        "url": "https://www.coindesk.com/policy/2026/05/09/crypto-industry-cheers-senate-clarity-act-markup-date-as-market-structure-push-resumes",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-09T15:56:49.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Emerging-market users are treating crypto exchanges like banking apps, Binance says",
+        "url": "https://www.coindesk.com/business/2026/05/09/emerging-market-users-are-treating-crypto-exchanges-like-banking-apps-binance-says",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-09T15:41:38.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
+        "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-09T15:30:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
+        "url": "https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-09T15:28:09.000Z",
+        "category": "crypto"
+      },
       {
         "title": "CME is set to let traders bet on bitcoin volatility, not just price",
         "url": "https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme",
@@ -480,71 +536,81 @@
         "source": "CoinDesk",
         "publishedAt": "2026-05-09T13:53:07.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Court lets Arbitrum DAO to transfer $71M in ETH tied to North Korea hack to Aave",
-        "url": "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-09T11:12:08.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months",
-        "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-09T08:35:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin",
-        "url": "https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-09T07:16:33.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin holds near $80,000 after rejection at $82,500; ETF outflows trigger cautious sentiment",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-80000-after-rejection-at-82500-etf-outflows-trigger-cautious-sentiment/articleshow/130972440.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-09T06:46:29.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
-        "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
-        "source": "CoinDesk",
-        "publishedAt": "2026-05-09T04:16:36.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Beyond Bitcoin: Why tokenized assets are gaining serious investor attention",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/beyond-bitcoin-why-tokenized-assets-are-gaining-serious-investor-attention/articleshow/130970509.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-09T04:10:13.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "US CLARITY Act sees ‘big step forward’ as markup set for May 14",
-        "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-09T02:01:55.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?",
-        "url": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-08T23:57:31.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
+      "title": "‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-09T18:00:00.000Z"
+    },
+    {
+      "title": "No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won’t see coming",
+      "url": "https://www.marketwatch.com/story/no-do-overs-how-one-extra-dollar-on-your-roth-conversion-triggers-a-tax-bill-you-wont-see-coming-5b52c911?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-09T17:55:00.000Z"
+    },
+    {
+      "title": "UK PM Starmer, weakened by local elections, is challenged by former minister",
+      "url": "https://www.investing.com/news/economy-news/starmer-aiming-for-leadership-reset-names-former-uk-pm-gordon-brown-as-adviser-4674636",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-09T17:48:26.000Z"
+    },
+    {
+      "title": "My niece is on Social Security Disability Insurance. Will she lose her health insurance if I buy her a house?",
+      "url": "https://www.marketwatch.com/story/my-niece-is-on-social-security-disability-insurance-will-she-lose-her-health-insurance-if-i-buy-her-a-house-5214d100?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-09T17:42:00.000Z"
+    },
+    {
+      "title": "Rachel Entrekin Shatters 250-Mile Course Record",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-09/rachel-entrekin-shatters-250-mile-course-record-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-09T17:19:32.000Z"
+    },
+    {
+      "title": "Health Officials Downplay Pandemic Risk From Cruise Hantavirus Outbreak",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-09/health-officials-downplay-risk-from-hantavirus-outbreak-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-09T17:09:07.000Z"
+    },
+    {
+      "title": "There are no hantavirus treatments. The deadly cruise-ship outbreak is a ‘wake-up call’ to develop some.",
+      "url": "https://www.marketwatch.com/story/there-are-no-hantavirus-treatments-the-deadly-cruise-ship-outbreak-is-a-wake-up-call-to-develop-some-43cb4359?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-09T17:09:00.000Z"
+    },
+    {
+      "title": "China Summit Stays on Track Despite Iran Concerns",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-09/china-summit-stays-on-track-despite-iran-concerns-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-09T16:56:17.000Z"
+    },
+    {
+      "title": "\"China is Just Watching\": Ro Khanna on Why the Iran Conflict is a Gift to Beijing",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-09/ro-khanna-on-why-the-iran-conflict-is-a-gift-to-beijing-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-09T16:45:17.000Z"
+    },
+    {
+      "title": "DOJ Probing Suspicious Oil Trades Tied To Iran War",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-09/doj-probing-suspicious-oil-trades-tied-to-iran-war-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-09T16:36:41.000Z"
+    },
+    {
+      "title": "Exploring The Met's New \"Costume Art\" Exhibit",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-09/exploring-the-met-s-new-costume-art-exhibit-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-09T16:18:17.000Z"
+    },
+    {
       "title": "Tenerife prepares to evacuate hantavirus cruise ship",
       "url": "https://www.ft.com/content/b5fdd84f-69bd-47ae-bd7b-df30ba3d758c",
       "source": "Financial Times",
-      "publishedAt": "2026-05-09T14:48:49.000Z"
+      "publishedAt": "2026-05-09T15:50:00.000Z"
     },
     {
       "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?",
@@ -577,18 +643,6 @@
       "publishedAt": "2026-05-09T13:43:45.000Z"
     },
     {
-      "title": "Starmer, aiming for leadership reset, names former UK PM Gordon Brown as adviser",
-      "url": "https://www.investing.com/news/economy-news/starmer-aiming-for-leadership-reset-names-former-uk-pm-gordon-brown-as-adviser-4674636",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-09T13:24:28.000Z"
-    },
-    {
-      "title": "My niece is on Social Security Disability Insurance. Will she lose her health insurance if I buy her a house?",
-      "url": "https://www.marketwatch.com/story/my-niece-is-on-social-security-disability-insurance-will-she-lose-her-health-insurance-if-i-buy-her-a-house-5214d100?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-09T13:21:00.000Z"
-    },
-    {
       "title": "Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation",
       "url": "https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -605,60 +659,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-05-09/earnings-bonanza-that-no-one-saw-coming-fuels-stocks-record-run",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-05-09T13:00:00.000Z"
-    },
-    {
-      "title": "UK deploys warship to Middle East for possible Hormuz operation",
-      "url": "https://www.investing.com/news/economy-news/uk-deploys-warship-to-middle-east-for-possible-hormuz-operation-4674634",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-09T12:43:35.000Z"
-    },
-    {
-      "title": "The most prestigious job in AI has no description",
-      "url": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-09T12:30:00.000Z"
-    },
-    {
-      "title": "More Americans are buying homes to fit multiple generations: ‘It answered a lot of prayers’",
-      "url": "https://www.marketwatch.com/story/more-americans-are-buying-homes-to-fit-multiple-generations-it-answered-a-lot-of-prayers-00d0239d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-09T12:30:00.000Z"
-    },
-    {
-      "title": "Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-09T12:30:00.000Z"
-    },
-    {
-      "title": "China Vows to Advance Efforts to Defuse Local Government Debt",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/china-vows-to-advance-efforts-to-defuse-local-government-debt",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-09T12:25:30.000Z"
-    },
-    {
-      "title": "‘It’s Not Because They Want to Be Friends’: Brilliant on What to Expect From the Trump-Xi Summit",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-09/what-to-expect-from-the-trump-xi-summit-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-09T12:04:23.000Z"
-    },
-    {
-      "title": "UK Moves Warship to Middle East for Potential Hormuz Mission",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/uk-moves-warship-to-middle-east-for-potential-hormuz-mission",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-09T12:00:06.000Z"
-    },
-    {
-      "title": "These smaller tech stocks are punching well above their weight",
-      "url": "https://www.marketwatch.com/story/these-smaller-tech-stocks-are-punching-well-above-their-weight-acefe98d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-09T12:00:00.000Z"
-    },
-    {
-      "title": "Moving people and money across borders",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-09/moving-people-and-money-across-borders",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-09T12:00:00.000Z"
     }
   ]
 }
