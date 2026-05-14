@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-05-14T00:55:20.295Z",
+  "lastUpdated": "2026-05-14T04:22:43.946Z",
   "ai": {
     "developers": [
+      {
+        "title": "Charity Majors on AI, Observability, and the Future of Software [audio]",
+        "url": "https://scalingdevtools.com/podcast/episodes/charity",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-14T03:01:37.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Measuring the Self-Reported Impact of Early-2026 AI on Tech Worker Productivity",
+        "url": "https://metr.org/blog/2026-05-11-ai-usage-survey/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-14T02:53:07.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Containarium – self-hosted sandbox for AI agents, MCP-native",
+        "url": "https://github.com/footprintai/Containarium",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-14T02:46:36.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Terax – Lightweight (7MB) AI Terminal Emulator (ADE) in Rust, Tauri, and React",
+        "url": "https://terax.app",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-14T02:38:11.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Google reports first known real-world AI-crafted zero-day exploit",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-14T02:05:07.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Feedback Welcome – Feline Finder – explainable AI matching for adoptable cats",
+        "url": "https://www.felinefinder.info/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-14T01:46:41.000Z",
+        "category": "developers"
+      },
       {
         "title": "yeah – a command-line tool that answers yes/no questions using an LLM",
         "url": "https://github.com/crawshaw/yeah",
@@ -64,51 +106,16 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-05-13T22:13:45.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
-        "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-05-13T22:04:28.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI agents with shared memory – we published everything they got wrong",
-        "url": "https://plato.purplepincher.org/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-13T22:00:30.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: This Show HN is NotGen.AI",
-        "url": "https://notgen.ai/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-13T21:29:25.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-        "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-13T21:24:14.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Building effective Human-AI hybrid decision-making ecosystem",
-        "url": "https://galdren.com/lgd/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-13T21:19:29.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Cisco to Cut Jobs in Shift to Capture More AI Demand",
-        "url": "https://www.wsj.com/business/earnings/cisco-to-cut-jobs-in-shift-to-capture-more-ai-demand-b99eeb21",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-13T21:04:26.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Meta launches WhatsApp 'incognito' mode to address privacy concerns for AI chats",
+        "url": "https://apnews.com/article/whatsapp-meta-ai-chatbot-privacy-9a5f7565c969cbf04cf150dfc318cfae",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-14T02:05:49.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Apple Is Quietly Building the Most Profitable AI Toll Booth",
         "url": "https://seekingalpha.com/article/4902208-apple-quietly-building-most-profitable-ai-toll-booth",
@@ -206,13 +213,6 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-05-08T15:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Introducing Trusted Contact in ChatGPT",
-        "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-05-07T00:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
@@ -287,15 +287,15 @@
         "category": "advancements"
       },
       {
-        "title": "How frontier firms are pulling ahead",
-        "url": "https://openai.com/index/introducing-b2b-signals",
+        "title": "Uber uses OpenAI to help people earn smarter and book faster",
+        "url": "https://openai.com/index/uber",
         "source": "OpenAI Blog",
         "publishedAt": "2026-05-06T00:00:00.000Z",
         "category": "advancements"
       },
       {
-        "title": "Uber uses OpenAI to help people earn smarter and book faster",
-        "url": "https://openai.com/index/uber",
+        "title": "How frontier firms are pulling ahead",
+        "url": "https://openai.com/index/introducing-b2b-signals",
         "source": "OpenAI Blog",
         "publishedAt": "2026-05-06T00:00:00.000Z",
         "category": "advancements"
@@ -326,112 +326,126 @@
   "finance": {
     "markets": [
       {
-        "title": "Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami",
-        "url": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
+        "title": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
+        "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
         "source": "CNBC",
-        "publishedAt": "2026-05-14T00:39:53.000Z",
+        "publishedAt": "2026-05-14T04:17:27.000Z",
         "category": "markets"
       },
       {
-        "title": "In photos: Trump lands in China ahead of high-stakes summit with Xi",
+        "title": "Silver slides Rs 3,300/kg, gold drops Rs 1,600/10g as Trump-Xi talks in spotlight amid Iran war; key levels to watch",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-slides-rs-3300/kg-gold-drops-rs-1600/10g-as-trump-xi-talks-in-spotlight-amid-iran-war-key-levels-to-watch/articleshow/131081864.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-14T04:03:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "In photos: Trump kicks off high-stakes summit with Xi",
         "url": "https://www.cnbc.com/2026/05/14/in-photos-trump-lands-in-beijing-ahead-of-high-stakes-summit-with-xi.html",
         "source": "CNBC",
-        "publishedAt": "2026-05-14T00:38:40.000Z",
+        "publishedAt": "2026-05-14T03:58:52.000Z",
         "category": "markets"
       },
       {
-        "title": "Sebi proposes changes to municipal bond framework",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-changes-to-municipal-bond-framework/articleshow/131079762.cms",
+        "title": "Sensex rises over 400 points to cross 75,000; Nifty above 23,500 despite weak rupee",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-400-points-to-cross-75000-nifty-above-23500-despite-weak-rupee/articleshow/131081839.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-14T00:36:30.000Z",
+        "publishedAt": "2026-05-14T03:56:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Federal Bank, Indian Bank, MCX &amp; Nalco in MSCI Global",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-indian-bank-mcx-nalco-in-msci-global/articleshow/131079703.cms",
+        "title": "Global Market: TSMC sees chip market crossing $1.5 trillion by 2030 on AI boom",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-sees-chip-market-crossing-1-5-trillion-by-2030-on-ai-boom/articleshow/131081806.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-14T00:23:32.000Z",
+        "publishedAt": "2026-05-14T03:51:51.000Z",
         "category": "markets"
       },
       {
-        "title": "Rupee slides to a fresh low for third straight day on oil hit",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slides-to-a-fresh-low-for-third-straight-day-on-oil-hit/articleshow/131079686.cms",
+        "title": "TVS Motor shares in focus after Q4 results. Here’s why Morgan Stanley, Goldman Sachs remain bullish",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-shares-in-focus-after-q4-results-heres-why-morgan-stanley-goldman-sachs-remain-bullish/articleshow/131081766.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-14T00:20:46.000Z",
+        "publishedAt": "2026-05-14T03:48:42.000Z",
         "category": "markets"
       },
       {
-        "title": "Trading volumes in unlisted shares plunge up to 70%",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/trading-volumes-in-unlisted-shares-plunge-up-to-70/articleshow/131079676.cms",
+        "title": "Japan's Nikkei touches record high on tech optimism; SoftBank, Topix slump",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-touches-record-high-on-tech-optimism-softbank-topix-slump/articleshow/131081732.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-14T00:17:46.000Z",
+        "publishedAt": "2026-05-14T03:45:41.000Z",
         "category": "markets"
       },
       {
-        "title": "Asia-Pacific stocks trade mixed as Trump lands in Beijing for high-stakes Xi meeting",
-        "url": "https://www.cnbc.com/2026/05/14/asia-pacific-markets-live-donald-trump-xi-jinping-us-china-meeting-hang-seng-nikkei-kospi.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-14T00:14:58.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "RBI expected to hold rates in June despite rising inflation, H2 rate hike bets emerge",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-expected-to-hold-rates-in-june-despite-rising-inflation-h2-rate-hike-bets-emerge/articleshow/131079652.cms",
+        "title": "Explained: Why Balrampur Chini, Dhampur Sugar, other stocks tumbled up to 4% on Thursday",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-balrampur-chini-dhampur-sugar-other-stocks-will-be-in-focus-on-thursday/articleshow/131081422.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-14T00:14:41.000Z",
+        "publishedAt": "2026-05-14T03:14:42.000Z",
         "category": "markets"
       },
       {
-        "title": "Japan's global defense business may be on the cusp of a big breakout",
-        "url": "https://www.cnbc.com/2026/05/14/japan-defense-arms-exports-weapons-south-korea.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-13T23:39:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Analysis: Trump finally gets his man at the Fed. Will Kevin Warsh disappoint him?",
-        "url": "https://www.cnbc.com/2026/05/13/warsh-trump-congress-senate-analysis.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-13T23:22:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
-        "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-13T23:21:35.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Why big tech is betting on cute mascots",
-        "url": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
+        "title": "Australian giant Coles misled shoppers with fake discounts, court rules",
+        "url": "https://www.bbc.com/news/articles/c202159x6x3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-05-13T23:08:37.000Z",
+        "publishedAt": "2026-05-14T03:09:20.000Z",
         "category": "markets"
       },
       {
-        "title": "Higher Europe air fares 'inevitable', says industry head",
-        "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-05-13T23:03:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs",
-        "url": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-13T23:03:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Airtel plans Rs 28,000 crore share swap: Deal with ICIL to raise parent’s stake in Airtel Africa &amp; Mittal family’s stake in Airtel",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/airtel-plans-rs-28000-crore-share-swap-deal-with-icil-to-raise-parents-stake-in-airtel-africa-mittal-familys-stake-in-airtel/articleshow/131079613.cms",
+        "title": "Asian Paints Share Price Live Updates: Asian Paints  Previous Day Close",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-today-live-14-may-2026/liveblog/131081026.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-13T23:00:00.000Z",
+        "publishedAt": "2026-05-14T02:50:15.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "ITC Share Price Live Updates: ITC  Daily Closing Figures",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-14-may-2026/liveblog/131081012.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-14T02:49:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement  Price Summary",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-updates-14-may-2026/liveblog/131081001.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-14T02:49:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Update",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-14-may-2026/liveblog/131080985.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-14T02:48:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Last Trading Day Price",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-updates-14-may-2026/liveblog/131080972.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-14T02:47:26.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "TCS Share Price Live Updates: TCS's Closing Price Stands at Rs 2300.3",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-today-live-updates-14-may-2026/liveblog/131080970.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-14T02:47:22.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase",
+        "url": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-14T03:47:33.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Only 4% of Americans weigh crypto when placing their votes: Poll",
+        "url": "https://cointelegraph.com/news/4-percent-americans-weigh-crypto-policy-when-voting-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-14T03:38:10.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -522,143 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-05-13T16:29:27.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin buyers with long-term 'conviction' surges 300% with most recent buyers sitting on profits",
-        "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-s-available-supply-is-shrinking-as-long-term-hoarding-hits-record-4-million-btc",
-        "source": "CoinDesk",
-        "publishedAt": "2026-05-13T16:00:12.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Jamie Dimon warns JPMorgan may rethink new London office if 'very smart' Starmer is ousted as UK PM",
-        "url": "https://www.cnbc.com/2026/05/13/jamie-dimon-says-jp-morgan-may-rethink-london-office-if-starmer-ousted.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-13T15:53:56.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "What's At Stake as Xi and Trump Meet in Beijing",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-14/what-s-at-stake-as-xi-and-trump-meet-in-beijing-video",
+      "title": "US-China Talks Begin With Focus on Trade, Taiwan and Iran",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/us-china-talks-begin-with-focus-on-trade-and-taiwan-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-14T00:44:50.000Z"
+      "publishedAt": "2026-05-14T04:11:17.000Z"
     },
     {
-      "title": "20 stocks in the S&P 500 of companies with soaring sales and improving profit margins",
-      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-of-companies-with-soaring-sales-and-improving-profit-margins-eb74005a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-14T00:43:00.000Z"
-    },
-    {
-      "title": "Warsh clinches Senate approval to be Fed’s next chair as inflation intensifies",
-      "url": "https://www.investing.com/news/economy-news/fed-chair-nominee-warsh-set-to-get-us-senate-nod-as-inflation-intensifies-4685700",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-14T00:18:30.000Z"
-    },
-    {
-      "title": "Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record",
-      "url": "https://www.marketwatch.com/story/cisco-to-cut-jobs-so-it-can-invest-more-in-ai-and-the-stock-rockets-toward-a-record-cf9d09a9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-14T00:12:00.000Z"
-    },
-    {
-      "title": "Chip IPO Highlights Malaysia Deals Surging Toward 13-Year High",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-14/chip-ipo-highlights-malaysia-deals-surging-toward-13-year-high",
+      "title": "Japan’s Eneos Buys Chevron’s Asian Oil Assets for $2.2 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/japan-s-eneos-buys-chevron-s-asian-oil-assets-for-2-2-billion",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-14T00:00:00.000Z"
+      "publishedAt": "2026-05-14T04:09:13.000Z"
     },
     {
-      "title": "India Bans Sugar Exports Until End-September to Protect Supply",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/india-bans-sugar-exports-until-end-september-to-protect-supply",
+      "title": "Is Polaroid Coming for Today's Stock Market?",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-05-14/ai-boom-is-polaroid-coming-for-today-s-stock-market",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-13T23:58:41.000Z"
+      "publishedAt": "2026-05-14T04:00:17.000Z"
     },
     {
-      "title": "Cerebras’s massive IPO will be a fresh test of investor excitement for AI infrastructure",
-      "url": "https://www.marketwatch.com/story/cerebrass-ipo-will-be-fresh-a-test-of-investor-excitement-for-ai-infrastructure-3499a2a5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-13T23:52:00.000Z"
-    },
-    {
-      "title": "Inflation will likely be higher for longer. Your retirement plan isn’t built for that.",
-      "url": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-13T23:34:00.000Z"
-    },
-    {
-      "title": "Citadel Tells Some Quant Staff to Relocate From HK or Quit, FT Reports",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/citadel-tells-some-quant-staff-to-relocate-from-hk-or-quit-ft",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-13T23:27:53.000Z"
-    },
-    {
-      "title": "The Iran war could be a $300 billion shock — driving up mortgage rates and squeezing wages",
-      "url": "https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-13T23:21:00.000Z"
-    },
-    {
-      "title": "Cerebras boosts IPO price to raise $5.5bn",
-      "url": "https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814",
+      "title": "Self-report fraud and walk free, New York prosecutors tell Wall Street",
+      "url": "https://www.ft.com/content/6344b5be-e48c-48b8-8fea-d86e6c4c4aec",
       "source": "Financial Times",
-      "publishedAt": "2026-05-13T23:10:01.000Z"
+      "publishedAt": "2026-05-14T04:00:15.000Z"
     },
     {
-      "title": "Gloom in UK housing market shows no sign of lifting, RICS survey shows",
-      "url": "https://www.investing.com/news/economy-news/gloom-in-uk-housing-market-shows-no-sign-of-lifting-rics-survey-shows-4686910",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-13T23:06:30.000Z"
-    },
-    {
-      "title": "Blackstone REIT Raises $1.75 Billion in IPO to Buy Data Centers",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/blackstone-reit-raises-1-75-billion-in-ipo-to-buy-data-centers",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-13T23:05:32.000Z"
-    },
-    {
-      "title": "Citadel tells key researchers to relocate from Hong Kong or quit",
-      "url": "https://www.ft.com/content/70ab1705-8c9c-4dce-b9cb-1e517cdd8349",
+      "title": "The luxury industry’s many contradictions",
+      "url": "https://www.ft.com/content/ae084426-5991-4b43-80bc-8ecb6e0f9bb5",
       "source": "Financial Times",
-      "publishedAt": "2026-05-13T23:01:02.000Z"
+      "publishedAt": "2026-05-14T04:00:15.000Z"
     },
     {
-      "title": "AI Bond Binge Overwhelms Wall Street, Pushing Alphabet Overseas",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/ai-bond-binge-overwhelms-wall-street-pushing-alphabet-overseas",
+      "title": "A note from Trump and Xi’s couples therapist",
+      "url": "https://www.ft.com/content/dffabcfd-8018-4c9e-b4ca-b93f82358c8b",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-14T04:00:07.000Z"
+    },
+    {
+      "title": "Trump, Xi call for improving US-China ties as Beijing talks begin",
+      "url": "https://www.investing.com/news/economy-news/trump-xi-call-for-improving-uschina-ties-as-beijing-talks-begin-4687087",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-14T03:57:36.000Z"
+    },
+    {
+      "title": "Global Funds Speed Up Korea Stock Exit as Record Rally Extends",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/global-funds-ramp-up-korea-stock-exit-as-record-rally-extends",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-13T22:41:52.000Z"
+      "publishedAt": "2026-05-14T03:46:59.000Z"
     },
     {
-      "title": "ASX Names Former Euronext Paris Chief Anthony Attia as CEO",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/asx-names-former-euronext-paris-chief-anthony-attia-as-ceo",
+      "title": "Japan’s 30-Year Bond Sale Draws Firmer Demand on Higher Yields",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/japan-s-30-year-bond-sale-demand-stronger-than-12-month-average",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-13T22:30:26.000Z"
+      "publishedAt": "2026-05-14T03:41:09.000Z"
     },
     {
-      "title": "Gold Holds Decline as Rising US Inflation Raises Rate-Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/gold-holds-decline-as-rising-us-inflation-raises-rate-hike-bets",
+      "title": "Copper Retreats From Record Close as Purchases in China Slow",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/copper-retreats-from-record-close-as-purchases-in-china-slow",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-13T22:26:38.000Z"
+      "publishedAt": "2026-05-14T03:39:26.000Z"
     },
     {
-      "title": "Oil Steadies Ahead of Trump-Xi Talks as Iran War Tensions Simmer",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/latest-oil-market-news-and-analysis-for-may-14",
+      "title": "Xi Says Common Interests Outweigh Difficulties",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/xi-says-common-interests-outweigh-difficulties-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-13T22:08:52.000Z"
+      "publishedAt": "2026-05-14T03:24:38.000Z"
     },
     {
-      "title": "Asian Stocks, US Futures Climb on Tech Optimism: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/asian-stocks-to-climb-as-wall-street-hits-new-high-markets-wrap",
+      "title": "What India’s Top Three Mutual Funds Bought and Sold in April",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/what-india-s-top-three-mutual-funds-bought-and-sold-in-april",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-13T22:07:17.000Z"
+      "publishedAt": "2026-05-14T03:11:07.000Z"
     },
     {
-      "title": "Retailers keep tinkering with their AI shopping assistants, in search of better service",
-      "url": "https://www.marketwatch.com/story/retailers-keep-tinkering-with-their-ai-shopping-assistants-in-search-of-better-service-d17b01b0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-13T22:03:00.000Z"
+      "title": "Iran War Gives Xi The Chance to Rekindle Gas Sales With Trump",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/iran-war-gives-xi-the-chance-to-rekindle-gas-sales-with-trump",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-14T03:03:00.000Z"
+    },
+    {
+      "title": "Sarah Beran on US-China Summit",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/sarah-beran-on-us-china-summit-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-14T03:01:51.000Z"
+    },
+    {
+      "title": "Xi Jinping Greets Trump With Lavish Ceremony",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/xi-jinping-greets-trump-with-lavish-ceremony-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-14T02:55:05.000Z"
+    },
+    {
+      "title": "Metal Stocks Stand Out in India’s Struggling Market",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-14/metal-stocks-shine-as-india-consumers-seen-cutting-back",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-14T02:45:02.000Z"
+    },
+    {
+      "title": "Xi tells Trump that US and China are ‘partners not rivals’",
+      "url": "https://www.ft.com/content/0547a442-4f33-4818-b67c-a21cf92611f4",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-14T02:44:16.000Z"
+    },
+    {
+      "title": "China's Xi Greets Trump in Beijing",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/china-s-xi-greets-trump-in-beijing-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-14T02:40:20.000Z"
+    },
+    {
+      "title": "Japan is considering extra budget to cushion energy inflation, Kyodo says",
+      "url": "https://www.investing.com/news/economy-news/japan-is-considering-extra-budget-to-cushion-energy-inflation-kyodo-says-4687075",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-14T02:36:51.000Z"
+    },
+    {
+      "title": "Qantas Boss Vanessa Hudson Turns Screw on Ailing Air New Zealand",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/qantas-boss-vanessa-hudson-turns-screw-on-ailing-air-new-zealand",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-14T02:35:41.000Z"
     }
   ]
 }
