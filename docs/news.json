@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-05-17T04:28:14.706Z",
+  "lastUpdated": "2026-05-17T07:04:44.238Z",
   "ai": {
     "developers": [
+      {
+        "title": "AI Playground – Let AI agents play safely",
+        "url": "https://gitlab.com/cryptomilk/ai-playground",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-17T06:45:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI-generated code is 'pain waiting to happen'",
+        "url": "https://www.theregister.com/ai-ml/2026/05/16/ai-generated-code-is-pain-waiting-to-happen/5241574",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-17T06:34:54.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "At Cannes, filmmakers shift toward cautious acceptance of AI",
+        "url": "https://www.reuters.com/lifestyle/cannes-filmmakers-shift-towards-cautious-acceptance-ais-inevitability-2026-05-15/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-17T06:07:43.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The Uncomfortable Truth About AI \"Reasoning\"",
+        "url": "https://www.youtube.com/watch?v=iFYF_e1GSGI",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-17T06:00:11.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "TypedMemory – long-term memory and reflection for AI agents",
+        "url": "https://github.com/canis-minor/typedmem",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-17T05:55:41.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Give your AI agent a brain that understands your codebase",
+        "url": "https://github.com/bitloops/bitloops",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-17T05:22:37.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Ask HN: What LLM models are you using and why?",
+        "url": "https://news.ycombinator.com/item?id=48166147",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-17T04:57:21.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Private Hosted OpenClaw that can connect to your data with included AI models",
+        "url": "https://platform.joinable.ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-17T04:50:04.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Five LLM agents play Werewolf in-browser, each with a private DuckDB",
+        "url": "https://kayhan.dev/posts/013-werewolf-five-agents-one-browser/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-05-17T04:41:47.000Z",
+        "category": "developers"
+      },
       {
         "title": "Recent Developments in LLM Architectures: KV Sharing, MHC, Compressed Attention",
         "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
@@ -43,69 +106,6 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-05-16T23:52:26.000Z",
         "category": "developers"
-      },
-      {
-        "title": "We built a zero-telemetry Native Rust AI engine. (Ghost Lock included)",
-        "url": "https://github.com/jrabbass/-esai-community-edition",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T23:11:33.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI's eyes to help with component inspections",
-        "url": "https://newsreleases.sandia.gov/ai-inspections/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T23:07:39.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Singapore Foreign Minister's Keynote at AI Engineer Singapore",
-        "url": "https://www.youtube.com/watch?v=t-4a20_iYhg",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T23:03:03.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Memory Reader – Native macOS app for browsing Claude Code memory files",
-        "url": "https://github.com/nvwalj/ai-memory-reader",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T22:41:57.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI face is taking over – and driving plastic surgeons crazy",
-        "url": "https://www.businessinsider.com/ai-generated-images-chatgpt-reshape-plastic-surgery-beauty-expectations-2026-5",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T21:42:28.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Pity the poor AI datacenters facing 'discrimination'",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T21:37:19.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Google AI Overview – \"Tersely\"",
-        "url": "https://www.google.com/search?q=tersely&oq=tersely",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T21:21:35.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "I used AI to help market my bagel shop. Then the one-star reviews came in",
-        "url": "https://www.businessinsider.com/bagel-shop-owner-removes-ai-social-media-marketing-2026-5",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T21:11:10.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Scenario with Low Demand for AI",
-        "url": "https://news.ycombinator.com/item?id=48163843",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T21:10:41.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -121,20 +121,6 @@
         "url": "https://humansvsai.io",
         "source": "Hacker News – AI",
         "publishedAt": "2026-05-17T00:55:41.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Outcry: A four-layer activist AI that runs on a four-year-old phone",
-        "url": "https://www.outcryai.com/research/how-to-create-activist-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T20:44:58.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Annota – A local-first, E2EE note app with BYOK AI",
-        "url": "https://annota.online",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-05-16T19:16:40.000Z",
         "category": "everyone"
       },
       {
@@ -212,6 +198,20 @@
         "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-05-15T09:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "A new personal finance experience in ChatGPT",
+        "url": "https://openai.com/index/personal-finance-chatgpt",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "The shock of seeing your body used in deepfake porn",
+        "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-14T09:00:00.000Z",
         "category": "everyone"
       }
     ],
@@ -326,6 +326,34 @@
   "finance": {
     "markets": [
       {
+        "title": "Tata Steel Q4 net more than doubles on India strength, Europe recovery",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-q4-net-more-than-doubles-on-india-strength-europe-recovery/articleshow/131149583.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-17T05:58:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "FPIs pull out Rs 27,000 cr in May; 2026 outflows hit Rs 2.2 lakh cr-mark",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-27000-cr-in-may-2026-outflows-hit-rs-2-2-lakh-cr-mark/articleshow/131149440.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-17T05:45:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "9 of top 10 valued firms lose Rs 3.12 lakh crore in m-cap; Reliance hardest hit",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/9-of-top-10-valued-firms-lose-rs-3-12-lakh-crore-in-m-cap-reliance-hardest-hit/articleshow/131149167.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-17T05:10:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "IPO calendar: A cloud kitchen brand among 4 companies to launch public offers this week; check details",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-a-cloud-kitchen-brand-among-4-companies-to-launch-public-offers-this-week-check-details/articleshow/131149154.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-17T05:06:19.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Will Nifty, Sensex extend losses on Monday? These 5 factors will drive D-Street action this week",
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/will-nifty-sensex-extend-losses-on-monday-these-5-factors-will-drive-d-street-action-this-week/articleshow/131148529.cms",
         "source": "Economic Times – Markets",
@@ -354,6 +382,13 @@
         "category": "markets"
       },
       {
+        "title": "Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to",
+        "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-05-16T23:27:55.000Z",
+        "category": "markets"
+      },
+      {
         "title": "STRC preferred stock investors are mispricing major 'dislocation' risk: Analyst",
         "url": "https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -375,6 +410,13 @@
         "category": "markets"
       },
       {
+        "title": "Swatch shuts stores after crowds queue for new watch",
+        "url": "https://www.bbc.com/news/articles/c1d2qldr0yko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-05-16T16:30:14.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
         "url": "https://www.cnbc.com/2026/05/16/trump-says-xi-agrees-iran-must-open-strait-but-no-sign-china-will-weigh-in.html",
         "source": "CNBC",
@@ -387,51 +429,16 @@
         "source": "CNBC",
         "publishedAt": "2026-05-16T14:22:11.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
-        "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-16T13:41:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks like Nvidia have accelerating 'momentum,' Goldman Sachs says",
-        "url": "https://www.cnbc.com/2026/05/16/stocks-like-nvidia-have-momentum-goldman-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-16T13:31:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "This federal program trains older workers. The Trump administration wants to cut it",
-        "url": "https://www.cnbc.com/2026/05/16/senior-community-service-employment-program.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-16T13:30:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed",
-        "url": "https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-16T13:25:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Berkshire's new CEO overhauls portfolio, dumping a slate of stocks",
-        "url": "https://www.cnbc.com/2026/05/16/berkshires-new-ceo-overhauls-portfolio-dumping-a-slate-of-stocks.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-16T13:18:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Cisco is the most overbought stock in the S&P 500. Here are the others.",
-        "url": "https://www.cnbc.com/2026/05/16/cisco-is-the-most-overbought-stock-in-the-sp-500-here-are-the-others.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-16T13:17:24.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
+        "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-17T05:27:23.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Why patience, value and mean reversion could define the next market cycle",
         "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-patience-value-and-mean-reversion-could-define-the-next-market-cycle/articleshow/131148611.cms",
@@ -529,17 +536,34 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-05-16T08:19:20.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin slips towards $79K as higher Treasury yields and oil prices pressure trigger risk-off sentiment",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slips-towards-79k-as-higher-treasury-yields-and-oil-prices-pressure-trigger-risk-off-sentiment/articleshow/131133871.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-16T08:04:45.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Federal regulators crack down on suspicious prediction market bets - WSJ",
+      "url": "https://www.investing.com/news/economy-news/federal-regulators-crack-down-on-suspicious-prediction-market-bets--wsj-4694507",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-17T06:09:25.000Z"
+    },
+    {
+      "title": "Australia defends property tax changes designed to fix ‘broken’ housing",
+      "url": "https://www.investing.com/news/economy-news/australia-defends-property-tax-changes-designed-to-fix-broken-housing-4694506",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-17T05:25:00.000Z"
+    },
+    {
+      "title": "Record Drone Attack on Moscow Kills Three, Targets Refinery",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-17T05:21:12.000Z"
+    },
+    {
+      "title": "Why China is positioned to capture the bulk of the economic robotic value",
+      "url": "https://www.investing.com/news/economy-news/why-china-is-positioned-to-capture-the-bulk-of-the-economic-robotic-value-4694505",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-17T04:49:14.000Z"
+    },
     {
       "title": "Japan and South Korea set a critical summit amid market volatility",
       "url": "https://www.investing.com/news/economy-news/japan-and-south-korea-set-a-critical-summit-amid-market-volatility-4694504",
@@ -553,14 +577,14 @@
       "publishedAt": "2026-05-17T04:00:12.000Z"
     },
     {
-      "title": "Record high Japanese yields trigger bets on repatriation",
-      "url": "https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92",
+      "title": "Bain Capital closes largest Asia fund after raising $10.5bn",
+      "url": "https://www.ft.com/content/cf65b157-6a10-4525-851b-508333ee94d0",
       "source": "Financial Times",
       "publishedAt": "2026-05-17T04:00:12.000Z"
     },
     {
-      "title": "Bain Capital closes largest Asia fund after raising $10.5bn",
-      "url": "https://www.ft.com/content/cf65b157-6a10-4525-851b-508333ee94d0",
+      "title": "Record high Japanese yields trigger bets on repatriation",
+      "url": "https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92",
       "source": "Financial Times",
       "publishedAt": "2026-05-17T04:00:12.000Z"
     },
@@ -571,8 +595,14 @@
       "publishedAt": "2026-05-17T04:00:03.000Z"
     },
     {
-      "title": "Chinese AI groups pull ahead of US rivals in video generation race",
-      "url": "https://www.ft.com/content/9804b1de-653b-40b2-bffb-17c76ebebe34",
+      "title": "Chinese data centre spin-off plans dual IPO in Singapore and US",
+      "url": "https://www.ft.com/content/602baf9f-9e66-428e-baec-6c2850d5fad5",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-17T04:00:03.000Z"
+    },
+    {
+      "title": "China’s two-wheelers ride EV wave into Europe",
+      "url": "https://www.ft.com/content/bb0341b1-e808-45b4-b5f9-c9b88c04d2ae",
       "source": "Financial Times",
       "publishedAt": "2026-05-17T04:00:03.000Z"
     },
@@ -589,7 +619,7 @@
       "publishedAt": "2026-05-17T03:48:07.000Z"
     },
     {
-      "title": "Trump-backed challenger defeats two-term Republican senator in primary",
+      "title": "Trump’s pick for Republican primary beats senator who voted to impeach him",
       "url": "https://www.ft.com/content/e2aca448-a6db-4322-b14f-f461c827f347",
       "source": "Financial Times",
       "publishedAt": "2026-05-17T03:17:38.000Z"
@@ -629,36 +659,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-05-17/vietnam-bound-supertanker-halted-by-us-navy-resumes-journey",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-05-17T02:48:09.000Z"
-    },
-    {
-      "title": "Federal funding for Trump’s ballroom in jeopardy after Senate ruling",
-      "url": "https://www.investing.com/news/economy-news/federal-funding-for-trumps-ballroom-in-jeopardy-after-senate-ruling-4694499",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-17T02:42:29.000Z"
-    },
-    {
-      "title": "Xi, Putin Hail Opening of China-Russia Expo, Stress Cooperation",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/xi-putin-hail-opening-of-china-russia-expo-stress-cooperation",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-17T02:31:59.000Z"
-    },
-    {
-      "title": "A quarter of recent layoffs has been attributed to AI",
-      "url": "https://www.investing.com/news/economy-news/a-quarter-of-recent-layoffs-has-been-attributed-to-ai-4694497",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-17T01:59:17.000Z"
-    },
-    {
-      "title": "WHO Declares Congo Ebola Outbreak Global Health Emergency",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/who-declares-congo-uganda-ebola-outbreak-global-health-emergency",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-17T01:31:29.000Z"
-    },
-    {
-      "title": "U.S. Treasury lets Russian oil waiver expire amid $100 crude pressures",
-      "url": "https://www.investing.com/news/economy-news/us-treasury-lets-russian-oil-waiver-expire-amid-100-crude-pressures-4694496",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-17T01:31:09.000Z"
     }
   ]
 }
