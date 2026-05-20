@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T10:11:39.683Z",
+  "lastUpdated": "2026-05-20T13:01:18.120Z",
   "ai": {
     "developers": [
       {
@@ -110,6 +110,13 @@
     ],
     "everyone": [
       {
+        "title": "The biggest data center ever is becoming a huge problem in Utah",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-05-20T13:00:00.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
         "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
         "source": "The Verge – AI",
@@ -154,13 +161,6 @@
       {
         "title": "Google Search is getting its biggest changes ever",
         "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-05-19T17:45:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Gmail is going to start talking to you",
-        "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
         "source": "The Verge – AI",
         "publishedAt": "2026-05-19T17:45:00.000Z",
         "category": "everyone"
@@ -326,112 +326,161 @@
   "finance": {
     "markets": [
       {
-        "title": "Democrats make demands of U.S. Trade Representative ahead of U.S.-Mexico-Canada Agreement review",
-        "url": "https://www.cnbc.com/2026/05/20/congress-trade-democrats-usmca-review.html",
+        "title": "Jeff Bezos says 2-3 year timeline for space data centers is a 'little ambitious'",
+        "url": "https://www.cnbc.com/2026/05/20/bezos-blue-origin-space-data-centers.html",
         "source": "CNBC",
-        "publishedAt": "2026-05-20T10:08:08.000Z",
+        "publishedAt": "2026-05-20T13:00:51.000Z",
         "category": "markets"
       },
       {
-        "title": "Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly",
-        "url": "https://finance.yahoo.com/markets/stocks/article/trump-acquired-stock-in-companies-like-walt-disney-jpmorgan-and-netflix-even-as-he-threatened-them-publicly-100600439.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:06:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Warren Buffett's Successor, Greg Abel, vs. Bill Ackman: 1 of these Billionaire Investors Just Piled Into Alphabet (Google), While the Other Nearly Dumped His Fund's Entire Stake",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-100500693.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:05:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "VF Corp.’s Returned to Annual Growth With Surprise Q4 Gain",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/vf-corp-returned-annual-growth-100500542.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:05:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AI financing fueling a surge in U.S. convertible bond sales",
-        "url": "https://finance.yahoo.com/markets/options/articles/ai-financing-fueling-surge-u-100326400.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:03:26.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mesh joins Global Dollar Network to support USDG settlement",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/mesh-joins-global-dollar-network-100045174.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:00:45.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "HELOC and home equity loan rates today, May 20, 2026: Rates low, plus year-over-year sales price growth",
-        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-may-20-2026-100000487.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:00:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Best CD rates today, May 20, 2026: Earn up to 4% APY",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-may-20-2026-100000891.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:00:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Best high-yield savings interest rates today, May 20, 2026: Earn up to 4.1% APY",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-may-20-2026-100000772.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:00:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Best money market account rates today, May 20, 2026: Secure up to 4.01% APY",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-may-20-2026-100000808.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:00:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mortgage and refinance interest rates today, May 20, 2026: 30-year fixed hits highest rate since August '25",
-        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-may-20-2026-100000386.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:00:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "A strange paradox has taken hold of the global fashion industry",
-        "url": "https://www.cnbc.com/2026/05/20/fashion-sustainability-shoppers-circularity-pandora-kering-gucci.html",
+        "title": "Fanatics to launch first credit card as part of broader deal with American Express",
+        "url": "https://www.cnbc.com/2026/05/20/fanatics-credit-card-deal-american-express.html",
         "source": "CNBC",
-        "publishedAt": "2026-05-20T09:58:40.000Z",
+        "publishedAt": "2026-05-20T13:00:45.000Z",
         "category": "markets"
       },
       {
-        "title": "How Much Do You Really Need Invested to Replace a $75,000 Salary With Monthly Dividend ETFs?",
-        "url": "https://finance.yahoo.com/markets/options/articles/much-really-invested-replace-75-095307548.html",
+        "title": "There’s a Bond ETF That Resets Its Income for Inflation Every Six Months. Almost None of Your Friends Own It.",
+        "url": "https://finance.yahoo.com/markets/options/articles/bond-etf-resets-income-inflation-125442311.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T09:53:07.000Z",
+        "publishedAt": "2026-05-20T12:54:42.000Z",
         "category": "markets"
       },
       {
-        "title": "The Best Space ETF to Buy Before a Summer Rally",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/best-space-etf-buy-summer-095000906.html",
+        "title": "Here’s What Drives Southwest Airlines Co.’s (LUV) Increased Earnings and ROC",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/drives-southwest-airlines-co-luv-125420575.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T09:50:00.000Z",
+        "publishedAt": "2026-05-20T12:54:20.000Z",
         "category": "markets"
       },
       {
-        "title": "GTA VI release to boost Take-Two after 'Project Genie' slump, says Morgan Stanley ahead of earnings",
-        "url": "https://www.cnbc.com/2026/05/20/morgan-stanley-gta-vi-release-will-boost-ttwo-stock-.html",
+        "title": "Which Dividend ETF Is Better: Vanguard's Larger Portfolio or Fidelity's Higher Growth?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-etf-better-vanguards-larger-124831379.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:48:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock Market Today: Dow Rises Ahead Of Fed Minutes; Nvidia Shares Rally With Earnings Due (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-earnings-nvda-stock-2/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:46:28.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Nvidia Earnings Don’t Matter This Time",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-don-t-matter-124509648.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:45:09.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "A $475,000 Portfolio That Quietly Pays $2,800 a Month From Just Two Sectors Most Investors Ignore",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/475-000-portfolio-quietly-pays-124225064.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:42:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "CVS Health Stock Is Soaring. Could the Rally Just Be Getting Started?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-health-stock-soaring-could-124200486.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:42:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stellantis CEO Antonio Filosa is about to unveil his plan to turn the company around as the automaker's stock lags",
+        "url": "https://www.cnbc.com/2026/05/20/stellantis-stock-stla-capital-markets-day-antonio-filosa.html",
         "source": "CNBC",
-        "publishedAt": "2026-05-20T09:48:33.000Z",
+        "publishedAt": "2026-05-20T12:41:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "American Resources completes pivots to rare earth supply chain, reports strong balance sheet",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/american-resources-completes-pivots-rare-124100093.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:41:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why Elevidys Matters For Sarepta Therapeutics Inc (SRPT) Stock",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/why-elevidys-matters-sarepta-therapeutics-123655752.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:36:55.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Considering Uniqure NV (QURE) Stock? Read the AMT-130 Message",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/considering-uniqure-nv-qure-stock-123648057.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:36:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Can MeiraGTx Holdings PLC (MGTX) Stock Double? Cash Runway Offers a Hint",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/meiragtx-holdings-plc-mgtx-stock-123623770.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:36:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Where Will Solid Biosciences Inc (SLDB) Stock Be in the Next 12 Months?",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/where-solid-biosciences-inc-sldb-123616790.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:36:16.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin (BTC) ETFs Pulled in $2B in April: Can the Flows Continue in May?",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-btc-etfs-pulled-2b-123441697.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-05-20T12:34:41.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "These bitcoin metrics suggest February’s $60,000 selloff may have marked the bottom",
+        "url": "https://www.coindesk.com/markets/2026/05/20/these-bitcoin-metrics-suggest-february-s-usd60-000-selloff-may-have-marked-the-bottom",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-20T11:57:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin’s ‘momentum is fading’: Traders have these support levels in mind",
+        "url": "https://cointelegraph.com/markets/bitcoins-momentum-is-fading-traders-have-these-support-levels-in-mind?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-20T11:40:51.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Too many cooks: How regulatory infighting is choking the UK's crypto hub ambitions",
+        "url": "https://www.coindesk.com/policy/2026/05/20/political-blockers-frustrate-fca-s-efforts-u-k-s-global-hub-ambitions-expert-says",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-20T11:31:08.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
+        "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-20T11:21:32.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin rebounds above $77,000. Analysts weigh in on whether the bounce has legs.",
+        "url": "https://www.coindesk.com/daybook-us/2026/05/20/bitcoin-rebounds-above-usd77-000-analysts-weigh-in-on-whether-the-bounce-has-legs",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-20T11:12:02.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin holds near $77,400 as derivatives signal caution",
+        "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-holds-near-usd77-400-as-derivatives-signal-caution",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-20T10:43:06.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Bitfinex traders double down on bitcoin during five-day slide as longs hit 2.5-year high",
         "url": "https://www.coindesk.com/markets/2026/05/20/bitfinex-traders-double-down-on-bitcoin-during-five-day-slide-as-longs-hit-2-5-year-high",
@@ -440,14 +489,14 @@
         "category": "crypto"
       },
       {
-        "title": "Ethereum's Moving Fast to Counter a New Threat. Does That Make It a Buy?",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/ethereums-moving-fast-counter-threat-100300958.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-20T10:03:00.000Z",
+        "title": "Euro stablecoin project Qivalis adds 25 banks ahead of launch",
+        "url": "https://cointelegraph.com/news/qivalis-euro-stablecoin-consortium-adds-25-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-20T10:06:49.000Z",
         "category": "crypto"
       },
       {
-        "title": "Despite Trump’s pledge, a CBDC is being explored behind closed doors, says former CTFC chair",
+        "title": "Despite Trump’s pledge, a CBDC is being explored behind closed doors, says former CTFC chai",
         "url": "https://www.coindesk.com/business/2026/05/19/despite-trump-s-pledge-a-cbdc-is-being-explored-behind-closed-doors-says-former-ctfc-chair",
         "source": "CoinDesk",
         "publishedAt": "2026-05-20T09:45:21.000Z",
@@ -458,6 +507,13 @@
         "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
         "source": "CoinDesk",
         "publishedAt": "2026-05-20T09:22:58.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
+        "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-20T09:16:08.000Z",
         "category": "crypto"
       },
       {
@@ -480,185 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-05-20T07:01:57.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers",
-        "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-ether-xrp-rebound-as-senate-curbs-trump-s-iran-war-powers",
-        "source": "CoinDesk",
-        "publishedAt": "2026-05-20T07:00:27.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Meta begins 8K global job cuts, starting in Singapore",
-        "url": "https://cointelegraph.com/news/meta-begins-its-8000-job-cut-starting-in-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-20T07:00:24.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Non-dollar stablecoins are struggling to crack 0.5% of market share",
-        "url": "https://www.coindesk.com/markets/2026/05/20/non-dollar-stablecoins-are-struggling-to-crack-0-5-of-market-share",
-        "source": "CoinDesk",
-        "publishedAt": "2026-05-20T06:13:36.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin is falling, bond yields are rising. Yet BTC’s implied volatility, an uncertainty gauge, remains low.",
-        "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-is-falling-bond-yields-are-rising-yet-btc-s-implied-volatility-an-uncertainty-gauge-remains-low",
-        "source": "CoinDesk",
-        "publishedAt": "2026-05-20T06:08:27.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin consolidates near $77,000 while US credit downgrade and $648 million ETF outflows weigh on sentiment",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-near-77000-while-us-credit-downgrade-and-648-million-etf-outflows-weigh-on-sentiment/articleshow/131217480.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-20T05:29:10.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "US Senate advances resolution to curb Trump’s Iran war powers",
-        "url": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-20T04:58:03.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "WLFI-linked AI Financial flags ‘going concern’ as losses mount",
-        "url": "https://cointelegraph.com/news/world-liberty-linked-ai-financial-flags-going-concern-as-losses-mount?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-20T04:44:55.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bankr temporarily disables transactions after 14 wallets hacked",
-        "url": "https://cointelegraph.com/news/bankr-disables-transactions-after-14-wallets-hacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-20T03:14:22.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Tech Bulls Are Looking to Nvidia for Stocks Revival",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-20/tech-bulls-are-looking-to-nvidia-for-stocks-revival",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T10:01:05.000Z"
+      "title": "‘Even better than tech.’ A scramble into this sector is coming, warns veteran wealth manager.",
+      "url": "https://www.marketwatch.com/story/even-better-than-tech-a-scramble-into-this-sector-is-coming-warns-veteran-wealth-manager-e6594815?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-20T12:54:00.000Z"
     },
     {
-      "title": "UK House-Price Growth Grinds to a Halt After Loan Costs Surge",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/uk-house-price-growth-grinds-to-a-halt-after-loan-costs-surge",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T09:58:22.000Z"
+      "title": "Buckle up for $120 oil changes. Why car care is about to get more expensive.",
+      "url": "https://www.marketwatch.com/story/buckle-up-for-120-oil-changes-why-car-care-is-about-to-get-more-expensive-c542615c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-20T12:47:00.000Z"
     },
     {
-      "title": "NATO chief dismisses Russian claims on Baltic drone routes",
-      "url": "https://www.investing.com/news/economy-news/nato-chief-dismisses-russian-claims-on-baltic-drone-routes-93CH-4700614",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-20T09:55:35.000Z"
+      "title": "Global oil prices drop below $108 a barrel after Trump reaffirms he would end the war in Iran ‘very quickly’; Hormuz sees increased tanker traffic",
+      "url": "https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-20T12:46:00.000Z"
     },
     {
-      "title": "Tankmaker Rheinmetall Preps First Public Bond Deal Since 2010",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/tankmaker-rheinmetall-preps-first-public-bond-deal-since-2010",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T09:50:16.000Z"
-    },
-    {
-      "title": "Rice Prices Extend Rally to One-Year High as Crop Concerns Mount",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/rice-prices-extend-rally-to-one-year-high-as-crop-concerns-mount",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T09:47:20.000Z"
-    },
-    {
-      "title": "Bond yields pause near recent peak, stocks steady ahead of Nvidia results",
+      "title": "Bond yields pause near recent highs, stocks steady ahead of Nvidia results",
       "url": "https://www.investing.com/news/economy-news/asian-stocks-fall-for-4th-day-as-higher-yields-bite-all-eyes-on-nvidia-results-4700139",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-20T09:42:42.000Z"
+      "publishedAt": "2026-05-20T12:36:33.000Z"
     },
     {
-      "title": "Indonesia’s Radical Export Experiment Upends Its Commodity Trade",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/indonesia-s-radical-export-experiment-upends-its-commodity-trade",
+      "title": "Tether Buys Out SoftBank Stake in Bitcoin Treasury Firm",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-20/tether-buys-out-softbank-stake-in-bitcoin-treasury-firm",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T09:38:11.000Z"
+      "publishedAt": "2026-05-20T12:32:49.000Z"
     },
     {
-      "title": "ECB 'Quite' Likely to Hike in June If Iran War Unresolved, Wunsch Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-20/ecb-says-june-rate-hike-quite-likely-if-war-unresolved-video",
+      "title": "Target Delivers Biggest Sales Gain in Four Years",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-20/target-delivers-biggest-sales-gain-in-four-years-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T09:35:43.000Z"
+      "publishedAt": "2026-05-20T12:30:07.000Z"
     },
     {
-      "title": "I’m selling my $1 million home. Will my agent really charge less than a 6% commission?",
-      "url": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-20T09:35:00.000Z"
-    },
-    {
-      "title": "I was bought out of the family business for $160,000. My relatives each made $3 million when it sold. Was I cheated?",
-      "url": "https://www.marketwatch.com/story/i-was-bought-out-of-the-family-business-for-160-000-my-relatives-each-made-3-million-when-it-sold-was-i-cheated-8cee0523?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-20T09:15:00.000Z"
-    },
-    {
-      "title": "France’s Moulin Says Deficit Situation Serious, Not Catastrophic",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/france-s-moulin-says-deficit-situation-serious-not-catastrophic",
+      "title": "India RBI to Inject $5 Billion Equivalent Cash Via Swap Auction",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-20/india-rbi-to-inject-5-billion-equivalent-cash-via-swap-auction",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T09:12:08.000Z"
+      "publishedAt": "2026-05-20T12:15:23.000Z"
     },
     {
-      "title": "USD Near-Term Driven by Fed, Hormuz Risks, ANZ’s Zaman Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-20/zaman-usd-near-term-driven-by-fed-hormuz-risks-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T09:11:58.000Z"
-    },
-    {
-      "title": "Nvidia Earnings Can Affirm Chip Stock Rally or Spur Market Chaos",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/nvidia-earnings-can-affirm-chip-stock-rally-or-spur-market-chaos",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T09:11:31.000Z"
-    },
-    {
-      "title": "Iran War Oil Disruption Prompts Nigeria Producers to Lift Output",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/iran-war-oil-disruption-prompts-nigeria-producers-to-lift-output",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T09:11:03.000Z"
-    },
-    {
-      "title": "Macron’s central bank pick defends independence in confirmation hearing",
-      "url": "https://www.investing.com/news/economy-news/macrons-central-bank-pick-defends-independence-in-confirmation-hearing-4700470",
+      "title": "RBI plans $5 billion swap auction to inject liquidity",
+      "url": "https://www.investing.com/news/economy-news/rbi-plans-5-billion-swap-auction-to-inject-liquidity-93CH-4701219",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-20T09:06:38.000Z"
+      "publishedAt": "2026-05-20T12:12:23.000Z"
     },
     {
-      "title": "Jennifer Lopez relists Beverly Hills estate—now for $10 million less",
-      "url": "https://www.marketwatch.com/story/jennifer-lopez-relists-beverly-hills-estatenow-for-10-million-less-35828e8f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-20T09:00:00.000Z"
-    },
-    {
-      "title": "Horizons Middle East & Africa 5/20/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-20/horizons-middle-east-africa-5-20-2026-video",
+      "title": "India Gets First Rainfall Hedge as El Niño Threatens Monsoon",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-20/india-gets-first-rainfall-hedge-as-el-nino-threatens-monsoon",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-20T08:56:53.000Z"
+      "publishedAt": "2026-05-20T12:02:47.000Z"
     },
     {
-      "title": "‘I experienced many years of poverty’: I worked until 70. Why do wealthy retirees look down on those with less savings?",
-      "url": "https://www.marketwatch.com/story/i-experienced-many-years-of-poverty-i-dont-judge-other-people-why-do-wealthy-retirees-look-down-on-others-5e3069e6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-20T08:45:00.000Z"
+      "title": "Why is China's Xi Hosting Russia's Putin After Trump Visit? | The Pulse 5/20",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-20/the-pulse-5-20-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-20T11:56:40.000Z"
     },
     {
-      "title": "UK bond yields drop as inflation slows more than expected",
-      "url": "https://www.investing.com/news/economy-news/uk-bond-yields-drop-as-inflation-slows-more-than-expected-93CH-4700422",
+      "title": "Lowe’s sticks to forecasts as US housing pressure persists",
+      "url": "https://www.investing.com/news/economy-news/lowes-maintains-annual-forecasts-amid-challenging-housing-demand-4700705",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-20T08:41:54.000Z"
+      "publishedAt": "2026-05-20T11:55:53.000Z"
     },
     {
-      "title": "Bank Indonesia surprises with 50bp rate hike to 5.25%",
-      "url": "https://www.investing.com/news/economy-news/bank-indonesia-surprises-with-50bp-rate-hike-to-525-93CH-4700421",
+      "title": "Europe’s Biggest Gas Market Isn’t Setting Aside Enough Winter Fuel",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-20/europe-s-biggest-gas-market-isn-t-setting-aside-enough-winter-fuel",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-20T11:55:38.000Z"
+    },
+    {
+      "title": "Indonesia unveils ambitious targets, tightens commodities grip in pursuit of ’magnificent prosperity’",
+      "url": "https://www.investing.com/news/economy-news/indonesias-prabowo-announces-2027-fiscal-deficit-target-of-18-to-24-of-gdp-4700184",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-20T08:39:53.000Z"
+      "publishedAt": "2026-05-20T11:54:58.000Z"
+    },
+    {
+      "title": "US Premarket Movers for May 20, 2026",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-20/us-stock-futures-today-cava-immunitybio-nvidia-toll-brothers",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-20T11:52:52.000Z"
+    },
+    {
+      "title": "US Consumer Slowdown Threatens Stocks Rally, UBS Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-20/us-consumer-slowdown-threatens-stocks-rally-ubs-says-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-20T11:44:33.000Z"
+    },
+    {
+      "title": "US regulator sues to block Minnesota’s first-in-nation ban on prediction markets",
+      "url": "https://www.investing.com/news/economy-news/us-regulator-sues-to-block-minnesotas-firstinnation-ban-on-prediction-markets-4700006",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-20T11:42:38.000Z"
+    },
+    {
+      "title": "Bank of Israel seen resuming rate reductions next week with 25 bps cut - Reuters poll",
+      "url": "https://www.investing.com/news/economy-news/bank-of-israel-seen-resuming-rate-reductions-next-week-with-25-bps-cut--reuters-poll-4701074",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-20T11:36:42.000Z"
+    },
+    {
+      "title": "Value Stocks With Earnings Strength Post 3,500% Run Since 2000",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-20/value-stocks-with-earnings-strength-post-3-500-run-since-2000",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-20T11:33:54.000Z"
+    },
+    {
+      "title": "Poland plans Swiss franc bond sale amid rising global yields",
+      "url": "https://www.investing.com/news/economy-news/poland-plans-swiss-franc-bond-sale-amid-rising-global-yields-93CH-4701057",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-20T11:30:15.000Z"
+    },
+    {
+      "title": "French parliament confirms Bank of France nominee",
+      "url": "https://www.investing.com/news/economy-news/french-parliament-confirms-bank-of-france-nominee-93CH-4701043",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-20T11:26:36.000Z"
     }
   ]
 }
