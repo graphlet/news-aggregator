@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T18:42:34.745Z",
+  "lastUpdated": "2026-05-22T21:29:12.519Z",
   "ai": {
     "developers": [
       {
@@ -38,13 +38,6 @@
         "category": "developers"
       },
       {
-        "title": "How sales teams use Codex",
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-05-15T00:00:00.000Z",
-        "category": "developers"
-      },
-      {
         "title": "How business operations teams use Codex",
         "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
         "source": "OpenAI Blog",
@@ -61,6 +54,13 @@
       {
         "title": "How data science teams use Codex",
         "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How sales teams use Codex",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
         "source": "OpenAI Blog",
         "publishedAt": "2026-05-15T00:00:00.000Z",
         "category": "developers"
@@ -94,15 +94,15 @@
         "category": "developers"
       },
       {
-        "title": "AutoScout24 scales engineering with AI-powered workflows",
-        "url": "https://openai.com/index/autoscout24",
+        "title": "How NVIDIA engineers and researchers build with Codex",
+        "url": "https://openai.com/index/nvidia",
         "source": "OpenAI Blog",
         "publishedAt": "2026-05-12T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "How NVIDIA engineers and researchers build with Codex",
-        "url": "https://openai.com/index/nvidia",
+        "title": "AutoScout24 scales engineering with AI-powered workflows",
+        "url": "https://openai.com/index/autoscout24",
         "source": "OpenAI Blog",
         "publishedAt": "2026-05-12T00:00:00.000Z",
         "category": "developers"
@@ -110,17 +110,17 @@
     ],
     "everyone": [
       {
+        "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+        "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-05-22T20:39:54.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Elon, stop trying to make Grok happen",
         "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
         "source": "The Verge – AI",
         "publishedAt": "2026-05-22T17:17:06.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-        "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-05-22T16:01:17.000Z",
         "category": "everyone"
       },
       {
@@ -326,17 +326,87 @@
   "finance": {
     "markets": [
       {
-        "title": "Tulsi Gabbard resigning as Trump's intelligence chief",
-        "url": "https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html",
+        "title": "Trump skipping wedding of son Donald Jr. to Bettina Anderson",
+        "url": "https://www.cnbc.com/2026/05/22/trump-wedding-donald-bettina-anderson-bahamas.html",
         "source": "CNBC",
-        "publishedAt": "2026-05-22T18:35:40.000Z",
+        "publishedAt": "2026-05-22T21:04:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "New lawsuits against Trump's DOJ 'lawfare' fund",
+        "url": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-22T21:02:52.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
+        "url": "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-22T20:52:39.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Judge tosses Kilmar Abrego Garcia charges, calls Trump administration prosecution 'vindictive'",
+        "url": "https://www.cnbc.com/2026/05/22/kilmar-abrego-garcia-charges-dropped-trump-doj-case-vindictive.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-22T20:37:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Two top Walmart executives leave company under new CEO John Furner",
+        "url": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-22T20:33:19.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "This fast-food stock is set for a big reversal higher after forming a double bottom, says Carter Worth",
+        "url": "https://www.cnbc.com/2026/05/22/this-fast-food-stock-is-set-for-a-big-reversal-higher-says-carter-worth.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-22T20:29:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Dow adds nearly 300 points Friday for new record close; S&P 500 notches eighth winning week: Live updates",
+        "url": "https://www.cnbc.com/2026/05/21/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-22T20:25:20.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "US stocks today: Dow hits record high as Middle East hopes lift sentiment and Warsh takes Fed charge",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-hits-record-high-as-middle-east-hopes-lift-sentiment-and-warsh-takes-fed-charge/articleshow/131268063.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-05-22T20:08:23.000Z",
         "category": "markets"
       },
       {
         "title": "Oversight Chairman Comer launches congressional probe into insider trading on Kalshi, Polymarket",
         "url": "https://www.cnbc.com/2026/05/22/kalshi-polymarket-comer-insider-trading-probe-congress.html",
         "source": "CNBC",
-        "publishedAt": "2026-05-22T18:31:39.000Z",
+        "publishedAt": "2026-05-22T19:12:15.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bank boss sorry after describing workers as 'lower value human capital'",
+        "url": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-05-22T18:55:10.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
+        "url": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-22T18:48:51.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Tulsi Gabbard resigning as Trump's intelligence chief",
+        "url": "https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-22T18:35:40.000Z",
         "category": "markets"
       },
       {
@@ -354,84 +424,35 @@
         "category": "markets"
       },
       {
-        "title": "Trump defends DOJ fund after Senate Republicans push back",
-        "url": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-22T18:12:49.000Z",
-        "category": "markets"
-      },
-      {
         "title": "Stocks continue surging to record highs. Here's how to hedge",
         "url": "https://www.cnbc.com/2026/05/22/stocks-continue-surging-to-record-highs-heres-how-to-hedge.html",
         "source": "CNBC",
         "publishedAt": "2026-05-22T17:59:04.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Trump skipping wedding of son Donald Jr. to Bettina Anderson",
-        "url": "https://www.cnbc.com/2026/05/22/trump-wedding-donald-bettina-anderson-bahamas.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-22T17:58:23.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dow jumps more than 400 points to record as Wall Street heads for winning week, Treasury yields ease: Live updates",
-        "url": "https://www.cnbc.com/2026/05/21/stock-market-today-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-22T17:51:47.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Arm shares extend weekly rally to almost 50%, and Starbucks pulls the plug on an AI project",
-        "url": "https://www.cnbc.com/2026/05/22/arm-shares-extend-weekly-rally-to-almost-50percent-and-starbucks-pulls-the-plug-on-an-ai-project.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-22T17:32:52.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "This fast-food stock is set for a big reversal higher after forming a double bottom, says Carter Worth",
-        "url": "https://www.cnbc.com/2026/05/22/this-fast-food-stock-is-set-for-a-big-reversal-higher-says-carter-worth.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-22T17:32:32.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "UK sees hottest day of year as bank holiday travellers face queues",
-        "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-05-22T17:25:35.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
-        "url": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-22T17:20:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US Fed chair Kevin Warsh says will be 'reform-oriented' at glitzy White House swearing-in",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-chair-kevin-warsh-says-will-be-reform-oriented-at-glitzy-white-house-swearing-in/articleshow/131266262.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-05-22T17:10:27.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump said he'd 'remember' companies that didn't apply for tariff refunds. Many of them are anyway",
-        "url": "https://www.cnbc.com/2026/05/22/trump-tariff-refunds-walmart-home-depot-target-apply.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-22T16:56:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Analyst Report: Pinterest Inc",
-        "url": "https://finance.yahoo.com/research/reports/ARGUS_5118_AnalystReport_1779468703000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-05-22T16:51:43.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
+        "url": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-22T19:47:09.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
+        "url": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
+        "source": "CoinDesk",
+        "publishedAt": "2026-05-22T19:40:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+        "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-05-22T19:33:51.000Z",
+        "category": "crypto"
+      },
       {
         "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
         "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
@@ -496,7 +517,7 @@
         "category": "crypto"
       },
       {
-        "title": "Live markets: Bitcoin continues holding pattern near $77,000 as Kevin Warsh takes over at Fed",
+        "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
         "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
         "source": "CoinDesk",
         "publishedAt": "2026-05-22T14:24:04.000Z",
@@ -515,150 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-05-22T13:54:47.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "DeFi hacks shake institutional confidence as risks outpace yields",
-        "url": "https://cointelegraph.com/features/defi-hacks-institutional-confidence-risks-outpace-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-22T13:51:53.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "THORChain exploit tied to malicious node and GG20 flaw",
-        "url": "https://cointelegraph.com/news/thorchains-10m-exploit-mpc-vulnerability-private-key-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-05-22T13:48:16.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "IREN co-founder says AI’s biggest bottleneck is infrastructure, not chips",
-        "url": "https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips",
-        "source": "CoinDesk",
-        "publishedAt": "2026-05-22T13:20:22.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Director of National Intelligence Chief Gabbard Is Stepping Down",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/intelligence-chief-gabbard-is-stepping-down-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-22T18:35:55.000Z"
-    },
-    {
-      "title": "Americans are paying $2 billion more for gas this Memorial Day weekend than they did last year",
-      "url": "https://www.marketwatch.com/story/americans-are-paying-2-billion-more-for-gas-this-memorial-day-weekend-than-they-did-last-year-632a7c56?mod=mw_rss_topstories",
+      "title": "Worried about private credit? Stay away from this even riskier investment right now.",
+      "url": "https://www.marketwatch.com/story/worried-about-private-credit-stay-away-from-this-even-riskier-investment-right-now-bfb79b43?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-05-22T18:26:00.000Z"
+      "publishedAt": "2026-05-22T20:56:00.000Z"
     },
     {
-      "title": "US Oil Rig Count Up by Most in Four Years Amid Drilling Recovery",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/us-oil-rig-count-up-by-most-in-four-years-amid-drilling-recovery",
+      "title": "Nasdaq Bitcoin Index Options Granted Approval by SEC",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-22T18:24:56.000Z"
+      "publishedAt": "2026-05-22T20:49:43.000Z"
     },
     {
-      "title": "USTR Greer says USMCA talks next week to focus on content rules",
-      "url": "https://www.investing.com/news/economy-news/ustr-greer-says-usmca-talks-next-week-to-focus-on-content-rules-93CH-4707291",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-22T18:24:27.000Z"
-    },
-    {
-      "title": "First USMCA negotiations to focus on content rules, economic security, Greer says",
-      "url": "https://www.investing.com/news/economy-news/first-usmca-negotiations-to-focus-on-content-rules-economic-security-greer-says-4707287",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-22T18:18:52.000Z"
-    },
-    {
-      "title": "Dollar Stalls as Hope for US-Iran Peace Boosts Risk Sentiment",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/dollar-stalls-as-hope-for-us-iran-peace-boosts-risk-sentiment",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-22T18:18:25.000Z"
-    },
-    {
-      "title": "Kevin Warsh Sworn In As Fed Chair | Real Yield 5/22/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/real-yield-5-22-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-22T18:09:25.000Z"
+      "title": "IMAX has bucked the trend as the movie-theater business fades — here’s why it’s so attractive to would-be buyers",
+      "url": "https://www.marketwatch.com/story/imax-has-bucked-the-trend-as-the-movie-theater-business-fades-heres-why-its-so-attractive-to-would-be-buyers-c703b489?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-22T20:38:00.000Z"
     },
     {
       "title": "USTR Greer sees no immediate chip tariffs but says protection important for sector",
       "url": "https://www.investing.com/news/economy-news/ustr-greer-sees-no-immediate-chip-tariffs-but-says-protection-important-for-sector-4707278",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-22T18:06:30.000Z"
-    },
-    {
-      "title": "Tulsi Gabbard resigns as US intelligence chief",
-      "url": "https://www.ft.com/content/a347267d-c4f8-4ff6-9704-68cc153db4cd",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-22T18:05:40.000Z"
-    },
-    {
-      "title": "Zoom Jumps on Sales Forecast Topping Estimates",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/zoom-jumps-on-sales-forecast-topping-estimates-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-22T18:01:22.000Z"
-    },
-    {
-      "title": "Kevin Warsh Sworn in as New Federal Reserve Chair",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/kevin-warsh-sworn-in-as-new-federal-reserve-chair-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-22T17:58:51.000Z"
+      "publishedAt": "2026-05-22T20:36:33.000Z"
     },
     {
       "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
       "url": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-05-22T17:58:00.000Z"
+      "publishedAt": "2026-05-22T20:33:00.000Z"
     },
     {
-      "title": "US and Sweden sign Technology Prosperity Deal on AI and defense",
-      "url": "https://www.investing.com/news/economy-news/us-and-sweden-sign-technology-prosperity-deal-on-ai-and-defense-93CH-4707255",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-22T17:48:41.000Z"
-    },
-    {
-      "title": "Nvidia’s on a new path, and if you own an S&P 500 index fund your money is riding on it",
-      "url": "https://www.marketwatch.com/story/nvidias-on-a-new-path-and-if-you-own-an-s-p-500-index-fund-your-money-is-riding-on-it-be0be5ec?mod=mw_rss_topstories",
+      "title": "‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes",
+      "url": "https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-05-22T17:39:00.000Z"
+      "publishedAt": "2026-05-22T20:32:00.000Z"
     },
     {
-      "title": "I almost fell for a scammer. This one rule saved me — and could help you, too.",
-      "url": "https://www.marketwatch.com/story/i-almost-fell-for-scammer-this-one-rule-saved-me-and-could-help-you-too-8c3bcf78?mod=mw_rss_topstories",
+      "title": "Ford’s stock climbs to highest close in three years. Here’s what’s behind its run.",
+      "url": "https://www.marketwatch.com/story/fords-stock-climbs-to-highest-close-in-three-years-heres-whats-behind-its-run-9fa2e378?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-05-22T17:39:00.000Z"
+      "publishedAt": "2026-05-22T20:28:00.000Z"
     },
     {
-      "title": "SEC Delays Prediction Market ETFs From Roundhill, GraniteShares and Bitwise",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-22/sec-delays-prediction-market-etfs-from-roundhill-graniteshares-and-bitwise",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-22T17:30:36.000Z"
-    },
-    {
-      "title": "Pakistan army chief travels to Tehran in push for US-Iran deal",
-      "url": "https://www.ft.com/content/4fd37931-1f30-43e7-92ed-3ae26c87a00f",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-22T17:14:55.000Z"
-    },
-    {
-      "title": "Stocks Eye Longest Weekly Run Since 2023 | Open Interest 5/22/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/open-interest-5-22-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-22T17:14:50.000Z"
-    },
-    {
-      "title": "Tulsi Gabbard resigns as intelligence chief for family reasons - Fox News",
-      "url": "https://www.investing.com/news/economy-news/tulsi-gabbard-resigns-as-intelligence-chief-for-family-reasons--fox-news-93CH-4707224",
+      "title": "Warsh elected chair of U.S. Fed’s rate-setting committee",
+      "url": "https://www.investing.com/news/economy-news/warsh-elected-chair-of-us-feds-ratesetting-committee-4707498",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-05-22T17:13:50.000Z"
+      "publishedAt": "2026-05-22T20:24:32.000Z"
     },
     {
-      "title": "Puig Falls After Estee Lauder Deal Fails",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/puig-falls-after-estee-lauder-deal-fails-video",
+      "title": "Soaring stocks could face rocky patch as earnings wind down, yields perk up",
+      "url": "https://www.investing.com/news/economy-news/soaring-stocks-could-face-rocky-patch-as-earnings-wind-down-yields-perk-up-4706080",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-22T20:18:30.000Z"
+    },
+    {
+      "title": "Fitch affirms Alberta at AA on oil windfall, debt reduction",
+      "url": "https://www.investing.com/news/economy-news/fitch-affirms-alberta-at-aa-on-oil-windfall-debt-reduction-93CH-4707384",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-22T20:06:01.000Z"
+    },
+    {
+      "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+      "url": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-22T20:01:00.000Z"
+    },
+    {
+      "title": "IBM could be a big winner as quantum computing moves out of the science-fiction realm",
+      "url": "https://www.marketwatch.com/story/ibm-could-be-a-big-winner-as-quantum-computing-moves-out-of-the-science-fiction-realm-1eb74952?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-22T19:58:00.000Z"
+    },
+    {
+      "title": "Gas prices push inflation expectations higher for lower earners",
+      "url": "https://www.investing.com/news/economy-news/gas-prices-push-inflation-expectations-higher-for-lower-earners-93CH-4707367",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-05-22T19:54:43.000Z"
+    },
+    {
+      "title": "Lantheus Explores Potential $7 Billion Sale Following Offer From Curium",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-22/lantheus-is-said-to-weigh-sale-following-offer-from-curium",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-05-22T17:11:14.000Z"
+      "publishedAt": "2026-05-22T19:53:41.000Z"
+    },
+    {
+      "title": "More 20-somethings are moving in with their parents. Here’s how they can build savings — without bankrupting mom and dad",
+      "url": "https://www.marketwatch.com/story/is-your-college-grad-moving-back-home-how-to-help-them-build-savings-and-protect-your-retirement-4a5fc109?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-22T19:44:00.000Z"
+    },
+    {
+      "title": "Muni Bond Sales Surge in 2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-22/muni-bond-sales-surge-in-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-22T19:43:01.000Z"
+    },
+    {
+      "title": "Credit Entry Points Incredibly Attractive: Steinbach",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-22/credit-entry-points-incredibly-attractive-steinbach-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-22T19:42:04.000Z"
+    },
+    {
+      "title": "Danaher Raises $3 Billion in Record Private-Placement Bond Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-22/danaher-raises-3-billion-in-record-private-placement-bond-sale",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-22T19:41:15.000Z"
+    },
+    {
+      "title": "This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August",
+      "url": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-22T19:40:00.000Z"
+    },
+    {
+      "title": "New York Tax on NYC Cash Home Purchases Close to Collapsing",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-22/new-york-tax-on-cash-home-purchases-close-to-collapsing-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-05-22T19:36:40.000Z"
     }
   ]
 }
