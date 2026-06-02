@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T16:34:00.972Z",
+  "lastUpdated": "2026-06-02T19:21:39.126Z",
   "ai": {
     "developers": [
       {
@@ -35,13 +35,6 @@
         "url": "https://openai.com/index/codex-for-knowledge-work",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-02T02:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
-        "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-01T14:06:44.000Z",
         "category": "developers"
       },
       {
@@ -106,9 +99,51 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-05-27T00:00:00.000Z",
         "category": "developers"
+      },
+      {
+        "title": "Rethinking organizational design in the age of agentic AI",
+        "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-26T14:54:10.000Z",
+        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Trump signs executive order to review AI models before they’re released",
+        "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-02T18:33:42.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Microsoft’s first advanced reasoning AI is here",
+        "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-02T18:12:44.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+        "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-02T18:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+        "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-02T18:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
+        "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-02T17:31:02.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t",
         "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
@@ -145,31 +180,10 @@
         "category": "everyone"
       },
       {
-        "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-        "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-01T19:20:47.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "How we used Gemini to build Google I/O 2026",
         "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
         "source": "Google AI Blog",
         "publishedAt": "2026-06-01T16:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Microsoft to unveil new AI models and Windows improvements at Build",
-        "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-01T14:39:03.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI is blowing up music. How should the Grammys handle it?",
-        "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-01T14:30:00.000Z",
         "category": "everyone"
       },
       {
@@ -199,20 +213,6 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-05-26T09:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "It’s time to address the looming crisis in entry-level work",
-        "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-26T09:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Google I/O showed how the path for AI-driven science is shifting",
-        "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-22T10:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
@@ -228,13 +228,6 @@
         "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-01T17:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Anthropic has officially filed to go public",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-01T16:40:38.000Z",
         "category": "advancements"
       },
       {
@@ -320,123 +313,165 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-05-20T19:30:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "A new experiment brings better group meetings to Google Beam",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-05-20T16:45:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "HPE surges 15% after blowout earnings, pacing for one of its best days ever",
-        "url": "https://www.cnbc.com/2026/06/02/hpe-stock-earnings-ai-cloud-servers.html",
+        "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping",
+        "url": "https://www.cnbc.com/2026/06/02/the-cftc-has-sparked-a-potential-revolution-on-wall-street-exchange-stocks-are-dropping.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-02T16:31:54.000Z",
+        "publishedAt": "2026-06-02T19:18:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Galaxy enters institutional prediction markets with $10 million Arca trade",
+        "url": "https://www.coindesk.com/markets/2026/06/02/galaxy-enters-institutional-prediction-markets-with-usd10-million-arca-trade",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-02T19:17:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+        "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T19:14:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why BlackRock's Rick Rieder feels 'a bit more relaxed' about AI bull market than dotcom era",
+        "url": "https://www.cnbc.com/2026/06/02/ai-tech-stocks-bull-market-blackrock.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T19:12:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
+        "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T19:06:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump, Rubio say talks with Tehran ongoing despite Iranian media claims otherwise",
+        "url": "https://www.cnbc.com/2026/06/02/rubio-iran-nuclear-talks-trump-war-strategy-hormuz.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T18:45:55.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Iowa Democratic Senate primary could shape Democrats' path to Senate majority",
+        "url": "https://www.cnbc.com/2026/06/02/iowa-democratic-senate-primary-josh-turek-zach-wahls.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T18:43:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Jeffries: Democrats aren't focused on Trump impeachment 'at this moment'",
+        "url": "https://www.cnbc.com/2026/06/02/jeffries-trump-impeachment.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T18:42:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Alphabet just stepped up the AI spending race. Why that could be an overhang for the hyperscaler stocks",
+        "url": "https://www.cnbc.com/2026/06/02/alphabet-ai-spending-surge-could-weigh-on-hyperscaler-stocks.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T18:38:38.000Z",
         "category": "markets"
       },
       {
         "title": "Trump signs AI executive order asking companies to give government early access to models",
         "url": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-02T16:30:57.000Z",
+        "publishedAt": "2026-06-02T18:36:51.000Z",
         "category": "markets"
       },
       {
-        "title": "My Top 3 Consumer Staples Dividend Stocks to Buy Now",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-consumer-staples-dividend-162536817.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:25:36.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Exclusive-SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-spacex-targets-1-75-161439908.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:23:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Should You Buy FedEx Stock Before June 23?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/buy-fedex-stock-june-23-162000024.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:20:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Canopy Growth Still Looks Broken -- But These 3 Numbers Suggest a Turnaround May Be Starting",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/canopy-growth-still-looks-broken-162000439.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:20:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The rise and fall of GoPro, which says it has 'substantial doubt' the company can survive another year",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rise-fall-gopro-says-substantial-161951182.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:19:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mastercard (MA) flashes major signal on New York BitLicense",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/mastercard-ma-flashes-major-signal-161918266.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:19:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "History Suggests CAVA Could be Ready to Rebound",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/history-suggests-cava-could-ready-161845801.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:18:45.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Precipio (PRPO) Q4 2025 Earnings Transcript",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/precipio-prpo-q4-2025-earnings-161512169.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:15:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "PXED Q2 2026 Earnings Transcript",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/pxed-q2-2026-earnings-transcript-161259079.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:12:59.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Delta (DAL) Q1 2026 Earnings Call Transcript",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/delta-dal-q1-2026-earnings-161200263.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:12:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Marvell Stock Is Up 265% in 1 Year. Do Shares Have More Room to Run?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-265-1-shares-161200751.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:12:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Average monthly mortgage payment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/average-monthly-mortgage-payment-223935888.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:11:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Here are JPMorgan's favorite stocks heading into June",
-        "url": "https://www.cnbc.com/2026/06/02/here-are-jpmorgans-favorite-stocks-heading-into-june.html",
+        "title": "Honeywell's aerospace spin approaches key milestone. Plus, the new stock supply problem",
+        "url": "https://www.cnbc.com/2026/06/02/honeywells-aerospace-spin-approaches-key-milestone-plus-the-new-stock-supply-problem.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-02T16:11:15.000Z",
+        "publishedAt": "2026-06-02T18:32:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Greg Abel channels Buffett's deal-making style in nearly $17 billion spree, expanding into tech",
+        "url": "https://www.cnbc.com/2026/06/02/greg-abel-channels-buffetts-dealmaking-style-in-17-billion-deal-spree.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T17:57:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The last time the S&P 500 rose this rapidly — outside of recession periods — was before the 1987 crash",
+        "url": "https://www.cnbc.com/2026/06/02/the-last-time-the-sp-500-rose-this-rapidly-outside-of-recession-periods-was-before-the-1987-crash.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T17:50:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Analyst Report: Vertex Pharmaceuticals Inc",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_3595_AnalystReport_1780422359000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-02T17:45:59.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Analyst Report: Cboe Global Markets Inc",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_4536_AnalystReport_1780422359000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-02T17:45:59.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Michael Saylor’s Strategy Just Did the Unthinkable — It Held Its First Bitcoin Liquidation",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-strategy-just-did-161619093.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T16:16:19.000Z",
+        "title": "Tom Lee predicts ether will hit $250,000 as corporate validators take over network control",
+        "url": "https://www.coindesk.com/markets/2026/06/02/tom-lee-predicts-eth-will-hit-usd250-000-as-corporate-validators-take-over-network-control",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-02T18:42:40.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin set for 'choppy summer' as capital chases high-flying AI stocks, K33 says",
+        "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-set-for-choppy-summer-as-capital-chases-high-flying-ai-stocks-k33-says",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-02T18:42:37.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin gets new $50K target after BTC price crashes 6% in a day",
+        "url": "https://cointelegraph.com/markets/bitcoin-gets-new-50k-target-after-btc-price-crashes-6-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-02T17:54:18.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "CFTC chair claims Gemini case was politically motivated, seeks to reverse $5M settlement",
+        "url": "https://cointelegraph.com/news/cftc-michael-selig-gemini-politically-motivated-reverse-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-02T17:39:30.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Movement expands stablecoin payments push with access to US, Canada, EU rails",
+        "url": "https://cointelegraph.com/news/movement-expands-stablecoin-payments-push-us-canada-eu-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-02T17:26:18.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Commodities regulator alleges Winklevosses' Gemini crypto exchange was politically targeted",
+        "url": "https://www.cnbc.com/2026/06/02/cftc-chair-alleges-gemini-crypto-exchange-was-politically-targeted.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-02T17:16:39.000Z",
         "category": "crypto"
       },
       {
@@ -489,24 +524,10 @@
         "category": "crypto"
       },
       {
-        "title": "Turkish lira-pegged stablecoins most widely used after dollar tokens, Zodia says",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/turkish-lira-pegged-stablecoins-most-151000399.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-02T15:10:00.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "Georgia targets illegal crypto mining in Mestia crackdown: Report",
         "url": "https://cointelegraph.com/news/georgias-vice-pm-governmental-crackdown-illegal-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-02T15:02:29.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Commodities regulator alleges Winklevosses' Gemini crypto exchange was politically targeted",
-        "url": "https://www.cnbc.com/2026/06/02/cftc-chair-alleges-gemini-crypto-exchange-was-politically-targeted.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-02T14:55:35.000Z",
         "category": "crypto"
       },
       {
@@ -515,150 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-02T14:43:46.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "HIVE Bitcoin holdings drop by 331 BTC in Q1, reports record $298M revenue",
-        "url": "https://cointelegraph.com/news/hive-sells-331-btc-q1-record-298-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-02T14:14:02.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "How to better understand bitcoin’s perpetual identity crisis",
-        "url": "https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-02T14:08:52.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "How high can NEAR price go in June?",
-        "url": "https://cointelegraph.com/markets/how-high-can-near-price-go-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-02T14:04:12.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "This winning high-yield bond strategy limits risk while seeking under-the-radar opportunities",
-      "url": "https://www.marketwatch.com/story/this-winning-high-yield-bond-strategy-limits-risk-while-seeking-under-the-radar-opportunities-c9bb8b77?mod=mw_rss_topstories",
+      "title": "Trump signs a scaled-back executive order on AI. Critics say it’s almost meaningless.",
+      "url": "https://www.marketwatch.com/story/trump-signs-an-executive-order-on-ai-after-its-scaled-back-critics-says-its-almost-meaningless-ec1c25b9?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-06-02T16:17:00.000Z"
+      "publishedAt": "2026-06-02T19:17:00.000Z"
     },
     {
-      "title": "SpaceX Staffers Prep for Multimillion-Dollar Windfalls by Pushing for VIP Terms",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/spacex-ipo-employees-negotiate-together-for-lower-fees-tax-saving-tools",
+      "title": "My husband and I are 75. We have $1.5 million in stocks and $425,000 in savings. Is that too much cash?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-75-we-have-1-5-million-in-stocks-and-425-000-in-savings-is-that-too-much-cash-c9385f9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-02T19:16:00.000Z"
+    },
+    {
+      "title": "Goldman's Solomon Sees More Greed Than Fear in Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-02/goldman-s-solomon-sees-more-greed-than-fear-in-markets-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T16:12:12.000Z"
+      "publishedAt": "2026-06-02T19:15:52.000Z"
     },
     {
-      "title": "Collector Cars Enter a New Era",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-02/collector-cars-enter-a-new-era-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T16:11:27.000Z"
+      "title": "Why Lumentum, Coherent and other optical stocks are rocketing toward big gains",
+      "url": "https://www.marketwatch.com/story/why-lumentum-coherent-and-other-optical-stocks-are-rocketing-toward-big-gains-d5a2e9c7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-02T19:11:00.000Z"
     },
     {
-      "title": "Bitcoin’s Inflation-Hedging Promise in Tatters After 36% Plunge",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/bitcoin-s-inflation-hedging-promise-in-tatters-after-36-plunge",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T16:09:25.000Z"
+      "title": "S&P 500 climbing for 9th straight day — but breadth sends a rare warning",
+      "url": "https://www.marketwatch.com/story/s-p-500-climbing-for-9th-straight-day-but-breadth-sends-a-rare-warning-1577195d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-02T19:11:00.000Z"
     },
     {
-      "title": "NewLimit raises $435 million, tripling valuation to $3.1 billion",
-      "url": "https://www.investing.com/news/economy-news/newlimit-raises-435-million-tripling-valuation-to-31-billion-93CH-4722567",
+      "title": "Goldman CEO says high oil prices could shift consumer behavior in second half of 2026",
+      "url": "https://www.investing.com/news/economy-news/goldman-ceo-says-high-oil-prices-could-shift-consumer-behavior-in-second-half-of-2026-4722739",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-02T16:06:47.000Z"
+      "publishedAt": "2026-06-02T19:00:44.000Z"
     },
     {
-      "title": "First Brands Had '5 Red Flags,' Says Michael Gatto",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-02/first-brands-had-5-red-flags-says-michael-gatto-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T16:06:23.000Z"
-    },
-    {
-      "title": "Venezuela Wants Oil Firms to Supply Their Own Power for Projects",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/venezuela-wants-oil-firms-to-supply-their-own-power-for-projects",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T16:06:18.000Z"
-    },
-    {
-      "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
-      "url": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+      "title": "SpaceX, Anthropic and other mega-IPOs could leave your index fund completely out of luck",
+      "url": "https://www.marketwatch.com/story/buying-into-spacex-anthropic-and-other-mega-ipos-could-be-a-problem-for-your-index-fund-3e7e968e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-06-02T16:06:00.000Z"
+      "publishedAt": "2026-06-02T18:59:00.000Z"
     },
     {
-      "title": "Private Credit Eyes EasyJet Takeover",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-02/private-credit-eyes-easyjet-takeover",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T16:02:16.000Z"
-    },
-    {
-      "title": "HPE Rises on Sales Outlook; Victoria's Secret Soars on Profit Beat | Stock Movers",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-02/hpe-rises-on-sales-outlook-victoria-s-secret-soars-on-profit-beat-stock-movers",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T15:59:16.000Z"
-    },
-    {
-      "title": "How the 1987 Crash Changed the Life of Centerbridge's Jeff Aronson",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-02/how-the-1987-crash-changed-centerbridge-s-aronson-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T15:59:12.000Z"
-    },
-    {
-      "title": "Alphabet’s relentless AI spending is giving new shine to Broadcom’s stock",
-      "url": "https://www.marketwatch.com/story/alphabets-relentless-ai-spending-is-giving-new-shine-to-broadcoms-stock-abfb34b5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-02T15:56:00.000Z"
-    },
-    {
-      "title": "Rheinmetall Wins Romanian Defense Contracts Worth €5.7 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/rheinmetall-wins-romanian-defense-contracts-worth-5-7-billion",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T15:54:41.000Z"
-    },
-    {
-      "title": "Bank of England’s Bailey says public must be given confidence in 2% inflation target",
-      "url": "https://www.investing.com/news/economy-news/bank-of-englands-bailey-says-public-must-be-given-confidence-in-2-inflation-target-4722416",
+      "title": "IMF team to visit Mozambique next week for economic talks",
+      "url": "https://www.investing.com/news/economy-news/imf-team-to-visit-mozambique-next-week-for-economic-talks-93CH-4722737",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-02T15:48:53.000Z"
+      "publishedAt": "2026-06-02T18:49:39.000Z"
     },
     {
-      "title": "Trump taps Pulte for a top intelligence job. This makes an IPO for Fannie and Freddie look even more unlikely.",
-      "url": "https://www.marketwatch.com/story/trump-taps-pulte-for-a-top-intelligence-job-this-makes-an-ipo-for-fannie-and-freddie-look-even-more-unlikely-c54dc83b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-02T15:46:00.000Z"
-    },
-    {
-      "title": "Chipmakers Outperform Software Stocks by Most on Record",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/chipmakers-outperform-software-stocks-by-most-on-record",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T15:37:51.000Z"
-    },
-    {
-      "title": "U.S. Treasury yields dip as job openings surge to 7.6 million",
-      "url": "https://www.investing.com/news/economy-news/us-treasury-yields-dip-as-job-openings-surge-to-76-million-93CH-4722519",
+      "title": "Iran and Saudi Arabia discuss reducing regional tensions",
+      "url": "https://www.investing.com/news/economy-news/iran-and-saudi-arabia-discuss-reducing-regional-tensions-93CH-4722731",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-02T15:31:25.000Z"
+      "publishedAt": "2026-06-02T18:41:45.000Z"
     },
     {
-      "title": "Blue Owl Tech Private Credit Fund Is Selling $300 Million Bonds",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/blue-owl-tech-private-credit-fund-is-selling-300-million-bonds",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T15:31:18.000Z"
+      "title": "Trump to attend rescheduled White House Correspondents’ Association dinner on July 24",
+      "url": "https://www.investing.com/news/economy-news/white-house-correspondents-association-dinner-to-be-held-on-july-24-4722581",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-02T18:36:50.000Z"
     },
     {
-      "title": "UAE’s Strait of Hormuz Pipeline Bypass May Also Include Fuels",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/uae-s-strait-of-hormuz-pipeline-bypass-may-also-include-fuels",
+      "title": "Petrochemicals Giant Braskem Seeks Support to Start Out-of-Court Rework",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/braskem-said-to-seek-support-to-start-out-of-court-restructuring",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-02T15:24:59.000Z"
+      "publishedAt": "2026-06-02T18:33:10.000Z"
+    },
+    {
+      "title": "Bain Capital launches corporate jet financing platform",
+      "url": "https://www.investing.com/news/economy-news/bain-capital-launches-corporate-jet-financing-platform-93CH-4722723",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-02T18:32:36.000Z"
+    },
+    {
+      "title": "Check your rent bill: You could be paying a monthly fee for a service you didn’t know you signed up for",
+      "url": "https://www.marketwatch.com/story/check-your-rent-bill-you-could-be-paying-a-monthly-fee-for-a-service-you-didnt-know-you-signed-up-for-2b01f581?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-02T18:30:00.000Z"
+    },
+    {
+      "title": "Senators propose ending 12% federal tax on heavy-duty trucks",
+      "url": "https://www.investing.com/news/economy-news/senators-propose-ending-12-federal-tax-on-heavyduty-trucks-93CH-4722712",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-02T18:24:55.000Z"
     },
     {
       "title": "Canada seeks USMCA renewal for 16 years, sector tariff discussions in free trade talks",
       "url": "https://www.investing.com/news/economy-news/canada-seeks-usmca-renewal-for-16-years-sector-tariff-discussions-in-free-trade-talks-4722494",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-02T15:18:41.000Z"
+      "publishedAt": "2026-06-02T18:24:42.000Z"
+    },
+    {
+      "title": "US investment-grade bond sales hit $1 trillion mark",
+      "url": "https://www.investing.com/news/economy-news/us-investmentgrade-bond-sales-hit-1-trillion-mark-93CH-4722709",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-02T18:24:12.000Z"
+    },
+    {
+      "title": "Seven states sue US for paying $1bn to make Total exit wind power",
+      "url": "https://www.ft.com/content/d4f25b34-ce45-4321-a4ee-cb5879f7a57a",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-02T18:23:57.000Z"
+    },
+    {
+      "title": "South Africa posts third straight primary budget surplus",
+      "url": "https://www.investing.com/news/economy-news/south-africa-posts-third-straight-primary-budget-surplus-93CH-4722707",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-02T18:21:25.000Z"
+    },
+    {
+      "title": "Anthropic to expand Mythos access to more than 15 countries",
+      "url": "https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-02T18:16:55.000Z"
+    },
+    {
+      "title": "Taking care of your family shouldn’t wreck your retirement",
+      "url": "https://www.marketwatch.com/story/taking-care-of-your-family-shouldnt-wreck-your-retirement-f50714f8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-02T18:13:00.000Z"
     }
   ]
 }
