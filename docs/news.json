@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T16:26:12.123Z",
+  "lastUpdated": "2026-06-08T18:55:57.083Z",
   "ai": {
     "developers": [
       {
@@ -110,6 +110,20 @@
     ],
     "everyone": [
       {
+        "title": "Amazon is launching AI-generated custom merch",
+        "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-08T17:52:51.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+        "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-08T17:34:24.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
         "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
         "source": "The Verge – AI",
@@ -149,20 +163,6 @@
         "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
         "source": "The Verge – AI",
         "publishedAt": "2026-06-05T16:39:07.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "New York lawmakers pass one-year ban on new data centers",
-        "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-05T15:25:10.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "This AI startup says it can tell if a script will make a hit film",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-05T13:57:31.000Z",
         "category": "everyone"
       },
       {
@@ -224,6 +224,13 @@
         "category": "advancements"
       },
       {
+        "title": "Introducing the OpenAI Economic Research Exchange",
+        "url": "https://openai.com/index/economic-research-exchange",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-08T00:00:00.000Z",
+        "category": "advancements"
+      },
+      {
         "title": "The latest AI news we announced in May 2026",
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
         "source": "Google AI Blog",
@@ -259,15 +266,15 @@
         "category": "advancements"
       },
       {
-        "title": "OpenAI public policy agenda",
-        "url": "https://openai.com/index/public-policy-agenda",
+        "title": "A blueprint for democratic governance of frontier AI",
+        "url": "https://openai.com/index/frontier-safety-blueprint",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-03T10:00:00.000Z",
         "category": "advancements"
       },
       {
-        "title": "A blueprint for democratic governance of frontier AI",
-        "url": "https://openai.com/index/frontier-safety-blueprint",
+        "title": "OpenAI public policy agenda",
+        "url": "https://openai.com/index/public-policy-agenda",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-03T10:00:00.000Z",
         "category": "advancements"
@@ -313,125 +320,139 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-05-29T03:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Catch up on 12 major I/O 2026 moments",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-28T15:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "WWDC 2026 live updates: Buzz is building ahead of Apple's big reveal",
+        "title": "S&P 500 and Nasdaq gain as chipmakers rebound from rout, Iran halts Israel attacks: Live updates",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T18:55:05.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Judge blocks Trump's $100,000 H-1B visa fee",
+        "url": "https://www.cnbc.com/2026/06/08/trump-h1b-visa-fee-blocks.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T18:52:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Tom Lee's clients are worried SpaceX IPO will mark a market top. He's not",
+        "url": "https://www.cnbc.com/2026/06/08/tom-lees-clients-are-worried-spacex-ipo-will-mark-a-market-top-hes-not.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T18:47:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea",
+        "url": "https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-08T18:41:04.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
         "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-08T16:21:07.000Z",
+        "publishedAt": "2026-06-08T18:40:47.000Z",
         "category": "markets"
       },
       {
-        "title": "Loop Capital Initiates Coverage of Synchrony Financial (SYF) Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/loop-capital-initiates-coverage-synchrony-161650362.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:16:50.000Z",
+        "title": "SpaceX top? Major IPOs don't typically flag a bull market peak, history shows",
+        "url": "https://www.cnbc.com/2026/06/08/spacex-top-major-ipos-dont-typically-flag-a-bull-market-peak-history-shows.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T18:35:47.000Z",
         "category": "markets"
       },
       {
-        "title": "Cognizant Technology Solutions (CTSH) Announces Expanded Strategic Alliance with CrowdStrike",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/cognizant-technology-solutions-ctsh-announces-161643166.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:16:43.000Z",
+        "title": "Airlines find the grass isn't always greener with new engines",
+        "url": "https://www.cnbc.com/2026/06/08/airline-engines-ge-pratt-rtx.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T18:33:43.000Z",
         "category": "markets"
       },
       {
-        "title": "U.S. Bancorp (USB) Completes Acquisition of  BTIG, LLC",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-completes-acquisition-161629187.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:16:29.000Z",
+        "title": "Kalshi traders say Strait of Hormuz traffic won't return to normal before January",
+        "url": "https://www.cnbc.com/2026/06/08/strait-of-hormuz-traffic-wont-return-to-normal-until-end-of-the-year-traders-say.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T18:29:55.000Z",
         "category": "markets"
       },
       {
-        "title": "Morgan Stanley Raises PT on Monster Beverage (MNST) Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-pt-monster-161622606.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:16:22.000Z",
+        "title": "Oil prices ease after Iran says military operations against Israel are over",
+        "url": "https://www.cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T18:28:06.000Z",
         "category": "markets"
       },
       {
-        "title": "Morgan Stanley Maintains Hold Rating on Fiserv (FISV) Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-maintains-hold-rating-161615273.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:16:15.000Z",
+        "title": "Pharma stocks are showing strength. Charts predict this name could break out next",
+        "url": "https://www.cnbc.com/2026/06/08/pharma-stocks-are-showing-strength-charts-predict-this-name-could-break-out-next.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T18:02:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Deutsche Bank Raises PT on Delta Air Lines (DAL) Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-pt-delta-161608983.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:16:08.000Z",
+        "title": "Silicon Valley’s new buyout playbook is hitting Wall Street",
+        "url": "https://www.cnbc.com/2026/06/08/silicon-valleys-new-buyout-playbook-is-hitting-wall-street.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T18:01:13.000Z",
         "category": "markets"
       },
       {
-        "title": "Goldman Sachs Maintains Buy Rating on Abbott Laboratories (ABT) Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-maintains-buy-rating-161601413.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:16:01.000Z",
+        "title": "Convicted FTX founder Sam Bankman-Fried files formal request for Trump pardon",
+        "url": "https://www.cnbc.com/2026/06/08/sam-bankman-fried-files-formal-request-for-presidential-pardon-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T17:59:50.000Z",
         "category": "markets"
       },
       {
-        "title": "Is The Williams Companies (WMB) One of the Best Blue Chip Stocks Under $100 to Buy Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-wmb-one-best-161554384.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:15:54.000Z",
+        "title": "Chip rebound sparks hedging flurry from traders",
+        "url": "https://www.cnbc.com/2026/06/08/chip-rebound-sparks-hedging-flurry-from-traders.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T17:40:04.000Z",
         "category": "markets"
       },
       {
-        "title": "CVS Health (CVS): One of the Best Blue Chip Stocks Under $100 to Buy Now",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-health-cvs-one-best-161545259.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:15:45.000Z",
+        "title": "Netanyahu says war with Iran, Hezbollah isn't over after Tehran says it's halting strikes",
+        "url": "https://www.cnbc.com/2026/06/08/iran-end-military-operations-israel-lebanon-escalation.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T17:33:37.000Z",
         "category": "markets"
       },
       {
-        "title": "Here’s Why Netflix (NFLX) Is One of the Best Blue Chip Stocks Under $100 to Buy Now",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-netflix-nflx-one-best-161538667.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:15:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Is SoundHound (SOUN) an AI Bubble Stocks to Short Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-soun-ai-bubble-stocks-161518409.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:15:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Wolfspeed (WOLF) Expands in the Data Center Market With a Dedicated Team and New Office",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/wolfspeed-wolf-expands-data-center-161512029.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:15:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Ondas Inc (ONDS) Short Float Exceeds 30%, Should You Buy or Short?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-inc-onds-short-float-161506224.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:15:06.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "IonQ (IONQ) Short Float Near 20%, Is it An AI Bubble Stock to Short Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-short-float-near-161500718.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-08T16:15:00.000Z",
+        "title": "Congress moves toward approving $70 billion for ICE and CBP through Trump's presidency",
+        "url": "https://www.cnbc.com/2026/06/08/ice-cbp-immigration-funding-bill-congress-trump.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-08T17:30:19.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Digital wallet vs. traditional bank account: Which is best for your money?",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/digital-wallet-vs-traditional-bank-account-182017727.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-08T18:20:17.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+        "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-08T17:18:21.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase",
+        "url": "https://www.coindesk.com/business/2026/06/08/live-updates-bitcoin-above-usd63-400-as-strategy-adds-usd100-million-btc-in-latest-purchase",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-08T17:04:38.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Sam Bankman-Fried officially asks Trump for a presidential pardon",
         "url": "https://www.coindesk.com/policy/2026/06/08/sam-bankman-fried-officially-asks-donald-trump-for-a-presidential-pardon",
@@ -458,6 +479,13 @@
         "url": "https://cointelegraph.com/markets/bitcoin-price-60k-support-not-yet-safe-as-more-macro-headwinds-stack-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-08T15:17:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Your guide to managing crypto volatility with dollar-cost averaging",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/crypto-volatility-150304641.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-08T15:03:04.000Z",
         "category": "crypto"
       },
       {
@@ -503,162 +531,134 @@
         "category": "crypto"
       },
       {
-        "title": "CoinDesk 20 performance update: NEAR gains 12.3% as almost all assets trade higher",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/06/08/coindesk-20-performance-update-near-gains-12-3-as-almost-all-assets-trade-higher",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-08T13:12:12.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "MetaMask launches AI agent wallet with built-in security for crypto trades",
-        "url": "https://www.coindesk.com/tech/2026/06/08/metamask-launches-ai-agent-wallet-with-built-in-security-for-crypto-trades",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-08T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitmine bought the dip, making its biggest ether purchase in 2026 as prices tanked",
-        "url": "https://www.coindesk.com/markets/2026/06/07/bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanked",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-08T12:53:30.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Strategy buys 1,550 bitcoin one week after selling $2.5 million of coins",
-        "url": "https://www.coindesk.com/markets/2026/06/08/strategy-buys-1-550-bitcoin-boosts-cash-reserves-to-usd1-billion",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-08T12:12:45.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "White hats rescue $500K in NFTs after Flooring exploit",
-        "url": "https://cointelegraph.com/news/yuga-labs-nft-rescue-flooring-protocol-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-08T12:08:18.000Z",
+        "title": "Bitcoin and ethereum prices today, Monday, June 8, 2026: Moving up after bitcoin prices fell below $60,000",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-8-2026-moving-up-after-bitcoin-prices-fell-below-60000-131559331.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-08T13:15:59.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Blue Owl Fund Hit by Redemptions Set to Sell $500 Million Bond",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/blue-owl-fund-hit-by-redemptions-set-to-sell-500-million-bond",
+      "title": "Millennium’s Grunfeld Says Schonfeld Trying to ‘Coerce’ Move",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/millennium-s-grunfeld-says-schonfeld-trying-to-coerce-move",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T16:12:05.000Z"
+      "publishedAt": "2026-06-08T18:30:18.000Z"
     },
     {
-      "title": "Wall Street stocks rebound after AI-led rout",
-      "url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
+      "title": "Vanguard’s Malloy Says Muni Yields Bolster Second-Half Outlook",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/vanguard-s-malloy-says-muni-yields-bolster-second-half-outlook",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-08T18:25:06.000Z"
+    },
+    {
+      "title": "Iran, Israel Pledge to End Attacks That Threatened Talks",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-08/iran-israel-pledge-to-end-attacks-that-threatened-talks-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-08T18:21:55.000Z"
+    },
+    {
+      "title": "Your next videogame console could cost $1,000 — and it has nothing to do with better hardware",
+      "url": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-08T18:21:00.000Z"
+    },
+    {
+      "title": "‘DOGE’ wanted to declare 2.7 million people ‘dead’ at Social Security: whistleblower",
+      "url": "https://www.marketwatch.com/story/doge-wanted-to-declare-2-7-million-people-dead-at-social-security-whistleblower-e195065b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-08T18:06:00.000Z"
+    },
+    {
+      "title": "BofA sees ‘red flags’ in the U.S. stock market. Here’s what to buy now.",
+      "url": "https://www.marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-08T18:05:00.000Z"
+    },
+    {
+      "title": "Nestle’s Longtime PE Partner Drops Out of Bidding for Perrier",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/nestle-s-longtime-pe-partner-drops-out-of-bidding-for-perrier",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-08T17:52:21.000Z"
+    },
+    {
+      "title": "The great gold myth: Why the precious metal isn’t the war hedge we’re told it is",
+      "url": "https://www.marketwatch.com/story/gold-has-tumbled-during-the-iran-war-exposing-a-massive-myth-about-geopolitical-risk-15bd2c94?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-08T17:42:00.000Z"
+    },
+    {
+      "title": "Zepto Publicly Files for Planned $1 Billion India IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/zepto-publicly-files-for-planned-1-billion-india-ipo",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-08T17:41:13.000Z"
+    },
+    {
+      "title": "Think a tax extension buys you more time to pay? The IRS has some bad news for you.",
+      "url": "https://www.marketwatch.com/story/filed-an-extension-for-your-income-taxes-the-irs-is-still-charging-you-fdea68a0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-08T17:36:00.000Z"
+    },
+    {
+      "title": "Trump’s $100,000 H-1B visa fee ruled unlawful by federal judge",
+      "url": "https://www.investing.com/news/economy-news/trumps-100000-h1b-visa-fee-ruled-unlawful-by-federal-judge-93CH-4731228",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-08T17:28:09.000Z"
+    },
+    {
+      "title": "SpaceX IPO Countdown Begins | Open Interest 6/8/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-08/open-interest-6-8-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-08T17:19:34.000Z"
+    },
+    {
+      "title": "Sam Bankman-Fried seeks Trump pardon",
+      "url": "https://www.ft.com/content/7b976fd2-d93d-4af6-b030-0d1aceec3a30",
       "source": "Financial Times",
-      "publishedAt": "2026-06-08T16:04:49.000Z"
+      "publishedAt": "2026-06-08T17:19:13.000Z"
     },
     {
-      "title": "Wall St gains as chips rebound, Middle East tensions ease",
-      "url": "https://www.investing.com/news/economy-news/sp-500-nasdaq-futures-climb-as-chip-stocks-stabilize-4730185",
+      "title": "UK financial regulator softens proposed change to UK money market fund rules",
+      "url": "https://www.investing.com/news/economy-news/uk-financial-regulator-to-introduce-new-rule-on-money-market-fund-liquidity-4730470",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-08T16:01:07.000Z"
+      "publishedAt": "2026-06-08T17:18:53.000Z"
     },
     {
-      "title": "Private Share Marketplace Hiive Shops Equity as IPO Boom Nears",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/private-share-marketplace-hiive-shops-equity-as-ipo-boom-nears",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T16:00:48.000Z"
-    },
-    {
-      "title": "SpaceX IPO Fuels Space Economy Buzz",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-08/spacex-ipo-fuels-space-economy-buzz-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T15:56:40.000Z"
-    },
-    {
-      "title": "Bitcoin’s $235 Billion Crash Masks a Bigger Shift Across Crypto",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-s-235-billion-crash-masks-a-bigger-shift-across-crypto",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T15:56:12.000Z"
-    },
-    {
-      "title": "Stocks bounce back, oil pares gains as Iran and Israel signal a pause",
-      "url": "https://www.investing.com/news/economy-news/asia-markets-brace-for-selling-after-tech-rout-hits-wall-street-4729716",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-08T15:55:33.000Z"
-    },
-    {
-      "title": "US derivatives regulator drops move to SEC offices; will remain in current HQ",
-      "url": "https://www.investing.com/news/economy-news/us-derivatives-regulator-nixes-move-to-sec-offices-will-remain-in-current-hq-4731072",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-08T15:54:39.000Z"
-    },
-    {
-      "title": "A 20-Year Real Estate “Super Cycle” Is Beginning: Rabil",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-08/a-20-year-real-estate-super-cycle-is-beginning-rabil-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T15:54:36.000Z"
-    },
-    {
-      "title": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
-      "url": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
+      "title": "How teens can turn a summer job into an extra $500,000 in savings when they’re older",
+      "url": "https://www.marketwatch.com/story/how-an-average-paying-summer-job-can-add-up-to-570-000-for-your-teen-9b1fcb46?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-06-08T15:54:00.000Z"
+      "publishedAt": "2026-06-08T17:17:00.000Z"
     },
     {
-      "title": "SpaceX IPO Is Said to Be Well Oversubscribed, Orders Close Wednesday",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/spacex-ipo-is-said-to-be-well-oversubscribed-orders-close-wed",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T15:49:06.000Z"
-    },
-    {
-      "title": "Stocks Gain as Buyers Step In After AI-Led Selloff",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-08/stocks-gain-as-buyers-step-in-after-ai-led-selloff-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T15:47:49.000Z"
-    },
-    {
-      "title": "Rising Dollar Swings Threaten to Upend Resilient Carry Trades",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/rising-dollar-swings-threaten-to-upend-resilient-carry-trades",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T15:45:33.000Z"
-    },
-    {
-      "title": "Mystery Buyer Flips London Mega Mansion for £56 Million Mark Up",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/mystery-buyer-flips-london-mega-mansion-for-56-million-mark-up",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T15:39:14.000Z"
-    },
-    {
-      "title": "Dollar falls from highs after Iran halts Israel strikes; yen clings to 160/$",
-      "url": "https://www.investing.com/news/economy-news/dollar-climbs-to-twomonth-peak-as-fed-hike-bets-ramp-up-4729726",
+      "title": "Biden’s SecDef Lloyd Austin says US Navy can open Strait of Hormuz",
+      "url": "https://www.investing.com/news/economy-news/bidens-secdef-lloyd-austin-says-us-navy-can-open-strait-of-hormuz-93CH-4731211",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-08T15:37:10.000Z"
+      "publishedAt": "2026-06-08T17:09:02.000Z"
     },
     {
-      "title": "Will you be audited by Trump’s IRS? New data says there’s one group that can breathe a lot easier.",
-      "url": "https://www.marketwatch.com/story/will-you-be-audited-by-trumps-irs-new-data-says-theres-one-group-that-can-breathe-a-lot-easier-43b68411?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-08T15:29:00.000Z"
+      "title": "Mexico’s inflation likely slowed in May, poll shows",
+      "url": "https://www.investing.com/news/economy-news/mexicos-inflation-likely-slowed-in-may-poll-shows-93CH-4731210",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-08T17:08:06.000Z"
     },
     {
-      "title": "US Steel Sees Pennsylvania Overhaul Costing Up to $2.5 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/us-steel-sees-pennsylvania-overhaul-costing-up-to-2-5-billion",
+      "title": "BofA Warns It’s Time to ‘Take Profits’ as Red Flags Multiply",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/bofa-warns-it-s-time-to-take-profits-as-red-flags-multiply",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T15:28:37.000Z"
+      "publishedAt": "2026-06-08T17:04:59.000Z"
     },
     {
-      "title": "Lebanon’s intractable crisis pulls Israel and Iran back towards war",
-      "url": "https://www.ft.com/content/7a96137c-63ce-4115-a362-f36fe68a1469",
+      "title": "Mercuria’s First-Half Profit Jumped 88% on Commodity Shocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/mercuria-s-first-half-profit-jumped-88-on-commodity-shocks",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-08T16:45:28.000Z"
+    },
+    {
+      "title": "Israel and Iran halt counterstrikes",
+      "url": "https://www.ft.com/content/700c27f3-6768-4c7a-86bc-ca847de9df55",
       "source": "Financial Times",
-      "publishedAt": "2026-06-08T15:25:51.000Z"
-    },
-    {
-      "title": "United Airlines CEO on Demand, Consumers, Oil Prices",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-08/united-airlines-ceo-on-demand-consumers-oil-prices-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-08T15:23:14.000Z"
-    },
-    {
-      "title": "How this traveler booked a $16,000 first-class Emirates flight for $400 — and you can, too",
-      "url": "https://www.marketwatch.com/story/this-credit-card-pointsmaxxer-booked-a-16-000-first-class-emirates-flight-for-400-and-you-can-too-46f99294?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-08T15:22:00.000Z"
+      "publishedAt": "2026-06-08T16:41:48.000Z"
     }
   ]
 }
