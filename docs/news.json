@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-06-10T04:34:20.327Z",
+  "lastUpdated": "2026-06-10T07:37:44.032Z",
   "ai": {
     "developers": [
+      {
+        "title": "Recovoly – AI-powered ink bleed removal for scanned documents",
+        "url": "https://recovoly.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-10T07:33:12.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Claude Fable 5 Ultracode + AI medical diagnosis",
+        "url": "https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples/blob/main/doctor-perspective/claude-fable-5-ultracode/index.md",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-10T07:19:45.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI Is a Thing We Made",
+        "url": "https://thedailymemes.substack.com/p/ai-is-a-thing-we-made",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-10T05:04:31.000Z",
+        "category": "developers"
+      },
       {
         "title": "Microsoft's AI chief says superintelligence is near, but won't take your job",
         "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
@@ -84,27 +105,6 @@
         "url": "https://www.cbc.ca/news/politics/online-harms-social-media-ban-youth-teens-9.7228651",
         "source": "Hacker News – AI",
         "publishedAt": "2026-06-10T00:36:27.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-        "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-10T00:25:25.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The AI Curse (Vis the Lisp Curse)",
-        "url": "https://blog.djhaskin.com/blog/the-ai-curse/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-10T00:10:06.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Why the AI race misses the point",
-        "url": "https://autonomousagents19.com/blog/organizational-intelligence/tool-that-executes-vs-system-that-learns",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-09T23:42:07.000Z",
         "category": "developers"
       }
     ],
@@ -217,6 +217,13 @@
     ],
     "advancements": [
       {
+        "title": "Compute-to-Surplus: Why AI Progress Doesn't Matter Until It Changes Economics",
+        "url": "https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-10T07:01:12.000Z",
+        "category": "advancements"
+      },
+      {
         "title": "UN Scientists: AI Is Threatening Natural Resources for Billions",
         "url": "https://unu.edu/inweh/news/environmental-cost-of-AIs-Enrgy-use-carbon-water-and-land-footprints",
         "source": "Hacker News – AI",
@@ -313,125 +320,167 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-06-03T13:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "A blueprint for democratic governance of frontier AI",
-        "url": "https://openai.com/index/frontier-safety-blueprint",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-03T10:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Tehran targets Bahrain, Kuwait and Jordan after U.S. strikes Iranian assets",
-        "url": "https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html",
+        "title": "SpaceX's pre-IPO market on Hyperliquid has fallen 27% in three weeks",
+        "url": "https://www.coindesk.com/markets/2026/06/10/spacex-s-most-active-pre-ipo-market-has-fallen-27-in-three-weeks",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-10T07:18:44.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why is market rising? Sensex jumps 1,000 points in 2 days, Nifty crosses 23,400. 3 key factors behind the surge",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-sensex-jumps-1000-points-in-2-days-nifty-crosses-23400-3-key-factors-behind-the-surge/articleshow/131628175.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-10T07:14:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Gold falls below pre-duty-hike levels as overseas prices drop",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-below-pre-duty-hike-levels-as-overseas-prices-drop/articleshow/131628198.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-10T07:11:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Sebi proposes consolidated disclosure of executive pay at asset managers",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-consolidated-disclosure-of-executive-pay-at-asset-managers/articleshow/131628140.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-10T07:07:15.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "How Sensex, Nifty rallied 200% under PM Modi's record-breaking tenure",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-sensex-nifty-rallied-200-under-pm-modis-record-breaking-tenure/articleshow/131627988.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-10T07:05:20.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Zydus Lifesciences, 2 other share buybacks closing today. Are you participating?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/zydus-lifesciences-2-other-share-buybacks-closing-today-are-you-participating/articleshow/131627314.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-10T06:39:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oil choppy after U.S. completes Iran strikes following Apache helicopter attack",
+        "url": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-10T04:25:55.000Z",
+        "publishedAt": "2026-06-10T06:29:19.000Z",
         "category": "markets"
       },
       {
-        "title": "Wipro's Rs 15,000 crore buyback opens tomorrow: Should retail investors tender shares?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipros-rs-15000-crore-buyback-opens-tomorrow-should-retail-investors-tender-shares/articleshow/131624600.cms",
+        "title": "Stock-pay boom amplifies US economic drumbeat: Mike Dolan",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-pay-boom-amplifies-us-economic-drumbeat-mike-dolan/articleshow/131627164.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T04:18:13.000Z",
+        "publishedAt": "2026-06-10T06:23:52.000Z",
         "category": "markets"
       },
       {
-        "title": "China May wholesale inflation hits near 4-year high on Iran war-led higher input costs, AI boom",
-        "url": "https://www.cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html",
+        "title": "SpaceX IPO: Listing date, valuation among 10 things to know about the biggest stock market debut ever",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/spacex-ipo-listing-date-valuation-among-10-things-to-know-about-the-biggest-stock-market-debut-ever/articleshow/131626990.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-10T06:22:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "SoftBank sinks 10% as Asia tech stocks tumble, tracking Wall Street losses",
+        "url": "https://www.cnbc.com/2026/06/10/softbank-samsung-skhynix-asia-tech-stocks-ai-ipo.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-10T04:13:20.000Z",
+        "publishedAt": "2026-06-10T06:18:19.000Z",
         "category": "markets"
       },
       {
-        "title": "Silver plummets Rs 4,500/kg, gold dips Rs 2,500/10 gm as Iran strikes US airbases. Time to sell?",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-plummets-rs-4500/kg-gold-dips-rs-2500/10-gm-as-iran-strikes-us-airbases-time-to-sell/articleshow/131624546.cms",
+        "title": "We are in Sankat Kaal, and in this Sagar Manthan, our job is to look for the next generation of winners: Saurabh Mukherjea",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/we-are-in-sankat-kaal-and-in-this-sagar-manthan-our-job-is-to-look-for-the-next-generation-of-winners-saurabh-mukherjea/articleshow/131626872.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T04:12:39.000Z",
+        "publishedAt": "2026-06-10T06:09:49.000Z",
         "category": "markets"
       },
       {
-        "title": "CleanMax shares soar 15% to record high on Meta partnership",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/cleanmax-shares-soar-15-to-record-high-on-meta-partnership/articleshow/131624487.cms",
+        "title": "RBI likely intervenes to support rupee, conducts swaps, traders say",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-likely-intervenes-to-support-rupee-conducts-swaps-traders-say/articleshow/131626926.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T04:06:20.000Z",
+        "publishedAt": "2026-06-10T06:09:04.000Z",
         "category": "markets"
       },
       {
-        "title": "Sensex jumps over 300 pts, Nifty above 23,300; Reliance Industries, HUL shares gain 1%",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-300-pts-nifty-above-23300-reliance-industries-hul-shares-gain-1/articleshow/131624412.cms",
+        "title": "CMR Green Tech shares fall 8% after solid 43% stock market debut. Buy, sell or hold?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/cmr-green-tech-shares-fall-8-after-solid-43-stock-market-debut-what-should-investors-do/articleshow/131626778.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T04:03:23.000Z",
+        "publishedAt": "2026-06-10T06:02:01.000Z",
         "category": "markets"
       },
       {
-        "title": "FX swap window may spur PSU rush for overseas loans",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fx-swap-window-may-spur-psu-rush-for-overseas-loans/articleshow/131624411.cms",
+        "title": "Meesho: Why Jefferies believes the stock could rally 34% from current levels",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-why-jefferies-believes-the-stock-could-rally-34-from-current-levels/articleshow/131626680.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T04:01:25.000Z",
+        "publishedAt": "2026-06-10T05:56:32.000Z",
         "category": "markets"
       },
       {
-        "title": "Stocks to buy in 2026 for long term: Bharti Airtel, IndiGo among 5 stocks that could give 10-30% return",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-bharti-airtel-indigo-among-5-stocks-that-could-give-10-30-return/slideshow/131624371.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T03:43:59.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dixon Tech shares rise as subsidiary enters JV to manufacture optical telecom products",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-in-focus-as-subsidiary-enters-jv-to-manufacture-optical-telecom-products/articleshow/131623993.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T03:41:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Bank of Baroda among 4 stocks flashing bullish signals, hinting at a possible uptrend",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-among-4-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/131623953.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T03:31:40.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Canara Bank among five stocks showing bullish RSI upswing",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-among-five-stocks-showing-bullish-rsi-upswing/slideshow/131623849.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T03:19:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "IndiGo shares in focus as ATF prices rise 10% as fuel retailers launch 3-year price stabilisation scheme",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-in-focus-as-atf-prices-rise-10-as-fuel-retailers-launch-3-year-price-stabilisation-scheme/articleshow/131623768.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T03:17:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "CMR Green Technologies shares to list today; investors eye strong listing with 36% GMP",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/cmr-green-technologies-shares-to-list-today-investors-eye-strong-listing-with-36-gmp/articleshow/131623691.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T03:12:54.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Utkal Speciality Industries IPO: Check GMP, price band, subscription and other details",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/utkal-speciality-industries-ipo-check-gmp-price-band-subscription-and-other-details/articleshow/131623631.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T03:06:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Positive Breakout: These 10 stocks trade above their 200 DMAs",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-trade-above-their-200-dmas/slideshow/131623553.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-10T02:53:22.000Z",
+        "title": "'Maximal' ban on insider trading would hurt prediction markets, says researcher",
+        "url": "https://cointelegraph.com/news/prediction-markets-need-a-little-insider-trading-academic-research-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-10T05:55:19.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Chainalysis, South Korean police link up to fight crypto crime",
+        "url": "https://cointelegraph.com/news/chainalysis-south-korean-police-link-up-to-fight-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-10T07:03:20.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Hyperliquid, Paradigm urge revision of GENIUS money laundering rule",
+        "url": "https://cointelegraph.com/news/hyperliquid-paradigm-urge-revision-of-genius-money-laundering-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-10T06:40:53.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Live updates: What next for bitcoin as it faces headwinds from Fed rates to Claude's Mythos",
+        "url": "https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-10T05:47:56.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "XRP drops 4.5% as heavy selling breaks another support level",
+        "url": "https://www.coindesk.com/markets/2026/06/10/xrp-drops-4-5-as-heavy-selling-breaks-another-support-level",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-10T05:24:42.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin and gold fall together as a rate-hike bet hits every hedge",
+        "url": "https://www.coindesk.com/markets/2026/06/10/bitcoin-and-gold-fall-together-as-a-rate-hike-bet-hits-every-hedge",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-10T05:22:06.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin ETFs are no bigger today than when Trump won the election",
+        "url": "https://www.coindesk.com/markets/2026/06/10/bitcoin-etfs-are-no-bigger-today-than-when-trump-won-the-election",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-10T05:13:53.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto users wary as Anthropic releases Claude Mythos with safeguards",
+        "url": "https://cointelegraph.com/news/anthropic-releases-claude-mythos-with-safeguards-crypto-users-wary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-10T04:04:52.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Trump family got about $500M from crypto venture — but investors saw steep losses",
         "url": "https://www.cnbc.com/2026/06/09/trump-world-liberty-financial-crypto-alt5-sigma.html",
@@ -487,178 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-06-09T15:30:00.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin price slips toward $62K local lows as bear-market history keeps repeating",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-slips-toward-62k-local-lows-as-bear-market-history-keeps-repeating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-09T15:05:28.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Trad.Fi, W3 target $650 million in onchain private credit using AI evaluation",
-        "url": "https://www.coindesk.com/business/2026/06/09/trad-fi-w3-target-usd650-million-in-onchain-private-credit-using-ai-evaluation",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-09T15:03:26.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ethena lands Janus Henderson backing as asset manager invests in ENA, eyes USDe distribution",
-        "url": "https://www.coindesk.com/business/2026/06/09/ethena-lands-janus-henderson-backing-as-asset-manager-invests-in-ena-eyes-usde-distribution",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-09T14:54:59.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Come back after the summer, says one analyst on crypto markets",
-        "url": "https://www.coindesk.com/markets/2026/06/09/come-back-after-the-summer-says-one-analyst-on-crypto-markets",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-09T14:53:50.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin bottom? These four charts hint at BTC price dropping to $50K",
-        "url": "https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-09T14:33:53.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Blockchain researchers warn HTX sanctions may blur crypto risk signals",
-        "url": "https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-09T14:22:11.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
-        "url": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-09T14:01:11.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Head-HKEx's Bonnie Chan Says SpaceX Is An Exciting Deal",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/head-hkex-s-bonnie-chan-says-spacex-is-an-exciting-deal-video",
+      "title": "Lenovo on Strategy and Growth",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/lenovo-on-strategy-and-growth-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-10T04:20:57.000Z"
+      "publishedAt": "2026-06-10T07:22:38.000Z"
     },
     {
-      "title": "BOJ set to raise key rate to 1.0% in June, 1.25% by year-end: Reuters poll",
-      "url": "https://www.investing.com/news/economy-news/boj-set-to-raise-key-rate-to-10-in-june-125-by-yearend-reuters-poll-4734316",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-10T04:12:34.000Z"
-    },
-    {
-      "title": "Copper edges down as macro concerns weigh on tariff support",
-      "url": "https://www.investing.com/news/economy-news/copper-edges-down-as-macro-concerns-weigh-on-tariff-support-4734314",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-10T04:06:54.000Z"
-    },
-    {
-      "title": "Higher gasoline prices likely pushed up US consumer inflation again in May",
-      "url": "https://www.investing.com/news/economy-news/higher-gasoline-prices-likely-pushed-up-us-consumer-inflation-again-in-may-4734313",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-10T04:06:34.000Z"
-    },
-    {
-      "title": "Bouncing’s What Markets Do Best",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-06-10/bouncing-s-what-stock-markets-do-best",
+      "title": "US, Iran Attack Each Other Over Apache Downed Near Hormuz Strait",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/us-iran-attack-each-other-over-apache-downed-near-hormuz-strait",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-10T04:00:37.000Z"
+      "publishedAt": "2026-06-10T07:22:10.000Z"
     },
     {
-      "title": "Why the world must agree to regulate AI",
-      "url": "https://www.ft.com/content/8724874e-f387-4848-bfc4-2411d6f0797f",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-10T04:00:26.000Z"
-    },
-    {
-      "title": "Wall Street’s IPO boom threatens era of shrinking US stock supply",
-      "url": "https://www.ft.com/content/f7dae4e1-d650-45ab-ac97-043c7a965d24",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-10T04:00:26.000Z"
-    },
-    {
-      "title": "ECB moved to rein in Revolut’s ‘self-guided missiles’ in Europe",
-      "url": "https://www.ft.com/content/7cc86162-f68c-4772-b7ce-9c72dfb15f05",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-10T04:00:26.000Z"
-    },
-    {
-      "title": "Ukraine builds cheap alternative to Patriot missiles",
-      "url": "https://www.ft.com/content/c5839dd4-c4e9-4503-a605-67dcef053845",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-10T04:00:26.000Z"
-    },
-    {
-      "title": "Kuper’s cup: Who will be world champion?",
-      "url": "https://www.ft.com/content/1e62563f-1b89-41fb-b174-5b6a5e5b16fe",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-10T04:00:16.000Z"
-    },
-    {
-      "title": "Top Goldman executive opposed David Solomon’s backing of Kathy Ruemmler",
-      "url": "https://www.ft.com/content/468f48df-c802-4f16-972c-8b2caa1d2802",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-10T04:00:16.000Z"
-    },
-    {
-      "title": "Can Germany make its trains run on time?",
-      "url": "https://www.ft.com/content/db75e347-b13b-4753-8130-6301bb55c040",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-10T04:00:15.000Z"
-    },
-    {
-      "title": "Chinese investors turn to digital bets for exposure to US tech IPOs",
-      "url": "https://www.ft.com/content/809a5144-ce28-435a-807f-2ed2c46bd529",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-10T04:00:05.000Z"
-    },
-    {
-      "title": "Einride Joins US-Listed Driverless Trucking Rivals on Nasdaq",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/einride-joins-us-listed-driverless-trucking-rivals-on-nasdaq",
+      "title": "Bloomberg CTO Office Spotlight",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/bloomberg-cto-office-spotlight-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-10T04:00:00.000Z"
+      "publishedAt": "2026-06-10T07:16:23.000Z"
     },
     {
-      "title": "Indonesian Market Selloff Eases as Rupiah, Bonds, Stocks Rebound",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/idr-usd-indonesia-market-selloff-eases-as-bonds-stocks-rupiah-rebound",
+      "title": "PAG on Private Capital in Asia",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/pag-on-private-capital-in-asia-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-10T03:52:34.000Z"
+      "publishedAt": "2026-06-10T07:15:55.000Z"
     },
     {
-      "title": "Paul Chan on Hong Kong’s Market Outlook",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/paul-chan-on-hong-kong-s-market-outlook-video",
+      "title": "E Fund HK Sponsor Spotlight",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/e-fund-hk-sponsor-spotlight-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-10T03:43:43.000Z"
+      "publishedAt": "2026-06-10T07:12:15.000Z"
+    },
+    {
+      "title": "WH Smith Cuts Outlook, Seeks Capital as Iran War Weighs on Sales",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/wh-smith-cuts-outlook-seeks-capital-as-iran-war-weighs-on-sales",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-10T07:10:34.000Z"
+    },
+    {
+      "title": "This Market Is Very Scared About US CPI: 3-Minutes MLIV",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/this-market-is-very-scared-about-us-cpi-3-minutes-mliv-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-10T07:08:15.000Z"
+    },
+    {
+      "title": "Governments Are Selling Bonds at Record Pace as Spending Soars",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/governments-are-selling-bonds-at-record-pace-as-spending-soars",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-10T07:01:10.000Z"
     },
     {
       "title": "US and Iran exchange strikes after downing of American helicopter",
       "url": "https://www.ft.com/content/ceb10e74-9ff1-4cf6-82e0-70161c6f1f09",
       "source": "Financial Times",
-      "publishedAt": "2026-06-10T03:42:34.000Z"
+      "publishedAt": "2026-06-10T06:59:53.000Z"
     },
     {
-      "title": "Japan’s 30-Year Bond Sale Draws Weakest Demand Since June 2025",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/japan-s-30-year-bond-sale-sees-weakest-demand-in-a-year",
+      "title": "Apollo's Kleinman Says PE Needs to Start Capitulating on Valuations",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/apollo-says-pe-needs-to-start-capitulating-on-valuations-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-10T03:39:47.000Z"
+      "publishedAt": "2026-06-10T06:55:43.000Z"
     },
     {
-      "title": "Meta Partners With Reliance on Its First AI Data Center in India",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/meta-partners-with-reliance-on-its-first-ai-data-center-in-india",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-10T03:39:41.000Z"
+      "title": "Analysis-China Inc deploys ’quiet’ layoffs as Beijing promotes AI adoption",
+      "url": "https://www.investing.com/news/economy-news/analysischina-inc-deploys-quiet-layoffs-as-beijing-promotes-ai-adoption-4734354",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-10T06:36:21.000Z"
     },
     {
-      "title": "Rupiah Risks Remain After Surprise Indonesia Rate Hike",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/rupiah-risks-remain-after-surprise-indonesia-rate-hike-video",
+      "title": "Ziemba: US Strategic Reserves Lowest in Over 40 Years",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/ziemba-us-strategic-reserves-lowest-in-over-40-years-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-10T03:32:25.000Z"
+      "publishedAt": "2026-06-10T06:24:56.000Z"
+    },
+    {
+      "title": "China to Spend $295B on Nationwide AI Buildout | The China Show 6/10/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/the-china-show-6-10-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-10T06:18:56.000Z"
+    },
+    {
+      "title": "Sexton: US Way Behind China in Tech IPO Listings",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/sexton-us-way-behind-china-in-tech-ipo-listings-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-10T06:16:55.000Z"
+    },
+    {
+      "title": "Norway’s May core inflation rises unexpectedly to 3.4%",
+      "url": "https://www.investing.com/news/economy-news/norways-may-core-inflation-rises-unexpectedly-to-34-4734344",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-10T06:12:08.000Z"
+    },
+    {
+      "title": "South Africa’s Eskom Spinoff Plan Raises Credit Profile Concerns",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/south-africa-s-eskom-spinoff-plan-raises-credit-profile-concerns",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-10T06:06:45.000Z"
+    },
+    {
+      "title": "Nippon Steel Gets ¥90 Billion Via First Bond Since US Steel",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/nippon-steel-s-first-bond-since-us-steel-deal-raises-90-billion",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-10T06:06:26.000Z"
+    },
+    {
+      "title": "Iran attacks US bases amid row over downed helicopter near Hormuz",
+      "url": "https://www.investing.com/news/economy-news/iran-attacks-us-bases-amid-row-over-downed-helicopter-near-hormuz-4734332",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-10T05:58:07.000Z"
+    },
+    {
+      "title": "Steady UK Assets Dodge Global Volatility",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-06-10/ftse-100-live-pound-bonds-iran-trump-ai-stocks-cpi-wh-smith-what-s-moving-uk-markets-right-now-markets-today-mq7n7bg6",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-10T05:43:06.000Z"
+    },
+    {
+      "title": "Yes Bank Hikes FX Deposit Rates to Attract Non-Resident Inflows",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/yes-bank-hikes-fx-deposit-rates-to-attract-non-resident-inflows",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-10T05:37:58.000Z"
     }
   ]
 }
