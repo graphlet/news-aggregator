@@ -1,7 +1,98 @@
 {
-  "lastUpdated": "2026-06-11T21:43:59.145Z",
+  "lastUpdated": "2026-06-12T01:06:04.071Z",
   "ai": {
     "developers": [
+      {
+        "title": "Don't let the LLM speak, just probe it",
+        "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-12T00:24:48.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Our workplace LLM mass delusion",
+        "url": "https://blog.avas.space/llm-circus/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-12T00:20:40.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Europe 2031: What getting AI wrong means for us",
+        "url": "https://europe2031.ai/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T23:40:59.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Ciris – an open-source AI agent in 29 languages on iOS and Android",
+        "url": "https://ciris.ai/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T23:38:26.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AgentForge–28 production-grade skills that make AI agents ship reliable code",
+        "url": "https://github.com/borhen68/SkillEngine",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T23:35:50.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: OpenDream – local-first memory with dreaming for AI agents",
+        "url": "https://github.com/pylit-ai/opendream",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T23:01:29.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How recent employment changes vary with work experience and exposure to AI",
+        "url": "https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T22:58:38.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "What Would It Look Like If the AI Bubble Popped?",
+        "url": "https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T22:31:05.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Building an AI-Friendly Company, Just in Case AI Takes over the World",
+        "url": "https://www.paxerp.com/blog/ai-friendly-company-docs",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T22:23:20.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Vera – open-source tool to self-audit smart contracts with AI",
+        "url": "https://vera.apostro.xyz/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T22:15:23.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "GEDD – Grounded Eval-Driven Development for AI Agents",
+        "url": "https://github.com/aws-samples/sample-GEDD",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T22:12:51.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "My AI Opinions",
+        "url": "https://www.astralcodexten.com/p/my-ai-opinions",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T22:10:07.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "As a SWE with 10y experience, how long does it take to learn to build AI models",
+        "url": "https://news.ycombinator.com/item?id=48497093",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-11T22:09:46.000Z",
+        "category": "developers"
+      },
       {
         "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
         "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
@@ -15,97 +106,6 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-06-11T21:33:38.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
-        "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T21:33:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Ask HN: Why not compare Fable 5 with GPT \"Pro\"? Why compare with GPT xhigh?",
-        "url": "https://news.ycombinator.com/item?id=48496661",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T21:27:24.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "IndexedAI – Score and fix your site's readability for AI agents",
-        "url": "https://www.indexedai.tech",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T21:08:39.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "So I ran Doom inside Claude.ai",
-        "url": "https://twitter.com/rthiago/status/2065176453042356511",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T21:08:13.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
-        "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T21:05:12.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
-        "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T21:00:17.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Every LLM Tool Call Needs an Output Budget",
-        "url": "https://www.axamy.com/blog/tool-budget",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T20:50:54.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Superficial Beliefs in LLM Decision-Making",
-        "url": "https://arxiv.org/abs/2606.11016",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T20:46:33.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "\"Regulate AI? And lose our edge?\"",
-        "url": "https://deep.liveblog365.com/en/index-en.html?post=283",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T20:38:26.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The University in the AI Era",
-        "url": "https://htmx.org/essays/universities-and-ai/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T20:34:45.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Lead Should Be an Engineer",
-        "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T20:05:14.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
-        "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T19:50:51.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Powering the next era of Confidential AI",
-        "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T19:44:59.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -114,13 +114,6 @@
         "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
         "source": "Hacker News – AI",
         "publishedAt": "2026-06-11T20:42:46.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "I'm creating a free AI comic for Indie Hackers struggling with distribution",
-        "url": "https://www.indiehackers.com/post/im-creating-a-free-ai-comic-for-indie-hackers-struggling-with-distribution-BlVE6dH6CCgygXLu7OGf",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-11T18:54:12.000Z",
         "category": "everyone"
       },
       {
@@ -212,6 +205,13 @@
         "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-05-29T10:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "The AI Hype Index: AI gets booed in graduation season",
+        "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-28T09:51:11.000Z",
         "category": "everyone"
       }
     ],
@@ -326,112 +326,126 @@
   "finance": {
     "markets": [
       {
+        "title": "Oil prices fall on hopes of U.S.-Iran deal despite Tehran pushback",
+        "url": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-12T00:53:28.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Asian stocks rally on Gulf breakthrough hopes, oil hits two-month lows",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-rally-on-gulf-breakthrough-hopes-oil-hits-two-month-lows/articleshow/131671270.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-12T00:40:09.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock futures tick higher as Wall Street gears up for SpaceX’s historic IPO: Live updates",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-12T00:21:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Pirro's losses in Fed investigation should stay on the books, judge rules",
+        "url": "https://www.cnbc.com/2026/06/11/pirro-fed-jerome-powell.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-12T00:19:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+        "url": "https://www.cnbc.com/2026/06/11/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-11T23:44:13.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+        "url": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-11T23:35:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
+        "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-11T23:30:52.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why the economics makes this the craziest world cup ever",
+        "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-11T23:07:52.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "India's 'blue gold' starts a new drinks industry",
+        "url": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-11T23:01:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "My friends always want to split the bill equally, how do I say no?",
+        "url": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-11T23:00:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
+        "url": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-11T22:53:14.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Warren questions SpaceX IPO oversight in new letter to stock indexes",
         "url": "https://www.cnbc.com/2026/06/11/warren-spacex-ipo-exchanges.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-11T21:39:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What energy insiders in DC are saying about oil prices and a possible Iran deal",
-        "url": "https://www.cnbc.com/2026/06/11/what-energy-insiders-in-dc-are-saying-about-oil-prices-and-a-possible-iran-deal.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-11T21:29:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
-        "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-06-11T21:10:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "SpaceX is way ahead of competitors with Starlink, but growth is harder heading into IPO",
-        "url": "https://www.cnbc.com/2026/06/11/spacex-starlink-growth-getting-harder-ahead-of-ipo.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-11T21:02:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump claims Iran war settled 'subject to finalization,' expects signing in 'next few days'",
-        "url": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-11T20:49:53.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Ex-Andreessen Horowitz partner slams his old firm, other VCs for 'political infiltration' around AI",
-        "url": "https://www.cnbc.com/2026/06/11/ex-a16z-partner-slams-old-firm-othes-political-infiltration-in-ai.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-11T20:43:22.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Healthy Returns: CVS Health executives on reducing healthcare's biggest pain points",
-        "url": "https://www.cnbc.com/2026/06/11/cvs-health-executives-on-reducing-health-cares-biggest-pain-points.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-11T20:32:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Oracle shares tumble 11% on increased capital raise, cash concerns",
-        "url": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-11T20:25:16.000Z",
+        "publishedAt": "2026-06-11T22:26:44.000Z",
         "category": "markets"
       },
       {
         "title": "Trump picks former SEC Chairman Jay Clayton as national intelligence director",
         "url": "https://www.cnbc.com/2026/06/11/trump-jay-clayton-national-intelligence-pulte.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-11T20:20:07.000Z",
+        "publishedAt": "2026-06-11T22:22:15.000Z",
         "category": "markets"
       },
       {
-        "title": "Nearly 7 million student loan borrowers remain in defunct Biden-era payment plan: Trump official",
-        "url": "https://www.cnbc.com/2026/06/11/student-loan-borrowers-save-plan.html",
+        "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
+        "url": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-11T20:18:31.000Z",
+        "publishedAt": "2026-06-11T22:21:47.000Z",
         "category": "markets"
       },
       {
-        "title": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
-        "url": "https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-11T20:12:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Eaton moves one step closer to becoming a cleaner bet on the AI boom",
-        "url": "https://www.cnbc.com/2026/06/11/eaton-moves-one-step-closer-to-becoming-a-cleaner-bet-on-the-ai-boom.html",
+        "title": "SpaceX to close above $2 trillion market cap on its debut, prediction market traders say",
+        "url": "https://www.cnbc.com/2026/06/11/spacex-to-close-above-2-trillion-market-cap-on-its-debut-traders-say.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-11T20:05:57.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks: Dow soars 900 pts, Nasdaq over 2% as Trump says Iran deal likely soon",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-indexes-jump-trump-says-strikes-against-iran-canceled/articleshow/131668627.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-11T20:02:27.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Pimco is warning about a spike in defaults — How it says income investors should position portfolios",
-        "url": "https://www.cnbc.com/2026/06/11/pimco-is-warning-about-a-spike-in-defaults-how-to-position-portfolios.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-11T19:48:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks: SpaceX to make historic listing on Nasdaq on Friday that could make Elon Musk a trillionaire",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-to-make-historic-listing-on-nasdaq-on-friday-that-could-make-elon-musk-a-trillionaire/articleshow/131668501.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-11T19:46:00.000Z",
+        "publishedAt": "2026-06-11T21:44:43.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
+        "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-11T22:58:52.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Citi launches blockchain marketplace for private companies shares: Report",
+        "url": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-11T21:24:56.000Z",
+        "category": "crypto"
+      },
       {
         "title": "ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?",
         "url": "https://cointelegraph.com/markets/ether-bulls-ramp-up-risk-above-16k-can-buyers-regain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -482,17 +496,17 @@
         "category": "crypto"
       },
       {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-11T15:21:00.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
         "url": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-11T15:01:27.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-11T15:01:00.000Z",
         "category": "crypto"
       },
       {
@@ -522,143 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-06-11T13:49:27.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "CoinDesk 20 performance update: Uniswap (UNI) gains 4.5% as all constituents rise",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/06/11/coindesk-20-performance-update-uniswap-uni-gains-4-5-as-all-constituents-rise",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-11T13:45:50.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure",
-        "url": "https://cointelegraph.com/markets/bitcoin-tags-632k-as-btc-price-action-ignores-new-iran-hormuz-closure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-11T13:41:47.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "We asked AI to predict the 2026 World Cup winner. It picked something that has never happened.",
-      "url": "https://www.marketwatch.com/story/we-asked-ai-to-predict-the-2026-world-cup-winner-it-picked-something-that-has-never-happened-53231520?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-11T21:37:00.000Z"
-    },
-    {
-      "title": "Ecuador to Cut Beer Prices 20% in World Cup Show of ‘Support’",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/ecuador-to-cut-beer-prices-20-in-world-cup-show-of-support",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-11T21:21:41.000Z"
-    },
-    {
-      "title": "Foster children are getting their own version of ‘Trump accounts,’ but major questions remain",
-      "url": "https://www.marketwatch.com/story/foster-children-are-getting-their-own-version-of-trump-accounts-but-major-questions-remain-a755290e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-11T21:08:00.000Z"
-    },
-    {
-      "title": "Trading Day: Peace beckons ... again",
-      "url": "https://www.investing.com/news/economy-news/trading-day-peace-beckons--again-4738475",
+      "title": "Stocks extend rally on Gulf breakthrough hopes, oil hits two-month lows",
+      "url": "https://www.investing.com/news/economy-news/stocks-extend-rally-on-gulf-breakthrough-hopes-oil-hits-twomonth-lows-4738741",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-11T21:06:46.000Z"
+      "publishedAt": "2026-06-12T00:55:07.000Z"
     },
     {
-      "title": "Bank Stocks Hit Record Highs on US-Iran Deal Hopes, IPO Optimism",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/bank-stocks-hit-record-highs-on-us-iran-deal-hopes-ipo-optimism",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-11T20:54:10.000Z"
-    },
-    {
-      "title": "Who’s Really Paying for This Year’s World Cup?",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-11/who-s-really-paying-for-this-year-s-world-cup-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-11T20:48:57.000Z"
-    },
-    {
-      "title": "Missed the rally in optical stocks? Coherent and Lumentum just got more attractive, according to J.P. Morgan.",
-      "url": "https://www.marketwatch.com/story/missed-the-rally-in-optical-stocks-coherent-and-lumentum-just-got-more-attractive-according-to-j-p-morgan-ccee9f93?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-11T20:48:00.000Z"
-    },
-    {
-      "title": "Trump names former SEC head Jay Clayton as US intelligence chief",
-      "url": "https://www.ft.com/content/79b4d690-5e9f-4b7d-9054-61723b8237e1",
+      "title": "Donald Trump says US close to deal with Iran and calls off strikes",
+      "url": "https://www.ft.com/content/05472479-445d-4c16-ba85-6db47ba72373",
       "source": "Financial Times",
-      "publishedAt": "2026-06-11T20:47:29.000Z"
+      "publishedAt": "2026-06-12T00:53:17.000Z"
+    },
+    {
+      "title": "Trump appeals court order to strip his name from Kennedy Center building",
+      "url": "https://www.investing.com/news/economy-news/trump-appeals-court-order-to-strip-his-name-from-kennedy-center-building-4738730",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-12T00:36:27.000Z"
+    },
+    {
+      "title": "Bank of Japan set to hike rates to 31-year high, drop hawkish signals",
+      "url": "https://www.investing.com/news/economy-news/bank-of-japan-set-to-hike-rates-to-31year-high-drop-hawkish-signals-4738716",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-12T00:13:02.000Z"
+    },
+    {
+      "title": "Korea’s Kospi Surges 8% as Iran Deal Hopes Lift Chip Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/korea-s-kospi-surges-7-as-iran-deal-hopes-lift-chip-stocks",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-12T00:03:58.000Z"
+    },
+    {
+      "title": "I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?",
+      "url": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "title": "BOJ’s pivotal moment muddied by Ueda’s absence",
+      "url": "https://www.investing.com/news/economy-news/analysisbojs-pivotal-moment-muddied-by-uedas-absence-4736612",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-11T23:48:24.000Z"
+    },
+    {
+      "title": "I’m 60, retired with $3 million. My fiancée, 55, only has $1 million and plans to keep working. Are we compatible?",
+      "url": "https://www.marketwatch.com/story/im-60-retired-with-3-million-my-fiancee-55-has-1-million-but-plans-to-work-for-the-next-10-years-are-we-compatible-2ee04cf9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-11T23:46:00.000Z"
+    },
+    {
+      "title": "Social Security insolvency is ‘entirely solvable,’ says commissioner under Biden",
+      "url": "https://www.marketwatch.com/story/social-security-insolvency-is-entirely-solvable-says-commissioner-under-biden-9a37ecfd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-11T23:46:00.000Z"
+    },
+    {
+      "title": "Gold Holds Gain as Trump Signals Imminent Peace Deal With Iran",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/gold-holds-gain-as-trump-signals-imminent-peace-deal-with-iran",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-11T23:36:52.000Z"
+    },
+    {
+      "title": "My golf buddy worked as a financial adviser. Here’s how I knew his friendship was fake.",
+      "url": "https://www.marketwatch.com/story/my-golf-buddy-worked-as-a-financial-adviser-heres-how-i-really-knew-his-friendship-was-fake-9e5695d5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-11T23:30:00.000Z"
+    },
+    {
+      "title": "MediaTek’s Rally Signals Shift From Laggard to AI Contender",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/mediatek-s-rally-signals-shift-from-laggard-to-ai-contender",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-11T23:30:00.000Z"
+    },
+    {
+      "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+      "url": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-11T23:26:00.000Z"
+    },
+    {
+      "title": "Japan’s Stocks Rise as Trump’s Iran Deal Comments Lift Sentiment",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/japanese-stocks-set-to-rise-on-optimism-over-middle-east-war",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-11T23:02:08.000Z"
+    },
+    {
+      "title": "How to Trade the SpaceX IPO in Asia's Locked-Out Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/locked-out-of-ipo-asia-investors-find-new-ways-to-bet-on-spacex",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-11T23:00:00.000Z"
+    },
+    {
+      "title": "Scaffolding Company’s Data-Center Pivot Cuts Into Margins",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/scaffolding-company-s-data-center-pivot-cuts-into-margins",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-11T22:55:09.000Z"
+    },
+    {
+      "title": "Wall Street indexes jump, Trump says strikes against Iran canceled",
+      "url": "https://www.investing.com/news/economy-news/wall-st-ticks-up-as-chips-rebound-middle-east-in-focus-4737702",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-11T22:54:36.000Z"
     },
     {
       "title": "Musk’s SpaceX raises $75bn in world’s biggest IPO",
       "url": "https://www.ft.com/content/1890e552-aa7e-4d7f-98f1-db4f165e8827",
       "source": "Financial Times",
-      "publishedAt": "2026-06-11T20:41:13.000Z"
+      "publishedAt": "2026-06-11T22:39:39.000Z"
     },
     {
-      "title": "Micron’s stock rebounds after ‘healthy’ reset, and analysts see blue skies ahead",
-      "url": "https://www.marketwatch.com/story/microns-stock-rebounds-after-healthy-reset-and-analysts-see-blue-skies-ahead-624a53ef?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-11T20:38:00.000Z"
-    },
-    {
-      "title": "Upcoming SpaceX IPO spawns leveraged ETFs for bullish and bearish bets on its stock",
-      "url": "https://www.marketwatch.com/story/upcoming-spacex-ipo-spawns-leveraged-etfs-for-bullish-and-bearish-bets-on-its-stock-b0d7cceb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-11T20:37:00.000Z"
-    },
-    {
-      "title": "Dollar falls after Trump halts US strikes on Iran",
-      "url": "https://www.investing.com/news/economy-news/dollar-shaky-as-investors-weigh-rate-outlook-middle-east-worries-4736456",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-11T20:36:43.000Z"
-    },
-    {
-      "title": "SpaceX IPO hype is massive — and the FOMO can ruin your retirement",
-      "url": "https://www.marketwatch.com/story/spacex-ipo-hype-is-massive-and-especially-dangerous-for-investors-over-50-ae3edd10?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-11T20:36:00.000Z"
-    },
-    {
-      "title": "S&P 500 indicators are breaking down — but this new buy signal is flashing green",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-chart-is-breaking-down-but-this-new-buy-signal-is-flashing-green-5112ee15?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-11T20:33:00.000Z"
-    },
-    {
-      "title": "Oracle’s stock is seeing its worst run in a quarter-century as this key AI debate rages on",
-      "url": "https://www.marketwatch.com/story/oracles-stock-is-seeing-its-worst-run-in-a-quarter-century-as-this-key-ai-debate-rages-on-49b3e9ed?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-11T20:32:00.000Z"
-    },
-    {
-      "title": "Intel’s stock could push even higher thanks to this subtle dynamic, BofA says",
-      "url": "https://www.marketwatch.com/story/intels-stock-could-push-even-higher-thanks-to-this-subtle-dynamic-bofa-says-0615c707?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-11T20:31:00.000Z"
-    },
-    {
-      "title": "Australia’s central bank to pause on June 16; a minority still see Q3 rate hike: Reuters poll",
-      "url": "https://www.investing.com/news/economy-news/australias-central-bank-to-pause-on-june-16-a-minority-still-see-q3-rate-hike-4738306",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-11T20:30:56.000Z"
-    },
-    {
-      "title": "SpaceX IPO Raises $75 Billion in Biggest Debut of All Time",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-11/spacex-ipo-raises-75-billion-in-record-debut-video",
+      "title": "Oil Extends Decline After Trump Says Deal With Iran Is Close",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/latest-oil-market-news-and-analysis-for-june-12",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-11T20:30:17.000Z"
+      "publishedAt": "2026-06-11T22:04:43.000Z"
     },
     {
-      "title": "Dollar Drops the Most in a Month as Trump Says the War Is Ending",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/dollar-drops-the-most-in-a-month-as-trump-says-the-war-is-ending",
+      "title": "Stocks Rally as Trump Signals Iran Deal, Oil Slips: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/asian-stocks-to-gain-as-trump-signals-us-iran-deal-markets-wrap",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-11T20:27:00.000Z"
-    },
-    {
-      "title": "Trump says US close to deal with Iran and calls off strikes",
-      "url": "https://www.ft.com/content/05472479-445d-4c16-ba85-6db47ba72373",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-11T20:24:59.000Z"
+      "publishedAt": "2026-06-11T22:03:20.000Z"
     }
   ]
 }
