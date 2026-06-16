@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-06-16T01:11:29.254Z",
+  "lastUpdated": "2026-06-16T04:38:07.841Z",
   "ai": {
     "developers": [
+      {
+        "title": "Inside the fight over Claude Mythos 5",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-16T03:00:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "How an astrophysicist uses Codex to help simulate black holes",
         "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -99,13 +106,6 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-05-29T00:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "How Endava builds an agentic organization with Codex",
-        "url": "https://openai.com/index/endava",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-05-28T12:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -142,13 +142,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
         "source": "The Verge – AI",
         "publishedAt": "2026-06-13T13:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-        "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-13T12:00:00.000Z",
         "category": "everyone"
       },
       {
@@ -212,6 +205,13 @@
         "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-05-28T09:51:11.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Gemini 3.5: frontier intelligence with action",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-05-19T17:45:00.000Z",
         "category": "everyone"
       }
     ],
@@ -326,112 +326,119 @@
   "finance": {
     "markets": [
       {
-        "title": "Vedanta demerger unlocks 20% value; Aluminium arm becomes most valuable",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-unlocks-20-value-aluminium-arm-becomes-most-valuable/articleshow/131756952.cms",
+        "title": "Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold",
+        "url": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-16T04:34:35.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "ET Alpha Wealth Summit | FIIs haven't abandoned India, they've just reshuffled: Samir Arora",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/et-alpha-wealth-summit-fiis-havent-abandoned-india-theyve-just-reshuffled-samir-arora/articleshow/131759074.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-16T00:50:17.000Z",
+        "publishedAt": "2026-06-16T04:17:40.000Z",
         "category": "markets"
       },
       {
-        "title": "RBI puts curbs on banks' sale of third-party",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-puts-curbs-on-banks-sale-of-third-party/articleshow/131756941.cms",
+        "title": "Japan's Nikkei hits record high, yen steady after BOJ hikes rates as expected",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-hits-record-high-yen-steady-after-boj-hikes-rates-as-expected/articleshow/131759124.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-16T00:43:46.000Z",
+        "publishedAt": "2026-06-16T04:17:19.000Z",
         "category": "markets"
       },
       {
-        "title": "M-Cap of Vedanta's split cos jumps 67% to Rs 3.5 lakh crore",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-vedantas-split-cos-jumps-67-to-rs-3-5-lakh-crore/articleshow/131756907.cms",
+        "title": "Global Markets: Chinese government bonds gain global appeal as investors seek diversification amid market volatility",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-chinese-government-bonds-gain-global-appeal-as-investors-seek-diversification-amid-market-volatility/articleshow/131759087.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-16T00:39:58.000Z",
+        "publishedAt": "2026-06-16T04:16:13.000Z",
         "category": "markets"
       },
       {
-        "title": "Sebi proposes changes to ETF trading norms",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-changes-to-etf-trading-norms/articleshow/131756895.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-16T00:32:33.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Pre-market action: Here's the trade setup for today's session",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/131749365.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-16T00:30:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Irdai seeks to ease investment rules in insurance sector",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/irdai-seeks-to-ease-investment-rules-in-insurance-sector/articleshow/131756878.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-16T00:24:52.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Investors fuel SpaceX boom as stock soars for second straight session",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/investors-fuel-spacex-boom-as-stock-soars-for-second-straight-session/articleshow/131756853.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-16T00:15:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What is Helium-3 and could we get it from the moon?",
-        "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-06-16T00:11:13.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Sebi plans buyback via SEs again, easier MF borrowing rules",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-buyback-via-ses-again-easier-mf-borrowing-rules/articleshow/131756819.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-16T00:10:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
-        "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-06-16T00:08:54.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rupee also rises to 5-week high on peace deal hopes",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-also-rises-to-5-week-high-on-peace-deal-hopes/articleshow/131756747.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-16T00:03:26.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Sensex, Nifty rally 1% as US-Iran peace hopes spark risk-on sentiment",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-rally-1-as-us-iran-peace-hopes-spark-risk-on-sentiment/articleshow/131756735.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-15T23:58:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stock futures are little changed after Dow posts new record close on potential U.S.-Iran deal: Live updates",
+        "title": "U.S. stock futures are flat after Dow record close on U.S.-Iran deal; Nikkei 225 hits record high: Live updates",
         "url": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-15T23:43:55.000Z",
+        "publishedAt": "2026-06-16T04:11:52.000Z",
         "category": "markets"
       },
       {
-        "title": "People in China are watching the World Cup differently this time",
-        "url": "https://www.cnbc.com/2026/06/16/people-in-china-are-watching-the-world-cup-differently-this-time.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-15T23:25:29.000Z",
+        "title": "Vedanta Aluminium vs Vedanta Power: Which can give investors better wealth in Rs 2 lakh crore demerger play",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-vs-vedanta-power-which-can-give-investors-better-wealth-in-rs-2-lakh-crore-demerger-play/articleshow/131759021.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-16T04:11:32.000Z",
         "category": "markets"
       },
       {
-        "title": "US Air Force B-52 bomber crashes in California; 8-member crew presumed dead",
-        "url": "https://www.cnbc.com/2026/06/15/us-air-force-b-52-bomber-crashes-on-takeoff-in-california-air-force-says.html",
+        "title": "China economy weakens further in May as retail sales post first drop in over three years",
+        "url": "https://www.cnbc.com/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-15T23:06:32.000Z",
+        "publishedAt": "2026-06-16T04:09:52.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "GIC shares decline 6% as Rs 3,088 crore OFS opens at 9% discount",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/gic-shares-in-focus-as-ofs-worth-rs-3088-crore-opens-at-9-discount/articleshow/131758964.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-16T04:05:39.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "India’s first clean economy index fund is here: Should you invest?",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/indias-first-clean-economy-index-fund-is-here-should-you-invest/articleshow/131758723.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-16T03:59:09.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Sensex rises over 250 points, Nifty above 23,900 as markets extend gains; HCL Tech among top gainers",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-250-points-nifty-above-23900-as-markets-extend-gains-hcl-tech-among-top-gainers/articleshow/131758642.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-16T03:58:57.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "South Korean defense stocks surge on prospects for post-Iran-war sales boosts",
+        "url": "https://www.cnbc.com/2026/06/16/south-korean-defense-stocks-surge-on-prospects-for-iran-wars-end-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-16T03:56:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "HDFC AMC among 4 stocks flash bullish signals, indicating a possible uptrend",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-amc-among-4-stocks-flash-bullish-signals-indicating-a-possible-uptrend/slideshow/131758659.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-16T03:50:55.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Pakistan eyes more global bond issues, sees budget upside from Iran deal",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/pakistan-eyes-more-global-bond-issues-sees-budget-upside-from-iran-deal/articleshow/131758541.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-16T03:43:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Adani Enterprises shares in focus on partnership with Jabil to build AI data centres in India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-shares-in-focus-on-partnership-with-jabil-to-build-ai-data-centres-in-india/articleshow/131758463.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-16T03:41:13.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "HCL Tech shares jump 3% after buying stake in Sarvam AI for Rs 1,427 crore",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/hcl-tech-shares-in-focus-after-buying-stake-in-sarvam-ai-for-rs-1427-crore/articleshow/131758435.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-16T03:30:59.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
+        "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-16T04:30:41.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -529,136 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-15T13:52:12.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000",
-        "url": "https://www.coindesk.com/markets/2026/06/15/coinbase-s-brian-armstrong-says-bitcoin-may-have-bottomed-at-usd60-000",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-15T13:30:05.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Dollar sways near 10-day lows as attention turns to BOJ and RBA",
+      "title": "China’s economic imbalance deepens as retail sales fall for first time in over three years",
+      "url": "https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-16T04:30:32.000Z"
+    },
+    {
+      "title": "AI Driven Re-Rating Fuels 550% Rally in Kingboard Laminates",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/ai-driven-re-rating-fuels-550-rally-in-kingboard-laminates",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-16T04:19:34.000Z"
+    },
+    {
+      "title": "China’s retail sales sink for first time in more than three years",
+      "url": "https://www.ft.com/content/f0238d1d-8b35-4686-84f7-cdf90a628ebf",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-16T04:17:04.000Z"
+    },
+    {
+      "title": "World Bank cuts Myanmar growth forecast as fuel shock deepens economic strains",
+      "url": "https://www.investing.com/news/economy-news/world-bank-cuts-myanmar-growth-forecast-as-fuel-shock-deepens-economic-strains-4743783",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-16T04:00:54.000Z"
+    },
+    {
+      "title": "The human brain is not a machine",
+      "url": "https://www.ft.com/content/37aca277-f7f4-41b8-ac8a-0850bae2e2e5",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-16T04:00:33.000Z"
+    },
+    {
+      "title": "Strait of Hormuz flow will take ‘weeks’ to resume, largest tanker operator warns",
+      "url": "https://www.ft.com/content/9dfe2dd2-2d52-445f-a223-147d6509a76f",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-16T04:00:25.000Z"
+    },
+    {
+      "title": "Private equity bosses warn of AI threat to bets on law and accountancy",
+      "url": "https://www.ft.com/content/d368d0b8-9264-408b-b0af-0f0b660e1c8f",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-16T04:00:24.000Z"
+    },
+    {
+      "title": "The price of risk is falling in a more dangerous world",
+      "url": "https://www.ft.com/content/3cae57bd-c2d8-4ed5-87a8-644a27c86d93",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-16T04:00:16.000Z"
+    },
+    {
+      "title": "Hedge funds bet against European carmakers on Chinese competition fears",
+      "url": "https://www.ft.com/content/a1a4f63d-c244-4195-9b3c-8b8954edf640",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-16T04:00:15.000Z"
+    },
+    {
+      "title": "The Two Clear Winners Are Iran and Markets",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-06-16/iran-deal-the-two-clear-winners-are-tehran-and-markets",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-16T04:00:15.000Z"
+    },
+    {
+      "title": "HR must manage AI bots as well as humans, says Accenture executive",
+      "url": "https://www.ft.com/content/bbf57e46-51ef-4013-8f09-8391fb69e6f1",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-16T04:00:14.000Z"
+    },
+    {
+      "title": "Bank of Japan Hike Shows Inflation Worries, Strategists Say",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/bank-of-japan-hike-shows-inflation-worries-strategists-say",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-16T03:58:59.000Z"
+    },
+    {
+      "title": "Vietnam Stocks See Biggest Foreign Inflows in Nearly Six Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/vietnam-stocks-see-biggest-foreign-inflows-in-nearly-six-years",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-16T03:57:53.000Z"
+    },
+    {
+      "title": "China’s Property Stocks Tumble Back to Pre-2024 Stimulus Levels",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/china-s-property-stocks-tumble-back-to-pre-2024-stimulus-levels",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-16T03:50:10.000Z"
+    },
+    {
+      "title": "Dollar sways near 10-day lows, yen at 160 after BOJ hikes as expected",
       "url": "https://www.investing.com/news/economy-news/dollar-sways-near-10day-lows-as-attention-turns-to-boj-and-rba-4743690",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-16T01:06:33.000Z"
+      "publishedAt": "2026-06-16T03:48:30.000Z"
     },
     {
-      "title": "The biggest risk to your retirement isn’t a market crash — it’s a crisis you probably haven’t planned for",
-      "url": "https://www.marketwatch.com/story/the-biggest-risk-to-your-retirement-isnt-a-market-crash-its-a-crisis-you-probably-havent-planned-for-eff75a99?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-16T00:34:00.000Z"
-    },
-    {
-      "title": "Woodside Energy’s Louisiana LNG President Abruptly Departs",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-16/woodside-energy-s-louisiana-lng-president-abruptly-departs",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-16T00:30:15.000Z"
-    },
-    {
-      "title": "How to work in retirement without seeing your Social Security checks slashed",
-      "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-16T00:11:00.000Z"
-    },
-    {
-      "title": "Worst Indonesian Credit Volatility in Years Imperils Debt Boom",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-16/worst-indonesian-credit-volatility-in-years-imperils-debt-boom",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-16T00:00:00.000Z"
-    },
-    {
-      "title": "SpaceX Investors at US Retail Brokers Got at Least One IPO Share",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-investors-at-us-retail-brokers-got-at-least-one-ipo-share",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-15T23:52:01.000Z"
-    },
-    {
-      "title": "Wall Street rallies, Dow ends with record on US-Iran deal, oil price slide",
-      "url": "https://www.investing.com/news/economy-news/wall-st-futures-advance-over-1-as-markets-cheer-iran-deal-4741392",
+      "title": "Bank of Japan hikes interest rates by 25 bps as expected; trims bond purchases",
+      "url": "https://www.investing.com/news/economy-news/bank-of-japan-hikes-interest-rates-by-25-bps-as-expected-trims-bond-purchases-4743784",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-15T23:42:31.000Z"
+      "publishedAt": "2026-06-16T03:36:07.000Z"
     },
     {
-      "title": "Need a credit-score boost? Call your credit-card company and ask for this — but proceed with caution.",
-      "url": "https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-15T23:07:00.000Z"
+      "title": "BOJ raises interest rates to 31-year high in widely expected move",
+      "url": "https://www.investing.com/news/economy-news/boj-raises-interest-rates-to-31year-high-in-widely-expected-move-4743777",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-16T03:30:29.000Z"
     },
     {
-      "title": "Trader Loses $1 Million on Cabo Verde’s Stunning World Cup Tie",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/trader-loses-1-million-on-cabo-verde-s-stunning-world-cup-tie",
+      "title": "OpenAI spending hit $34bn last year ahead of planned IPO",
+      "url": "https://www.ft.com/content/e15b0d7e-ff6b-4f16-ba7a-4068feddb828",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-16T03:28:59.000Z"
+    },
+    {
+      "title": "Bank of Japan raises rates to 1% for first time since 1995",
+      "url": "https://www.ft.com/content/1e887867-8533-423b-977c-c019759f7787",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-16T03:25:49.000Z"
+    },
+    {
+      "title": "Yen Trims Gain, Bonds Extend Loss After BOJ’s Expected Rate Hike",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/yen-pares-gains-versus-dollar-after-boj-hikes-key-rate-to-1",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-15T23:04:41.000Z"
-    },
-    {
-      "title": "Roku’s sale to Fox for $22 billion raises a big question",
-      "url": "https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-15T23:03:00.000Z"
-    },
-    {
-      "title": "Gold Holds Gain as Trump Touts Reopening of Hormuz This Week",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/gold-holds-gain-as-trump-touts-reopening-of-hormuz-this-week",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-15T22:35:11.000Z"
-    },
-    {
-      "title": "Here’s when gas prices will come down if the U.S. deal to end the Iran war pans out",
-      "url": "https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-15T22:31:00.000Z"
-    },
-    {
-      "title": "IG4 Offers to Buy Raizen Debt in Quest for Majority Stake",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/raizen-raiz4-restructuring-ig4-offers-to-buy-debt-to-seek-majority-stake",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-15T22:30:19.000Z"
-    },
-    {
-      "title": "Options traders are bracing for a very busy week, with June ‘triple witching’ and launch of SpaceX contracts on deck",
-      "url": "https://www.marketwatch.com/story/options-traders-are-bracing-for-a-very-busy-week-with-june-triple-witching-and-launch-of-spacex-contracts-on-deck-b38fbf62?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-15T22:24:00.000Z"
-    },
-    {
-      "title": "I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?",
-      "url": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-15T22:22:00.000Z"
-    },
-    {
-      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000 Social Security now or wait?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-15T22:15:00.000Z"
-    },
-    {
-      "title": "Asian Stocks Edge Up With Rate Decisions in Focus: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/oil-holds-losses-after-iran-deal-spurs-stock-rally-markets-wrap",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-15T22:06:05.000Z"
-    },
-    {
-      "title": "Oil Steadies as Traders Seek Clarity on Planned Hormuz Reopening",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/latest-oil-market-news-and-analysis-for-june-16",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-15T22:01:18.000Z"
-    },
-    {
-      "title": "China Built the Last Steel Boom. India’s Will Be Different",
-      "url": "https://www.bloomberg.com/news/features/2026-06-15/global-steel-turns-to-india-for-growth-but-it-is-not-the-next-china",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-15T22:00:15.000Z"
-    },
-    {
-      "title": "Why Western Digital’s stock was the S&P 500’s biggest gainer on Monday",
-      "url": "https://www.marketwatch.com/story/why-western-digitals-stock-was-the-s-p-500s-biggest-gainer-on-monday-2aebd3e9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-15T21:57:00.000Z"
+      "publishedAt": "2026-06-16T03:24:20.000Z"
     }
   ]
 }
