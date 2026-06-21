@@ -1,7 +1,77 @@
 {
-  "lastUpdated": "2026-06-21T07:46:06.576Z",
+  "lastUpdated": "2026-06-21T10:17:49.097Z",
   "ai": {
     "developers": [
+      {
+        "title": "What does it mean for AI to be democratic?",
+        "url": "https://blog.andymasley.com/p/what-does-it-mean-for-ai-to-be-democratic",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T09:51:43.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Form Before Data: The Real Bottleneck for Physical AI",
+        "url": "https://adlrocha.substack.com/p/adlrocha-form-before-data-the-real",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T09:20:21.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The AI Definition of Done: Human in the Loop Is Not a Quality Standard",
+        "url": "https://age-of-product.com/ai-definition-of-done/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T09:11:25.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "I am dreading our LLM-written incident report future",
+        "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T08:53:40.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Agentic Systems Course: Learn AI Agents with an AI Coding Agent",
+        "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T08:34:15.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "I built a real-time trading platform with an AI; then the clock started lying",
+        "url": "https://faridsaid.com/en/blog/event-loop-starvation-trading.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T08:24:49.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI Finance Advice Comes with a Warning Label",
+        "url": "https://fivetakes.news/using-ai-for-financial-advice-proceed-with-caution",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T08:23:22.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Governing AI-agent actions via a network intent layer (NILScript)",
+        "url": "https://zenodo.org/records/20774491",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T07:59:13.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Agent-trace: A standard format for tracing AI-generated code",
+        "url": "https://github.com/cursor/agent-trace",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T07:48:17.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "I made an Time-Based AI coding agent",
+        "url": "https://news.ycombinator.com/item?id=48616596",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T07:44:21.000Z",
+        "category": "developers"
+      },
       {
         "title": "LBE – open-source execution control layer for AI agents",
         "url": "https://github.com/Letterblack0306/LetterBlack-Sentinel",
@@ -36,76 +106,6 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-06-21T06:32:30.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Ask HN: If AI didn't exist, what would you be building today?",
-        "url": "https://news.ycombinator.com/item?id=48616031",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T05:47:58.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The 100k Whys of AI",
-        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T05:45:21.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Image Tools Hub – A Curated Directory of AI Image Tools",
-        "url": "https://imgtoolshub.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T05:42:21.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Ask HN: Would you let your AI coding agent profile and optimize autonomously?",
-        "url": "https://news.ycombinator.com/item?id=48615910",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T05:20:55.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: I made an AI video of alexpotato's comment about his stockbroker dad",
-        "url": "https://getartcraft.com/media/m_xtdewkcnz1ghvsnr5st2sted99p2nr",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T05:11:48.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Public Service Announcement: Don't Say You Use AI for Writing",
-        "url": "https://www.satisfice.com/blog/archives/488148",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T04:50:46.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Building reliable agentic AI systems",
-        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T04:28:39.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Nivroo – AI builds your dropshipping store in 60s and trading terminal",
-        "url": "https://nivroo.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T04:24:52.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Moduna –- Mixpanel for AI Agents",
-        "url": "https://moduna-ai.vercel.app",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T04:18:56.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Argybargy – A peer-to-peer bridge connecting any AI agents and sessions",
-        "url": "https://argybargy.dev",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T04:10:24.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -121,20 +121,6 @@
         "url": "https://sant.ajinkya.ai/tukaram",
         "source": "Hacker News – AI",
         "publishedAt": "2026-06-21T06:34:16.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Adobe adds its AI assistant to Premiere, Illustrator, and InDesign",
-        "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T00:40:09.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Show HN: FERNme – agent memory that updates with ~zero LLM calls",
-        "url": "https://github.com/mirkofr/FERNme",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-20T23:34:03.000Z",
         "category": "everyone"
       },
       {
@@ -213,9 +199,30 @@
         "source": "The Verge – AI",
         "publishedAt": "2026-06-18T03:12:31.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Two-thirds of Americans think AI is advancing too quickly",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-17T17:20:24.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Want to get a data center online quickly? Give it some flex.",
+        "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-16T09:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Anthropic Faces Questions over AI Export Ban Influence",
+        "url": "https://fivetakes.news/did-anthropic-talk-its-way-into-an-ai-export-ban",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-21T08:39:51.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
         "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
@@ -313,23 +320,79 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-11T00:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "PRC-linked influence operations are targeting AI debates in the US",
-        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-10T12:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
+        "title": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job",
+        "url": "https://www.cnbc.com/2026/06/20/uk-pm-starmer-reportedly-ready-to-quit-source-says-hes-focused-on-job.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-21T10:15:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Best high-yield savings interest rates today, Sunday, June 21, 2026: Earn up to 4.10% APY",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-june-21-2026-100000731.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-21T10:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Best CD rates today, Sunday, June 21, 2026: Lock in up to 4% APY",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-june-21-2026-100000246.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-21T10:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "HELOC and home equity loan rates Sunday, June 21, 2026: See Yahoo's top HELOC and HEL lenders for June '26",
+        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-june-21-2026-100000525.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-21T10:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Mortgage and refinance interest rates today, Sunday, June 21, 2026: Rates higher compared to last week",
+        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-june-21-2026-100000082.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-21T10:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Best money market account rates today, Sunday, June 21, 2026: Best account provides 4.01% APY",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-june-21-2026-100000959.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-21T10:00:00.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
         "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-21T07:19:43.000Z",
+        "publishedAt": "2026-06-21T09:56:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/131888752.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-21T09:43:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "M-cap of nine of top 10 most valued firms jumps Rs 2.15 lakh cr; Airtel biggest winner",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-jumps-rs-2-15-lakh-cr-airtel-biggest-winner/articleshow/131887702.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-21T07:55:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "9 Sensex stocks with up to 40% upside potential. Are these in your portfolio?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/9-sensex-stocks-with-up-to-40-upside-potential-are-these-in-your-portfolio/slideshow/131887481.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-21T07:05:30.000Z",
         "category": "markets"
       },
       {
@@ -366,72 +429,16 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-06-21T05:22:50.000Z",
         "category": "markets"
-      },
-      {
-        "title": "A stock trader’s guide to navigating rare ‘Super El Niño’",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/a-stock-traders-guide-to-navigating-a-rare-super-el-nio/articleshow/131886138.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-21T04:52:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dividends &amp; bonus issues: LIC, Asian Paints among 35 stocks turning ex-record date this week. How many do you own?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-bonus-issues-lic-asian-paints-among-35-stocks-turning-ex-record-date-this-week-how-many-do-you-own/articleshow/131886023.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-21T04:31:40.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Will Sensex, Nifty bounce back on Monday? Iran peace deal risks among 5 factors to drive D-St this week",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-bounce-back-on-monday-iran-peace-deal-risks-among-5-factors-to-drive-d-st-this-week/articleshow/131885966.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-21T04:25:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Will Nifty hit 25,000 this month? Key levels to watch in the week ahead",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-hit-25000-this-month-key-levels-to-watch-in-the-week-ahead/articleshow/131885914.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-21T04:17:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The yoga of asset allocation: Why stability matters more than ever",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/the-yoga-of-asset-allocation-why-stability-matters-more-than-ever/articleshow/131885820.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-21T04:02:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump tries to blame Reflecting Pool woes on vandalism, without offering substantiation",
-        "url": "https://www.cnbc.com/2026/06/20/trump-tries-to-blame-reflecting-pool-woes-on-vandalism.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-21T02:40:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job",
-        "url": "https://www.cnbc.com/2026/06/20/uk-pm-starmer-reportedly-ready-to-quit-source-says-hes-focused-on-job.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-20T22:51:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Massive fire destroys resort in Dominican Republic and forces evacuation of almost 1,700 tourists",
-        "url": "https://www.cnbc.com/2026/06/20/fire-destroys-dominican-republic-resort-1700-tourists-evacuated.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-20T22:35:06.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "'Fun dads' get 5 things right about parenting that many people forget—'they're worth borrowing' this Father's Day, says expert",
-        "url": "https://www.cnbc.com/2026/06/20/fun-dads-get-5-things-right-about-parenting-that-many-people-forget-says-expert.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-20T17:35:35.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
+        "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-21T08:54:41.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
         "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
@@ -454,7 +461,7 @@
         "category": "crypto"
       },
       {
-        "title": "Bitcoin ETFs shed a record $6.4B in 30 days amid crypto winter chill",
+        "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
         "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-21T04:30:00.000Z",
@@ -468,7 +475,7 @@
         "category": "crypto"
       },
       {
-        "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+        "title": "Bitcoin rotations into altcoins collapse: Have altseasons 'disappeared'?",
         "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-20T19:09:21.000Z",
@@ -517,7 +524,7 @@
         "category": "crypto"
       },
       {
-        "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+        "title": "Crypto kidnappers who robbed Minnesota family of $8M plead guilty",
         "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-20T05:12:43.000Z",
@@ -529,28 +536,39 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-06-20T03:25:24.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "This Billionaire Says Bitcoin Is a Better Investment Than Real Estate. Is He Right?",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/billionaire-says-bitcoin-better-investment-025300233.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-20T02:53:00.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Vance arrives in Switzerland for crunch US-Iran talks",
-      "url": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-21T07:31:16.000Z"
+      "title": "India seeks tariff advantage before implementing U.S. trade deal",
+      "url": "https://www.investing.com/news/economy-news/india-seeks-tariff-advantage-before-implementing-us-trade-deal-4751661",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-21T09:10:14.000Z"
     },
     {
       "title": "Starmer could announce exit next week, some ministers believe",
       "url": "https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd",
       "source": "Financial Times",
-      "publishedAt": "2026-06-21T07:29:31.000Z"
+      "publishedAt": "2026-06-21T08:14:55.000Z"
+    },
+    {
+      "title": "After the fracture: how Britain’s financial industry recovered from Brexit",
+      "url": "https://www.investing.com/news/economy-news/after-the-fracture-how-britains-financial-industry-recovered-from-brexit-4751657",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-21T08:12:53.000Z"
+    },
+    {
+      "title": "Why Hormuz and trade tensions could revive in 2027",
+      "url": "https://www.investing.com/news/economy-news/why-hormuz-and-trade-tensions-could-revive-in-2027-4751655",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-21T07:48:48.000Z"
+    },
+    {
+      "title": "Vance arrives in Switzerland for crunch US-Iran talks",
+      "url": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-21T07:31:16.000Z"
     },
     {
       "title": "Three Indian Tankers Reemerge, Pointing to Hormuz Traffic Uptick",
@@ -641,24 +659,6 @@
       "url": "https://www.investing.com/news/economy-news/trump-italys-meloni-exchange-fresh-criticism-over-iran-war-stance-4751642",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-06-21T01:28:40.000Z"
-    },
-    {
-      "title": "U.S.-Iran ceasefire talks set to begin in Switzerland as Vance arrives",
-      "url": "https://www.investing.com/news/economy-news/usiran-ceasefire-talks-set-to-begin-in-switzerland-as-vance-arrives-4751640",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-21T00:55:03.000Z"
-    },
-    {
-      "title": "Zelenskiy warns of major Russian attack as strikes kill at least six",
-      "url": "https://www.investing.com/news/economy-news/zelenskiy-warns-of-major-russian-attack-as-strikes-kill-at-least-six-4751639",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-21T00:20:05.000Z"
-    },
-    {
-      "title": "A Stock Trader’s Guide to Navigating a Rare ‘Super El Niño’",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/a-stock-trader-s-guide-to-navigating-a-rare-super-el-nino",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T00:00:00.000Z"
     }
   ]
 }
