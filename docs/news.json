@@ -1,142 +1,114 @@
 {
-  "lastUpdated": "2026-06-22T08:14:28.528Z",
+  "lastUpdated": "2026-06-22T11:01:02.974Z",
   "ai": {
     "developers": [
       {
-        "title": "An Inconvenient Truth About AI",
-        "url": "https://rutgerbregman.substack.com/p/an-inconvenient-truth-about-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T07:53:28.000Z",
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-21T23:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Headroom – The context compression layer for AI agents",
-        "url": "https://github.com/headroomlabs-ai/headroom",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T07:50:07.000Z",
+        "title": "Predicting model behavior before release by simulating deployment",
+        "url": "https://openai.com/index/deployment-simulation",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Best of AI",
-        "url": "https://bestofai.io/leaderboard/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T07:48:34.000Z",
+        "title": "How an astrophysicist uses Codex to help simulate black holes",
+        "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-11T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Ask HN: What rules does your team have for using AI in a durable codebase?",
-        "url": "https://news.ycombinator.com/item?id=48627038",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T07:45:50.000Z",
+        "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+        "url": "https://openai.com/index/openai-on-oracle-cloud",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-10T20:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Should I change my writing style to shorts, because of AI/low attention span?",
-        "url": "https://www.ssp.sh/brain/should-i-change-my-writing-because-of-ai/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T07:15:15.000Z",
+        "title": "How engineers at Nextdoor use Codex to build without limits",
+        "url": "https://openai.com/index/nextdoor",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-09T12:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Bain tests software takeover targets by vibecoding AI replicas",
-        "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T07:01:59.000Z",
+        "title": "What Codex unlocks for Notion",
+        "url": "https://openai.com/index/notion",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-09T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Microsoft's Satya Nadella: We Can't Let AI Giants Eat the Economy",
-        "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T06:49:10.000Z",
+        "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+        "url": "https://openai.com/index/wasmer",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-03T12:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Ask HN: How are you securing write-enabled AI agents against payload smuggling?",
-        "url": "https://www.realitykernel.dev",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T06:41:01.000Z",
+        "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+        "url": "https://openai.com/index/travelers",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-02T12:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Free Agentic AI Webinar: From Agent Design to Production",
-        "url": "https://simplai.ai/blogs/free-agentic-ai-webinar-from-agent-design-to-production/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T06:18:59.000Z",
+        "title": "Rehumanizing global health care with agentic AI",
+        "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-02T11:23:34.000Z",
         "category": "developers"
       },
       {
-        "title": "An AI Agent Emailed Me",
-        "url": "https://julien.danjou.info/blog/an-ai-agent-emailed-me/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T06:10:31.000Z",
+        "title": "How small businesses can leverage AI",
+        "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-02T09:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "The AI architecture \"attention\" can't hold attention",
-        "url": "https://scitechdaily.com/even-gpt-5-failed-this-human-attention-test/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T06:06:30.000Z",
+        "title": "Codex for every role, tool, and workflow",
+        "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-02T09:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Understanding Skills in AI: The Complete Guide to Building Smarter AI Agents",
-        "url": "http://simplai.ai/blogs/understanding-skills-in-ai-the-complete-guide-to-building-smarter-ai-agents-with-custom-skills/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T05:51:34.000Z",
+        "title": "Codex is becoming a productivity tool for everyone",
+        "url": "https://openai.com/index/codex-for-knowledge-work",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-02T02:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "China is having another AI moment",
-        "url": "https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T05:51:15.000Z",
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-01T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Estonia to become first country to create digital identities for AI agents",
-        "url": "https://news.err.ee/1610060290/estonia-to-become-first-country-to-issue-id-codes-to-ai-agents",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T05:37:26.000Z",
+        "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-05-29T19:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Airbnb CEO Brian Chesky Plans to Start a New AI Company",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-04/airbnb-ceo-brian-chesky-plans-to-start-a-new-ai-company",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T05:32:15.000Z",
+        "title": "How Braintrust turns customer requests into code with Codex",
+        "url": "https://openai.com/index/braintrust",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-05-29T12:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T06:58:05.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral",
-        "url": "https://github.com/vishal-dehurdle/state-harness",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T03:27:45.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Show HN: Free AI courses that require a short reflection to earn a certificate",
-        "url": "https://www.abc.com.py",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T02:08:18.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Crossary – AI-assisted field mapping that outputs signed Excel files",
-        "url": "https://www.crossary.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T01:25:56.000Z",
-        "category": "everyone"
-      },
       {
         "title": "The Atlantic created a searchable database of the music used to train AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
@@ -213,16 +185,37 @@
         "source": "The Verge – AI",
         "publishedAt": "2026-06-18T03:12:31.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Two-thirds of Americans think AI is advancing too quickly",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-17T17:20:24.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Want to get a data center online quickly? Give it some flex.",
+        "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-16T09:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Why do South Koreans love AI so much?",
+        "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-15T18:46:08.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Learning to lead in a hybrid human-AI enterprise",
+        "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-09T10:20:06.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
-      {
-        "title": "Show HN: MemoryOps – governed memory infrastructure for AI assistants",
-        "url": "https://github.com/patibandlavenkatamanideep/memoryops-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-22T05:26:04.000Z",
-        "category": "advancements"
-      },
       {
         "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
         "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
@@ -320,120 +313,183 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-11T00:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "PRC-linked influence operations are targeting AI debates in the US",
+        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-10T12:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Oil falls as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal",
-        "url": "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html",
+        "title": "CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026",
+        "url": "https://www.cnbc.com/2026/06/22/uhnw-wealth-management-list-cnbc-elite-advisors.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-22T07:59:12.000Z",
+        "publishedAt": "2026-06-22T10:57:44.000Z",
         "category": "markets"
       },
       {
-        "title": "Stock futures fall as investors weigh Iran deal progress and await key reading on inflation: Live updates",
-        "url": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
+        "title": "Brent crude falls below $80 after Iran secures export waivers",
+        "url": "https://finance.yahoo.com/energy/articles/brent-crude-falls-below-80-105443672.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-22T10:54:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "UK PM Starmer resigns as Britain faces its seventh leader in 10 years",
+        "url": "https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-22T07:53:53.000Z",
+        "publishedAt": "2026-06-22T10:50:13.000Z",
         "category": "markets"
       },
       {
-        "title": "NSE signs MoU with Bharat Metal Exchange to boost non-ferrous metal derivatives market",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-signs-mou-with-bharat-metal-exchange-to-boost-non-ferrous-metal-derivatives-market/articleshow/131904020.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T07:50:50.000Z",
+        "title": "The SpaceX IPO Should Help Rivian. Here's How.",
+        "url": "https://finance.yahoo.com/technology/ai/articles/spacex-ipo-help-rivian-heres-105000873.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-22T10:50:00.000Z",
         "category": "markets"
       },
       {
-        "title": "UK Prime Minister Keir Starmer set to outline exit plan as pressure to quit builds",
-        "url": "https://www.cnbc.com/2026/06/22/keir-starmer-resign-uk-prime-minister-trump-andy-burnham.html",
+        "title": "The Real Cost of Retiring in San Diego at 62 and Never Leaving the Coast",
+        "url": "https://finance.yahoo.com/real-estate/articles/real-cost-retiring-san-diego-104938797.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-22T10:49:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "This oil and gas stock has been under pressure. Wells Fargo says it can jump more than 50%",
+        "url": "https://www.cnbc.com/2026/06/22/this-oil-and-gas-stock-has-struggled-wells-fargo-says-it-may-bounce.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-22T07:47:19.000Z",
+        "publishedAt": "2026-06-22T10:48:06.000Z",
         "category": "markets"
       },
       {
-        "title": "Why a 66-year-old water treaty is becoming the latest India-Pakistan flashpoint",
-        "url": "https://www.cnbc.com/2026/06/22/india-pakistan-indus-waters-treaty-water-dispute-war-risk.html",
+        "title": "Adura submits new details to regulator for Jackdaw and Rosebank",
+        "url": "https://finance.yahoo.com/energy/articles/adura-submits-details-regulator-jackdaw-104638175.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-22T10:46:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Danone strikes Asia-Pacific deal one-two",
+        "url": "https://finance.yahoo.com/healthcare/articles/danone-strikes-asia-pacific-deal-104559115.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-22T10:45:59.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals",
+        "url": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-22T07:46:48.000Z",
+        "publishedAt": "2026-06-22T10:43:06.000Z",
         "category": "markets"
       },
       {
-        "title": "EasyJet rejects £4.7bn takeover offer from US investment firm",
+        "title": "Treasury yields rise ahead of key inflation data and traders weigh U.S.-Iran negotiations",
+        "url": "https://www.cnbc.com/2026/06/22/treasury-yields-investors-look-ahead-to-key-inflation-data.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-22T10:42:37.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Jefferies Lowers Tesla Target and Highlights Potential SpaceX Tracking Stock Risk",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-lowers-tesla-target-highlights-104142906.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-22T10:41:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Airlines Poised to Benefit from Lower Fuel Costs, but Cheaper Tickets May Be Slow to Arrive",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/airlines-poised-benefit-lower-fuel-104013181.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-22T10:40:13.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "5 Dividend Stocks to Buy and Hold Forever",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-buy-hold-103500247.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-22T10:35:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The Rule of 55 lets you tap your 401(k) penalty-free before 59½ — but less than a third of eligible workers use it",
+        "url": "https://finance.yahoo.com/markets/options/articles/rule-55-lets-tap-401-103000125.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-22T10:30:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
         "url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-06-22T07:46:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "India, Taiwan ETFs see record outflows before Asia stock rebound",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-taiwan-etfs-see-record-outflows-before-asia-stock-rebound/articleshow/131903910.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T07:46:39.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon",
-        "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-22T07:42:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Japan's Nikkei rises past 72,000 as AI euphoria persists",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-past-72000-as-ai-euphoria-persists/articleshow/131903850.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T07:39:13.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "11,983% profit! HFCL promoter bought Jio shares at Rs 10, IPO could make it worth Rs 5,800 crore",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/11983-profit-hfcl-promoter-bought-jio-shares-at-rs-10-ipo-could-make-it-worth-rs-5800-crore/articleshow/131903785.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T07:37:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "European shares muted as investors weigh U.S.-Iran talks",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-muted-as-investors-weigh-u-s-iran-talks/articleshow/131903800.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T07:37:24.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Reliance, financials and defence top investment picks as market leadership broadens: Rahul Shah",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/reliance-financials-and-defence-top-investment-picks-as-market-leadership-broadens-rahul-shah/articleshow/131903650.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T07:28:50.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Tata Capital shares slip 3% after stock rallies 17% in one week to lifetime high. What’s ahead?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-capital-shares-slip-3-after-stock-rallies-17-in-one-week-to-lifetime-high-whats-ahead/articleshow/131903590.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T07:21:58.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Colombian right-wing candidate De La Espriella wins tight presidential race",
-        "url": "https://www.cnbc.com/2026/06/22/colombia-elects-de-la-espriella-president.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-22T07:19:47.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jio Platforms IPO likely by October-November; AI and ARPU growth in focus: Piyush Pandey",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/jio-platforms-ipo-likely-by-october-november-ai-and-arpu-growth-in-focus-piyush-pandey/articleshow/131902890.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T06:40:59.000Z",
+        "publishedAt": "2026-06-22T10:29:11.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week",
+        "title": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents",
+        "url": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-22T10:52:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
+        "url": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-22T10:48:14.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
+        "url": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-22T10:22:22.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week",
+        "url": "https://cointelegraph.com/markets/us-dollar-strength-hits-highest-since-may-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-22T10:13:05.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
+        "url": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-22T09:27:06.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
+        "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-22T09:23:02.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high",
+        "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-price-may-be-headed-to-usd54-000-says-analyst-who-forecast-october-s-all-time-high",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-22T09:19:24.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "South Korea pushes Travel Rule expansion for smaller crypto transfers",
+        "url": "https://cointelegraph.com/news/south-korea-travel-rule-smaller-crypto-transfers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-22T08:58:43.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Live markets: Friday's biggest bitcoin options expiry of the year puts $60,000 in focus",
         "url": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
         "source": "CoinDesk",
         "publishedAt": "2026-06-22T07:34:05.000Z",
@@ -454,6 +510,13 @@
         "category": "crypto"
       },
       {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-22T06:00:00.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal",
         "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-validators-asked-to-fund-projects-with-up-to-10-of-staking-rewards-under-new-proposal",
         "source": "CoinDesk",
@@ -461,204 +524,141 @@
         "category": "crypto"
       },
       {
-        "title": "XRP briefly loses $1.14 support before buyers drive sharp rebound",
-        "url": "https://www.coindesk.com/markets/2026/06/22/xrp-briefly-loses-usd1-14-support-before-buyers-drive-sharp-rebound",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-22T05:17:18.000Z",
+        "title": "Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees",
+        "url": "https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-22T05:40:26.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally",
-        "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-22T04:58:49.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Markets on edge as US-Iran ceasefire deal leaves investors rattled by uncertainty: Seth R. Freeman",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-on-edge-as-us-iran-ceasefire-deal-leaves-investors-rattled-by-uncertainty-seth-r-freeman/articleshow/131901340.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T04:54:55.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Are perps swaps? A quick look at that CME suit: State of Crypto",
-        "url": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-21T18:30:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Republicans buy crypto more than Democrats, data shows — what's driving the divide",
-        "url": "https://www.cnbc.com/2026/06/21/republicans-democrats-crypto-bitcoin-use.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-21T13:30:01.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitdeer Mines 921 BTC as Smaller Bitcoin Stash Raises AI Pivot Question",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-mines-921-btc-smaller-072700991.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-21T07:27:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-        "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-21T07:12:35.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
-        "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-21T06:46:28.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin's future as revolutionary as the smartphone, according to CoinDesk",
-        "url": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-20T15:00:01.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "AI is making crypto security cheaper, faster and harder to ignore",
-        "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-20T15:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
-        "url": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-19T12:30:00.000Z",
+        "title": "Taiko urges users to withdraw as bridge exploit drains $1.7M",
+        "url": "https://cointelegraph.com/news/taiko-urges-users-to-withdraw-as-bridge-exploit-drains-17m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-22T05:31:18.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Europe’s Heat Wave Intensifies With France on Red Alert",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/europe-s-heat-wave-intensifies-with-france-on-red-alert",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T08:02:28.000Z"
+      "title": "Starmer says he’s resigning as U.K. prime minister. Here’s what it means for markets.",
+      "url": "https://www.marketwatch.com/story/starmer-says-hes-resigning-as-u-k-prime-minister-heres-what-it-means-for-markets-f27a70e5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-22T10:56:00.000Z"
     },
     {
-      "title": "EasyJet Rejects Castlelake Takeover Bids",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-22/easyjet-rejects-castlelake-takeover-bids-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T08:01:38.000Z"
-    },
-    {
-      "title": "Grace Shao on What the World Should Know About Chinese AI",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/grace-shao-on-what-the-world-should-know-about-chinese-ai",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T08:00:15.000Z"
-    },
-    {
-      "title": "Odd Lots: Grace Shao on How Chinese AI is Different (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-06-22/odd-lots-grace-shao-on-how-chinese-ai-is-different-podcast",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T08:00:00.000Z"
-    },
-    {
-      "title": "Citigroup and UBS raise Taiwan growth forecasts to 9.9%",
-      "url": "https://www.investing.com/news/economy-news/citigroup-and-ubs-raise-taiwan-growth-forecasts-to-99-93CH-4751845",
+      "title": "AI boom’s US employment, wage impact muted so far, ECB study finds",
+      "url": "https://www.investing.com/news/economy-news/ai-booms-us-employment-wage-impact-muted-so-far-ecb-study-finds-4751854",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-22T07:55:44.000Z"
+      "publishedAt": "2026-06-22T10:55:44.000Z"
     },
     {
-      "title": "Escrivá Says ECB Must Be Vigilant on Oil Price Impact on Wages",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/escriva-says-ecb-must-be-vigilant-on-oil-price-impact-on-wages",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T07:55:41.000Z"
-    },
-    {
-      "title": "Asian stocks gain, oil slips as Iran talks progress",
-      "url": "https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702",
+      "title": "German industry association BDI cuts 2026 growth forecast, urges reforms",
+      "url": "https://www.investing.com/news/economy-news/german-industry-association-bdi-cuts-2026-growth-forecast-urges-reforms-4752162",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-22T07:55:06.000Z"
+      "publishedAt": "2026-06-22T10:55:25.000Z"
     },
     {
-      "title": "AI in focus, Iran talks advance - What’s moving markets",
-      "url": "https://www.investing.com/news/economy-news/ai-in-focus-iran-talks-advance--whats-moving-markets-whats-moving-markets-4751826",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-22T07:46:48.000Z"
+      "title": "A major test is coming for the stock market, and Morgan Stanley warns the Fed won’t rescue investors",
+      "url": "https://www.marketwatch.com/story/a-major-test-is-coming-for-the-stock-market-and-morgan-stanley-warns-the-fed-wont-rescue-investors-2ae93faa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-22T10:54:00.000Z"
     },
     {
-      "title": "Bonds Under Pressure Despite Oil Relief: 3-Minutes MLIV",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-22/bonds-under-pressure-despite-oil-relief-3-minutes-mliv-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T07:36:37.000Z"
-    },
-    {
-      "title": "Horizons Middle East & Africa 6/22/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-22/horizons-middle-east-africa-6-22-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T07:26:44.000Z"
-    },
-    {
-      "title": "Burnham cemented himself as Labour’s winner",
-      "url": "https://www.ft.com/content/265449fe-dfc1-4f6f-80a1-765df19e0714",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-22T07:21:01.000Z"
-    },
-    {
-      "title": "Southern Water Gets £300m Equity as Asterion Joins Macquarie",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/southern-water-gets-300m-equity-as-asterion-joins-macquarie",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T07:20:28.000Z"
-    },
-    {
-      "title": "European Gas Edges Higher After Rocky Start to Iran Peace Talks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/european-gas-edges-higher-after-rocky-start-to-iran-peace-talks",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T07:14:52.000Z"
-    },
-    {
-      "title": "Romania’s nominated PM asks parliament’s vote of confidence without clear majority",
+      "title": "Romanian lawmakers vote on Monday whether to endorse nominated PM Vestea",
       "url": "https://www.investing.com/news/economy-news/romanias-nominated-pm-asks-parliaments-vote-of-confidence-without-clear-majority-4751792",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-22T07:00:28.000Z"
+      "publishedAt": "2026-06-22T10:36:12.000Z"
     },
     {
-      "title": "Bond Traders Finally Get Single View of Activity in UK Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/uk-bonds-trading-data-consolidated-tape-launches-capturing-over-95-of-market",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T07:00:00.000Z"
+      "title": "BofA now sees no Fed rate cuts until 2028",
+      "url": "https://www.investing.com/news/economy-news/bofa-now-sees-no-fed-rate-cuts-until-2028-4752098",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-22T10:33:52.000Z"
     },
     {
-      "title": "Chinese Steel Market Enters Long Plateau After Property Crash",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-steel-market-enters-long-plateau-after-property-crash",
+      "title": "‘Buy Europe’ Trade Returns as Stagflation Fears Ease: Markets Daily",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-22/-buy-europe-trade-returns-as-stagflation-fears-ease-markets-daily",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T06:56:40.000Z"
+      "publishedAt": "2026-06-22T10:29:48.000Z"
     },
     {
-      "title": "Peer-Beating Tech Fund Doubles China Exposure in Contrarian Bet",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/peer-beating-tech-fund-doubles-china-exposure-in-contrarian-bet",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T06:35:14.000Z"
+      "title": "I gave my HomeExchange guest a 5-star review. Then I found heat marks all over my dining table. Do I call her out?",
+      "url": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-22T10:15:00.000Z"
     },
     {
-      "title": "Iranian Crude Prices Slashed as More Shipments Exit Hormuz",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/iranian-crude-prices-slashed-as-more-shipments-exit-hormuz",
+      "title": "UK Prime Minister Keir Starmer Quits | The Pulse 6/22/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-22/the-pulse-6-22-2026-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T06:28:11.000Z"
+      "publishedAt": "2026-06-22T10:13:20.000Z"
     },
     {
-      "title": "Chinese Stocks in Hong Kong Near Bear Market | The China Show 6/22/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-22/the-china-show-6-22-2026-video",
+      "title": "JPMorgan’s Lipikhina Sees Europe Stocks Lagging Despite Oil Drop",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/jpmorgan-s-lipikhina-sees-europe-stocks-lagging-despite-oil-drop",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T06:26:04.000Z"
+      "publishedAt": "2026-06-22T10:06:06.000Z"
     },
     {
-      "title": "EasyJet Rejects Three Separate Overtures From Castlelake",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/castlelake-says-three-separate-offers-to-easyjet-were-rebuffed",
+      "title": "Japan’s FX messaging keeps markets on edge over yen intervention risk",
+      "url": "https://www.investing.com/news/economy-news/japans-fx-messaging-keeps-markets-on-edge-over-yen-intervention-risk-4751963",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-22T09:48:48.000Z"
+    },
+    {
+      "title": "Stocks waver, oil falls as traders weigh fragile Iran peace talks",
+      "url": "https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-22T09:42:51.000Z"
+    },
+    {
+      "title": "Dollar gains as investors watch US-Iran talks; yen nears 40-year low",
+      "url": "https://www.investing.com/news/economy-news/dollar-firms-as-cracks-emerge-in-peace-deal-pound-dips-on-starmer-uncertainty-4751707",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-22T09:30:56.000Z"
+    },
+    {
+      "title": "I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Should I agree?",
+      "url": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-22T09:15:00.000Z"
+    },
+    {
+      "title": "Zac Efron trades Hollywood for an off-grid ‘Futurecave’ house made of hemp in Australia",
+      "url": "https://www.marketwatch.com/story/zac-efron-trades-hollywood-for-an-off-grid-futurecave-house-made-of-hemp-in-australia-eea29a2b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-22T09:01:00.000Z"
+    },
+    {
+      "title": "China Lays Out Blueprint to Boost Consumption of Clean Energy",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/china-lays-out-blueprint-to-boost-consumption-of-clean-energy",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T06:10:41.000Z"
+      "publishedAt": "2026-06-22T08:59:02.000Z"
+    },
+    {
+      "title": "The late Diane Keaton’s ‘Pinterest’ house in L.A. is relisted with a big price cut",
+      "url": "https://www.marketwatch.com/story/the-late-diane-keatons-pinterest-house-in-l-a-is-relisted-with-a-big-price-cut-40d2bf96?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-22T08:58:00.000Z"
+    },
+    {
+      "title": "Lithium Plunges in China on Speculation Over Status of CATL Mine",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/lithium-plunges-in-china-on-speculation-over-status-of-catl-mine",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T08:57:49.000Z"
+    },
+    {
+      "title": "UK Prime Minister Keir Starmer resigns",
+      "url": "https://www.investing.com/news/general-news/keir-starmer-resigns-as-uk-prime-minister-4751901",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-22T08:52:14.000Z"
+    },
+    {
+      "title": "Pound Lower, Gilts Steady as UK Prime Minister Starmer Resigns",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/gilts-steady-pound-lower-as-uk-prime-minister-starmer-resigns",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T08:46:26.000Z"
     }
   ]
 }
