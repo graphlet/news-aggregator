@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-06-22T01:07:12.090Z",
+  "lastUpdated": "2026-06-22T04:36:52.028Z",
   "ai": {
     "developers": [
+      {
+        "title": "Magpie-search – a federated search engine for LLM's/agents",
+        "url": "https://github.com/xfloukiex-lab/magpie-search",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T04:03:44.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "When AI Agents Do the Work, What Do We Lose?",
+        "url": "https://milvus.io/blog/when-ai-agents-do-the-work-what-do-we-lose.md",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T03:33:36.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Typevia live LaTeX editing with AI assistance",
+        "url": "https://www.typevia.com/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T02:48:17.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI Watchdog",
+        "url": "https://www.theatlantic.com/category/ai-watchdog/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T02:21:11.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Ask HN: What will AI coding look like when today's CS freshmen graduate?",
+        "url": "https://news.ycombinator.com/item?id=48624855",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T02:20:05.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Why the Human Genome's Tangled Physicality May Confound AI",
+        "url": "https://www.quantamagazine.org/why-the-human-genomes-tangled-physicality-may-confound-ai-20260618/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T02:04:32.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Tlbic: A Time-Limited Basic Income System Designed with AI, v7.0",
+        "url": "https://drive.google.com/file/d/1MtiNjQeQO9ilLuEFXwVeKgWOzec4F2Dn/view?usp=drive_link",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T02:02:27.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
+        "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T01:29:18.000Z",
+        "category": "developers"
+      },
       {
         "title": "Show HN: ANMA, boundary contracts for cheaper AI coding agents",
         "url": "https://github.com/anma-labs/anma",
@@ -50,70 +106,28 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-06-21T23:12:29.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Fast-tracked power plants fuel AI boom, with little public scrutiny",
-        "url": "https://www.reuters.com/business/energy/fast-tracked-power-plants-fuel-ai-boom-with-little-public-scrutiny-2026-06-16/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T23:11:06.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-21T23:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-        "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T22:55:23.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
-        "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T22:46:43.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Compass – guardrails and a hard budget cap for AI coding agents",
-        "url": "https://github.com/dshakes/compass",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T22:38:35.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Is Discovering the Doorman Fallacy [video]",
-        "url": "https://www.youtube.com/watch?v=f-QzIum9bNU",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T22:14:48.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Bifrost Edge: runs on PC of ur organization and routes all AI traffic",
-        "url": "https://docs.getbifrost.ai/edge/overview",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T22:04:55.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: EGC - MCP server that gives AI coding tools memory across sessions",
-        "url": "https://github.com/Fmarzochi/EGC",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T22:01:38.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
       {
-        "title": "AMD Mini PCs for AI Applications: A Comprehensive 2026 Review",
-        "url": "https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/",
+        "title": "Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral",
+        "url": "https://github.com/vishal-dehurdle/state-harness",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-06-21T20:29:42.000Z",
+        "publishedAt": "2026-06-22T03:27:45.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Show HN: Free AI courses that require a short reflection to earn a certificate",
+        "url": "https://www.abc.com.py",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T02:08:18.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Crossary – AI-assisted field mapping that outputs signed Excel files",
+        "url": "https://www.crossary.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T01:25:56.000Z",
         "category": "everyone"
       },
       {
@@ -198,20 +212,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
         "source": "The Verge – AI",
         "publishedAt": "2026-06-17T17:20:24.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Want to get a data center online quickly? Give it some flex.",
-        "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-16T09:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Why do South Koreans love AI so much?",
-        "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-15T18:46:08.000Z",
         "category": "everyone"
       }
     ],
@@ -301,13 +301,6 @@
         "category": "advancements"
       },
       {
-        "title": "BBVA puts AI at the core of banking with OpenAI",
-        "url": "https://openai.com/index/bbva",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-11T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
         "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
         "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
         "source": "OpenAI Blog",
@@ -320,118 +313,132 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-11T00:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "BBVA puts AI at the core of banking with OpenAI",
+        "url": "https://openai.com/index/bbva",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-11T00:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Street Signals: Technical charts point to further upside for Nifty",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-rally-may-continue-analysts-flag-24600-as-next-target/articleshow/131899458.cms",
+        "title": "Kirloskar Oil Engines shares surge 18% to record high after cracking Cummins-dominated data centre market",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/kirloskar-oil-engines-shares-surge-18-to-record-high-after-cracking-cummins-dominated-data-centre-market/articleshow/131900991.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T00:41:34.000Z",
+        "publishedAt": "2026-06-22T04:14:53.000Z",
         "category": "markets"
       },
       {
-        "title": "Can Jio and NSE IPOs repeat Maruti feat?",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-jio-and-nse-ipos-repeat-maruti-feat/articleshow/131899444.cms",
+        "title": "US Stock Market: Micron earnings to test strength of AI-fuelled Wall Street rally",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-micron-earnings-to-test-strength-of-ai-fuelled-wall-street-rally/articleshow/131900960.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T00:27:17.000Z",
+        "publishedAt": "2026-06-22T04:10:12.000Z",
         "category": "markets"
       },
       {
-        "title": "As new tech shines, market takes rest on old cushions: Devina Mehra",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/as-new-tech-shines-market-takes-rest-on-old-cushions-devina-mehra/articleshow/131899439.cms",
+        "title": "Gold rebounds after two-day fall; silver jumps Rs 4,000/kg on progress in US-Iran peace talks. Should you buy?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-rebounds-after-two-day-fall-silver-jumps-rs-4000/kg-on-progress-in-us-iran-peace-talks-should-you-buy/articleshow/131900854.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T00:23:26.000Z",
+        "publishedAt": "2026-06-22T04:00:20.000Z",
         "category": "markets"
       },
       {
-        "title": "Carlyle eyes $1 billion raise via auto, healthcare IPOs",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlyle-eyes-1-billion-raise-via-auto-healthcare-ipos/articleshow/131899417.cms",
+        "title": "Sensex jumps over 400 pts, Nifty above 24,100; IT stocks lead gains",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-400-pts-nifty-above-24100-it-stocks-lead-gains/articleshow/131900766.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T00:14:20.000Z",
+        "publishedAt": "2026-06-22T03:59:09.000Z",
         "category": "markets"
       },
       {
-        "title": "FPIs temper selling but derivatives bets still signal caution",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-temper-selling-but-derivatives-bets-still-signal-caution/articleshow/131899408.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T00:09:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Oil rises after Trump threatens fresh strikes on Iran, overshadowing peace talks",
-        "url": "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html",
+        "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist",
+        "url": "https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-22T00:05:08.000Z",
+        "publishedAt": "2026-06-22T03:45:13.000Z",
         "category": "markets"
       },
       {
-        "title": "Jio Platforms' debut could give RIL top 2 slots in Indian m-cap league",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-debut-could-give-ril-top-2-slots-in-indian-m-cap-league/articleshow/131899389.cms",
+        "title": "Bharat Dynamics among 4 stocks flashing bullish signals, indicating possible uptrend",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-among-4-stocks-flashing-bullish-signals-indicating-possible-uptrend/slideshow/131900712.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-22T00:02:29.000Z",
+        "publishedAt": "2026-06-22T03:41:55.000Z",
         "category": "markets"
       },
       {
-        "title": "Stock futures fall as oil prices rise; investors await key reading on inflation: Live updates",
+        "title": "Rs 35,000 crore Jio IPO may not be a jackpot for Reliance investors. Here's why",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-35000-crore-jio-ipo-may-not-be-a-jackpot-for-reliance-investors-heres-why/articleshow/131900626.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-22T03:37:05.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Voltas shares soar 5% as firm’s AC sales cross 1 million mark in record time in Q1 FY27",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/voltas-shares-in-focus-as-firms-ac-sales-cross-1-million-mark-in-record-time-in-q1-fy27/articleshow/131900561.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-22T03:31:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Tata Motors shares jump 2% after receiving order for 3,400 electric commercial vehicles",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-shares-in-focus-after-receiving-order-for-3400-electric-commercial-vehicles/articleshow/131900513.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-22T03:22:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "ITC among 8 stocks showing bullish RSI upswing",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/itc-among-8-stocks-showing-bullish-rsi-upswing/slideshow/131900542.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-22T03:16:49.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Toy Story 5 scores record opening weekend for franchise",
+        "url": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-22T03:13:05.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Reliance Industries shares gain 3% as Jio files DRHP for India’s largest IPO",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-in-focus-as-jio-files-drhp-for-indias-largest-ipo/articleshow/131900152.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-22T03:12:18.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock futures fall as investors weigh Iran deal progress and await key reading on inflation: Live updates",
         "url": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-21T23:47:14.000Z",
+        "publishedAt": "2026-06-22T02:48:57.000Z",
         "category": "markets"
       },
       {
-        "title": "Is Germany looking again at coal-powered electricity?",
-        "url": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-06-21T23:27:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
-        "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-06-21T23:10:16.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland",
-        "url": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-21T22:01:33.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Serena Williams to play singles at Wimbledon via wild card",
-        "url": "https://www.cnbc.com/2026/06/21/serena-williams-to-play-singles-at-wimbledon-via-wild-card.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-21T21:54:27.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "No one wants AI data centers on Earth. Do they make sense in space?",
-        "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-21T21:22:53.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "NHB probing Aavas Financiers over loan classification lapses",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nhb-probing-aavas-financiers-over-loan-classification-lapses/articleshow/131899397.cms",
+        "title": "Turtlemint IPO Live Updates: Turtlemint Fintech Solutions IPO enters day 2 of bidding. Should you subscribe? Check brokerages views",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/turtlemint-ipo-share-price-live-updates-listing-date-expert-review-subscription-status-stock-market-news/liveblog/131900209.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-21T19:25:10.000Z",
+        "publishedAt": "2026-06-22T02:46:54.000Z",
         "category": "markets"
       },
       {
         "title": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
         "url": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-21T18:47:42.000Z",
+        "publishedAt": "2026-06-22T02:44:31.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin crashes 50%: Should you buy the dip or stay away from crypto?",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-crashes-50-should-you-buy-the-dip-or-stay-away-from-crypto/articleshow/131900940.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-22T01:00:00.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Regulatory minefield: ED enters the crypt, waking up the ghosts for Crypto Inc",
         "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/regulatory-minefield-ed-enters-the-crypt-waking-up-the-ghosts-for-crypto-inc/articleshow/131899424.cms",
@@ -468,6 +475,13 @@
         "category": "crypto"
       },
       {
+        "title": "Elon Musk, The World's First Trillionaire, Holds Bitcoin And 'Some' Dogecoin — 'Let That Sink In,' Says Popular Analyst",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-worlds-first-trillionaire-173129397.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-20T17:31:29.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Bitcoin's future as revolutionary as the smartphone, according to CoinDesk",
         "url": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
         "source": "CNBC",
@@ -479,34 +493,6 @@
         "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
         "source": "CoinDesk",
         "publishedAt": "2026-06-20T15:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Monsoon risk, younger investor base, and skewed trading activity define NSE outlook: NSE data",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/monsoon-risk-younger-investor-base-and-skewed-trading-activity-define-nse-outlook-nse-data/articleshow/131875798.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-20T11:59:29.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin remains resilient at $63,600 amid steady ETF inflows and institutional buying",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-remains-resilient-at-63600-amid-steady-etf-inflows-and-institutional-buying/articleshow/131872632.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-20T08:08:45.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "The crypto-treasury dream unravels after a 90% stock plunge",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/the-crypto-treasury-dream-unravels-after-a-90-stock-plunge/articleshow/131869889.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-20T03:25:24.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin and ethereum prices today, Friday, June 19, 2026: Prices keep falling post-Fed decision",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-19-2026-prices-keep-falling-post-fed-decision-123239380.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-19T12:32:39.000Z",
         "category": "crypto"
       },
       {
@@ -536,129 +522,143 @@
         "source": "CoinDesk",
         "publishedAt": "2026-06-19T08:48:14.000Z",
         "category": "crypto"
+      },
+      {
+        "title": "XRP falls 3% after losing $1.15 support as breakout attempt fades",
+        "url": "https://www.coindesk.com/markets/2026/06/19/xrp-falls-3-after-losing-usd1-15-support-as-breakout-attempt-fades",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-19T05:14:20.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Live markets: Bitcoin under pressure as Saylor comments on STRC selloff",
+        "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-19T05:04:22.000Z",
+        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Stocks slip in Asia, oil up on peace doubts",
-      "url": "https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702",
+      "title": "Dollar steady as first round of US-Iran talks ends, pound dips on Starmer uncertainty",
+      "url": "https://www.investing.com/news/economy-news/dollar-firms-as-cracks-emerge-in-peace-deal-pound-dips-on-starmer-uncertainty-4751707",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-22T00:42:30.000Z"
+      "publishedAt": "2026-06-22T04:25:34.000Z"
     },
     {
-      "title": "US and Iran conduct tense peace talks in Switzerland",
-      "url": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-22T00:41:51.000Z"
-    },
-    {
-      "title": "Inghams Shares Tumble as Farms Locked Down in Fight Against H5N1",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/inghams-shares-tumble-as-farms-locked-down-in-fight-against-h5n1",
+      "title": "Precious Shipping Sees Stronger Freight Rates For Longer",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-22/precious-shipping-sees-stronger-freight-rates-for-longer-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T00:31:53.000Z"
+      "publishedAt": "2026-06-22T04:15:38.000Z"
     },
     {
-      "title": "Abaxx Calls for Probe, Hires Paul Weiss After Short Seller’s Attack",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/abaxx-calls-for-probe-hires-paul-weiss-after-short-seller-s-attack",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T00:00:17.000Z"
-    },
-    {
-      "title": "Rightwing populist ‘El Tigre’ wins Colombia election",
-      "url": "https://www.ft.com/content/49294716-56be-40a4-ba31-b4e376ccb47f",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-21T23:47:07.000Z"
-    },
-    {
-      "title": "US, Iran Meet in Switzerland as Trump Threatens Iran",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-21/us-iran-meet-in-switzerland-as-trump-threatens-iran-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T23:43:00.000Z"
-    },
-    {
-      "title": "Gold Holds Decline After Trump Warns Iran During Peace Talks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/gold-holds-decline-after-trump-warns-iran-during-peace-talks",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T23:37:35.000Z"
-    },
-    {
-      "title": "Eileen Gu on Values That Define Success",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-21/eileen-gu-on-values-that-define-success-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T23:23:58.000Z"
-    },
-    {
-      "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
-      "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-21T22:41:00.000Z"
-    },
-    {
-      "title": "Bolivia crisis begins easing, air force jet on assistance flight crashes",
-      "url": "https://www.investing.com/news/economy-news/bolivia-crisis-begins-to-ease-after-lawmakers-back-state-of-emergency-4751671",
+      "title": "China targets US rare earth and other firms with export controls",
+      "url": "https://www.investing.com/news/economy-news/china-targets-us-rare-earth-and-other-firms-with-export-controls-4751711",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-21T22:24:35.000Z"
+      "publishedAt": "2026-06-22T04:12:47.000Z"
     },
     {
-      "title": "Oil Rises, US Futures Slide on Tense US-Iran Talks: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/us-futures-slip-oil-climbs-on-renewed-iran-threat-markets-wrap",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T22:08:56.000Z"
+      "title": "China keeps lending benchmark LPRs unchanged for 13th month in June",
+      "url": "https://www.investing.com/news/economy-news/china-keeps-lending-benchmark-lprs-unchanged-for-13th--month-in-june-4751706",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-22T04:06:49.000Z"
     },
     {
-      "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/latest-oil-market-news-and-analysis-for-june-22",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T22:02:25.000Z"
-    },
-    {
-      "title": "Singapore Dollar Set to Gain Despite Hawkish Fed, Analysts Say",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/singapore-dollar-set-to-gain-despite-hawkish-fed-analysts-say",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T22:00:00.000Z"
-    },
-    {
-      "title": "Trump Ally Wins Initial Count in Colombian Presidential Vote",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/trump-backed-conservative-leads-in-colombia-presidential-runoff",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T21:49:29.000Z"
-    },
-    {
-      "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
-      "url": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-21T21:22:00.000Z"
-    },
-    {
-      "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
-      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-06-21/TH02G2RKV32600",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T21:02:26.000Z"
-    },
-    {
-      "title": "Renault Pushback on Nissan Board Picks Targets Creditor Mizuho",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/renault-pushback-on-nissan-board-picks-targets-creditor-mizuho",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T21:00:00.000Z"
-    },
-    {
-      "title": "Philippines fears China may move to seize full control of disputed atoll",
-      "url": "https://www.ft.com/content/d5191b00-dccb-465e-8afb-e61cc8260f93",
+      "title": "God makes a footballing comeback",
+      "url": "https://www.ft.com/content/ab6f5b7c-3858-4ba1-a93c-543b2c7458c2",
       "source": "Financial Times",
-      "publishedAt": "2026-06-21T20:19:30.000Z"
+      "publishedAt": "2026-06-22T04:00:31.000Z"
     },
     {
-      "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-21T20:00:00.000Z"
+      "title": "Ireland says it can secure an EU capital markets deal this year",
+      "url": "https://www.ft.com/content/022cb596-b92a-4fe3-838d-1e536cb95a7d",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-22T04:00:30.000Z"
     },
     {
-      "title": "CRH Near Biggest-Ever Deal for Arcosa, Financial Times Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/crh-near-biggest-ever-deal-for-arcosa-financial-times-says",
+      "title": "Germany’s spy agency comes in from the cold",
+      "url": "https://www.ft.com/content/50069749-fe38-4a6e-80d4-fe84d53f94a1",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-22T04:00:15.000Z"
+    },
+    {
+      "title": "Bain tests software takeover targets by vibecoding AI replicas",
+      "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-22T04:00:07.000Z"
+    },
+    {
+      "title": "Letta: Europe Needs To Be United In Front Of Trump",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-22/letta-europe-needs-to-be-united-in-front-of-trump-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-21T19:55:45.000Z"
+      "publishedAt": "2026-06-22T03:53:41.000Z"
+    },
+    {
+      "title": "Kuwait Adds to Signs Hormuz Is Reopening With Offer for Products",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/kuwait-adds-to-signs-hormuz-is-reopening-with-offer-for-products",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T03:53:08.000Z"
+    },
+    {
+      "title": "Olympian Eileen GU on Her Motivations for Success",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-22/olympian-eileen-gu-on-her-motivations-for-success-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T03:40:31.000Z"
+    },
+    {
+      "title": "Japan Insurers Sold Domestic Super-Long Bonds as Yields Soared",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/japan-insurers-sold-domestic-super-long-bonds-as-yields-soared",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T03:30:06.000Z"
+    },
+    {
+      "title": "Emerging-Market Stocks Mark Fresh High as US-Iran Talks Progress, Oil Falls",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/em-stocks-mark-fresh-high-as-us-iran-talks-progress-oil-falls",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T03:28:51.000Z"
+    },
+    {
+      "title": "Oil Price Decline Could Remove Some Central Bank Hawkish Bias: Citigroup Global Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-22/oil-price-decline-could-remove-some-hawkish-bias-citi-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T03:28:49.000Z"
+    },
+    {
+      "title": "Asset Manager CSOP Lifts Options Cap for SK Hynix Leveraged Fund",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/asset-manager-csop-lifts-options-cap-for-sk-hynix-leveraged-fund",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T03:27:23.000Z"
+    },
+    {
+      "title": "Chinese Oil Imports May Never Fully Recover From Iran War",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-oil-imports-may-never-fully-recover-from-the-iran-war",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T03:26:51.000Z"
+    },
+    {
+      "title": "Iran hails ‘progress’ to end Lebanon war",
+      "url": "https://www.ft.com/content/52ee33ce-3576-4d8c-ac45-bff963074676",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-22T03:02:19.000Z"
+    },
+    {
+      "title": "Why sinodollars outweigh the petroyuan",
+      "url": "https://www.ft.com/content/0948fa97-1585-4484-90a5-6df769367dfe",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-22T02:51:39.000Z"
+    },
+    {
+      "title": "Iran Deal 'Strategic Defeat' for US: Defense Analyst",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-22/iran-deal-strategic-defeat-for-us-defense-analyst-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T02:51:08.000Z"
+    },
+    {
+      "title": "Rupee May Get Further Boost as Indian Banks Line Up Overseas Debt",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-22/india-banks-rebound-as-dollar-inflows-gather-pace",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-22T02:45:25.000Z"
     }
   ]
 }
