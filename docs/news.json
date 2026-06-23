@@ -1,114 +1,135 @@
 {
-  "lastUpdated": "2026-06-23T00:56:12.502Z",
+  "lastUpdated": "2026-06-23T04:27:09.711Z",
   "ai": {
     "developers": [
       {
-        "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-        "url": "https://openai.com/index/patch-the-planet",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-22T10:00:00.000Z",
+        "title": "Discussion – has anyone build a firewall for AI models yet?",
+        "url": "https://news.ycombinator.com/item?id=48640044",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T03:51:48.000Z",
         "category": "developers"
       },
       {
-        "title": "Codex-maxxing for long-running work",
-        "url": "https://openai.com/index/codex-maxxing-long-running-work",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-22T00:00:00.000Z",
+        "title": "Show HN: LoomStack – Helping engineering orgs scale AI-driven development",
+        "url": "https://loomstack.co/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T03:44:09.000Z",
         "category": "developers"
       },
       {
-        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-21T23:00:00.000Z",
+        "title": "No AI data centres in my backyard, please",
+        "url": "https://hey.paris/posts/ai-data-centres-tasmania/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T03:38:47.000Z",
         "category": "developers"
       },
       {
-        "title": "Predicting model behavior before release by simulating deployment",
-        "url": "https://openai.com/index/deployment-simulation",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "title": "The AI Tarpit: Why You Can't Stop Reading Your Code",
+        "url": "https://www.williamangel.net/blog/2026/06/22/The-AI-Tarpit-Why-You-Cant-Stop-Reading-Your-Code.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T03:02:24.000Z",
         "category": "developers"
       },
       {
-        "title": "How an astrophysicist uses Codex to help simulate black holes",
-        "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-11T00:00:00.000Z",
+        "title": "King's study finds AI chose nuclear signalling in 95% of simulated crises",
+        "url": "https://www.kcl.ac.uk/news/artificial-intelligence-under-nuclear-pressure-first-large-scale-kings-study-reveals-how-ai-models-reason-and-escalate-under-crisis",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T02:57:30.000Z",
         "category": "developers"
       },
       {
-        "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-        "url": "https://openai.com/index/openai-on-oracle-cloud",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-10T20:00:00.000Z",
+        "title": "Prompt Preflight – catch vague AI-agent prompts before they burn tokens",
+        "url": "https://github.com/akg268/prompt-preflight/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T02:49:18.000Z",
         "category": "developers"
       },
       {
-        "title": "How engineers at Nextdoor use Codex to build without limits",
-        "url": "https://openai.com/index/nextdoor",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-09T12:00:00.000Z",
+        "title": "Chain-of-Trust with AI",
+        "url": "https://marirs.net.in/cot/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T02:48:09.000Z",
         "category": "developers"
       },
       {
-        "title": "What Codex unlocks for Notion",
-        "url": "https://openai.com/index/notion",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-09T10:00:00.000Z",
+        "title": "Show HN: I scanned every YC Spring 2026 startup for what AI crawlers see",
+        "url": "https://potatometer.com/blog/yc-spring-2026-ai-reach-vs-readability",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T02:40:41.000Z",
         "category": "developers"
       },
       {
-        "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-        "url": "https://openai.com/index/wasmer",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-03T12:00:00.000Z",
+        "title": "AWS Lambda MicroVMs for isolated execution of user and AI-generated code",
+        "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T02:38:31.000Z",
         "category": "developers"
       },
       {
-        "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-        "url": "https://openai.com/index/travelers",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-02T12:00:00.000Z",
+        "title": "DeepSeek Just Solved AI's Billion Dollar Problem [video]",
+        "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T02:26:59.000Z",
         "category": "developers"
       },
       {
-        "title": "Rehumanizing global health care with agentic AI",
-        "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-02T11:23:34.000Z",
+        "title": "Show HN: Sonic AI – We made the market's highest-signal audio searchable",
+        "url": "https://usesonicai.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T02:05:45.000Z",
         "category": "developers"
       },
       {
-        "title": "Codex for every role, tool, and workflow",
-        "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-02T09:00:00.000Z",
+        "title": "I designed an AI fact-checker agent (Turing). To prevent hallucinations [video]",
+        "url": "https://www.youtube.com/watch?v=CUj75OcdPrA",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T01:59:05.000Z",
         "category": "developers"
       },
       {
-        "title": "Codex is becoming a productivity tool for everyone",
-        "url": "https://openai.com/index/codex-for-knowledge-work",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-02T02:00:00.000Z",
+        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+        "url": "https://openai.com/index/daybreak-securing-the-world/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T01:36:08.000Z",
         "category": "developers"
       },
       {
-        "title": "OpenAI frontier models and Codex are now available on AWS",
-        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-01T10:00:00.000Z",
+        "title": "Show HN: ExplainNotice: AI summary for bills, notices, and letters",
+        "url": "https://explainnotice.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T01:29:17.000Z",
         "category": "developers"
       },
       {
-        "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-29T19:00:00.000Z",
+        "title": "Palmier Pro: macOS video editor built for AI",
+        "url": "https://github.com/palmier-io/palmier-pro",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T01:04:16.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
+        "url": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T02:36:46.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-22T23:24:32.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "AI is cursing renters with the promise of impossible homes",
+        "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-22T20:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "The Atlantic created a searchable database of the music used to train AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
@@ -180,20 +201,6 @@
         "category": "everyone"
       },
       {
-        "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-18T03:12:31.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Two-thirds of Americans think AI is advancing too quickly",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-17T17:20:24.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Want to get a data center online quickly? Give it some flex.",
         "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
         "source": "MIT Technology Review",
@@ -206,16 +213,23 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-15T18:46:08.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Learning to lead in a hybrid human-AI enterprise",
-        "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-09T10:20:06.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Zhipu AI Surges Past Trillion Yuan Market Cap in China's AI Boom",
+        "url": "https://asiaai.fyi/zhipu-ai-surges-past-trillion-yuan-market-cap-in-chinas-ai-boom/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-23T02:33:31.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Google Investing in 'Backrooms' Studio A24 in AI research partnership",
+        "url": "https://www.wsj.com/tech/ai/google-investing-in-backrooms-studio-a24-e7585ebe",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-22T22:58:49.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Three things to watch amid Anthropic’s latest feud with the government",
         "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
@@ -224,24 +238,10 @@
         "category": "advancements"
       },
       {
-        "title": "Daybreak: Tools for securing every organization in the world",
-        "url": "https://openai.com/index/daybreak-securing-the-world",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-22T10:00:00.000Z",
-        "category": "advancements"
-      },
-      {
         "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
         "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-18T08:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Anthropic got hit by export rules nobody understands",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-17T18:28:50.000Z",
         "category": "advancements"
       },
       {
@@ -326,117 +326,117 @@
   "finance": {
     "markets": [
       {
-        "title": "Should long term investors bet on Waterways Leisure IPO?",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/should-long-term-investors-bet-on-waterways-leisure-ipo/articleshow/131922618.cms",
+        "title": "Vedanta shares fall 6% after Rs 2,149-crore block deal; promoter Twin Star likely seller",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-fall-6-after-rs-2149-crore-block-deal-promoter-twin-star-likely-seller/articleshow/131924578.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-23T00:48:47.000Z",
+        "publishedAt": "2026-06-23T03:59:13.000Z",
         "category": "markets"
       },
       {
-        "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
-        "url": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-23T00:44:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Oil gains after selloff, awaits progress on Strait of Hormuz flows",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-gains-after-selloff-awaits-progress-on-strait-of-hormuz-flows/articleshow/131922600.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-23T00:39:41.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Former US Fed chairman Alan Greenspan passes away at 100",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/former-us-fed-chairman-alan-greenspan-passes-away-at-100/articleshow/131922516.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-23T00:18:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Investors expecting 15-20% returns may be disappointed: Rajeev Thakkar",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/investors-expecting-15-20-returns-may-be-disappointed-rajeev-thakkar/articleshow/131922502.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-23T00:12:57.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Kirloskar Oil hits the upper circuit, but upside may be limited here on",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/kirloskar-oil-hits-the-upper-circuit-but-upside-may-be-limited-here-on/articleshow/131922492.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-23T00:08:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "RIL's call to list Jio Platforms could unlock up to 35% value",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/rils-call-to-list-jio-platforms-could-unlock-up-to-35-value/articleshow/131922472.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-23T00:04:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Beijing is summoning executives again, but here's why that's causing less worry than in 2021",
-        "url": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-22T23:28:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle",
-        "url": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-22T23:22:22.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "'We'll see' — Trump hedges on guarantee Iran won't use oil profits to rebuild military",
-        "url": "https://www.cnbc.com/2026/06/22/trump-iran-war-oil-profits-rebuild-military.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-22T23:09:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
+        "url": "https://www.bbc.com/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-06-22T23:07:45.000Z",
+        "publishedAt": "2026-06-23T03:55:00.000Z",
         "category": "markets"
       },
       {
-        "title": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
-        "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-22T23:01:15.000Z",
+        "title": "Aditya Birla Capital among 3 stocks flashing bullish signals, hinting at a possible uptrend",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-birla-capital-among-3-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/131924520.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:51:23.000Z",
         "category": "markets"
       },
       {
-        "title": "Do you know your 'sweat score'? The rise of hydration tech",
-        "url": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-06-22T23:01:11.000Z",
+        "title": "India’s biggest equity fund makes contrarian bet on IT stocks",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-biggest-equity-fund-makes-contrarian-bet-on-it-stocks/articleshow/131924476.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:48:19.000Z",
         "category": "markets"
       },
       {
-        "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-        "url": "https://www.cnbc.com/2026/06/22/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "title": "South Korean shares fall more than 4% on profit-taking",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/south-korean-shares-fall-more-than-4-on-profit-taking/articleshow/131924463.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:46:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp",
+        "url": "https://www.cnbc.com/2026/06/23/4-billion-startup-cred-meta-whatsapp.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-22T22:50:03.000Z",
+        "publishedAt": "2026-06-23T03:45:47.000Z",
         "category": "markets"
       },
       {
-        "title": "Senate advances housing bill to limit private equity purchases of single-family homes",
-        "url": "https://www.cnbc.com/2026/06/22/affordable-housing-bill-private-equity-single-family-homes.html",
+        "title": "Jefferies picks 9 power stocks with upside potential of up to 31%. How many do you own?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-picks-9-power-stocks-with-upside-potential-of-up-to-31-how-many-do-you-own/slideshow/131924423.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:37:26.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Meesho shares in focus as Citi initiates coverage with Buy rating. Here's why",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-in-focus-as-citi-initiates-coverage-with-buy-rating-heres-why/articleshow/131924360.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:35:45.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "No returns in 2 years? Axis AMC’s Shreyash Devalkar reveals where he's investing now",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/no-returns-in-2-years-axis-amcs-shreyash-devalkar-reveals-where-hes-investing-now/articleshow/131909554.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:30:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "ETMarkets PMS Talk | We analyse over 300 data points to identify alpha: Wright PMS' Sonam Srivastava",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-pms-talk-we-analyse-over-300-data-points-to-identify-alpha-wright-pms-sonam-srivastava/articleshow/131901750.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:30:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "3 AI stocks outweigh all of India: Why this concentration is sounding EM alarm bells",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/3-ai-stocks-outweigh-all-of-india-why-this-concentration-is-sounding-em-alarm-bells/articleshow/131924299.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:27:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bharat Electronics shares in focus after defence PSU wins orders worth Rs 1,081 crore",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-shares-in-focus-after-defence-psu-wins-orders-worth-rs-1081-crore/articleshow/131924261.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:23:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "China's 618 shopping festival growth slows sharply as consumer spending malaise persists",
+        "url": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-22T22:38:59.000Z",
+        "publishedAt": "2026-06-23T03:19:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Block deal alert! Craftsman Auto shares in focus as promoter to sell stake worth Rs 486 crore",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-craftsman-auto-shares-in-focus-as-promoter-to-sell-stake-worth-rs-486-crore/articleshow/131924220.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:16:14.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Info Edge shares in focus as AI portfolio doubles to Rs 1,268 crore; total holdings at Rs 41,300 crore",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-in-focus-as-ai-portfolio-doubles-to-rs-1268-crore-total-holdings-at-rs-41300-crore/articleshow/131924149.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-23T03:13:11.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Binance tightens rules for India users, falls in line",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/binance-tightens-rules-for-india-users-falls-in-line/articleshow/131922565.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-23T00:28:52.000Z",
+        "title": "Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit",
+        "url": "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-23T03:21:28.000Z",
         "category": "crypto"
       },
       {
@@ -541,124 +541,124 @@
   },
   "trends": [
     {
+      "title": "Greenspan’s Legacy Is as Convoluted as His Words",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T04:00:15.000Z"
+    },
+    {
+      "title": "SBP Group Eyes Innovation as It Shifts Beyond Generics",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/sbp-group-eyes-innovation-as-it-shifts-beyond-generics-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T03:44:19.000Z"
+    },
+    {
+      "title": "Japan’s Five-Year Bond Sale Draws Soft Demand on Rate Hike Fears",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/japan-s-5-year-bond-sale-demand-weaker-than-12-month-average",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T03:42:26.000Z"
+    },
+    {
+      "title": "US-Iran Talks Continue as Trump Administration Allows Oil Sales",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/us-iran-talks-continue-as-white-house-allows-oil-sales-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T03:40:19.000Z"
+    },
+    {
+      "title": "CR New Energy’s Record IPO Gets Strong Retail Demand in Shenzhen",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/cr-new-energy-s-record-ipo-gets-strong-retail-demand-in-shenzhen",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T03:05:43.000Z"
+    },
+    {
+      "title": "Aluminum Falls as Peace Talk Progress Points to Returning Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/aluminum-falls-as-peace-talk-progress-points-to-returning-supply",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T02:55:53.000Z"
+    },
+    {
+      "title": "SK Hynix ETF’s Assets Soar to $17 Billion, Biggest in Hong Kong",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/hynix-etf-topples-hong-kong-tracker-fund-with-17-billion-assets",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T02:55:18.000Z"
+    },
+    {
+      "title": "Seasonality, Contrarian Buying May Lift Battered Indian IT Shares",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-23/seasonal-tailwinds-may-lift-battered-indian-it-shares",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T02:46:27.000Z"
+    },
+    {
+      "title": "Circle K Owner’s Fuel Profits Soar Despite Weak Demand in Europe",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/circle-k-owner-couche-tard-s-atd-gasoline-profits-surge-despite-drop-in-demand",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T02:41:08.000Z"
+    },
+    {
+      "title": "CATL Debuts Battery Storage System Using New Sodium Technology",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/catl-debuts-battery-storage-system-using-new-sodium-technology",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T02:32:51.000Z"
+    },
+    {
+      "title": "Korean Stocks Fall More Than 4% From Record High on Tech Selloff",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/korean-stocks-fall-more-than-4-from-record-high-on-tech-selloff",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T02:32:02.000Z"
+    },
+    {
+      "title": "AI startup Baseten hits $13 billion valuation as Australia’s Blackbird makes record bet",
+      "url": "https://www.investing.com/news/economy-news/ai-startup-baseten-hits-13-billion-valuation-as-australias-blackbird-makes-record-bet-4754600",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-23T02:12:32.000Z"
+    },
+    {
+      "title": "Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low",
+      "url": "https://www.investing.com/news/economy-news/dollar-firms-on-hawkish-fed-bets-oil-rebound-yen-near-40year-low-4754589",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-23T01:54:30.000Z"
+    },
+    {
+      "title": "Japan’s Katayama held talks with US Treasury’s Bessent on financial markets",
+      "url": "https://www.investing.com/news/economy-news/japans-katayama-us-treasurys-bessent-hold-online-talks-to-discuss-yen-tbs-reports-4754200",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-23T01:48:43.000Z"
+    },
+    {
+      "title": "Asia shares slip as markets reprice Fed expectations, oil gains",
+      "url": "https://www.investing.com/news/economy-news/asia-shares-slip-as-markets-reprice-fed-expectations-oil-gains-4754564",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-23T01:18:59.000Z"
+    },
+    {
+      "title": "Analysis-Australia’s tax overhaul chills nation’s long love affair with property",
+      "url": "https://www.investing.com/news/economy-news/analysisaustralias-tax-overhaul-chills-nations-long-love-affair-with-property-4754543",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-23T01:12:27.000Z"
+    },
+    {
+      "title": "Trump says preparing lawsuit against ABC over reflecting pool coverage",
+      "url": "https://www.investing.com/news/economy-news/trump-says-preparing-lawsuit-against-abc-over-reflecting-pool-coverage-4754550",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-23T01:10:26.000Z"
+    },
+    {
+      "title": "US-Japan More Aligned on FX, Katayama Says After Bessent Talks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/japan-s-katayama-confirms-talks-with-bessent-on-fx-agreement",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T01:00:21.000Z"
+    },
+    {
+      "title": "‘A Lot of Leeway’: SpaceX’s High-Grade Debt Brings Out Skeptics",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/-a-lot-of-leeway-spacex-s-high-grade-debt-brings-out-skeptics",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-23T00:57:51.000Z"
+    },
+    {
       "title": "China targets US rare earth and other firms with export controls",
       "url": "https://www.investing.com/news/economy-news/china-targets-us-rare-earth-and-other-firms-with-export-controls-4751711",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-06-23T00:42:29.000Z"
-    },
-    {
-      "title": "Apollo’s flagship private credit fund hit by 17% redemption requests",
-      "url": "https://www.ft.com/content/0fa4c280-2fa0-4be0-9fac-054cd49e87fa",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-23T00:35:26.000Z"
-    },
-    {
-      "title": "IFM Investors Nears 50% Stake in Atlas Arteria as Deadline Looms",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/ifm-investors-nears-50-stake-in-atlas-arteria-as-deadline-looms",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-23T00:29:41.000Z"
-    },
-    {
-      "title": "‘FOMO Really Got Me’: Taiwanese Go Deep Into Debt to Amp 100% Stock Rally",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/tsmc-fueled-ai-frenzy-makes-taiwan-capital-of-leveraged-stock-bets",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-23T00:28:18.000Z"
-    },
-    {
-      "title": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
-      "url": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-23T00:23:00.000Z"
-    },
-    {
-      "title": "CFTC Seeks Input on 24/7 Futures, Energy Perpetuals Trades",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/cftc-seeks-input-on-24-7-futures-energy-perpetuals-trades",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-23T00:01:23.000Z"
-    },
-    {
-      "title": "Bloomberg This Weekend 6/20/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-23/bloomberg-this-weekend-6-20-2026",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-23T00:00:47.000Z"
-    },
-    {
-      "title": "China Links Offshore, Onshore Yuan in Tweak Toward Broader Use",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/china-bridges-yuan-markets-while-keeping-tight-grip-on-currency",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-23T00:00:01.000Z"
-    },
-    {
-      "title": "Yen Intervention Risk Rises on Reports of Katayama-Bessent Talks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/yen-intervention-risk-rises-on-reports-of-katayama-bessent-talks",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T23:55:13.000Z"
-    },
-    {
-      "title": "Japan’s Retail FX Traders Bet Their Government Can Prop Up Yen",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/japan-s-retail-fx-traders-bet-their-government-can-prop-up-yen",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T23:32:09.000Z"
-    },
-    {
-      "title": "Japan’s Katayama, US Treasury’s Bessent hold online talks, source says",
-      "url": "https://www.investing.com/news/economy-news/japans-katayama-us-treasurys-bessent-hold-online-talks-to-discuss-yen-tbs-reports-4754200",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-22T23:31:16.000Z"
-    },
-    {
-      "title": "Previ Plans Hands-Off Approach to Future Vale Chairperson Picks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/previ-plans-hands-off-approach-to-future-vale-chairperson-picks",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T23:23:54.000Z"
-    },
-    {
-      "title": "Gold Steadies as US and Iran Flag Early Progress in Peace Talks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/gold-steadies-as-us-and-iran-flag-early-progress-in-peace-talks",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T23:19:25.000Z"
-    },
-    {
-      "title": "’Five Eyes’ intelligence alliance warns that new AI models pose urgent cyber risk",
-      "url": "https://www.investing.com/news/economy-news/five-eyes-intelligence-alliance-warns-that-new-ai-models-pose-urgent-cyber-risk-4754390",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-22T23:19:02.000Z"
-    },
-    {
-      "title": "UK Winter Power Supply Secure Despite Iran Disruption, Says Neso",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/uk-winter-power-supply-secure-despite-iran-disruption-says-neso",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T23:01:00.000Z"
-    },
-    {
-      "title": "Senate passes housing bill in bid to ease supply crunch, high costs",
-      "url": "https://www.investing.com/news/economy-news/senate-passes-housing-bill-in-bid-to-ease-supply-crunch-high-costs-4754329",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-22T22:48:31.000Z"
-    },
-    {
-      "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
-      "url": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-22T22:47:00.000Z"
-    },
-    {
-      "title": "USA Rare Earth Rebuts MP Materials Suit as Rivalry Deepens",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/usa-rare-earth-rebuts-mp-materials-lawsuit-as-rivalry-deepens",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-22T22:37:51.000Z"
-    },
-    {
-      "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
-      "url": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-22T22:21:00.000Z"
-    },
-    {
-      "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
-      "url": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-22T22:18:00.000Z"
     }
   ]
 }
