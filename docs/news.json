@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-06-26T15:49:15.204Z",
+  "lastUpdated": "2026-06-26T18:42:52.033Z",
   "ai": {
     "developers": [
+      {
+        "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-26T17:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-26T10:00:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "OpenAI will delay GPT-5.6 after Trump administration request",
         "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
@@ -92,20 +106,6 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-02T09:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Codex is becoming a productivity tool for everyone",
-        "url": "https://openai.com/index/codex-for-knowledge-work",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-02T02:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "OpenAI frontier models and Codex are now available on AWS",
-        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-01T10:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -166,13 +166,6 @@
         "category": "everyone"
       },
       {
-        "title": "Google Home will soon get better at recognizing you",
-        "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-23T22:28:19.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
         "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
         "source": "MIT Technology Review",
@@ -212,6 +205,13 @@
         "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-09T10:20:06.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Five things you need to know about AI",
+        "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-09T09:16:45.000Z",
         "category": "everyone"
       }
     ],
@@ -326,112 +326,154 @@
   "finance": {
     "markets": [
       {
-        "title": "AMD’s stock split history (& prospects) explained",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-split-history-prospects-154400094.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-26T15:44:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Micron sinks, continuing a whipsaw week of trading",
-        "url": "https://www.cnbc.com/2026/06/26/micron-stock-earnings-tech-selloff-ai.html",
+        "title": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies'",
+        "url": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-26T15:40:54.000Z",
+        "publishedAt": "2026-06-26T18:25:36.000Z",
         "category": "markets"
       },
       {
-        "title": "ON Semi tanks 20% following Synaptics deal as CEO defends core business",
-        "url": "https://www.cnbc.com/2026/06/26/on-semi-stock-synaptics-ceo-hassane-el-khoury.html",
+        "title": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships",
+        "url": "https://www.cnbc.com/2026/06/26/trump-iran-ceasefire-strait-of-hormuz.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-26T15:39:01.000Z",
+        "publishedAt": "2026-06-26T18:24:07.000Z",
         "category": "markets"
       },
       {
-        "title": "Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million",
+        "title": "Boost portfolio income in the second half of 2026 with these cheap dividend payers",
+        "url": "https://www.cnbc.com/2026/06/26/boost-income-in-the-second-half-of-2026-with-these-cheap-dividend-payers.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-26T18:21:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "A breakout could be in the cards for this biopharmaceutical play, says Carter Worth",
+        "url": "https://www.cnbc.com/2026/06/26/a-breakout-could-be-in-the-cards-for-this-biopharmaceutical-play-says-carter-worth.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-26T18:18:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Leon Black refuses to answer questions on NDAs at Jeffrey Epstein hearing, Rep. Comer says",
         "url": "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-26T15:36:37.000Z",
+        "publishedAt": "2026-06-26T18:11:28.000Z",
         "category": "markets"
       },
       {
-        "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
-        "url": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
+        "title": "S&P 500 heads for losing week, chip stocks add to their losses on Friday: Live updates",
+        "url": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-26T15:34:49.000Z",
+        "publishedAt": "2026-06-26T18:07:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "4 of the best student loans for trade schools in 2026",
+        "url": "https://www.cnbc.com/select/best-student-loans-for-trade-schools/",
+        "source": "CNBC",
+        "publishedAt": "2026-06-26T18:05:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
+        "url": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-26T18:04:22.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset'",
+        "url": "https://www.cnbc.com/2026/06/26/gavin-newsom-national-billionaires-tax-california.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-26T18:01:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will?",
+        "url": "https://www.cnbc.com/2026/06/26/metas-flurry-of-ai-initiatives-this-month-hasnt-helped-lift-the-stock-what-will.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-26T17:45:09.000Z",
         "category": "markets"
       },
       {
         "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
         "url": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-26T15:34:19.000Z",
+        "publishedAt": "2026-06-26T17:45:05.000Z",
         "category": "markets"
       },
       {
-        "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
-        "url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+        "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
+        "url": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-26T15:34:09.000Z",
+        "publishedAt": "2026-06-26T17:39:09.000Z",
         "category": "markets"
       },
       {
-        "title": "Red Lobster's Ultimate Endless Shrimp promotion described as a 'car crash' for the company, lawsuit says",
-        "url": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html",
+        "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
+        "url": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-26T15:32:25.000Z",
+        "publishedAt": "2026-06-26T17:18:03.000Z",
         "category": "markets"
       },
       {
-        "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-goes-bargain-hunting-153100320.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-26T15:31:00.000Z",
+        "title": "New ISA and Lifetime ISA changes explained",
+        "url": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-26T17:09:53.000Z",
         "category": "markets"
       },
       {
-        "title": "Reformation files for NYSE IPO as annual revenue tops $500M",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/reformation-files-nyse-ipo-annual-153021734.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-26T15:30:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Triller Group stock surges after acquisition gives exposure to 3.9M SpaceX shares",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/triller-group-stock-surges-acquisition-152900543.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-26T15:29:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The Dividend Strategy That Sends Your Grandkids To College",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-strategy-sends-grandkids-college-152809775.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-26T15:28:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nike Stock Languishes, But Looming Earnings Report Fuels Turnaround Optimism",
-        "url": "https://www.investors.com/research/earnings-preview/nike-stock-52-week-low-earnings-china-turnaround/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-26T15:26:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman",
-        "url": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
+        "title": "Stocks making the biggest moves midday: Moderna, ON Semiconductor, Rocket Lab, Eli Lilly, Sandisk & more",
+        "url": "https://www.cnbc.com/2026/06/26/stocks-making-the-biggest-moves-midday-mrna-on-rklb-lly-sndk.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-26T15:26:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dyne Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
-        "url": "https://finance.yahoo.com/healthcare/articles/dyne-therapeutics-vs-viking-therapeutics-152548887.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-26T15:25:48.000Z",
+        "publishedAt": "2026-06-26T17:04:37.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
+        "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-26T18:37:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
+        "url": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-26T18:24:24.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
+        "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-26T17:43:33.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
+        "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-26T17:02:33.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto Biz: The cost of stacking sats",
+        "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-26T16:23:34.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
+        "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-26T15:55:56.000Z",
+        "category": "crypto"
+      },
       {
         "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
         "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
@@ -447,17 +489,10 @@
         "category": "crypto"
       },
       {
-        "title": "Securitize aims to raise $400 million as tokenization firm nears public debut",
-        "url": "https://www.coindesk.com/business/2026/06/26/securitize-aims-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
+        "title": "Securitize expects to raise $400 million as tokenization firm nears public debut",
+        "url": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
         "source": "CoinDesk",
         "publishedAt": "2026-06-26T15:04:44.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "US goods trade deficit hits 14-month high in May as imports surge",
-        "url": "https://finance.yahoo.com/economy/policy/articles/us-goods-trade-deficit-widens-125007010.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-26T14:52:53.000Z",
         "category": "crypto"
       },
       {
@@ -482,13 +517,6 @@
         "category": "crypto"
       },
       {
-        "title": "Bitcoin and ethereum prices today, Friday, June 26, 2026: June hasn't been kind to crypto prices",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-26T12:29:28.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "Australian regulator extends no-action period for crypto licensing",
         "url": "https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -508,157 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-06-26T11:36:01.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
-        "url": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-26T11:03:20.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
-        "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-26T10:19:22.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
-        "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-26T09:47:07.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K",
-        "url": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-26T09:36:34.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Tallest Building in Beijing Damaged After Apparent Small Airplane Crash",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-26/tallest-building-in-beijing-damaged-after-apparent-small-airplane-crash",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T15:42:48.000Z"
-    },
-    {
-      "title": "Auto Industry Fears USMCA Shakeup",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-26/auto-industry-fears-usmca-shakeup-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T15:42:29.000Z"
-    },
-    {
-      "title": "New York Mets Fire Manager Mendoza After Rough First Half",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-26/new-york-mets-fire-manager-mendoza-after-rough-1st-half-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T15:39:18.000Z"
-    },
-    {
-      "title": "Central banks increasingly see stagflation as likely 5-year scenario, survey shows",
-      "url": "https://www.investing.com/news/economy-news/central-banks-increasingly-see-stagflation-as-likely-5year-scenario-survey-shows-4763109",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-26T15:25:57.000Z"
-    },
-    {
-      "title": "Euro Zone Probably Saw First Inflation Slowdown Since Iran War Began",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/euro-zone-probably-saw-first-inflation-slowdown-since-iran-war-began",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T15:24:51.000Z"
-    },
-    {
-      "title": "Morgan Stanley, Goldman Shares Fall on Possible OpenAI IPO Delay",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/morgan-stanley-goldman-shares-fall-on-possible-openai-ipo-delay",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T15:18:45.000Z"
-    },
-    {
-      "title": "Oman tells Europe ships may face fees for Strait of Hormuz",
-      "url": "https://www.investing.com/news/economy-news/oman-tells-europe-ships-may-face-fees-for-strait-of-hormuz-4763100",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-26T15:13:33.000Z"
-    },
-    {
-      "title": "John Bolton pleads guilty to retaining national defense data",
-      "url": "https://www.investing.com/news/economy-news/john-bolton-pleads-guilty-to-retaining-national-defense-data-4763089",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-26T15:02:19.000Z"
-    },
-    {
-      "title": "Small plane crashes into Beijing’s tallest building",
-      "url": "https://www.ft.com/content/133f3e9d-dacc-4e5a-9928-64b28a10a15a",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-26T14:50:13.000Z"
-    },
-    {
-      "title": "Brazil’s Top Pork Exporter Boosting Output to Target Asia Demand",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/brazil-s-top-pork-exporter-boosting-output-to-target-asia-demand",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T14:45:52.000Z"
-    },
-    {
-      "title": "Short-term Treasury yields drop as oil shipments rise through Hormuz",
-      "url": "https://www.investing.com/news/economy-news/shortterm-treasury-yields-drop-as-oil-shipments-rise-through-hormuz-93CH-4763058",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-26T14:45:05.000Z"
-    },
-    {
-      "title": "US Consumer Sentiment Rises But Remains Near Record Low",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-26/us-consumer-sentiment-rises-but-remains-near-record-low-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T14:42:00.000Z"
-    },
-    {
-      "title": "OpenAI Weighs IPO in 2027 After Expected Anthropic Public Debut",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/openai-weighs-ipo-in-2027-after-expected-anthropic-public-debut",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T14:40:01.000Z"
-    },
-    {
-      "title": "Rocket Lab Rises on NASA Selection; Microsoft Down on Tech Selloff | Stock Movers",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-26/rocket-lab-work-with-nasa-microsoft-down-on-selloff-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T14:38:45.000Z"
-    },
-    {
-      "title": "China Three Gorges Is Said In Talks to Buy German Wind Assets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/china-three-gorges-is-said-in-talks-to-buy-german-wind-assets",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T14:36:40.000Z"
-    },
-    {
-      "title": "US imposes sanctions on networks fueling Sudan civil war",
-      "url": "https://www.investing.com/news/economy-news/us-imposes-sanctions-on-networks-fueling-sudan-civil-war-93CH-4763042",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-26T14:36:32.000Z"
-    },
-    {
-      "title": "This imminent SpaceX development could make the stock even more volatile",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-could-get-another-dose-of-volatility-8763bb0a?mod=mw_rss_topstories",
+      "title": "Healthcare stocks have become a haven for investors ditching tech",
+      "url": "https://www.marketwatch.com/story/healthcare-stocks-have-become-a-haven-for-investors-ditching-tech-81c544d0?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-06-26T14:31:00.000Z"
+      "publishedAt": "2026-06-26T18:39:00.000Z"
     },
     {
-      "title": "US consumer sentiment improves in June, concerns of high cost of living remain",
-      "url": "https://www.investing.com/news/economy-news/us-consumer-sentiment-improves-in-june-concerns-of-high-cost-of-living-remain-4763030",
+      "title": "John Bolton Pleads Guilty to Mishandling Classified Material",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/bolton-pleads-guilty-to-mishandling-classified-material-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-26T18:29:58.000Z"
+    },
+    {
+      "title": "Venezuela Quake Crisis Tests Legitimacy of Rodriguez Regime",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/venezuela-quake-crisis-tests-rodriguez-regime-legitimacy-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-26T18:28:47.000Z"
+    },
+    {
+      "title": "Exxon’s Top US Gas Trader to Join Expand as Exits Hit Oil Giant",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/exxon-s-top-us-gas-trader-to-join-expand-as-exits-hit-oil-giant",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-26T18:28:36.000Z"
+    },
+    {
+      "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
+      "url": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-26T18:23:00.000Z"
+    },
+    {
+      "title": "Annuities are coming to more 401(k) plans. Should workers embrace them?",
+      "url": "https://www.marketwatch.com/story/annuities-are-coming-to-more-401-k-plans-should-workers-embrace-them-78f014e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-26T18:23:00.000Z"
+    },
+    {
+      "title": "Trump Says Iran Violated Ceasefire With Hormuz Drone Attack",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/trump-iran-violated-ceasefire-with-hormuz-drone-attack-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-26T18:21:10.000Z"
+    },
+    {
+      "title": "Epic Fury Has Been an 'Epic Failure' Says Rep. Dean",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/epic-fury-has-been-an-epic-failure-says-rep-dean-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-26T18:20:43.000Z"
+    },
+    {
+      "title": "Oil prices may have fallen ‘too far, too fast’ as Trump confirms Iran violated the cease-fire deal",
+      "url": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-26T18:10:00.000Z"
+    },
+    {
+      "title": "Stock Valuations Should Worry Investors, Abby Joseph Cohen Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/stock-valuations-should-worry-investors-abby-joseph-cohen-says",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-26T17:56:16.000Z"
+    },
+    {
+      "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.",
+      "url": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-26T17:54:00.000Z"
+    },
+    {
+      "title": "AI’s most explosive hardware trades are hitting a wall. Why optical and memory stocks are falling.",
+      "url": "https://www.marketwatch.com/story/ais-most-explosive-hardware-trades-are-hitting-a-wall-why-optical-and-memory-stocks-are-falling-d4e9eeaa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-26T17:53:00.000Z"
+    },
+    {
+      "title": "Fed’s Kashkari Says ‘Cooled’ US Labor Market Not Driving Inflation",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/fed-s-kashkari-us-labor-cooled-not-driving-inflation-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-26T17:47:59.000Z"
+    },
+    {
+      "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
+      "url": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-26T17:39:00.000Z"
+    },
+    {
+      "title": "Congress targets Leon Black as he denies knowledge of Epstein’s ‘heinous conduct’",
+      "url": "https://www.ft.com/content/1648f372-eb08-4c69-8511-eea08c4dcaf2",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-26T17:35:04.000Z"
+    },
+    {
+      "title": "The housing bill’s back on track to becoming law. Here’s what it does for affordability.",
+      "url": "https://www.marketwatch.com/story/the-housing-bills-back-on-track-to-becoming-law-heres-what-it-does-for-affordability-14f4c7ba?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-26T17:35:00.000Z"
+    },
+    {
+      "title": "Trump warns of 100% tariff on countries implementing digital services tax",
+      "url": "https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-26T17:34:06.000Z"
+    },
+    {
+      "title": "Congressional panel investigating Epstein subpoenas Leon Black",
+      "url": "https://www.investing.com/news/economy-news/leon-black-tells-congress-that-epstein-duped-and-deceived-him-4763148",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-26T14:25:26.000Z"
+      "publishedAt": "2026-06-26T17:30:48.000Z"
     },
     {
-      "title": "Oil Heads for Weekly Decline Despite Hormuz Ship Attack",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-26/oil-heads-for-weekly-decline-despite-hormuz-ship-attack-video",
+      "title": "Trump Claims Iran Violated Ceasefire With Hormuz Drone Attack",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/trump-claims-iran-violated-ceasefire-with-drone-attack-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T14:22:58.000Z"
+      "publishedAt": "2026-06-26T17:30:27.000Z"
     },
     {
-      "title": "Cantor Bitcoin SPAC Lets Investors Commit Less as Crypto Slides",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/cantor-bitcoin-spac-lets-investors-commit-less-as-crypto-slides",
+      "title": "China Ousts Six Military Lawmakers as Xi’s Purge Continues",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/china-ousts-six-military-lawmakers-as-xi-s-purge-continues",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-26T14:01:30.000Z"
+      "publishedAt": "2026-06-26T17:30:17.000Z"
     }
   ]
 }
