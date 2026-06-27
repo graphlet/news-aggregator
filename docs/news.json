@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-06-27T07:12:03.859Z",
+  "lastUpdated": "2026-06-27T09:45:41.679Z",
   "ai": {
     "developers": [
+      {
+        "title": "What Everyone Gets Wrong About AI and Learning [video]",
+        "url": "https://www.youtube.com/watch?v=0xS68sl2D70",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-27T08:48:41.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Brytlog – AI logger",
+        "url": "https://github.com/Guy-Sela/brytlog",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-27T08:06:02.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The Calculator Discipline – AI-Assisted Disclosure Hallucinations",
+        "url": "https://zenodo.org/records/20393083",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-27T07:52:47.000Z",
+        "category": "developers"
+      },
       {
         "title": "There's Been a Subtle Shift in the AI Zeitgeist",
         "url": "https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist",
@@ -85,30 +106,16 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-06-27T03:57:33.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Find the right AI agents to build",
-        "url": "https://www.agentideahub.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-27T03:38:06.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "TUI email client in native Golang with LLM based drafting functions",
-        "url": "https://mail.intellios.ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-27T03:36:17.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
-        "url": "https://news.ycombinator.com/item?id=48694802",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-27T03:17:43.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "What GUI or desktop app do you use to keep track of different AI sessions?",
+        "url": "https://news.ycombinator.com/item?id=48696704",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-27T09:44:16.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Show HN: Boot a tiny app-making OS inside an AI chat",
         "url": "https://hollingsworthd.github.io/RAu/",
@@ -206,16 +213,16 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-09T10:20:06.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Five things you need to know about AI",
-        "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-09T09:16:45.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "NLNet Labs LLM Policy",
+        "url": "https://nlnetlabs.nl/llm-policy/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-06-27T07:41:42.000Z",
+        "category": "advancements"
+      },
       {
         "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
         "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
@@ -235,20 +242,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
         "source": "The Verge – AI",
         "publishedAt": "2026-06-27T00:33:44.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "With AI, researchers discover new way to detect sudden cardiac death risk",
-        "url": "https://news.berkeley.edu/2026/06/24/with-ai-researchers-discover-new-way-to-detect-sudden-cardiac-death-risk/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-26T23:40:15.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Trump admin allows Anthropic to release Mythos AI model to some companies",
-        "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-06-26T23:00:31.000Z",
         "category": "advancements"
       },
       {
@@ -320,11 +313,67 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-22T10:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-18T08:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
+      {
+        "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
+        "url": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-27T09:44:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Companies should focus on business growth, profitability rather than just share price: NSE chief",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/companies-should-focus-on-business-growth-profitability-rather-than-just-share-price-nse-chief/articleshow/132031843.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-27T09:15:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Indian issuers hold dollar bond plans amid demand for higher yields",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/indian-issuers-hold-dollar-bond-plans-amid-demand-for-higher-yields/articleshow/132031654.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-27T09:07:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Chris Wood’s big warning: The specific risk that will finally trigger the end of AI trade",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/chris-woods-big-warning-the-specific-risk-that-will-finally-trigger-the-end-of-ai-trade/articleshow/132031234.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-27T08:26:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply",
+        "url": "https://www.cnbc.com/2026/06/27/saudi-aramco-resumes-oil-loading-at-ras-tanura-in-boost-to-supply.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-27T08:03:59.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/slideshow/132030875.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-27T07:35:14.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "NSE IPO to value exchange at Rs 5 lakh crore? 2 scenarios every investor should watch",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-to-value-exchange-at-rs-5-lakh-crore-2-scenarios-every-investor-should-watch/articleshow/132030714.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-27T07:31:56.000Z",
+        "category": "markets"
+      },
       {
         "title": "Venezuela quake toll tops 900, search intensifies for hundreds trapped",
         "url": "https://www.cnbc.com/2026/06/27/venezuela-quake-toll-tops-900-search-intensifies-for-hundreds-trapped.html",
@@ -340,7 +389,7 @@
         "category": "markets"
       },
       {
-        "title": "Sebi rejects Anil Ambani's settlement request over Reliance Infrastructure",
+        "title": "Sebi rejects Anil Ambani's Reliance Infra settlement application",
         "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rejects-anil-ambanis-settlement-request-over-reliance-infrastructure/articleshow/132029893.cms",
         "source": "Economic Times – Markets",
         "publishedAt": "2026-06-27T06:24:21.000Z",
@@ -380,58 +429,44 @@
         "source": "CNBC",
         "publishedAt": "2026-06-27T05:00:02.000Z",
         "category": "markets"
-      },
-      {
-        "title": "F&amp;O Talk: Nifty to remain rangebound, says Sudeep Shah; picks 8 stocks for next week",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-to-remain-rangebound-says-sudeep-shah-picks-8-stocks-for-next-week/articleshow/132028803.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-27T04:48:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AI rout exposes Wall Street's $270 billion speculation machine",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rout-exposes-wall-streets-270-billion-speculation-machine/articleshow/132028641.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-27T04:32:41.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "ETMarkets Smart Talk | Corporate bonds are emerging as a compelling alternative to fixed deposits: Nikhil Aggarwal",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-corporate-bonds-are-emerging-as-a-compelling-alternative-to-fixed-deposits-nikhil-aggarwal/articleshow/132028581.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-27T04:25:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Two-year yields dip as Hormuz flows rise, hopes on inflation grow",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/two-year-yields-dip-as-hormuz-flows-rise-hopes-on-inflation-grow/articleshow/132028369.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-27T04:05:08.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "European shares slip as tech selloff bites, Zalando slides",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-slip-as-tech-selloff-bites-zalando-slides/articleshow/132028348.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-27T04:02:37.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Wall Street Week Ahead: Jobs data, rate bets in focus as US stocks close solid first half",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-jobs-data-rate-bets-in-focus-as-us-stocks-close-solid-first-half/articleshow/132028322.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-27T03:59:24.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dollar declines for second straight day but set for weekly gain",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-declines-for-second-straight-day-but-set-for-weekly-gain/articleshow/132028297.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-27T03:57:04.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Dala Street Week Ahead: Nifty to test crucial 24,500 level; breakout may define next trend",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/dala-street-week-ahead-nifty-to-test-crucial-24500-level-breakout-may-define-next-trend/articleshow/132031360.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-27T09:02:09.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
+        "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-27T08:21:04.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
+        "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-27T07:58:35.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
+        "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-27T07:43:58.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin struggles under $60,000 amid persistent ETF withdrawals. Here is what experts say",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-struggles-under-60000-amid-persistent-etf-withdrawals-here-is-what-experts-say/articleshow/132030661.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-27T07:25:38.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Securitize expects to raise $400M ahead of public debut",
         "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -501,45 +536,40 @@
         "source": "CoinDesk",
         "publishedAt": "2026-06-26T18:24:24.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
-        "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-26T17:43:33.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
-        "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-26T17:02:33.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Crypto Biz: The cost of stacking sats",
-        "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-26T16:23:34.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
-        "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-26T15:55:56.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
-        "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-26T15:33:31.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Bangladesh Gets $1 Billion World Bank Fertilizer, Food Loans",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/bangladesh-gets-1-billion-world-bank-fertilizer-food-loans",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-27T08:38:38.000Z"
+    },
+    {
+      "title": "US launches strikes on Iran after Tehran attacks container ship",
+      "url": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-27T08:06:11.000Z"
+    },
+    {
+      "title": "<strong>How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms</strong>",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/how-lenovo-s-cfo-is-allocating-capital-during-one-of-history-s-biggest-booms",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-27T08:00:15.000Z"
+    },
+    {
+      "title": "Odd Lots: How Lenovo’s CFO Sees Capex in the AI Age (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-06-27/odd-lots-how-lenovo-s-cfo-sees-capex-in-the-ai-age-podcast",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-27T08:00:00.000Z"
+    },
+    {
+      "title": "Burnham emerges as frontrunner to replace Starmer as Labour leadership race nears",
+      "url": "https://www.investing.com/news/economy-news/burnham-emerges-as-frontrunner-to-replace-starmer-as-labour-leadership-race-nears-4763942",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-27T07:09:00.000Z"
+    },
     {
       "title": "Brexit 10 years after: What’s worked and what hasn’t?",
       "url": "https://www.investing.com/news/economy-news/brexit-10-years-after-whats-worked-and-what-hasnt-4763939",
@@ -629,36 +659,6 @@
       "url": "https://www.investing.com/news/economy-news/sp-affirms-us-sovereign-rating-at-aa-maintains-stable-outlook-4763929",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-06-27T01:56:14.000Z"
-    },
-    {
-      "title": "Aid Groups Flock to Venezuela In Search-and-Rescue Frenzy",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/aid-groups-flock-to-venezuela-in-search-and-rescue-frenzy",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-27T01:22:20.000Z"
-    },
-    {
-      "title": "How materially could AI shift the economics of new oil developments",
-      "url": "https://www.investing.com/news/economy-news/how-materially-could-ai-shift-the-economics-of-new-oil-developments-4763917",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-27T01:21:06.000Z"
-    },
-    {
-      "title": "Philippine Government Plans to Raise Budget by 6% Next Year",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/philippine-government-plans-to-raise-budget-by-6-next-year",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-27T00:46:35.000Z"
-    },
-    {
-      "title": "Trump administration allows some access to Anthropic’s Mythos",
-      "url": "https://www.ft.com/content/4b578b5c-258a-48f5-a5e9-15eef5659573",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-27T00:37:57.000Z"
-    },
-    {
-      "title": "Bolivia Moves to Flexible Exchange-Rate System After 15 Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/bolivia-moves-to-flexible-exchange-rate-system-after-15-years",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-27T00:30:56.000Z"
     }
   ]
 }
