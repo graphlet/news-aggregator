@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T21:27:14.573Z",
+  "lastUpdated": "2026-06-29T01:01:33.145Z",
   "ai": {
     "developers": [
       {
@@ -110,10 +110,24 @@
     ],
     "everyone": [
       {
+        "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-28T21:42:51.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
         "source": "The Verge – AI",
         "publishedAt": "2026-06-28T20:27:36.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+        "url": "https://openai.com/index/hp-frontier-partnership",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-28T17:00:00.000Z",
         "category": "everyone"
       },
       {
@@ -159,13 +173,6 @@
         "category": "everyone"
       },
       {
-        "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-25T09:06:19.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
         "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
         "source": "MIT Technology Review",
@@ -205,13 +212,6 @@
         "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-09T10:20:06.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Five things you need to know about AI",
-        "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-09T09:16:45.000Z",
         "category": "everyone"
       }
     ],
@@ -326,124 +326,124 @@
   "finance": {
     "markets": [
       {
-        "title": "The Smartest Dividend Stocks to Buy With $3,000 Right Now",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/smartest-dividend-stocks-buy-3-212000296.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T21:20:00.000Z",
+        "title": "China, India see top firms lose market cap share in AI lag",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-india-see-top-firms-lose-market-cap-share-in-ai-lag/articleshow/132060700.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-29T00:46:24.000Z",
         "category": "markets"
       },
       {
-        "title": "Ford’s AI wasn’t smart enough to replace veteran engineers — so it hired 350 of them to fix quality control issues",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ford-ai-wasn-t-smart-211500573.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T21:15:00.000Z",
+        "title": "Pre-market action: Here's the trade setup for today's session",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132055215.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-29T00:41:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Chevron CFO reveals why gas prices are stuck",
-        "url": "https://finance.yahoo.com/energy/articles/chevron-cfo-reveals-why-gas-210300205.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T21:03:00.000Z",
+        "title": "Stocks in news: Waaree Energies, Kotak Bank, HDFC Bank, Strides Pharma, Persistent Systems",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-waaree-energies-kotak-bank-hdfc-bank-strides-pharma-persistent-systems/articleshow/132055110.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-29T00:41:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Nifty has more room to run; stay selective: Analysts",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-has-more-room-to-run-stay-selective-analysts/articleshow/132060667.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-29T00:40:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Anchor investors clear path for SP Group's refinancing",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/anchor-investors-clear-path-for-sp-groups-refinancing/articleshow/132060652.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-29T00:29:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Persistent's Nagarro deal could be a near-term pain for long-term gain",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/persistents-nagarro-deal-could-be-a-near-term-pain-for-long-term-gain/articleshow/132060643.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-29T00:25:05.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates",
+        "url": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-29T00:23:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Tech equity sales renew AI debt-binge worries",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tech-equity-sales-renew-ai-debt-binge-worries/articleshow/132060625.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-29T00:19:55.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "RBI's dollar inflow measures buy time, but external risks remain",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-dollar-inflow-measures-buy-time-but-external-risks-remain/articleshow/132060597.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-29T00:12:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oil rises as renewed U.S.-Iran strikes reignite Middle East supply fears",
+        "url": "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-29T00:06:44.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Gold price fall triggers margin calls on bullet loans",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-fall-triggers-margin-calls-on-bullet-gold-loans/articleshow/132060585.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-06-29T00:04:50.000Z",
         "category": "markets"
       },
       {
         "title": "Iran talks on hold after fighting breaks out and Trump once again threatens annihilation",
         "url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-28T20:57:32.000Z",
+        "publishedAt": "2026-06-28T23:39:41.000Z",
         "category": "markets"
       },
       {
-        "title": "Dow Jones Futures: Market At Tipping Point With Iran News, AI Fears In Focus. Tesla, Jobs On Tap.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:57:10.000Z",
+        "title": "Got the tennis bug? How to play sport without paying",
+        "url": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-28T23:06:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Alphabet Pulled Back Hard. Here Are My Top 3 Megacaps to Buy on the Dip.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-pulled-back-hard-top-205000600.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:50:00.000Z",
+        "title": "Venezuela quake death toll reaches 1,450 as rescue work goes on",
+        "url": "https://www.cnbc.com/2026/06/28/thousands-still-missing-after-devastating-venezuela-quakes.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-28T22:41:56.000Z",
         "category": "markets"
       },
       {
-        "title": "This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Potential. It Is Trading at an Incredibly Attractive Valuation Right Now",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-artificial-intelligence-ai-204900204.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:49:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "I Wouldn't Bet Against This Financial Stock in a Recession.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wouldnt-bet-against-financial-stock-203500076.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:35:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Which Is the Better Intermediate-Term Bond ETF, Vanguard's VCIT or iShares' Treasury-Focused IEI?",
-        "url": "https://finance.yahoo.com/markets/options/articles/better-intermediate-term-bond-etf-201201948.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:12:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "RBC Capital Initiates Coverage of GE HealthCare Technologies Inc. (GEHC)",
-        "url": "https://finance.yahoo.com/healthcare/articles/rbc-capital-initiates-coverage-ge-200715300.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:07:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Veeva Systems Inc. (VEEV) Acquires Copli and Launches Veeva Falcon MLR",
-        "url": "https://finance.yahoo.com/healthcare/articles/veeva-systems-inc-veev-acquires-200709584.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:07:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mizuho Maintains an Outperform Rating on Insmed Incorporated (INSM)",
-        "url": "https://finance.yahoo.com/healthcare/articles/mizuho-maintains-outperform-rating-insmed-200703352.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:07:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Former Nasdaq CEO reveals SpaceX biggest make-or-break test",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/former-nasdaq-ceo-reveals-spacex-200700354.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:07:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What Does It Take To Retire In Mesa, Arizona With $800,000?",
-        "url": "https://finance.yahoo.com/real-estate/articles/does-retire-mesa-arizona-800-200142230.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:01:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Billionaire Charlie Munger Called Skimping On Landscape ‘Building Malpractice’ — To Boost Your Home’s Value, Plant Some Trees And ‘Get It Back Triple’",
-        "url": "https://finance.yahoo.com/real-estate/articles/billionaire-charlie-munger-called-skimping-200109082.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:01:09.000Z",
+        "title": "How much should we be prepared to pay for our food?",
+        "url": "https://www.bbc.co.uk/news/articles/c3ryqywd97do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-28T22:14:29.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
+        "title": "Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28",
+        "url": "https://cointelegraph.com/features/hodlers-digest-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-28T22:59:38.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-28T21:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "XRP vs Ethereum: Which Is the Better Dip to Buy Right Now?",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-vs-ethereum-better-dip-202110280.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:21:10.000Z",
         "category": "crypto"
       },
       {
@@ -531,7 +531,7 @@
         "category": "crypto"
       },
       {
-        "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+        "title": "Base says sequencer bug caused back-to-back outages",
         "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-28T05:14:05.000Z",
@@ -540,6 +540,96 @@
     ]
   },
   "trends": [
+    {
+      "title": "Kent on Reserve Bank of Australia's New Framework",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-29/kent-on-reserve-bank-of-australia-s-new-framework-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-29T00:51:41.000Z"
+    },
+    {
+      "title": "US and Iran Agree to Halt Attacks Ahead of Talks",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-29/us-and-iran-agree-to-halt-attacks-ahead-of-talks-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-29T00:49:19.000Z"
+    },
+    {
+      "title": "Philippines Sees Slower Growth, Weak Peso Beyond 2028",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/philippines-sees-slower-growth-weak-peso-beyond-marcos-term",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-29T00:39:39.000Z"
+    },
+    {
+      "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-29T00:30:00.000Z"
+    },
+    {
+      "title": "China: Tech Growth Distorts Energy Demand Forecasts",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-29/china-tech-growth-distorts-energy-demand-forecasts-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-29T00:19:16.000Z"
+    },
+    {
+      "title": "Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/gold-declines-as-fresh-us-iran-tension-fans-inflation-concerns",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-29T00:07:10.000Z"
+    },
+    {
+      "title": "RBA Will Be Better Prepared to Handle Next Crisis, Kent Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/rba-will-be-better-prepared-to-respond-to-next-crisis-kent-says",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-28T23:58:10.000Z"
+    },
+    {
+      "title": "Sovereign Funds Pivot Further to Private Assets in Risky Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/sovereign-funds-pivot-further-to-private-assets-in-risky-markets",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-28T23:01:00.000Z"
+    },
+    {
+      "title": "Wall Street Is Abandoning Bets on a Stronger Euro",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/euro-s-run-looks-over-as-wall-street-targets-slide-toward-1-10",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-28T23:00:01.000Z"
+    },
+    {
+      "title": "Prabowo Risks Prompt Global Banks to Pull Cash Out of Indonesia",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/citi-hsbc-stanchart-send-more-indonesia-profits-home-as-prabowo-demands-rise",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-28T23:00:00.000Z"
+    },
+    {
+      "title": "Putin says Russia faces fuel shortages as Ukrainian drones strike refineries",
+      "url": "https://www.ft.com/content/b6a405a1-876d-4844-8ca9-8bc19b58a2b2",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-28T22:28:40.000Z"
+    },
+    {
+      "title": "US Stock Futures Rise, Oil Pares Climb on Iran: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/us-futures-climb-on-reports-peace-talks-to-resume-markets-wrap",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-28T22:15:36.000Z"
+    },
+    {
+      "title": "Oil Rises as US and Iran Set to Halt Attacks Following Flare-Up",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/latest-oil-market-news-and-analysis-for-june-29",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-28T22:01:18.000Z"
+    },
+    {
+      "title": "UK’s likely next leader Burnham to unveil plan to shift power from London",
+      "url": "https://www.investing.com/news/economy-news/uks-likely-next-leader-burnham-to-unveil-plan-to-shift-power-from-london-4764171",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-06-28T22:00:59.000Z"
+    },
+    {
+      "title": "BlueBay Sees Near-Term Risk in Japan AI Stocks Followed by Rally",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/bluebay-sees-near-term-risk-in-japan-ai-stocks-followed-by-rally",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-28T22:00:07.000Z"
+    },
     {
       "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
       "url": "https://www.bloomberg.com/jp/news/newsletters/2026-06-28/THD1FVVTTCZL00",
@@ -559,12 +649,6 @@
       "publishedAt": "2026-06-28T21:00:05.000Z"
     },
     {
-      "title": "Andy Burnham sets out ‘10-year mission’ to raise living standards",
-      "url": "https://www.ft.com/content/bff84ab6-7458-49ba-a21a-25883027a86e",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-28T21:00:02.000Z"
-    },
-    {
       "title": "Grim legacy of ‘Chavismo’ hinders Venezuela’s earthquake response",
       "url": "https://www.ft.com/content/ff881e75-92ed-4bcc-beb6-cd833b57fd4c",
       "source": "Financial Times",
@@ -575,90 +659,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-28/new-zealand-dollar-faces-tough-third-quarter-on-growth-headwinds",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-06-28T19:00:00.000Z"
-    },
-    {
-      "title": "Bond Heavyweights Target a Market Sweet Spot for New Warsh Era",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/bond-heavyweights-target-a-market-sweet-spot-for-new-warsh-era",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-28T19:00:00.000Z"
-    },
-    {
-      "title": "Aramco helicopter crashes at Saudi port",
-      "url": "https://www.ft.com/content/6be8c3fd-5f1d-4659-afee-43db76a36fd6",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-28T18:09:40.000Z"
-    },
-    {
-      "title": "Williams Said to Near $5.5 Billion Deal for Momentum Midstream",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/williams-said-to-near-5-5-billion-deal-for-momentum-midstream",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-28T18:00:00.000Z"
-    },
-    {
-      "title": "Bloomberg This Weekend 6/28/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-28/bloomberg-this-weekend-6-28-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-28T17:05:30.000Z"
-    },
-    {
-      "title": "World Cup Fever Energizes Boston Ahead of Knockout Stage",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-28/world-cup-fever-energizes-boston-ahead-of-knockout-stage-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-28T16:07:50.000Z"
-    },
-    {
-      "title": "The Uphill Battle Facing Revitalizing Dulles Airport",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-28/the-uphill-battle-facing-revitalizing-dulles-airport-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-28T15:52:23.000Z"
-    },
-    {
-      "title": "Housing bill will be sent to Trump on Monday, US House speaker says",
-      "url": "https://www.investing.com/news/economy-news/us-house-speaker-says-he-will-send-housing-bill-to-trump-on-monday-4764148",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-28T15:36:25.000Z"
-    },
-    {
-      "title": "High Schools Emphasizing Personal Finance Education",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-28/high-schools-emphasizing-personal-finance-education-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-28T15:13:31.000Z"
-    },
-    {
-      "title": "Starmer seeks to ensure legacy before Burnham ascends",
-      "url": "https://www.ft.com/content/50f6c150-08a1-489d-88d2-1df7c6ff3291",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-28T15:00:09.000Z"
-    },
-    {
-      "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
-      "url": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-28T15:00:00.000Z"
-    },
-    {
-      "title": "Can USMCA Survive Trump’s Second Term?",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-28/can-usmca-survive-trump-s-second-term-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-28T14:04:03.000Z"
-    },
-    {
-      "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.",
-      "url": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-28T14:03:00.000Z"
-    },
-    {
-      "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
-      "url": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-28T14:00:00.000Z"
-    },
-    {
-      "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
-      "url": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-28T14:00:00.000Z"
     }
   ]
 }
