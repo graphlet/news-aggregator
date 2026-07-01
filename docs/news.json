@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-06-30T21:35:36.097Z",
+  "lastUpdated": "2026-07-01T01:01:40.428Z",
   "ai": {
     "developers": [
+      {
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-30T21:50:04.000Z",
+        "category": "developers"
+      },
       {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
@@ -99,13 +106,6 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-02T12:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Codex for every role, tool, and workflow",
-        "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-02T09:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -201,21 +201,28 @@
         "category": "everyone"
       },
       {
-        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-28T14:12:06.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Our latest Google Finance upgrades, including a new app",
         "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
         "source": "Google AI Blog",
         "publishedAt": "2026-06-25T16:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Repositioning retail for the AI era",
+        "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-25T14:22:59.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-01T00:03:55.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
         "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
@@ -313,130 +320,165 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-18T08:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-06-17T15:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare",
-        "url": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html",
+        "title": "Why Asia still struggles to create its own mega-IPOs like SpaceX",
+        "url": "https://www.cnbc.com/2026/07/01/-china-korea-hong-kong-and-india-struggle-to-create-mega-ipos.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-30T21:27:22.000Z",
+        "publishedAt": "2026-07-01T00:54:51.000Z",
         "category": "markets"
       },
       {
-        "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
-        "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+        "title": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5",
+        "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-30T21:20:06.000Z",
+        "publishedAt": "2026-07-01T00:51:55.000Z",
         "category": "markets"
       },
       {
-        "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
-        "url": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-30T21:00:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What's a good student loan interest rate? These lenders offer some of the lowest APRs",
-        "url": "https://www.cnbc.com/select/whats-a-good-rate-on-a-student-loan/",
-        "source": "CNBC",
-        "publishedAt": "2026-06-30T20:42:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
-        "url": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-30T20:41:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter",
-        "url": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-30T20:38:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Palo Alto, CrowdStrike both have best quarter ever as AI threats bolster cyber demand",
-        "url": "https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-30T20:36:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Brent posts biggest monthly decline since March 2020 as traders monitor U.S.-Iran talks",
-        "url": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-30T20:30:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "FDA lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes",
-        "url": "https://www.cnbc.com/2026/06/30/fda-zyn-philip-morris-nicotine-pouches-cigarettes-trump.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-30T20:24:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Where you want to invest in tech for the second half, according to one top analyst",
-        "url": "https://www.cnbc.com/2026/06/30/where-you-want-to-invest-in-tech-for-the-second-half-according-to-one-top-analyst.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-30T20:06:06.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks today: S&amp;P 500, Nasdaq post best quarter since 2020 despite Iran war",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-post-best-quarter-since-2020-despite-iran-war/articleshow/132101280.cms",
+        "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-ticks-higher-as-irans-refusal-to-meet-us-envoys-dims-ceasefire-hopes/articleshow/132103641.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-06-30T20:05:55.000Z",
+        "publishedAt": "2026-07-01T00:46:38.000Z",
         "category": "markets"
       },
       {
-        "title": "AeroVironment skyrockets 19% as dronemaker capitalizes on defense spending surge",
-        "url": "https://www.cnbc.com/2026/06/30/aerovironment-avav-stock-earnings-defense.html",
+        "title": "Yen slides to new 40-year low while Dow futures ease after strongest first half in five years: Live updates",
+        "url": "https://www.cnbc.com/2026/06/30/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-30T20:05:18.000Z",
+        "publishedAt": "2026-07-01T00:44:26.000Z",
         "category": "markets"
       },
       {
-        "title": "Blue Origin pivots to redesigned launchpad after explosion in push to fly by end of 2026",
-        "url": "https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-30T19:45:32.000Z",
+        "title": "Rupee's defence takes RBI dollar shorts to a record high",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-01T00:36:27.000Z",
         "category": "markets"
       },
       {
-        "title": "Private equity in youth sports draws bipartisan scrutiny in Congress",
-        "url": "https://www.cnbc.com/2026/06/30/private-equity-youth-sports-congress-scrutiny.html",
-        "source": "CNBC",
-        "publishedAt": "2026-06-30T19:35:59.000Z",
+        "title": "Sebi moves to standardise consent rules for AIFs",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-moves-to-standardise-consent-rules-for-aifs/articleshow/132103611.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-01T00:31:22.000Z",
         "category": "markets"
       },
       {
-        "title": "Social Security gender gap means women receive about $4,800 less in annual benefits. What to know before claiming",
-        "url": "https://www.cnbc.com/2026/06/30/social-security-gender-gap-women-get-4800-less-in-annual-benefits.html",
+        "title": "Dalal Street bets on a strong July as macro risks begin to fade",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-bets-on-a-strong-july-as-macro-risks-begin-to-fade/articleshow/132103572.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-01T00:17:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Kotak to buy Deutsche's India retail, wealth business",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-to-buy-deutsches-india-retail-wealth-business/articleshow/132103532.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-01T00:03:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "JSW taps KKR to drive in MG Motors JV with $400 mn investment",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-taps-kkr-to-drive-in-mg-motors-jv-with-400-mn-investment/articleshow/132103654.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Chinese tycoon sentenced to 30 years in US jail",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-30T23:48:18.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "After a soft Nike quarter, we have a big decision to make on the stock",
+        "url": "https://www.cnbc.com/2026/06/30/after-soft-nike-earnings-we-have-a-big-decision-to-make-on-the-stock.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-30T19:21:09.000Z",
+        "publishedAt": "2026-06-30T23:42:28.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
+        "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-30T23:27:41.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why Gen Z are planning for life without a state pension",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-30T23:05:19.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Plea for households to read energy meter as prices rise",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-06-30T23:02:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump says Council of Economic Advisers head Pierre Yared is leaving",
+        "url": "https://www.cnbc.com/2026/06/30/trump-pierre-yared-council-economic-advisers.html",
+        "source": "CNBC",
+        "publishedAt": "2026-06-30T22:51:42.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
+        "title": "Trump made more than $1bn from crypto in first year back in office",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-01T00:57:03.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Has Strategy’s capital overhaul put an end to ‘death spiral’ fears?",
+        "url": "https://cointelegraph.com/features/does-strategys-new-capital-plan-put-an-end-to-death-spiral-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-30T23:11:09.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
+        "url": "https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-30T23:02:46.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Trump's annual financial disclosure shows more than $580M in crypto-related income",
         "url": "https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html",
         "source": "CNBC",
-        "publishedAt": "2026-06-30T21:27:19.000Z",
+        "publishedAt": "2026-06-30T22:53:43.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Trump pocketed more than $1 billion from crypto ties as industry headed toward slump",
+        "url": "https://www.coindesk.com/policy/2026/06/30/trump-pocketed-more-than-usd1-billion-from-crypto-ties-as-industry-headed-toward-slump",
+        "source": "CoinDesk",
+        "publishedAt": "2026-06-30T22:28:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin just $5K away from ‘best investment opportunity’ of bear market",
+        "url": "https://cointelegraph.com/markets/bitcoin-is-just-a-5k-drop-away-from-its-best-investment-opportunity-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-30T21:49:08.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling",
+        "url": "https://cointelegraph.com/news/massachusetts-lawsuit-kalshi-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-06-30T21:44:48.000Z",
         "category": "crypto"
       },
       {
@@ -494,171 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-06-30T17:19:17.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Business use of stablecoins set for growth surge: Cybrid report",
-        "url": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-30T16:34:31.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
-        "url": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-30T16:31:46.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-06-30T15:31:03.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
-        "url": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-30T14:41:59.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Circle craters 17% as Stripe, Coinbase and BlackRock back rival stablecoin network",
-        "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-30T14:32:33.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "MetaMask launches Money Account with stablecoin yield and spending in one wallet",
-        "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
-        "source": "CoinDesk",
-        "publishedAt": "2026-06-30T14:00:00.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Oil posts largest quarterly price drop in 6 years as historic supply crunch eases",
-      "url": "https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-30T21:28:00.000Z"
-    },
-    {
-      "title": "Trump Reports at Least $1.2 Billion in 2025 Crypto Earnings",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/trump-reports-at-least-1-2-billion-in-crypto-earnings-for-2025",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-30T21:20:53.000Z"
-    },
-    {
-      "title": "The China Show 6/30/2026 (Video)",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-30/the-china-show-6-30-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-30T21:17:29.000Z"
-    },
-    {
-      "title": "Yao Ming on NBA Legacy, Steph Curry, Global Expansion",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-30/yao-ming-on-nba-legacy-steph-curry-global-expansion-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-30T21:15:47.000Z"
-    },
-    {
-      "title": "The 20 best-performing stocks in the S&P 500 for the first half of 2026",
-      "url": "https://www.marketwatch.com/story/the-20-best-performing-stocks-in-the-s-p-500-for-the-first-half-of-2026-d916d182?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-30T21:13:00.000Z"
-    },
-    {
-      "title": "Qatar affirms support for U.S.-Iran talks in key meeting",
-      "url": "https://www.investing.com/news/economy-news/qatar-affirms-support-for-usiran-talks-in-key-meeting-93CH-4768999",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-30T21:11:40.000Z"
-    },
-    {
-      "title": "Debt and Risky Bets Fuel South Korea and Taiwan's AI Stock Boom",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/the-risky-debt-fueling-taiwan-and-korea-s-ai-stock-boom-big-take-asia-podcast",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-30T21:11:15.000Z"
-    },
-    {
-      "title": "Trading Day: Stocks cap weak month, stellar quarter",
-      "url": "https://www.investing.com/news/economy-news/trading-day-stocks-cap-weak-month-stellar-quarter-4768984",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-30T21:07:31.000Z"
-    },
-    {
-      "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
-      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-06-30/THGQJOKIJH8S00",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-30T21:04:36.000Z"
-    },
-    {
-      "title": "20 stocks in the S&P 500 that plunged the most in 2026’s first half",
-      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-plunged-the-most-in-2026s-first-half-ae11e114?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-30T21:04:00.000Z"
-    },
-    {
-      "title": "Citigroup CEO Brings Long-Troubled Bank Into Trump’s Graces",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-30/citigroup-ceo-brings-long-troubled-bank-into-trump-s-graces",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-30T21:01:40.000Z"
-    },
-    {
-      "title": "World Bank to end China lending by 2031, FT reports",
-      "url": "https://www.investing.com/news/economy-news/world-bank-to-end-china-lending-by-2031-ft-reports-93CH-4768952",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-30T21:01:22.000Z"
-    },
-    {
-      "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-      "url": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-30T21:00:00.000Z"
-    },
-    {
-      "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
-      "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-30T21:00:00.000Z"
-    },
-    {
-      "title": "Kura Sushi to Accelerate US Growth to Fend Off Rivals’ Expansion",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/sushi-chain-in-which-trump-holds-stake-accelerates-us-expansion",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-06-30T21:00:00.000Z"
-    },
-    {
-      "title": "Small-cap stocks just had their best start to a year since 1991. The rest of 2026 could look very different.",
-      "url": "https://www.marketwatch.com/story/small-cap-stocks-just-had-their-best-start-to-a-year-since-1991-the-rest-of-2026-could-look-very-different-5118a156?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-30T20:57:00.000Z"
-    },
-    {
-      "title": "U.S. DoJ targets birth tourism after Supreme Court ruling",
-      "url": "https://www.investing.com/news/economy-news/us-doj-targets-birth-tourism-after-supreme-court-ruling-93CH-4768907",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-30T20:53:26.000Z"
-    },
-    {
-      "title": "Nike earnings crushed Wall Street’s estimates, but there’s a catch",
+      "title": "Nike earnings crushed Wall Street’s estimates — but here’s the catch",
       "url": "https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-06-30T20:49:00.000Z"
+      "publishedAt": "2026-07-01T00:19:00.000Z"
     },
     {
-      "title": "US judge blocks Trump’s limits on student loan forgiveness",
-      "url": "https://www.investing.com/news/economy-news/us-judge-blocks-trumps-limits-on-student-loan-forgiveness-4768886",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-06-30T20:48:49.000Z"
+      "title": "Vimeo Parent Bending Spoons, Backers Raise $1.68 Billion in IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-01T00:05:22.000Z"
     },
     {
-      "title": "World Bank to phase out China lending",
-      "url": "https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26",
+      "title": "Donald Trump made more than $1bn last year in return to presidency",
+      "url": "https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec",
       "source": "Financial Times",
-      "publishedAt": "2026-06-30T20:47:12.000Z"
+      "publishedAt": "2026-07-01T00:04:20.000Z"
+    },
+    {
+      "title": "US Labor Market Steady as Stocks Gain",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-01/us-labor-market-steady-as-stocks-gain-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-01T00:01:49.000Z"
+    },
+    {
+      "title": "White House lifts ban on Anthropic models",
+      "url": "https://www.ft.com/content/137ddb71-852f-438c-ad76-25e2dc43486b",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-01T00:01:48.000Z"
+    },
+    {
+      "title": "Gold Steadies as US-Iran Peace Talks Frame Inflation Outlook",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-30T23:57:42.000Z"
+    },
+    {
+      "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
+      "url": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-30T23:24:00.000Z"
+    },
+    {
+      "title": "Oaktree Capital-Backed ITG Raises $312.2 Million in US IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/oaktree-capital-backed-itg-raises-312-2-million-in-us-ipo",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-30T22:51:53.000Z"
+    },
+    {
+      "title": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto",
+      "url": "https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-30T22:48:00.000Z"
+    },
+    {
+      "title": "If LeBron James goes to the Warriors, that team’s roster will be stacked with some of the most expensive players in NBA history",
+      "url": "https://www.marketwatch.com/story/if-lebron-james-goes-to-the-warriors-that-teams-roster-will-be-stacked-with-some-of-the-most-expensive-players-in-nba-history-3bdc8194?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-30T22:32:00.000Z"
+    },
+    {
+      "title": "Shutterstock Shares Fall After Getty Says It Will End Merger",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/shutterstock-shares-fall-after-getty-says-it-will-end-merger",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-30T22:27:32.000Z"
+    },
+    {
+      "title": "Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing.",
+      "url": "https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-30T22:12:00.000Z"
+    },
+    {
+      "title": "Asian Stocks Rise After US Tech Gains, Yen Steady: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/asian-stocks-eye-gains-as-us-posts-stellar-quarter-markets-wrap",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-30T22:09:34.000Z"
+    },
+    {
+      "title": "Oil Edges Up as Peace Talks Continue, Hormuz Traffic Recovers",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-30T22:04:24.000Z"
+    },
+    {
+      "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
+      "url": "https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-30T21:57:00.000Z"
+    },
+    {
+      "title": "Nike Appoints Pfizer CFO as New Finance Chief Amid Industry Experience Questions",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-30/nike-appoints-pfizer-cfo-as-new-finance-chief-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-30T21:52:39.000Z"
+    },
+    {
+      "title": "Alcoa Bets on Aluminum With $5.6 Billion South32 Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/south32-sells-aluminum-assets-to-alcoa-in-5-6-billion-deal",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-30T21:44:52.000Z"
+    },
+    {
+      "title": "Paris-Educated Economist Tapped as Colombian Finance Chief",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/miguel-gomez-to-be-next-colombia-finance-minister-el-tiempo-mr16awmh",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-06-30T21:43:05.000Z"
+    },
+    {
+      "title": "Trump’s energy secretary says global warming is ‘no big deal.’ Meanwhile, a heat emergency is striking the U.S.",
+      "url": "https://www.marketwatch.com/story/trumps-energy-secretary-says-global-warming-is-no-big-deal-meanwhile-a-heat-emergency-is-striking-the-u-s-5f9674c3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-30T21:42:00.000Z"
+    },
+    {
+      "title": "Will the Comcast-NBCU spinoff pay off for investors? Here’s what history has to say.",
+      "url": "https://www.marketwatch.com/story/will-the-comcast-nbcu-spinoff-pay-off-for-investors-heres-what-history-has-to-say-f40ca340?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-06-30T21:42:00.000Z"
     }
   ]
 }
