@@ -1,114 +1,121 @@
 {
-  "lastUpdated": "2026-07-01T21:35:00.148Z",
+  "lastUpdated": "2026-07-02T00:57:39.599Z",
   "ai": {
     "developers": [
+      {
+        "title": "I have a theory about AI fake news site The Editorial",
+        "url": "https://werd.io/i-have-a-theory-about-ai-fake-news-site-the-editorial/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-02T00:34:08.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "FOMO Is the Cyberpsychosis of the AI Era",
+        "url": "https://blog.akring.com/posts/fomo-is-the-cyberpsychosis-of-the-ai-era/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T23:19:57.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Toolnexus for Python – MCP, agent skills,a2a for any LLM",
+        "url": "https://pypi.org/project/toolnexus/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:59:33.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Oracle outlines all the ways it could lose the farm it bet on AI",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:57:20.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Finding a Needle in the Haystack: Querying Physical AI Data with Daft",
+        "url": "https://www.eventual.ai/blog/egodex-scenario-search",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:45:06.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Weird Al declined 'a nice pile of money' to star in AI ad",
+        "url": "https://www.avclub.com/weird-al-yankovic-ai-commercial-exit",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:41:08.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Teaching AI to Reason About Software",
+        "url": "https://soteria-tools.com/blog/teaching-ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:25:12.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
+        "url": "https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:22:14.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Your Site, your rules: new AI traffic options for all customers",
+        "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:13:44.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Simulate what AI agents do to an engineering org (no signup)",
+        "url": "https://www.orgonaut.co/tools/agentic-reorg-simulator/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:12:44.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Koah – Ad network built for AI",
+        "url": "https://www.koahlabs.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:06:35.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Meta's cloud plan is a hedge on Zuckerberg's AI capex, not the end of neoclouds",
+        "url": "https://runtimewire.com/article/meta-compute-neocloud-ai-capacity-scarcity",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T21:58:31.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "What has FIRE been doing in the AI space?",
+        "url": "https://expression.fire.org/p/what-has-fire-been-doing-in-the-ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T21:40:49.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: ExpenseSpy – AI receipt scanner that exports to Excel, built solo",
+        "url": "https://expensespy.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T21:36:40.000Z",
+        "category": "developers"
+      },
       {
         "title": "VeriCache: Turning Lossy KV Cache into Lossless LLM Inference",
         "url": "https://arxiv.org/abs/2605.17613",
         "source": "Hacker News – AI",
         "publishedAt": "2026-07-01T21:16:09.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Can an AI Become a Bodhisattva? Reviewing Deep Calls by Julia Kurnia",
-        "url": "https://buddhistfictionblog.wordpress.com/2026/06/30/can-an-ai-become-a-bodhisattva-reviewing-deep-calls-by-julia-kurnia/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T21:04:47.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The New (and Slightly Smelly) Center of the AI Boom",
-        "url": "https://www.theatlantic.com/technology/2026/06/hacker-houses-ai-boom-san-francisco/687737/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T21:04:46.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "LLM Colosseum – A zero-dependency browser RTS to test LLM tool calling",
-        "url": "https://github.com/asp67/llm-colosseum/tree/main",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T20:54:47.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
-        "url": "https://github.com/clidey/deptrust",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T20:51:47.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "I built a page showing the likelihood of the AI bubble to pop",
-        "url": "https://laurentiugabriel.github.io/is-ai-hype-cooling-down/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T20:46:58.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Meta building cloud business to sell excess AI capacity",
-        "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T20:25:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Agentic design patterns, read through a healthcare AI lens",
-        "url": "https://jenniferjiangkells.com/thoughts/agentic-patterns-healthcare-lens/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T20:21:48.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "In AI-exposed jobs, only the youngest workers are losing ground",
-        "url": "https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T20:15:53.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Virginia county asks schools to conserve power due to AI electricity price hikes",
-        "url": "https://www.tomshardware.com/tech-industry/data-centers/virginia-county-asks-all-employees-including-schools-to-save-power-due-to-ai-driven-electricity-price-hikes-states-400-plus-data-centers-steadily-increasing-demand-grid-expansion-and-pricing",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T20:08:59.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Michael Burry Cites 'Beginning of the End' with New AI Short Bets",
-        "url": "https://www.wsj.com/finance/stocks/michael-burry-cites-beginning-of-the-end-with-new-ai-short-bets-50793c12",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T20:00:30.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "CIA chief compares cutting-edge AI to nuclear weapons",
-        "url": "https://www.japantimes.co.jp/news/2026/07/01/world/cia-ai-nuclear-weapons/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T19:16:03.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "0/6 major aerospace documentation portals are AI Agent-ready",
-        "url": "https://news.ycombinator.com/item?id=48751798",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T19:15:22.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: GOAT 2.0 – AI orchestrator with proactive episodic memory",
-        "url": "https://github.com/takashikiari/GOAT2-General-Orchestrated-Agent-Topology",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T19:12:55.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI's Event Backbone",
-        "url": "https://altertable.ai/blog/2026-03-10-ai-s-events-backbone",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T19:00:27.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Break any AI scam phone call in just a few easy steps [video]",
+        "url": "https://www.youtube.com/watch?v=lk3jCuITwcE",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T22:33:28.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Show HN:An AI agent that applies to jobs for me (Playwright,GPT5.4 form filling)",
         "url": "https://github.com/torontodeveloper/job-application-agent",
@@ -206,21 +213,21 @@
         "source": "The Verge – AI",
         "publishedAt": "2026-06-28T21:42:51.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-        "url": "https://openai.com/index/hp-frontier-partnership",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-28T17:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
       {
-        "title": "Anthropic is hiring someone to protect democracy from its own AI",
-        "url": "https://blog.mccoy.io/anthropic-research-engineer-rule-of-law",
+        "title": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
+        "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-07-01T18:19:58.000Z",
+        "publishedAt": "2026-07-01T23:58:48.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Show HN: Identity Layer for Agents and Autonomous AI",
+        "url": "https://github.com/authsec-ai/authsec-ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-01T23:47:36.000Z",
         "category": "advancements"
       },
       {
@@ -313,125 +320,132 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-23T09:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "How Omio is building the future of conversational travel",
-        "url": "https://openai.com/index/omio",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-23T00:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Amazon Prime's 50-cent-per-gallon gas discount starts July 2. Here's how to maximize it",
-        "url": "https://www.cnbc.com/select/amazon-offering-50-cents-off-gas/",
-        "source": "CNBC",
-        "publishedAt": "2026-07-01T21:00:52.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
-        "url": "https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-01T20:40:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
-        "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-01T20:27:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
-        "url": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-01T20:12:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
-        "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-01T20:12:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "PlayStation will end physical disc production for new games in 2028",
-        "url": "https://www.cnbc.com/2026/07/01/sony-playstation-physical-disc-production-2028.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-01T20:09:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Halifax brand to be scrapped after 173 years",
-        "url": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-07-01T20:09:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "UBS sees opportunities in these defensive stocks. They also pay dividends",
-        "url": "https://www.cnbc.com/2026/07/01/ubs-sees-opportunities-in-these-defensive-stocks-they-also-pay-dividends.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-01T20:08:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks today: S&amp;P 500, Nasdaq edge lower as tech shares slide",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-tech-shares-slip/articleshow/132124218.cms",
+        "title": "SP Group to issue Rs 25,500 crore bonds against Tata Sons stake",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/sp-group-to-issue-rs-25500-crore-bonds-against-tata-sons-stake/articleshow/132126777.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-01T20:05:45.000Z",
+        "publishedAt": "2026-07-02T00:43:30.000Z",
         "category": "markets"
       },
       {
-        "title": "Meta pops 9% as company makes cloud push to sell excess AI compute power capacity",
-        "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
+        "title": "Pre-market action: Here's the trade setup for today's session",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132120108.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-02T00:41:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi/articleshow/132120012.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-02T00:41:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bloomberg global index entry in sight for Indian G-Secs",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/bloomberg-global-index-entry-in-sight-for-indian-g-secs/articleshow/132126748.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-02T00:34:19.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Rupee logs sharpest fall since June 8, ends at 95.24 against dollar",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-logs-sharpest-fall-since-june-8-ends-at-95-24-against-dollar/articleshow/132126696.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-02T00:14:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Inside India newsletter: Amazon, Walmart-owned Flipkart get ready to shake upIndia's delivery-in-minutes sector",
+        "url": "https://www.cnbc.com/2026/07/02/india-amazon-walmart-flipkart-quick-commerce.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-01T20:02:29.000Z",
+        "publishedAt": "2026-07-02T00:10:37.000Z",
         "category": "markets"
       },
       {
-        "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
-        "url": "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html",
+        "title": "India's premium has almost entirely disappeared now: Ben Powell,  BlackRock",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/indias-premium-has-almost-entirely-disappeared-now-ben-powell-blackrock/articleshow/132126679.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-02T00:10:10.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Upstox's erroneous a/c freeze mail sparks client panic",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/upstoxs-erroneous-a/c-freeze-mail-sparks-client-panic/articleshow/132126638.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-02T00:04:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "South Korean government discriminated against Coupang, U.S. companies, House report finds",
+        "url": "https://www.cnbc.com/2026/07/01/coupang-south-korea-coupang-house-judiciary.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-01T19:19:44.000Z",
+        "publishedAt": "2026-07-02T00:01:59.000Z",
         "category": "markets"
       },
       {
-        "title": "Trump wants delay but E. Jean Carroll wants to gets paid — now: Court filing",
-        "url": "https://www.cnbc.com/2026/07/01/trump-carroll-supreme-court-award.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-01T18:59:39.000Z",
+        "title": "KPIT outlook shock sends IT stocks sliding as growth worries intensify",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-outlook-shock-sends-it-stocks-sliding-as-growth-worries-intensify/articleshow/132126618.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-02T00:01:00.000Z",
         "category": "markets"
       },
       {
-        "title": "US blocks long-term renewal of North American trade deal",
-        "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+        "title": "Adani, IHC plan to forge $11.5 billion aluminium unit",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ihc-plan-to-forge-11-5-billion-aluminium-unit/articleshow/132126794.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-02T00:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Don't expect trackers to save your stolen car, experts say",
+        "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-07-01T18:56:36.000Z",
+        "publishedAt": "2026-07-01T23:31:43.000Z",
         "category": "markets"
       },
       {
-        "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
-        "url": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
+        "title": "Why Japanese airlines' $400 fuel surcharges are hitting now — and when they will end",
+        "url": "https://www.cnbc.com/2026/07/02/japan-airlines-increase-fuel-surcharges-despite-falling-jet-fuel-costs.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-01T18:55:47.000Z",
+        "publishedAt": "2026-07-01T23:27:45.000Z",
         "category": "markets"
       },
       {
-        "title": "Trump says outside funds 'run my money' after disclosure shows billions in 2025 revenue",
-        "url": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
+        "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+        "url": "https://www.cnbc.com/2026/07/01/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-01T18:44:13.000Z",
+        "publishedAt": "2026-07-01T23:13:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-01T23:01:32.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next?",
+        "url": "https://cointelegraph.com/markets/bitcoin-pings-60k-amid-fed-inflation-talks-is-bull-trap-or-65k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-01T22:02:40.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Robinhood rolls out public blockchain, plans crypto trading for UK residents",
+        "url": "https://cointelegraph.com/news/robinhood-public-blockchain-mainnet-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-01T21:38:49.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
         "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
@@ -522,143 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-07-01T16:47:01.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Ethereum backers launch nonprofit to lead institutional adoption efforts",
-        "url": "https://cointelegraph.com/news/ethereum-institutional-nonprofit-launches-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-01T16:39:28.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
-        "url": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-01T16:11:50.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-01T21:26:00.000Z"
-    },
-    {
-      "title": "Meta Platforms Getting Into Cloud Infrastructure Business | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-01/meta-platforms-getting-into-cloud-infrastructure-business-closing-bell",
+      "title": "Gold Holds Gain After Warsh Remarks Ease Fed Rate-Hike Prospects",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/gold-holds-gain-after-warsh-remarks-ease-fed-rate-hike-prospects",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T21:20:02.000Z"
+      "publishedAt": "2026-07-02T00:28:54.000Z"
     },
     {
-      "title": "Chuck E. Cheese CEO Highlights Growth in Birthday Party Business",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-01/chuck-e-cheese-ceo-on-growth-in-birthday-party-business-video",
+      "title": "South Korean Stocks Tumble 6% as AI Jitters Hurt Chipmakers",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-stocks-tumble-6-as-ai-jitters-hurt-chipmakers",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T21:17:36.000Z"
+      "publishedAt": "2026-07-02T00:23:00.000Z"
     },
     {
-      "title": "This unheralded sector may be the one sure thing for bulls in July",
-      "url": "https://www.marketwatch.com/story/this-unheralded-sector-may-be-the-one-sure-thing-for-bulls-in-july-e620a01b?mod=mw_rss_topstories",
+      "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
+      "url": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-01T21:08:00.000Z"
+      "publishedAt": "2026-07-02T00:15:00.000Z"
     },
     {
-      "title": "Trading Day: Stocks dip as sluggish July shuffles in",
-      "url": "https://www.investing.com/news/economy-news/trading-day-stocks-dip-as-sluggish-july-shuffles-in-4771677",
+      "title": "SEC Probes Alleged Insider Trades That Hurt Susquehanna",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/sec-probes-alleged-insider-trades-that-cost-susquehanna-millions",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-02T00:11:50.000Z"
+    },
+    {
+      "title": "Emerging Asia Bonds Draw Global Funds Despite Fed Hike Fears",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/emerging-asia-bonds-draw-global-funds-despite-fed-hike-fears",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-02T00:06:45.000Z"
+    },
+    {
+      "title": "Hamilton Lane Targets $220 Million for First China Yuan Fund",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/hamilton-lane-targets-220-million-for-first-china-yuan-fund",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-01T23:58:03.000Z"
+    },
+    {
+      "title": "KKR-Backed Musinsa Eyes 'Fast Growth' in China",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-01/kkr-backed-musinsa-eyes-fast-growth-in-china-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-01T23:52:37.000Z"
+    },
+    {
+      "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to reckon with first.",
+      "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-01T23:48:00.000Z"
+    },
+    {
+      "title": "Minnesota attorney general shuts unit reviewing wrongful convictions, cites Trump funding cut",
+      "url": "https://www.investing.com/news/economy-news/minnesota-attorney-general-shuts-unit-reviewing-wrongful-convictions-cites-trump-funding-cut-4772028",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-01T21:06:54.000Z"
+      "publishedAt": "2026-07-01T23:31:07.000Z"
     },
     {
-      "title": "Japan's $13 Billion Global Anime Merchandise Goal",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-01/japan-s-13illion-global-anime-merchandise-goal",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T21:01:49.000Z"
-    },
-    {
-      "title": "South Korean Banks Expand Trading Floors for 24-Hour Won Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/south-korean-banks-expand-trading-floors-for-24-hour-won-market",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T21:00:00.000Z"
-    },
-    {
-      "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
-      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-01/THIKWFVTTCZU00",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T20:57:51.000Z"
-    },
-    {
-      "title": "REalloys Announces Partnership to Operate on US Army Base",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-01/realloys-announces-deal-to-operate-on-us-army-base-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T20:52:26.000Z"
-    },
-    {
-      "title": "KNDS postpones plans for stock market listing",
-      "url": "https://www.ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-01T20:49:05.000Z"
-    },
-    {
-      "title": "Is Meta ‘giving up’ on cutting-edge AI? Wall Street is divided over potential cloud pivot.",
-      "url": "https://www.marketwatch.com/story/is-meta-giving-up-on-cutting-edge-ai-wall-street-is-divided-over-potential-cloud-pivot-7c5ffc5d?mod=mw_rss_topstories",
+      "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
+      "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-01T20:49:00.000Z"
-    },
-    {
-      "title": "IMF cuts Israel’s 2026 growth forecast to 3.5% on tensions",
-      "url": "https://www.investing.com/news/economy-news/imf-cuts-israels-2026-growth-forecast-to-35-on-tensions-93CH-4771580",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-01T20:39:27.000Z"
-    },
-    {
-      "title": "Treasury announces investment options for Trump Accounts",
-      "url": "https://www.investing.com/news/economy-news/treasury-announces-investment-options-for-trump-accounts-93CH-4771569",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-01T20:38:25.000Z"
-    },
-    {
-      "title": "M&amp;A Volume to Stay Strong in Second Half, Says Sullivan’s Sawyer",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/m-a-volume-to-stay-strong-in-second-half-says-sullivan-s-sawyer",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T20:36:31.000Z"
-    },
-    {
-      "title": "Golden Seeds Looks to Close the Gender Gap in Startup Investments",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-01/golden-seeds-looks-to-close-gender-gap-in-investments-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T20:17:25.000Z"
-    },
-    {
-      "title": "The SEC Doesn’t Want to Be in the Biz of Picking ETF Winners",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-01/the-sec-doesn-t-want-to-pick-winners-in-the-etf-industry",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T20:04:44.000Z"
-    },
-    {
-      "title": "Mega takeovers drive record $2.8tn in dealmaking",
-      "url": "https://www.ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-01T20:00:08.000Z"
-    },
-    {
-      "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-      "url": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-01T19:52:00.000Z"
+      "publishedAt": "2026-07-01T23:11:00.000Z"
     },
     {
       "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
       "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-01T19:52:00.000Z"
+      "publishedAt": "2026-07-01T23:01:00.000Z"
     },
     {
-      "title": "Tesla ‘Magic Number’ $420 Sends Musk Bros Piling Into the Stock",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/musk-meme-traders-blaze-back-into-tesla-when-the-stock-hits-420",
+      "title": "KKR-Backed Musinsa Ramps Up Asia Store Push Ahead of IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/kkr-backed-musinsa-ramps-up-asia-store-push-ahead-of-ipo",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-01T19:41:56.000Z"
+      "publishedAt": "2026-07-01T23:00:00.000Z"
+    },
+    {
+      "title": "Traders Plot Worst-Case Scenario for Yen If Currency Crisis Hits",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/traders-plot-worst-case-scenario-for-yen-if-currency-crisis-hits",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-01T23:00:00.000Z"
+    },
+    {
+      "title": "White House accelerates plans for AI model standards",
+      "url": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-01T22:51:47.000Z"
+    },
+    {
+      "title": "Asian Stocks Drop After US Chip Selloff, Oil Falls: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/asian-stocks-to-decline-as-traders-weigh-ai-warsh-markets-wrap",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-01T22:05:31.000Z"
+    },
+    {
+      "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
+      "url": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-01T22:05:00.000Z"
+    },
+    {
+      "title": "Oil Extends Drop as More Barrels Flow Through Strait of Hormuz",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/latest-oil-market-news-and-analysis-for-july-2",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-01T22:01:33.000Z"
+    },
+    {
+      "title": "Global Treasurers Fuel Record $36 Billion of Kangaroo Bond Sales",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/global-treasurers-fuel-record-36-billion-of-kangaroo-bond-sales",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-01T22:00:00.000Z"
+    },
+    {
+      "title": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
+      "url": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-01T21:58:00.000Z"
+    },
+    {
+      "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
+      "url": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-01T21:55:00.000Z"
     }
   ]
 }
