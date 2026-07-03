@@ -1,121 +1,114 @@
 {
-  "lastUpdated": "2026-07-03T14:09:05.694Z",
+  "lastUpdated": "2026-07-03T16:25:48.173Z",
   "ai": {
     "developers": [
       {
-        "title": "Zynkbot – Open-source local AI with transparent memory (Rust)",
-        "url": "https://github.com/MSkill1/zynkbot",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T14:06:20.000Z",
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-30T21:50:04.000Z",
         "category": "developers"
       },
       {
-        "title": "Mathematicians are developing rules for AI use",
-        "url": "https://www.nature.com/articles/d41586-026-01881-2",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T14:02:17.000Z",
+        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+        "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-06-30T19:24:51.000Z",
         "category": "developers"
       },
       {
-        "title": "Microsoft commits $2.5B and 6k employees to new AI implementation unit",
-        "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T13:49:42.000Z",
+        "title": "Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-26T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Trispe: Building an AI Prediction Exchange Without Human Traders",
-        "url": "https://trispe.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T13:48:33.000Z",
+        "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+        "url": "https://openai.com/index/gpt-5-immunology-mystery",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-23T17:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "CorvinOS – a self-hosted agentic OS which enforce EU AI Act 2026 by design",
-        "url": "https://github.com/CorvinLabs/CorvinOS",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T13:34:31.000Z",
+        "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+        "url": "https://openai.com/index/patch-the-planet",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-22T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Handpicked AI jobs from 170 AI companies, sourced from career pages",
-        "url": "https://job.careers/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T13:32:59.000Z",
+        "title": "Codex-maxxing for long-running work",
+        "url": "https://openai.com/index/codex-maxxing-long-running-work",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-22T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Simulating Tradeoffs in AI Organisation",
-        "url": "https://news.ycombinator.com/item?id=48774713",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T13:20:35.000Z",
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-21T23:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Meta's Zuckerberg says AI agent tech progressing slower than expected",
-        "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T13:13:09.000Z",
+        "title": "Predicting model behavior before release by simulating deployment",
+        "url": "https://openai.com/index/deployment-simulation",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Foundera – AI-powered founder and startup feedback platform",
-        "url": "https://foundera.app/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T13:07:28.000Z",
+        "title": "How an astrophysicist uses Codex to help simulate black holes",
+        "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-11T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Semantic Manifest – An open specification for AI crawler ingestion",
-        "url": "https://github.com/CKL75/semantic-manifest-specification",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T13:02:42.000Z",
+        "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+        "url": "https://openai.com/index/openai-on-oracle-cloud",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-10T20:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "When AI Comes to the Workplace: Ethics, Employee Empowerment and Privacy",
-        "url": "https://read.misalignedmag.com/when-ai-comes-to-the-workplace-ethics-employee-empowerment-and-privacy-7e9bb45cd7e4",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T13:02:25.000Z",
+        "title": "How engineers at Nextdoor use Codex to build without limits",
+        "url": "https://openai.com/index/nextdoor",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-09T12:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: I built a website showing the likelihood of the AI bubble to pop",
-        "url": "https://laurentiugabriel.github.io/is-ai-hype-cooling-down/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T12:55:34.000Z",
+        "title": "What Codex unlocks for Notion",
+        "url": "https://openai.com/index/notion",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-09T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models",
-        "url": "https://arxiv.org/abs/2607.02501",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T12:55:02.000Z",
+        "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+        "url": "https://openai.com/index/wasmer",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-03T12:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Spark KNE Verify – Verify selected AI claims in the browser",
-        "url": "https://chromewebstore.google.com/detail/spark-kne-verify/ncegakjnphdojnjlohobacncplbkbfdc",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T12:53:24.000Z",
+        "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+        "url": "https://openai.com/index/travelers",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-02T12:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "My Students Hate AI. But They Can't Stop Using It",
-        "url": "https://www.chronicle.com/article/my-students-hate-ai-but-they-cant-stop-using-it",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T12:53:06.000Z",
+        "title": "Codex for every role, tool, and workflow",
+        "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-02T09:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
-      {
-        "title": "KathaGPT – private AI desktop app",
-        "url": "https://santoshpremi.github.io/KathaGPT/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T12:49:18.000Z",
-        "category": "everyone"
-      },
       {
         "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
@@ -213,16 +206,16 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-29T14:44:01.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Mapping Europe’s AI Workforce Opportunity",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-29T07:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
-      {
-        "title": "Can AI Make Scientific Breakthroughs?",
-        "url": "https://blog.cosmos-institute.org/p/can-ai-make-scientific-breakthroughs",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T14:05:06.000Z",
-        "category": "advancements"
-      },
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
@@ -320,118 +313,160 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-23T09:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "How Omio is building the future of conversational travel",
+        "url": "https://openai.com/index/omio",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Barebells owner to merge with protein-bar manufacturer",
-        "url": "https://finance.yahoo.com/small-business/articles/barebells-owner-merge-protein-bar-103955349.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T14:04:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Finnish sports-nutrition firm Elite Fitness gets new owner",
-        "url": "https://finance.yahoo.com/small-business/articles/finnish-sports-nutrition-firm-elite-140433701.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T14:04:33.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dairy group Ehrmann to launch RTD collagen coffees",
-        "url": "https://finance.yahoo.com/healthcare/articles/dairy-group-ehrmann-launch-rtd-135530623.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:55:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What Makes Visa (V) a Lucrative Investment?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/makes-visa-v-lucrative-investment-135402738.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:54:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "NuScale Power Stock Is Down 75% in 12 Months. Here's Why.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-down-75-135000627.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:50:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Security staff to go on strike at Aberdeen Airport",
-        "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
+        "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+        "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-07-03T13:48:58.000Z",
+        "publishedAt": "2026-07-03T16:13:14.000Z",
         "category": "markets"
       },
       {
-        "title": "Here's Why Viking Therapeutics Stock Surged Higher in June",
-        "url": "https://finance.yahoo.com/healthcare/articles/heres-why-viking-therapeutics-stock-134539823.html",
+        "title": "Meet the Dividend King With a 64-Year Streak That Wall Street Is Sleeping On",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/meet-dividend-king-64-streak-161100545.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:45:39.000Z",
+        "publishedAt": "2026-07-03T16:11:00.000Z",
         "category": "markets"
       },
       {
-        "title": "This 65-Year Dividend Streak Nearly Broke. Here Is Why It Keeps Rising",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/65-dividend-streak-nearly-broke-134527196.html",
+        "title": "VT vs. SCHF: Which International ETF Is the Better Buy for Investors?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/vt-vs-schf-international-etf-160755152.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:45:27.000Z",
+        "publishedAt": "2026-07-03T16:07:55.000Z",
         "category": "markets"
       },
       {
-        "title": "Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
+        "title": "Dow Jones Futures: Techs Rebound After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
         "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:44:50.000Z",
+        "publishedAt": "2026-07-03T16:05:26.000Z",
         "category": "markets"
       },
       {
-        "title": "Vietnam’s Dien May Xanh raises over $500m in IPO",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/vietnam-dien-may-xanh-raises-134323137.html",
+        "title": "VDE vs. VPU: Which Vanguard ETF Is a Better Way to Invest in Rising Energy Prices?",
+        "url": "https://finance.yahoo.com/energy/articles/vde-vs-vpu-vanguard-etf-160500306.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:43:23.000Z",
+        "publishedAt": "2026-07-03T16:05:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Meta Is Reportedly Building a Cloud Business to Rival Amazon and Microsoft -- and a Way to Make Its Massive AI Bet Pay Off",
-        "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-building-cloud-business-134300898.html",
+        "title": "This MLP Income ETF Quietly Pays Higher Yield Than AMLP Using a Covered Call Overlay",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mlp-income-etf-quietly-pays-160401317.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:43:00.000Z",
+        "publishedAt": "2026-07-03T16:04:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Wall Street Sees Huge Upside As Seabridge Gold (SA) Builds For Long Term",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-huge-upside-134206994.html",
+        "title": "Here is the Best Bank ETF",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/best-bank-etf-160301155.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:42:06.000Z",
+        "publishedAt": "2026-07-03T16:03:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Vaxcyte Inc (PCVX) Is A Hidden Multibagger Stock To Buy Now",
-        "url": "https://finance.yahoo.com/healthcare/articles/vaxcyte-inc-pcvx-hidden-multibagger-134142659.html",
+        "title": "Jim Cramer turns bullish on health care stock after years of doubt",
+        "url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-turns-bullish-health-160300559.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:41:42.000Z",
+        "publishedAt": "2026-07-03T16:03:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Structure Therapeutics (GPCR) Is A Hidden Biotech Multibagger Stock To Buy Now",
-        "url": "https://finance.yahoo.com/healthcare/articles/structure-therapeutics-gpcr-hidden-biotech-134131643.html",
+        "title": "Fiserv, service station operators including BP warn US stores on illegal vapes",
+        "url": "https://finance.yahoo.com/healthcare/articles/fiserv-station-operators-including-bp-155734839.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:41:31.000Z",
+        "publishedAt": "2026-07-03T15:57:34.000Z",
         "category": "markets"
       },
       {
-        "title": "A $500 Million Funding Deal Could Make Mineralys Therapeutics (MLYS) Stock A Multibagger",
-        "url": "https://finance.yahoo.com/healthcare/articles/500-million-funding-deal-could-134113992.html",
+        "title": "Up 140% YTD, Three Catalysts Will Take AMD to New Highs In 2026",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/140-ytd-three-catalysts-amd-155718973.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:41:13.000Z",
+        "publishedAt": "2026-07-03T15:57:18.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Essent vs. Progressive: Which Insurance Stock Is a Better Buy in 2026?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/essent-vs-progressive-insurance-stock-155656393.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-03T15:56:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AI debt is a bigger risk to stability than sky-high Wall Street valuations, the IMF says. Here’s why",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-debt-bigger-risk-stability-154000944.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-03T15:40:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Global stock markets close higher as Europe's benchmark hits 52-week high: Live updates",
+        "url": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-03T15:34:44.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Is Rocket Lab (RKLB) The Best Space Stock to Buy Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-best-space-153110214.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-03T15:31:10.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "TotalEnergies Offers Millions of Barrels of Iraqi Crude to Asian Buyers",
+        "url": "https://finance.yahoo.com/energy/articles/totalenergies-offers-millions-barrels-iraqi-153000890.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-03T15:30:00.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Standard Chartered Secures MiCA License as ESMA Adds 37 New Crypto Firms",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-secures-mica-license-160547485.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-03T16:05:47.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto Biz: Bitcoin maximalism meets the realities of capital markets",
+        "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-03T16:03:41.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin price tags $62.3K nine-day high after global stocks hit historic record",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-tags-623k-nine-day-high-after-global-stocks-hit-historic-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-03T15:11:30.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-03T14:20:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "EU crypto rulebook faces enforcement challenge as MiCA transition ends",
+        "url": "https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-03T13:59:16.000Z",
+        "category": "crypto"
+      },
       {
         "title": "American Bitcoin Conducts Reverse Stock Split To Avoid Delisting",
         "url": "https://finance.yahoo.com/markets/stocks/articles/american-bitcoin-conducts-reverse-stock-134900911.html",
@@ -447,24 +482,17 @@
         "category": "crypto"
       },
       {
-        "title": "IMF Warns That Tokenization Could Lead To Market Shocks",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/imf-warns-tokenization-could-lead-132900579.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:29:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin ETFs See Influx Of Capital After 10-Day Losing Streak",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-see-influx-capital-132700148.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T13:27:00.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "Upbit says it only expressed interest in future OUSD participation",
         "url": "https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-07-03T13:19:49.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-03T13:16:39.000Z",
         "category": "crypto"
       },
       {
@@ -508,38 +536,82 @@
         "source": "CoinDesk",
         "publishedAt": "2026-07-03T11:27:44.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness",
-        "url": "https://cointelegraph.com/news/zcash-ironwood-upgrade-possible-delay-infrastructure-readiness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-03T11:21:30.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Crypto bulls on firmer footing as U.S. rate-hike risk recedes",
-        "url": "https://www.coindesk.com/markets/2026/07/03/crypto-bulls-on-firmer-footing-as-u-s-rate-hike-risk-recedes",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-03T11:11:39.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Defendant files to dismiss New York lawsuit seeking ownership of 39,069 Bitcoin wallets",
-        "url": "https://cointelegraph.com/news/defendant-dismiss-new-york-lawsuit-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-03T11:10:24.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Memory and semiconductor stocks lose momentum, bitcoin rebounds in sign of changing investor focus",
-        "url": "https://www.coindesk.com/markets/2026/07/03/memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign-of-changing-investor-focus",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-03T10:41:52.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star",
+      "url": "https://www.marketwatch.com/story/the-world-cup-has-made-cape-verde-goalkeeper-vozinha-a-17-million-star-15af0138?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-03T16:24:00.000Z"
+    },
+    {
+      "title": "CPP Invests $1.75 Billion in EQT’s AI Infrastructure Buildout",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-03T15:44:05.000Z"
+    },
+    {
+      "title": "AI infrastructure stocks have overtaken the tech hyperscalers in a shift UBS calls ‘extraordinary’",
+      "url": "https://www.marketwatch.com/story/ai-infrastructure-stocks-have-overtaken-big-tech-hyperscalers-in-an-extraordinary-shift-says-ubs-research-arm-7c425a02?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-03T15:41:00.000Z"
+    },
+    {
+      "title": "Argentina Pushes $6 Billion in Repo Maturities Past Election",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/argentina-extends-6-billion-in-repo-maturities-beyond-election",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-03T15:16:22.000Z"
+    },
+    {
+      "title": "Space startup Katalyst launches orbital rescue mission for aging NASA observatory",
+      "url": "https://www.investing.com/news/economy-news/space-startup-katalyst-launches-orbital-rescue-mission-for-aging-nasa-observatory-4775255",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-03T15:12:26.000Z"
+    },
+    {
+      "title": "Defense Sector to Remain Dynamic: Euronext CEO Boujnah",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-03/defense-sector-to-remain-dynamic-euronext-ceo-boujnah-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-03T15:02:48.000Z"
+    },
+    {
+      "title": "Canadian Stocks Enjoy Broad Gains After New Pipeline Proposal",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/canadian-stocks-enjoy-broad-gains-after-new-pipeline-proposal",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-03T14:37:05.000Z"
+    },
+    {
+      "title": "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/opec-output-surged-in-june-as-hormuz-flows-jumped-survey-shows",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-03T14:36:39.000Z"
+    },
+    {
+      "title": "Trump will oppose heavy US AI regulation, says outgoing tech adviser",
+      "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-03T14:32:49.000Z"
+    },
+    {
+      "title": "Fed and ECB Seen Diverging in French Snapshot of War Aftermath",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/fed-and-ecb-seen-diverging-in-french-snapshot-of-war-aftermath",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-03T14:19:08.000Z"
+    },
+    {
+      "title": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks.",
+      "url": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-03T14:17:00.000Z"
+    },
+    {
+      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+      "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-03T14:15:00.000Z"
+    },
     {
       "title": "Dollar set for biggest weekly drop since April after jobs data lowers Fed hike bets",
       "url": "https://www.investing.com/news/economy-news/dollar-heads-for-weekly-drop-as-jobs-data-dims-fed-hike-bets-4774963",
@@ -547,10 +619,28 @@
       "publishedAt": "2026-07-03T14:06:27.000Z"
     },
     {
+      "title": "GFL Environmental Weighs Take-Private Amid Interest From Buyout Firms",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/gfl-environmental-weighs-take-private-amid-interest-from-buyout-firms",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-03T14:05:15.000Z"
+    },
+    {
+      "title": "‘It’s whack-a-mole’: how Europe’s smart border melted down",
+      "url": "https://www.ft.com/content/3ed70f64-7443-4241-ac0f-38eabe218913",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-03T14:00:58.000Z"
+    },
+    {
       "title": "U.S. stocks have delivered 8.7% a year since independence was declared in 1776",
       "url": "https://www.marketwatch.com/story/u-s-stocks-have-delivered-8-7-a-year-since-independence-was-declared-in-1776-7513ae04?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-07-03T13:52:00.000Z"
+    },
+    {
+      "title": "John Roberts, the US chief justice playing the long game",
+      "url": "https://www.ft.com/content/054c4a16-e7b6-4bed-a0d0-7ee0ae3e1251",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-03T13:51:23.000Z"
     },
     {
       "title": "Buddhism: China's New Soft Power Front",
@@ -569,96 +659,6 @@
       "url": "https://www.investing.com/news/economy-news/better-growth-wont-help-european-stocks-bofa-says-4775238",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-07-03T13:12:30.000Z"
-    },
-    {
-      "title": "How crowds become stupider",
-      "url": "https://www.ft.com/content/927dde1c-4476-4d22-8fa0-f546506ecd6d",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-03T12:40:21.000Z"
-    },
-    {
-      "title": "Carlyle Hires Banks for $400 Million India IPO of RCM Business",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/carlyle-hires-banks-for-400-million-india-ipo-of-rcm-business",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-03T12:17:40.000Z"
-    },
-    {
-      "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-      "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-03T12:15:00.000Z"
-    },
-    {
-      "title": "iCON Infrastructure to Buy Northern Fiber in Rescue Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/icon-infrastructure-to-buy-northern-fiber-in-rescue-deal",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-03T12:13:05.000Z"
-    },
-    {
-      "title": "Pubs to Get Short-Term World Cup Boost",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-03/pubs-to-get-short-term-world-cup-boost-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-03T12:12:33.000Z"
-    },
-    {
-      "title": "Russia Hikes June Subsidies to Refiners as Fuel Shortages Bite",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/russia-hikes-june-subsidies-to-refiners-as-fuel-shortages-bite",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-03T12:08:09.000Z"
-    },
-    {
-      "title": "Monaco bomb suspect is a woman from Ukraine",
-      "url": "https://www.ft.com/content/5fdf37f2-9217-4490-beaa-7e1baab4b94c",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-03T12:07:48.000Z"
-    },
-    {
-      "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
-      "url": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-03T12:01:00.000Z"
-    },
-    {
-      "title": "Micron was started by a few guys in an Idaho basement. How it rose to be at the center of the AI boom.",
-      "url": "https://www.marketwatch.com/story/micron-was-started-by-a-few-guys-in-an-idaho-basement-how-it-rose-to-be-at-the-center-of-the-ai-boom-c06ee78a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-03T12:00:00.000Z"
-    },
-    {
-      "title": "Am I better off claiming Social Security early and investing the money, or delaying until age 70?",
-      "url": "https://www.marketwatch.com/story/am-i-better-off-claiming-social-security-early-and-investing-the-money-or-delaying-until-age-70-95f856d9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-03T12:00:00.000Z"
-    },
-    {
-      "title": "A week of wild volatility for Korean stocks brought to a rousing finale by reports of Anthropic-Samsung deal",
-      "url": "https://www.marketwatch.com/story/a-week-of-wild-volatility-for-korean-stocks-brought-to-a-rousing-finale-by-reports-of-anthropic-samsung-deal-b69f32c5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-03T11:49:00.000Z"
-    },
-    {
-      "title": "Barclays sees an \"extended\" interest rate hold by the Fed. Here’s why.",
-      "url": "https://www.investing.com/news/economy-news/barclays-sees-an-extended-interest-rate-hold-by-the-fed-heres-why-4775216",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-03T11:46:22.000Z"
-    },
-    {
-      "title": "Barclays sees UK facing £4.7 billion defence funding gap",
-      "url": "https://www.investing.com/news/economy-news/barclays-sees-uk-facing-47-billion-defence-funding-gap-4775195",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-03T11:31:24.000Z"
-    },
-    {
-      "title": "Analysts cut Canadian dollar forecasts as USMCA uncertainty clips rate hike chances: Reuters poll",
-      "url": "https://www.investing.com/news/economy-news/analysts-cut-canadian-dollar-forecasts-as-usmca-uncertainty-clipsrate-hike-chances-4775208",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-03T11:30:29.000Z"
-    },
-    {
-      "title": "EU Agrees to Cut ESG Reporting Requirements for Asset Managers",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/eu-agrees-to-cut-esg-reporting-requirements-for-asset-managers",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-03T11:26:25.000Z"
     }
   ]
 }
