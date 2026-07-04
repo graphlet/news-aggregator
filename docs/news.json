@@ -1,7 +1,98 @@
 {
-  "lastUpdated": "2026-07-03T22:05:17.018Z",
+  "lastUpdated": "2026-07-04T03:19:12.777Z",
   "ai": {
     "developers": [
+      {
+        "title": "Argentina's plan for AI-run companies can't avoid humans",
+        "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-04T02:25:50.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How AI Made IKEA Workers 10x More Valuable (5 min video)",
+        "url": "https://www.youtube.com/watch?v=2ODq6IsmkhM",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-04T02:08:06.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "You take AI, I'll take my iPod (if I can find it)",
+        "url": "https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-04T01:29:46.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Did you know your code is overpaying for AI?",
+        "url": "https://tokendiet.dev/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-04T00:56:35.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Context graphs: how AI agents remember why decisions were made",
+        "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-04T00:30:11.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "China's ByteDance discovers new scaling law that could sustain AI boom",
+        "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-04T00:12:02.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit",
+        "url": "https://slopscan.ava.pet/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-04T00:05:37.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Gavio: open-source interceptor pipeline for production LLM applications",
+        "url": "https://github.com/manojmallick/gavio",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-04T00:04:06.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Forget the AI bubble. The IMF says the real threat is the mountain of debt",
+        "url": "https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-03T23:50:21.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Give your AI agent its own email inbox – MailKite",
+        "url": "https://mailkite.dev/blog/give-your-agent-an-inbox/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-03T23:47:29.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Coding without AI: a revolutionary new way to work",
+        "url": "https://isaaclyman.com/blog/posts/code-review/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-03T23:34:28.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: StayThere.ai - Book directly at over 96k short term rentals",
+        "url": "https://staythere.ai/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-03T23:07:51.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Trip LLM safety refusals so that LLM-based code scanning wont see the malware",
+        "url": "https://indieweb.social/@laurenshof/116720287681995824",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-03T22:26:37.000Z",
+        "category": "developers"
+      },
       {
         "title": "AI Trade Is Losing One of Its Key Signals",
         "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
@@ -15,105 +106,21 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-07-03T21:47:53.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Show HN: Durable AI agents without the workflow engine",
-        "url": "https://www.noworkflows.dev/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T21:47:10.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-        "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T21:21:08.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI inference is obviously profitable",
-        "url": "https://www.seangoedecke.com/ai-inference-is-obviously-profitable/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T21:14:33.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Mlx-serve – LLM inference server for Apple Silicon, written in Zig",
-        "url": "https://mlxserve.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T21:06:11.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Collabora Office 26.04 Keeps AI Optional and Refines Writer and Calc",
-        "url": "https://itsfoss.com/news/collabora-office-26-04/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T21:01:20.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Meta AI chief says their coming LLM has caught up with OpenAI's flagship model",
-        "url": "https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T21:00:18.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "OpenCode, Pi, and Goose: Three Layers of the AI Agent Stack",
-        "url": "https://gist.github.com/AIMOWAY/bd8007c8f834a9bc83c71e3178239d75",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T20:38:28.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Is Boring",
-        "url": "https://news.ycombinator.com/item?id=48779624",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T20:32:12.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Deterministic Guardrails Against AI Code Duplication",
-        "url": "https://www.technology.org/2026/07/03/dupehound-deterministic-guardrails-against-ai-code-duplication/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T20:31:16.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Sharing LLM Artifacts with your team",
-        "url": "https://github.com/danielpang/dropway",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T20:26:42.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Adapt: AI Native Work",
-        "url": "https://adapt.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T20:26:07.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Does a URL just sitting in a prompt steer an LLM's output toward its content?",
-        "url": "https://aifoc.us/influencing-model-output-with-urls/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T20:23:02.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: An AI-friendly CLI for public space data",
-        "url": "https://www.npmjs.com/package/spacedata",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T19:50:17.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
       {
-        "title": "Collabora Office Update with Choose Your Own LLM Adventure",
-        "url": "https://www.heise.de/en/news/Collabora-Office-26-04-Desktop-suite-with-self-selected-AI-11351930.html",
+        "title": "Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle",
+        "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T18:19:39.000Z",
+        "publishedAt": "2026-07-04T01:23:56.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "How HN: Billy – a self-hosted AI assistant that lives in your Telegram",
+        "url": "https://github.com/surfgolfski-dev/billy",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-04T00:02:23.000Z",
         "category": "everyone"
       },
       {
@@ -201,35 +208,14 @@
         "category": "everyone"
       },
       {
-        "title": "Agent confidence on the technical frontier",
-        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+        "title": "AI agents are not your “coworkers”",
+        "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
         "source": "MIT Technology Review",
-        "publishedAt": "2026-06-29T14:44:01.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Mapping Europe’s AI Workforce Opportunity",
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-29T07:00:00.000Z",
+        "publishedAt": "2026-06-29T18:00:00.000Z",
         "category": "everyone"
       }
     ],
     "advancements": [
-      {
-        "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-        "url": "https://kagi.com/changelog#10959",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T20:08:01.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Physics informed generative AI for semiconductor manufacturing",
-        "url": "https://arxiv.org/abs/2606.11247",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-03T18:17:31.000Z",
-        "category": "advancements"
-      },
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
@@ -320,23 +306,37 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-23T13:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "The $400 million machine powering the future of chipmaking",
+        "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-23T09:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "How Omio is building the future of conversational travel",
+        "url": "https://openai.com/index/omio",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
+        "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
+        "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-04T01:04:34.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Security staff strikes averted at Aberdeen Airport",
         "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publishedAt": "2026-07-03T20:51:58.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Feds seek lower prison term for $100 million New Jersey deli fraudster — but some reasons why are hidden",
-        "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-03T19:33:26.000Z",
         "category": "markets"
       },
       {
@@ -541,6 +541,60 @@
   },
   "trends": [
     {
+      "title": "Tibet-born activist dies after self-immolation outside UN headquarters",
+      "url": "https://www.investing.com/news/economy-news/tibetborn-activist-dies-after-selfimmolation-outside-un-headquarters-4775335",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-04T03:13:02.000Z"
+    },
+    {
+      "title": "China Coast Guard Rotates Patrol Task Group East of Taiwan",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/china-coast-guard-rotates-patrol-task-group-east-of-taiwan",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-04T02:41:15.000Z"
+    },
+    {
+      "title": "European NATO allies replace most U.S. force cuts, commander says",
+      "url": "https://www.investing.com/news/economy-news/european-nato-allies-replace-most-us-force-cuts-commander-says-4775332",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-04T01:58:33.000Z"
+    },
+    {
+      "title": "Andy Burnham set to become UK prime minister after Starmer exit",
+      "url": "https://www.investing.com/news/economy-news/andy-burnham-set-to-become-uk-prime-minister-after-starmer-exit-4775331",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-04T01:16:38.000Z"
+    },
+    {
+      "title": "Trump to kick off independence celebrations as heatwave grips US",
+      "url": "https://www.ft.com/content/46ae86e3-b7a4-4ef6-b90a-bc96214c521c",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-04T00:51:11.000Z"
+    },
+    {
+      "title": "Iran’s Supreme Leader’s funeral begins as Hormuz security remains in focus",
+      "url": "https://www.investing.com/news/economy-news/irans-supreme-leaders-funeral-begins-as-hormuz-security-remains-in-focus-4775328",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-04T00:27:22.000Z"
+    },
+    {
+      "title": "Energy-Hungry Asia Is Already Drawing Lessons From Iran Crisis",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/energy-hungry-asia-is-already-drawing-lessons-from-iran-crisis",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-04T00:00:00.000Z"
+    },
+    {
+      "title": "Fed’s Warsh vows to ’disappoint’ anyone who thinks he will tolerate inflation above 2%",
+      "url": "https://www.investing.com/news/economy-news/feds-warsh-vows-to-disappoint-anyone-who-thinks-he-will-tolerate-inflation-above-2-4775325",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-03T23:30:25.000Z"
+    },
+    {
+      "title": "Russian forces claim capture of Kostiantynivka in eastern Ukraine",
+      "url": "https://www.investing.com/news/economy-news/russian-forces-claim-capture-of-kostiantynivka-in-eastern-ukraine-4775324",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-03T23:03:12.000Z"
+    },
+    {
       "title": "Venture Capital During the AI Revolution: Masters in Business with Mamoon Hamid",
       "url": "https://www.bloomberg.com/news/videos/2026-07-03/masters-in-business-with-mamoon-hamid-video",
       "source": "Bloomberg Markets",
@@ -551,12 +605,6 @@
       "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-03/THMAC1KGCTG300",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-07-03T21:00:01.000Z"
-    },
-    {
-      "title": "UK finds lost US Declaration of Independence copy after 250 years",
-      "url": "https://www.ft.com/content/4fd21282-82f3-443c-9270-c1efb401fe97",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-03T20:59:41.000Z"
     },
     {
       "title": "Iran begins mourning for Khamenei under tight security",
@@ -611,54 +659,6 @@
       "url": "https://www.marketwatch.com/story/why-maxing-out-your-401-k-is-a-major-financial-mistake-if-you-have-credit-card-and-other-punishing-debt-4c25beab?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-07-03T18:32:00.000Z"
-    },
-    {
-      "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-      "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-03T18:25:00.000Z"
-    },
-    {
-      "title": "Romanians sentenced in London for Iran-directed attack on journalist",
-      "url": "https://www.ft.com/content/12d30929-9e32-4344-80fd-fc53fc43ff8d",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-03T18:20:17.000Z"
-    },
-    {
-      "title": "SQM-Codelco Venture Maps Path to Higher Lithium Output in Chile",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/sqm-codelco-venture-maps-path-to-higher-lithium-output-in-chile",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-03T17:52:25.000Z"
-    },
-    {
-      "title": "An American birthday worth celebrating",
-      "url": "https://www.ft.com/content/010b7867-1bf3-4a32-aeee-a3e6a67e4b0b",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-03T17:12:29.000Z"
-    },
-    {
-      "title": "Europe’s STOXX 600 clocks best week in over a month as rally broadens",
-      "url": "https://www.investing.com/news/economy-news/europes-stoxx-600-set-for-best-week-in-over-a-month-as-rally-broadens-out-4775067",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-03T16:37:00.000Z"
-    },
-    {
-      "title": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star",
-      "url": "https://www.marketwatch.com/story/the-world-cup-has-made-cape-verde-goalkeeper-vozinha-a-17-million-star-15af0138?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-03T16:24:00.000Z"
-    },
-    {
-      "title": "ECB’s Lagarde Will Attend Next Week’s Ecofin Instead of Vujcic",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/ecb-s-lagarde-will-attend-next-week-s-ecofin-instead-of-vujcic",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-03T16:14:29.000Z"
-    },
-    {
-      "title": "ECB’s Nagel Stresses Need for Vigilance at Next Rate Decision",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/ecb-s-nagel-stresses-need-for-vigilance-at-next-rate-decision",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-03T16:09:40.000Z"
     }
   ]
 }
