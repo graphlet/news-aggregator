@@ -1,7 +1,77 @@
 {
-  "lastUpdated": "2026-07-05T03:35:27.114Z",
+  "lastUpdated": "2026-07-05T08:54:47.482Z",
   "ai": {
     "developers": [
+      {
+        "title": "A Postmortem of an LLM Social Network",
+        "url": "https://armx64.medium.com/emergence-without-understanding-a-postmortem-of-an-llm-social-network-96c855f49287",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T08:23:24.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "SigMap: 97% token reduction for AI coding sessions",
+        "url": "https://sigmap.io/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T07:52:55.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "code-on-incus: Give each AI agent its own isolated machine with root",
+        "url": "https://github.com/mensfeld/code-on-incus",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T07:42:56.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Agentsnap – find which config change broke your AI agent",
+        "url": "https://drive.google.com/file/d/1oPTmOOkBtE0IRV4oy0K4NuuLxYBezXRc/view?usp=sharing",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T06:57:32.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Fidx – local semantic search in one SQLite file, no LLM at query",
+        "url": "https://github.com/williamliu-ai/fidx",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T06:27:15.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "LLM's as a Different Kind of Intelligence",
+        "url": "https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T06:07:35.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "New California study finds highly educated workers most harmed by AI",
+        "url": "https://www.sfgate.com/politics/article/california-ai-study-22321472.php",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T05:08:51.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "US and Chinese companies train almost all of the most-used AI models",
+        "url": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T05:03:41.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://hic-ai.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T05:01:14.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Meituan Trained a 1.6T-Parameter AI Model Without Nvidia GPUs",
+        "url": "https://xyzlabs.substack.com/p/meituan-trained-a-16t-parameter-ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T04:59:15.000Z",
+        "category": "developers"
+      },
       {
         "title": "In AI-exposed jobs, the youngest workers are losing ground",
         "url": "https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/",
@@ -36,79 +106,16 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-07-05T01:22:16.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Obsidian AI Setup – Bootstrap a Personalized Obsidian Vault with AI",
-        "url": "https://github.com/anliberant/obsidian-ai-setup",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-05T00:20:30.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The goal isn't to build \"another AI IDE.\"",
-        "url": "https://github.com/BotCoder254/limboo",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-05T00:16:11.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Damo Academy unveils an AI agent able to discover superconductors",
-        "url": "https://www.scmp.com/tech/big-tech/article/3359335/alibabas-elements-claw-ai-agent-unearths-four-new-superconductors",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-05T00:00:43.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Nvidia Has Become the Bank Behind the AI Boom",
-        "url": "https://startupfortune.com/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-04T23:59:06.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Authentication and Authorization",
-        "url": "https://fusionauth.io/articles/ai/ai-authentication-authorization",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-04T23:10:55.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Microsoft Copilot OS revealed in LEAKED video: built on Copilot and agentic AI",
-        "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-04T22:50:45.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Out-of-core LLM inference engine written from scratch in Rust",
-        "url": "https://github.com/Vage91/Kortex",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-04T22:47:59.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "I just tired of killing AI slop",
-        "url": "https://www.surgeos.app/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-04T22:43:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "RFC: Stopping runaway AI agent spend with atomic budget reservations",
-        "url": "https://github.com/iamapsrajput/agent-budget-protocol/blob/main/RFC.md",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-04T22:42:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: WifeBench – My wife vibes LLM rankings",
-        "url": "https://www.wifebench.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-04T22:26:50.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Hunch – a Git-native decision graph your AI assistant obeys",
+        "url": "https://hunch-pi.vercel.app",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T07:05:06.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
         "url": "https://ridgetext.com/blog/mapbox-llm-composition",
@@ -206,21 +213,21 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-29T18:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Agent confidence on the technical frontier",
-        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-29T14:44:01.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
       {
-        "title": "Trees are mostly made of air and a generalizable lesson for AI safety",
-        "url": "https://www.lesswrong.com/posts/xiTBpBDwubnr4MLRe/trees-are-mostly-made-of-air-and-a-generalizable-lesson-for",
+        "title": "Google commercial imagines Declaration of Independence written with help from AI",
+        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-07-04T20:32:19.000Z",
+        "publishedAt": "2026-07-05T06:21:03.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "China's LongCat-2.0 Becomes the Biggest AI Model Without Nvidia Chips",
+        "url": "https://tech.yahoo.com/ai/articles/china-longcat-2-0-becomes-134258951.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-05T04:58:46.000Z",
         "category": "advancements"
       },
       {
@@ -313,23 +320,79 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-23T13:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "The $400 million machine powering the future of chipmaking",
-        "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-23T09:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Severe weather disrupts some America 250th celebrations; Trump says he will still speak in DC",
-        "url": "https://www.cnbc.com/2026/07/04/trump-to-mark-us-250th-anniversary-with-campaign-style-rally.html",
+        "title": "What Warren Buffett learnt from buying his first stock at age of 11 amid World War II",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/what-warren-buffett-learnt-from-buying-his-first-stock-at-age-of-11-amid-world-war-ii/articleshow/132192859.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-05T08:22:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Buy Lodha Developers, Aditya Birla Real Estate; organised players to benefit from housing market consolidation: Siddhartha Khemka",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/buy-lodha-developers-aditya-birla-real-estate-organised-players-to-benefit-from-housing-market-consolidation-siddhartha-khemka/articleshow/132192263.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-05T07:14:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "M-cap of 6 of top-10 most valued firms surges Rs 1 lakh cr; Airtel, Bajaj Fin top winners",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-6-of-top-10-most-valued-firms-surges-rs-1-lakh-cr-airtel-bajaj-fin-top-winners/articleshow/132192191.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-05T07:06:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump gives campaign-style July 4 speech on National Mall for U.S. 250th anniversary",
+        "url": "https://www.cnbc.com/2026/07/05/trump-gives-campaign-style-july-4-speech-on-national-mall.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-05T02:07:19.000Z",
+        "publishedAt": "2026-07-05T06:23:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "11 largecap stocks with upside potential of up to 50%. Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/11-largecap-stocks-with-upside-potential-of-up-to-50-do-you-own-any/slideshow/132191645.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-05T06:07:55.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bonus issues, stock splits &amp; dividends: Titan, JSW Steel among 49 stocks turning ex-date this week. Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-titan-jsw-steel-among-49-stocks-turning-ex-date-this-week-do-you-own-any/articleshow/132191539.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-05T05:59:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Vedanta, TCS among 5 stocks with the highest dividend yield. Check details",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-tcs-among-5-stocks-with-the-highest-dividend-yield-check-details/slideshow/132191143.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-05T05:09:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Will Sensex, Nifty continue to rally on Monday? Q1 earnings among 6 factors to drive Dalal Street this week",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-rally-on-monday-q1-earnings-among-6-factors-to-drive-dalal-street-this-week/articleshow/132191088.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-05T05:08:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "13 penny stocks surge up to 260% in just 3 months; 2 turn multibaggers. Did you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/13-penny-stocks-surge-up-to-260-in-just-3-months-2-turn-multibaggers-did-you-own-any/slideshow/132191067.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-05T04:49:49.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Investors looking for shelter from AI storm are turning to India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-looking-for-shelter-from-ai-storm-are-turning-to-india/articleshow/132190604.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-05T04:10:45.000Z",
         "category": "markets"
       },
       {
@@ -366,72 +429,37 @@
         "source": "CNBC",
         "publishedAt": "2026-07-04T12:58:40.000Z",
         "category": "markets"
-      },
-      {
-        "title": "The World Cup sends prediction market volumes soaring to record highs",
-        "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-04T12:54:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Pope Leo urges U.S. to welcome immigrants in July 4 appeal",
-        "url": "https://www.cnbc.com/2026/07/04/pope-leo-urges-us-to-welcome-immigrants-in-july-4-appeal.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-04T11:40:27.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "F&amp;O Talk: Smallcap index better placed than Nifty, says Sudeep Shah; picks 9 stocks for next week",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcap-index-better-placed-than-nifty-says-sudeep-shah-picks-9-stocks-for-next-week/articleshow/132178739.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-04T11:37:50.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Keiko Fujimori declared winner of Peru presidential race",
-        "url": "https://www.cnbc.com/2026/07/04/keiko-fujimori-declared-winner-of-peru-presidential-race.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-04T10:44:40.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump hails U.S. exceptionalism before veering into darkly political speech to usher in America's 250th anniversary",
-        "url": "https://www.cnbc.com/2026/07/04/trump-makes-darkly-political-speech-to-usher-in-uss-250-anniversary.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-04T10:23:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "UK and France agree with Oman to ensure safety of its territorial waters",
-        "url": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-04T09:58:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
-        "url": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-04T09:33:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Raamdeo Agrawal's 7 book recommendations for stock market investors",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/7-books-for-stock-market-investors-recommended-by-raamdeo-agrawal/articleshow/132178504.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-04T09:26:16.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Retail investors bet on these 10 small-cap stocks; they rally up to 185% in 3 months",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-bet-on-these-10-small-cap-stocks-they-rally-up-to-185-in-3-months/slideshow/132178345.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-04T09:05:03.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
+        "url": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-05T08:33:39.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
+        "url": "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-05T06:00:22.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-05T03:51:24.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
+        "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-05T03:50:36.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
         "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -503,162 +531,134 @@
         "category": "crypto"
       },
       {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-04T12:04:07.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
         "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
         "source": "CoinDesk",
         "publishedAt": "2026-07-04T12:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
-        "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-04T11:25:34.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "How Did Trump Make $1.4 Billion From Crypto?",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/how-did-trump-make-1-4-billion-from-crypto/videoshow/132179547.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-04T10:33:59.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction",
-        "url": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-04T08:31:02.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "NZ Pledges Trade Talks With Brazil, Europe Within Five Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-05/nz-pledges-trade-talks-with-brazil-europe-within-five-years",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-05T02:19:34.000Z"
-    },
-    {
-      "title": "Investors Looking for Shelter From AI Storm Are Turning to India",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-05/investors-looking-for-shelter-from-ai-storm-are-turning-to-india",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-05T02:00:00.000Z"
-    },
-    {
-      "title": "Australia to sign Fiji security pact, advance India uranium export deal",
-      "url": "https://www.investing.com/news/economy-news/australia-to-sign-fiji-security-pact-advance-india-uranium-export-deal-4775393",
+      "title": "Three sons of Khamenei attend funeral as successor remains out of public view",
+      "url": "https://www.investing.com/news/economy-news/three-sons-of-khamenei-attend-funeral-as-successor-remains-out-of-public-view-4775412",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-05T01:59:22.000Z"
+      "publishedAt": "2026-07-05T08:35:26.000Z"
     },
     {
-      "title": "Storms force evacuation of July 4 celebrations in Washington",
+      "title": "OPEC+ Agrees in Principle on 188K B/D Hike, Delegates Say",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/opec-agrees-in-principle-on-188k-b-d-quota-hike-delegates-say",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-05T07:47:55.000Z"
+    },
+    {
+      "title": "Millions mourn Khamenei as Trump says Iran talks to resume soon",
+      "url": "https://www.investing.com/news/economy-news/millions-mourn-khamenei-as-trump-says-iran-talks-to-resume-soon-4775407",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-05T07:24:15.000Z"
+    },
+    {
+      "title": "Ukraine striking Russian energy infrastructure at unprecedented rate",
+      "url": "https://www.ft.com/content/13687b48-9e54-44a1-bd4d-600bbc052baf",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-05T07:09:22.000Z"
+    },
+    {
+      "title": "BOK Warns of Risks From Single-Stock Leveraged ETFs: Yonhap",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/bok-warns-of-risks-from-single-stock-leveraged-etfs-yonhap",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-05T06:33:33.000Z"
+    },
+    {
+      "title": "EV battery durability exceeds expectations as replacement fears persist",
+      "url": "https://www.investing.com/news/economy-news/ev-battery-durability-exceeds-expectations-as-replacement-fears-persist-4775404",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-05T06:29:57.000Z"
+    },
+    {
+      "title": "Trump marks America’s 250th birthday with National Mall address",
+      "url": "https://www.investing.com/news/economy-news/trump-marks-americas-250th-birthday-with-national-mall-address-4775402",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-05T05:40:04.000Z"
+    },
+    {
+      "title": "Fewer Ships Transiting Hormuz Along Oman Coast After U-Turns",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/fewer-ships-transiting-hormuz-along-oman-coast-after-u-turns",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-05T05:24:02.000Z"
+    },
+    {
+      "title": "Modi’s Biofuel Push Comes Under Pressure as Motorists Protest",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/modi-s-biofuel-push-comes-under-pressure-as-motorists-protest",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-05T05:20:44.000Z"
+    },
+    {
+      "title": "Christian NGO welcomes release of pastor held in southern China",
+      "url": "https://www.investing.com/news/economy-news/christian-ngo-welcomes-release-of-pastor-held-in-southern-china-4775398",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-05T05:18:29.000Z"
+    },
+    {
+      "title": "Ebola Crisis Exposes Congo's Fragile Health System",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-05/ebola-crisis-exposes-congo-s-fragile-health-system",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-05T05:00:25.000Z"
+    },
+    {
+      "title": "China seeks closer business ties with Europe as Wang meets Wallenberg",
+      "url": "https://www.investing.com/news/economy-news/china-seeks-closer-business-ties-with-europe-as-wang-meets-wallenberg-4775400",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-05T04:52:33.000Z"
+    },
+    {
+      "title": "Returning to pre-Trumpian politics won’t save America",
+      "url": "https://www.ft.com/content/5e7ca535-90a8-4f6d-934b-0a0d9b36e62d",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-05T04:00:11.000Z"
+    },
+    {
+      "title": "How Bending Spoons built a $23bn tech empire from struggling brands",
+      "url": "https://www.ft.com/content/040aac86-f458-400b-a353-7ff2ee5aa34f",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-05T04:00:11.000Z"
+    },
+    {
+      "title": "French push to exclude UK from EU defence spending backfires",
+      "url": "https://www.ft.com/content/9077074a-b01d-4890-a938-403befccb21c",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-05T04:00:11.000Z"
+    },
+    {
+      "title": "Oil market opens up as retail traders pour in",
+      "url": "https://www.ft.com/content/b64227fd-3fae-4fea-bb83-4cc463fa09ed",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-05T04:00:11.000Z"
+    },
+    {
+      "title": "Uber stalls European food delivery push as it pursues Delivery Hero takeover",
+      "url": "https://www.ft.com/content/53f631ef-98e4-4eec-92e4-3dd023ed25f5",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-05T04:00:03.000Z"
+    },
+    {
+      "title": "Wall Street banks recover in China amid trading boom",
+      "url": "https://www.ft.com/content/90c1934a-505f-4c9d-9bdf-a28db14eb9f2",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-05T04:00:02.000Z"
+    },
+    {
+      "title": "China cools on overseas publication of scientific research",
+      "url": "https://www.ft.com/content/64a811f1-b132-4211-8a8c-2252cf964039",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-05T04:00:02.000Z"
+    },
+    {
+      "title": "Donald Trump defies storms and heatwave to deliver July 4 address",
       "url": "https://www.ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30",
       "source": "Financial Times",
-      "publishedAt": "2026-07-05T01:12:24.000Z"
-    },
-    {
-      "title": "Trump, Putin discuss Ukraine, Iran ahead of NATO summit",
-      "url": "https://www.investing.com/news/economy-news/trump-putin-discuss-ukraine-iran-ahead-of-nato-summit-4775391",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-05T01:08:04.000Z"
-    },
-    {
-      "title": "North Korea’s Kim oversees cruise missile launch from new naval destroyer",
-      "url": "https://www.investing.com/news/economy-news/north-koreas-kim-oversees-cruise-missile-launch-from-new-naval-destroyer-4775390",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-05T00:28:06.000Z"
-    },
-    {
-      "title": "Vance says Britain needs political change, pledges support for next PM",
-      "url": "https://www.investing.com/news/economy-news/vance-says-britain-needs-political-change-pledges-support-for-next-pm-4775389",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-04T23:45:23.000Z"
-    },
-    {
-      "title": "Trump administration proposes 702 regulatory rollbacks in deregulatory push",
-      "url": "https://www.investing.com/news/economy-news/trump-administration-proposes-702-regulatory-rollbacks-in-deregulatory-push-4775388",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-04T23:01:40.000Z"
-    },
-    {
-      "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
-      "url": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-04T21:40:00.000Z"
-    },
-    {
-      "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
-      "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-04T20:56:00.000Z"
-    },
-    {
-      "title": "Iran holds state funeral for Khamenei as successor stays out of public view",
-      "url": "https://www.investing.com/news/economy-news/irans-supreme-leaders-funeral-begins-as-hormuz-security-remains-in-focus-4775328",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-04T20:25:25.000Z"
-    },
-    {
-      "title": "Goldman revises its USD/JPY forecasts. Here are the new targets",
-      "url": "https://www.investing.com/news/economy-news/goldman-revises-its-usdjpy-forecasts-here-are-the-new-targets-4775378",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-04T20:06:28.000Z"
-    },
-    {
-      "title": "Germany’s Second Chance for Growth Rebound Starts Now",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/germany-s-second-chance-for-growth-rebound-starts-now",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-04T20:00:00.000Z"
-    },
-    {
-      "title": "Goldman sees no return to broad-based dollar weakness anytime soon",
-      "url": "https://www.investing.com/news/economy-news/goldman-sees-no-return-to-broadbased-dollar-weakness-anytime-soon-4775376",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-04T19:51:41.000Z"
-    },
-    {
-      "title": "Venezuela’s Official Death Toll From Quake Rises to Almost 3,000",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/venezuela-quake-death-toll-climbs-to-nearly-3-000",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-04T19:20:57.000Z"
-    },
-    {
-      "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-04T19:01:00.000Z"
-    },
-    {
-      "title": "Why a founder at age 50 is twice as likely to find success as one at age 30",
-      "url": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-04T18:56:00.000Z"
-    },
-    {
-      "title": "Bloomberg This Weekend 07/04/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-04/bloomberg-this-weekend-07-04-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-04T18:50:38.000Z"
-    },
-    {
-      "title": "Why June’s jobs and inflation data are bullish for bonds",
-      "url": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-04T18:37:00.000Z"
-    },
-    {
-      "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
-      "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-04T18:19:00.000Z"
+      "publishedAt": "2026-07-05T03:41:33.000Z"
     }
   ]
 }
