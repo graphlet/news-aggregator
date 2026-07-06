@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T15:36:55.691Z",
+  "lastUpdated": "2026-07-06T19:59:51.331Z",
   "ai": {
     "developers": [
       {
@@ -7,13 +7,6 @@
         "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-30T21:50:04.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-        "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-06-30T19:24:51.000Z",
         "category": "developers"
       },
       {
@@ -106,9 +99,30 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-02T09:00:00.000Z",
         "category": "developers"
+      },
+      {
+        "title": "Codex is becoming a productivity tool for everyone",
+        "url": "https://openai.com/index/codex-for-knowledge-work",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-02T02:00:00.000Z",
+        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Your family’s $300 stake in OpenAI",
+        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-07-06T18:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "I spy",
+        "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-06T16:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Microsoft is laying off 4,800 employees",
         "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
@@ -198,20 +212,6 @@
         "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-29T14:44:01.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Mapping Europe’s AI Workforce Opportunity",
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-29T07:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-        "url": "https://openai.com/index/hp-frontier-partnership",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-28T17:00:00.000Z",
         "category": "everyone"
       }
     ],
@@ -315,10 +315,10 @@
         "category": "advancements"
       },
       {
-        "title": "The $400 million machine powering the future of chipmaking",
-        "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-23T09:00:00.000Z",
+        "title": "How Omio is building the future of conversational travel",
+        "url": "https://openai.com/index/omio",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
         "category": "advancements"
       }
     ]
@@ -326,112 +326,147 @@
   "finance": {
     "markets": [
       {
-        "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
-        "url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
+        "title": "CNBC Points Pro: Which credit cards earn more points, Citi or American Express?",
+        "url": "https://www.cnbc.com/select/citi-cards-vs-american-express-cards/",
         "source": "CNBC",
-        "publishedAt": "2026-07-06T15:36:23.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What is the bingo savings challenge? Here's how it works — and how much you can save.",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/bingo-savings-challenge-153459727.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:34:59.000Z",
+        "publishedAt": "2026-07-06T19:54:17.000Z",
         "category": "markets"
       },
       {
         "title": "Nasdaq jumps to start new week led by chip stocks, Dow briefly tops 53,000 for first time: Live updates",
         "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-06T15:33:00.000Z",
+        "publishedAt": "2026-07-06T19:36:11.000Z",
         "category": "markets"
       },
       {
-        "title": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
-        "url": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-06T15:26:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Is Taiwan Semiconductor Manufacturing (TSM) One of the Top AI Stocks to Buy According to Philippe Laffont?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-tsm-one-152448167.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:24:48.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Belgium challenges Balogun eligibility for World Cup game after Trump intervention",
+        "title": "Belgium loses appeal of Balogun eligibility after Trump defends intervention with FIFA",
         "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-06T15:23:32.000Z",
+        "publishedAt": "2026-07-06T19:32:47.000Z",
         "category": "markets"
       },
       {
-        "title": "American Express (AXP): An Analysis of The Role of AI and Payment Systems",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-axp-analysis-role-152237601.html",
+        "title": "Dividend cuts could be coming for these stocks, Wolfe warns",
+        "url": "https://www.cnbc.com/2026/07/06/dividend-cuts-could-be-coming-for-these-stocks-wolfe-warns-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-06T19:22:55.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Here's our plan for both Honeywell stocks after a divergent first week of trading",
+        "url": "https://www.cnbc.com/2026/07/06/heres-our-plan-for-both-honeywell-stocks-after-a-divergent-first-week-of-trading.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-06T19:11:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump Accounts are live. Here's how some families plan to use them",
+        "url": "https://www.cnbc.com/2026/07/06/how-families-are-using-trump-accounts.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-06T18:29:50.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Here's how SpaceX's Nasdaq-100 inclusion might affect options pricing",
+        "url": "https://www.cnbc.com/2026/07/06/heres-how-spacexs-nasdaq-100-inclusion-might-affect-options-pricing.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-06T18:27:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Low volatility stocks like insurers and REITs are suddenly turning into market leaders, Katie Stockton says",
+        "url": "https://www.cnbc.com/2026/07/06/low-volatility-stocks-are-suddenly-turning-into-market-leaders-katie-stockton-says.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-06T18:11:21.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "NATO tensions are ‘growing pains,’ U.S. ambassador says as Trump presses allies",
+        "url": "https://www.cnbc.com/2026/07/06/nato-trump-defense-spending-whitaker.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-06T18:06:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "NY Fed says supply chain pressures eased in June",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-says-supply-chain-pressures-eased-in-june/articleshow/132223240.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-06T18:03:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Market Update: IQV",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_47524_MarketUpdate_1783359182000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:22:37.000Z",
+        "publishedAt": "2026-07-06T17:33:02.000Z",
         "category": "markets"
       },
       {
-        "title": "Use this toothpaste? Today is the last chance to claim cash payout",
-        "url": "https://finance.yahoo.com/healthcare/articles/toothpaste-today-last-chance-claim-152156879.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:21:56.000Z",
+        "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says",
+        "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-06T17:26:34.000Z",
         "category": "markets"
       },
       {
-        "title": "Marvell Technology Has Trillion-Dollar Ambitions. Here Is What the Timeline Could Look Like.",
-        "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-trillion-dollar-ambitions-152000570.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:20:00.000Z",
+        "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
+        "url": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-06T17:24:49.000Z",
         "category": "markets"
       },
       {
-        "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-        "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-07-06T15:18:53.000Z",
+        "title": "EasyJet shares reveal deal risk as $7.3 billion takeover advances",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/easyjet-shares-reveal-deal-risk-as-7-3-billion-takeover-advances/articleshow/132222023.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-06T17:12:16.000Z",
         "category": "markets"
       },
       {
-        "title": "Wait! Michael Burry Is Right About the Memory Boom Ending? This Analyst Says Yes",
-        "url": "https://finance.yahoo.com/technology/ai/articles/wait-michael-burry-memory-boom-151825822.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:18:25.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Exceptional Momentum Powers Taiwan Semiconductor Manufacturing’s (TSM) Rally",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/exceptional-momentum-powers-taiwan-semiconductor-151708380.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:17:08.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Micron, Ford sign long-term memory supply agreement for next-generation vehicles",
-        "url": "https://finance.yahoo.com/technology/articles/micron-ford-sign-long-term-151600546.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:16:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "IBM Stock Climbs After Price Target Hike, Quantum Research News",
-        "url": "https://www.investors.com/news/technology/ibm-stock-price-target-bofa-quantum/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:12:32.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "KKR & Co. (KKR) Fell 27% Despite a Strong Recovery in March",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-co-kkr-fell-27-151230590.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:12:30.000Z",
+        "title": "TeraWulf jumps on $19 billion data center lease deal with Anthropic",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/terawulf-jumps-on-19-billion-data-center-lease-deal-with-anthropic/articleshow/132221952.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-06T17:08:53.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Ripple secures full MiCA license for crypto services across Europe",
+        "url": "https://cointelegraph.com/news/ripple-secures-full-mica-license-for-crypto-services-across-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-06T19:29:13.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’",
+        "url": "https://cointelegraph.com/news/bitmine-ether-treasury-chances-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-06T17:27:21.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "UN agency moves Stellar blockchain payment initiative beyond pilot stage",
+        "url": "https://cointelegraph.com/news/undp-moves-stellar-blockchain-payment-initiative-beyond-pilot-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-06T17:08:57.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+        "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-06T16:00:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
+        "url": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-06T15:47:12.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
         "url": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
@@ -444,13 +479,6 @@
         "url": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-07-06T15:22:45.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin Mining Stocks Jump After TeraWulf Signs $19 Billion Lease With Anthropic",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-stocks-jump-terawulf-151536170.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T15:15:36.000Z",
         "category": "crypto"
       },
       {
@@ -489,13 +517,6 @@
         "category": "crypto"
       },
       {
-        "title": "Bitcoin and ethereum prices today, Monday, July 6, 2026: Prices falling after last week's rebound",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-6-2026-prices-falling-after-last-weeks-rebound-131307981.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-06T13:13:07.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "Cantor says Strategy's recovery hinges on restoring STRC to par",
         "url": "https://www.coindesk.com/markets/2026/07/06/cantor-says-strategy-s-recovery-hinges-on-restoring-strc-to-par",
         "source": "CoinDesk",
@@ -515,150 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-07-06T12:59:04.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost",
-        "url": "https://www.coindesk.com/business/2026/07/06/bitmine-added-another-usd74-million-in-ether-as-tom-lee-bets-on-clarity-act-boost",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-06T12:54:37.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million",
-        "url": "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-06T12:16:28.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline",
-        "url": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-06T12:15:20.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "BMO Capital Markets' Jennifer Lee on Labor Market, Inflation",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-06/jennifer-lee-on-labor-market-inflation-video",
+      "title": "Saudis Slash Main Oil Price to Rare Discount",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-06/saudis-slash-main-oil-price-to-rare-discount-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-06T15:30:49.000Z"
+      "publishedAt": "2026-07-06T19:38:56.000Z"
+    },
+    {
+      "title": "High AI Capex Demand a 'Multi-Year' Cycle, Says Rudina Seseri",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-06/high-ai-capex-demand-a-multi-year-cycle-says-seseri-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-06T19:38:16.000Z"
+    },
+    {
+      "title": "Hertz Bears Boost Short Bets to Record After Shares Plummet 60%",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/hertz-bears-boost-short-bets-to-record-after-shares-plummet-60",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-06T19:35:20.000Z"
+    },
+    {
+      "title": "Dell’s stock gets another Trump bump — but this time it’s fading",
+      "url": "https://www.marketwatch.com/story/dells-stock-gets-another-trump-bump-but-this-time-its-fading-be5dd9cb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-06T19:34:00.000Z"
+    },
+    {
+      "title": "How parents can take advantage of the ‘best summer-camp tax break in years’",
+      "url": "https://www.marketwatch.com/story/how-parents-can-take-advantage-of-the-best-summer-camp-tax-break-in-years-cb7c2a1a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-06T19:21:00.000Z"
+    },
+    {
+      "title": "I Don't Expect The Fed To Hike In July Says Lavorgna",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-06/i-don-t-expect-the-fed-to-hike-in-july-says-lavorgna-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-06T19:10:41.000Z"
+    },
+    {
+      "title": "Lone Pine Gains 43% in First Half on Both Long and Short Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/lone-pine-gains-43-in-first-half-on-both-long-and-short-bets",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-06T19:10:39.000Z"
+    },
+    {
+      "title": "Distressed Funds Explore Swap of Strategy Holdings Amid Rout",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/distressed-funds-explore-a-swap-of-strategy-holdings-after-rout",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-06T19:04:36.000Z"
+    },
+    {
+      "title": "New Zealand Set to Raise Key Rate, Decision Less of a Slam Dunk",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/new-zealand-set-to-raise-key-rate-decision-less-of-a-slam-dunk",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-06T19:00:00.000Z"
+    },
+    {
+      "title": "Trump Is Not a Man Who Plays By The Rules, Says Daalder",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-06/trump-is-not-a-man-who-plays-by-the-rules-says-daalder-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-06T18:57:05.000Z"
+    },
+    {
+      "title": "Silver has plunged 50% from its January peak to $60. Why it could hit $130 next year.",
+      "url": "https://www.marketwatch.com/story/silver-has-plunged-50-from-its-january-peak-to-60-why-it-could-hit-130-next-year-4fe57e45?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-06T18:57:00.000Z"
+    },
+    {
+      "title": "Advertising Technology Firm Criteo Attracts Vista Equity-Backed Takeover Offer",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/advertising-technology-firm-criteo-attracts-vista-equity-backed-takeover-offer",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-06T18:53:36.000Z"
+    },
+    {
+      "title": "Bank of Israel cuts rates, governor sees more easing as long as inflation behaves",
+      "url": "https://www.investing.com/news/economy-news/bank-of-israel-cuts-key-rate-by-25-bps-as-usiran-ceasefire-pushes-down-energy-prices-4776948",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-06T18:48:33.000Z"
+    },
+    {
+      "title": "SEC Mulls New ETF Rules as $16T Boom Disrupts Status Quo",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-06/sec-mulls-new-etf-rules-as-16t-boom-disrupts-status-quo-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-06T18:45:50.000Z"
     },
     {
       "title": "Fed’s Waller: Forward guidance ’valuable,’ though not at all moments",
       "url": "https://www.investing.com/news/economy-news/feds-waller-forward-guidance-valuable-though-not-at-all-moments-4776969",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-06T15:18:27.000Z"
+      "publishedAt": "2026-07-06T18:36:28.000Z"
     },
     {
-      "title": "Bank of Israel cuts rates to 3.5% as inflation stays stable",
-      "url": "https://www.investing.com/news/economy-news/bank-of-israel-cuts-rates-to-35-as-inflation-stays-stable-93CH-4776986",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-06T15:18:00.000Z"
-    },
-    {
-      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-06/ontario-alberta-pitch-cross-canada-oil-pipeline-to-ease-us-reliance",
+      "title": "Public Spending in Mexico Ends Prolonged Fall in Fixed Investment",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/public-spending-in-mexico-ends-prolonged-fall-in-fixed-investment",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-06T15:17:43.000Z"
+      "publishedAt": "2026-07-06T18:35:36.000Z"
     },
     {
-      "title": "SK Hynix US Listing Process; Broadcom's Apple Chip Deal | Stock Movers",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-06/sk-hynix-us-listing-process-broadcom-s-apple-chip-deal-video",
+      "title": "Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-06T15:15:44.000Z"
+      "publishedAt": "2026-07-06T18:30:09.000Z"
     },
     {
-      "title": "Future of US military presence in Estonia uncertain, defense minister says",
-      "url": "https://www.investing.com/news/economy-news/future-of-us-military-presence-in-estonia-uncertain-defense-minister-says-93CH-4776980",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-06T15:15:05.000Z"
-    },
-    {
-      "title": "Fifa ‘crossed a red line’ by reversing US star striker’s suspension, Uefa says",
-      "url": "https://www.ft.com/content/cb52a128-54c0-4183-ae0e-6fd292d1d7e5",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-06T15:11:53.000Z"
-    },
-    {
-      "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
-      "url": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-06T15:11:00.000Z"
-    },
-    {
-      "title": "Euronext Cuts Trading Data Prices Following Industry Pushback",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-06/euronext-cuts-trading-data-prices-following-industry-pushback",
+      "title": "Retail Investors Use ETFs as a Tool For Alpha: Zhang",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-06/retail-investors-use-etfs-as-a-tool-for-alpha-zhang-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-06T15:10:29.000Z"
+      "publishedAt": "2026-07-06T18:30:06.000Z"
     },
     {
-      "title": "Citadel Securities Asks to Join Susquehanna Insider-Trading Suit",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-06/citadel-securities-asks-to-join-susquehanna-insider-trading-suit",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-06T15:09:24.000Z"
-    },
-    {
-      "title": "Bank of Israel cuts key rate by 25 bps as US-Iran ceasefire pushes down energy prices",
-      "url": "https://www.investing.com/news/economy-news/bank-of-israel-cuts-key-rate-by-25-bps-as-usiran-ceasefire-pushes-down-energy-prices-4776948",
+      "title": "Singapore tax authority clarifies capital gains rules for SPVs",
+      "url": "https://www.investing.com/news/economy-news/singapore-tax-authority-clarifies-capital-gains-rules-for-spvs-93CH-4777208",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-06T15:07:51.000Z"
+      "publishedAt": "2026-07-06T18:25:43.000Z"
     },
     {
-      "title": "MUFG CEO warns weak yen inflation may stifle demand, threaten growth",
-      "url": "https://www.investing.com/news/economy-news/mufg-ceo-warns-weak-yen-inflation-may-stifle-demand-threaten-growth-4776968",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-06T15:07:11.000Z"
-    },
-    {
-      "title": "Fed’s Waller says forward guidance valuable but must be flexible",
-      "url": "https://www.investing.com/news/economy-news/feds-waller-says-forward-guidance-valuable-but-must-be-flexible-4776962",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-06T15:04:18.000Z"
-    },
-    {
-      "title": "Microsoft axes 4,800 jobs as it resets Xbox",
-      "url": "https://www.ft.com/content/41091f2f-0916-4532-82c9-0634ab8ff64c",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-06T14:50:08.000Z"
-    },
-    {
-      "title": "S&P 500, Nasdaq gain as chip stocks rebound",
+      "title": "Wall Street climbs as Broadcom and other chipmakers rally",
       "url": "https://www.investing.com/news/economy-news/us-stock-futures-up-as-chip-shares-recover-oil-prices-decline-4775958",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-06T14:42:28.000Z"
-    },
-    {
-      "title": "Trump rings Wall Street opening bells and says the stock market ‘is going to go through the roof’",
-      "url": "https://www.marketwatch.com/story/trump-rings-wall-street-opening-bells-and-says-the-stock-market-is-going-to-go-through-the-roof-e949d970?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-06T14:42:00.000Z"
-    },
-    {
-      "title": "Argentina to announce plan to refinance existing debt",
-      "url": "https://www.investing.com/news/economy-news/argentina-to-announce-plan-to-refinance-existing-debt-4776923",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-06T14:36:58.000Z"
-    },
-    {
-      "title": "India Developer Oberoi Seeks to More Than Double Sales Value",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-06/india-developer-oberoi-seeks-to-more-than-double-sales-value",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-06T14:29:30.000Z"
-    },
-    {
-      "title": "TeraWulf’s stock surges after a $19 billion deal with Anthropic",
-      "url": "https://www.marketwatch.com/story/terawulfs-stock-surges-after-a-19-billion-deal-with-anthropic-6899d3bc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-06T14:28:00.000Z"
-    },
-    {
-      "title": "Welltower Prepares C$750 Million Canadian Dollar Bond Sale",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-06/welltower-prepares-c-750-million-canadian-dollar-bond-sale",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-06T14:27:44.000Z"
+      "publishedAt": "2026-07-06T18:24:32.000Z"
     }
   ]
 }
