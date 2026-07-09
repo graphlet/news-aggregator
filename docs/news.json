@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-09T09:41:42.000Z",
+  "lastUpdated": "2026-07-09T15:12:59.607Z",
   "ai": {
     "developers": [
+      {
+        "title": "Meta says its new AI model is ready to compete on coding",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-09T14:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Say hello to Claude Wrapped",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-09T13:30:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "Separating signal from noise in coding evaluations",
         "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
@@ -92,23 +106,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-10T20:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "How engineers at Nextdoor use Codex to build without limits",
-        "url": "https://openai.com/index/nextdoor",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-09T12:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "What Codex unlocks for Notion",
-        "url": "https://openai.com/index/notion",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-09T10:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Character.AI wants a piece of the microdrama pie",
+        "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-09T13:11:53.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+        "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-09T13:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "ChatGPT’s upgraded voice mode is better at shutting up",
         "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
@@ -163,20 +177,6 @@
         "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
         "source": "The Verge – AI",
         "publishedAt": "2026-07-06T13:30:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Some of the nation’s rich are letting AI teach their kids",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-05T22:30:54.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "The fanfiction community is at war with AI — and itself",
-        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-04T12:00:00.000Z",
         "category": "everyone"
       },
       {
@@ -235,20 +235,6 @@
         "url": "https://openai.com/index/mufg",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-07T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-05T14:23:11.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Anthropic wants to develop its own drugs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-03T13:56:52.000Z",
         "category": "advancements"
       },
       {
@@ -320,345 +306,359 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-24T06:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "Helping build shared standards for advanced AI",
+        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-23T13:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "How Omio is building the future of conversational travel",
+        "url": "https://openai.com/index/omio",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "India Inc's revenue growth to hit 2-year high of 11-11.5% in Q1 despite Iran war: Crisil",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-incs-revenue-growth-to-hit-2-year-high-of-11-11-5-in-q1-despite-iran-war-crisil/articleshow/132282171.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T09:05:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AstraZeneca stock dives 9% after heart drug trial misses target",
-        "url": "https://www.cnbc.com/2026/07/09/astrazeneca-stock-trial-heart-drug-pharma.html",
+        "title": "Hawaii is America's Worst State for Business in 2026, even its legendary quality of life takes a dip",
+        "url": "https://www.cnbc.com/2026/07/09/hawaii-americas-worst-top-states-for-business-rankings.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-09T08:53:44.000Z",
+        "publishedAt": "2026-07-09T15:11:38.000Z",
         "category": "markets"
       },
       {
-        "title": "SBI Funds Management IPO: 10 key things to know about Rs 11,693 crore public issue",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-ipo-10-key-things-to-know-about-rs-11693-crore-public-issue/slideshow/132282239.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T08:51:53.000Z",
+        "title": "ASIC probes ‘Big Four’ audit companies amid misconduct claims",
+        "url": "https://finance.yahoo.com/economy/policy/articles/asic-probes-big-four-audit-150829933.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T15:08:29.000Z",
         "category": "markets"
       },
       {
-        "title": "Vedanta Oil and Gas shares rally 8%. What’s boosting investor sentiment today?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-oil-and-gas-shares-rally-8-whats-boosting-investor-sentiment-today/articleshow/132281761.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T08:50:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Why the world’s best-performing stock market this year fell into bear territory",
-        "url": "https://www.cnbc.com/2026/07/09/kospi-bear-territory-ai-samsung-skhynix-chipmakers.html",
+        "title": "Josh Brown says this bank that was once an 'ugly duckling' is now one of the Best Stocks in the Market",
+        "url": "https://www.cnbc.com/2026/07/09/josh-brown-says-this-bank-that-was-once-an-ugly-duckling-is-now-one-of-the-best-stocks.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-09T08:48:32.000Z",
+        "publishedAt": "2026-07-09T15:01:41.000Z",
         "category": "markets"
       },
       {
-        "title": "How to trade Cupid shares after a massive 40% rally in a month? 2 technical experts weigh in",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-cupid-shares-after-a-massive-40-rally-in-a-month-2-technical-experts-weigh-in/articleshow/132281590.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T08:42:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AirPods-maker Luxshare sees shares close lower in tepid Hong Kong debut",
-        "url": "https://www.cnbc.com/2026/07/09/luxshare-ipo-hong-kong-debut-apple-airpod-.html",
+        "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+        "url": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-09T08:42:13.000Z",
+        "publishedAt": "2026-07-09T15:00:50.000Z",
         "category": "markets"
       },
       {
-        "title": "Global Market:  China's factory inflation hits four-year high, keeping metals and industrial stocks in focus",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-factory-inflation-hits-four-year-high-keeping-metals-and-industrial-stocks-in-focus/articleshow/132281159.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T08:15:10.000Z",
+        "title": "Allianz Partners to cut up to 1,800 jobs as AI adoption accelerates",
+        "url": "https://finance.yahoo.com/technology/ai/articles/allianz-partners-cut-1-800-145949193.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:59:49.000Z",
         "category": "markets"
       },
       {
-        "title": "SBI Funds Management IPO: What portion is reserved for SBI's 38 lakh shareholders?",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-what-portion-is-reserved-for-sbis-38-lakh-shareholders/articleshow/132281042.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T08:08:38.000Z",
+        "title": "Stocks tick higher as chipmakers rise, oil prices fall: Live updates",
+        "url": "https://www.cnbc.com/2026/07/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-09T14:58:20.000Z",
         "category": "markets"
       },
       {
-        "title": "10 Nifty 500 stocks plunge over 50% from 52-week highs. Do you own any?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-nifty-500-stocks-plunge-over-50-from-52-week-highs-do-you-own-any/slideshow/132281110.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T08:00:03.000Z",
+        "title": "Meta Reportedly Takes Big Step Toward AI Chip. But The Stock Is Falling.",
+        "url": "https://www.investors.com/news/technology/meta-reportedly-takes-big-step-toward-ai-chip-but-the-stock-is-falling/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:57:51.000Z",
         "category": "markets"
       },
       {
-        "title": "After a $1 trillion wipeout, is Nvidia ready for a comeback?",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/after-a-1-trillion-wipeout-is-nvidia-ready-for-a-comeback/slideshow/132280674.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T07:40:18.000Z",
+        "title": "Atlas Capital reports 23.1% stake in Greenidge Generation after July 6 share issuance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/atlas-capital-reports-23-1-145535787.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:55:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Dr Reddy's shares slide 7% after delay in semaglutide supplies over quality concerns",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-shares-slide-7-after-delay-in-semaglutide-supplies-over-quality-concerns/articleshow/132280432.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T07:39:22.000Z",
+        "title": "Southern Glazer’s jobs to go in quest to “better support” customers",
+        "url": "https://finance.yahoo.com/small-business/articles/southern-glazer-jobs-quest-better-110712178.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:54:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Apollo Micro Systems shares rise over 1% as company nears Premier Explosives deal",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-micro-systems-shares-rise-over-1-as-company-nears-premier-explosives-deal/articleshow/132280181.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T07:23:41.000Z",
+        "title": "Stock Market Today: Dow Builds Gains Amid U.S.-Iran News; Arm, Dell Lead Upside (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-micron-sandisk/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:54:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Global Market | UK housing market downturn eases slightly, but sentiment remains fragile: RICS",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-housing-market-downturn-eases-slightly-but-sentiment-remains-fragile-rics/articleshow/132280129.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T07:21:35.000Z",
+        "title": "Bitdeer Brings SEALMINER Production to U.S. With $36M Nevada Plant",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-brings-sealminer-production-u-145300420.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:53:00.000Z",
         "category": "markets"
       },
       {
-        "title": "SBI Funds Management IPO: GMP and other key details investors should know about Rs 11,693 crore offer",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-gmp-and-other-key-details-investors-should-know-about-rs-11693-crore-offer/articleshow/132279959.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T07:15:39.000Z",
+        "title": "Nestlé to build Thailand coffee factory after end of JV",
+        "url": "https://finance.yahoo.com/small-business/articles/nestl-build-thailand-coffee-factory-134052898.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:52:28.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Wall Street is betting Trump doesn't want to disturb the stock market",
+        "url": "https://www.cnbc.com/2026/07/09/wall-street-is-betting-trump-doesnt-want-to-disturb-the-stock-market.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-09T14:51:50.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-openai-spacex-bigger-last-145100233.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:51:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "While Wall Street Worries, This Cheap Warren Buffett Consumer Stock Is a Screaming Buy",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/while-wall-street-worries-cheap-145000607.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:50:00.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Two blockbuster AI IPO's on the horizon could leave crypto further behind",
-        "url": "https://www.coindesk.com/markets/2026/07/09/two-blockbuster-ai-ipo-s-on-the-horizon-could-leave-crypto-further-behind",
+        "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
+        "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
         "source": "CoinDesk",
-        "publishedAt": "2026-07-09T09:31:56.000Z",
+        "publishedAt": "2026-07-09T14:58:55.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance",
-        "url": "https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-09T09:19:38.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot",
-        "url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-09T08:51:48.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin's dwindling exchange reserves don't pack the same bullish punch anymore",
-        "url": "https://www.coindesk.com/markets/2026/07/09/bitcoin-s-dwindling-exchange-reserves-don-t-pack-the-same-bullish-punch-anymore",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-09T08:43:01.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says",
-        "url": "https://cointelegraph.com/news/regulators-invite-binance-seek-new-license-mica-setback-teng?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-09T08:26:30.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Russia's largest private bank Alfa-Bank tests crypto trading",
-        "url": "https://cointelegraph.com/news/russia-largest-private-bank-alfa-bank-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-09T08:22:36.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns",
-        "url": "https://www.coindesk.com/markets/2026/07/09/bank-of-japan-may-speed-up-rate-hikes-pushing-borrowing-costs-above-2-ex-boj-official-warns",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-09T06:42:09.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "'CASHCAT' trader turns $800 into over $1 million on Robinhood's brand new blockchain",
-        "url": "https://www.coindesk.com/tech/2026/07/09/cashcat-trader-turns-usd800-into-over-usd1-million-on-robinhood-s-brand-new-blockchain",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-09T06:40:50.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Wyden urges Senate leaders to keep dev protections in crypto bill",
-        "url": "https://cointelegraph.com/news/senate-leaders-urged-to-keep-dev-protections-in-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-09T06:03:49.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-09T06:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Trader loses $1M after signing phishing token approval",
-        "url": "https://cointelegraph.com/news/trader-loses-1m-after-signing-phishing-token-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-09T05:57:23.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin falls close to $62,000 as geopolitical risks weigh, $143 million ETF inflows offer support",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-close-to-62000-as-geopolitical-risks-weigh-143-million-etf-inflows-offer-support/articleshow/132278304.cms",
+        "title": "Donald Trump's son bet big on Bitcoin, lost $600 million from family fortune",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/donald-trumps-son-bet-big-on-bitcoin-lost-600-million-from-family-fortune/articleshow/132289636.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-09T05:48:58.000Z",
+        "publishedAt": "2026-07-09T14:56:25.000Z",
         "category": "crypto"
       },
       {
-        "title": "AI is shortening the shelf life of crypto security audits, researchers warn",
-        "url": "https://cointelegraph.com/news/ai-is-shortening-the-shelf-life-of-crypto-security-audits-researchers-warn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "MARA jumps 18% as Bitcoin miner acquires Texas powered land site for $600 million",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/mara-jumps-18-bitcoin-miner-145055887.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:50:55.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "PayPal Expands PYUSD to Polygons $2.6T Stablecoin Settlement Network",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/paypal-expands-pyusd-polygons-2-144900261.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T14:49:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?",
+        "url": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-07-09T05:47:09.000Z",
+        "publishedAt": "2026-07-09T13:30:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "Crypto still 'off the table' for Singapore's Temasek, four years after FTX flop",
-        "url": "https://www.cnbc.com/2026/07/09/temasek-takeaways-crypto-defense-ai-european-luxury-names.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-09T05:12:22.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "XRP holds near $1.10 as traders watch long-term breakout setup",
-        "url": "https://www.coindesk.com/markets/2026/07/09/xrp-holds-near-usd1-10-as-traders-watch-long-term-breakout-setup",
+        "title": "Aave rolls out vaults for yield-hungry fintech investors",
+        "url": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
         "source": "CoinDesk",
-        "publishedAt": "2026-07-09T05:07:11.000Z",
+        "publishedAt": "2026-07-09T13:01:38.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Age verification is the surveillance nobody voted for",
+        "url": "https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-09T13:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin and ethereum prices today, Thursday, July 9: Prices continue sliding on geopolitical tensions",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-9-prices-continue-sliding-on-geopolitical-tensions-125531170.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-09T12:55:31.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
+        "url": "https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-09T12:53:44.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus",
+        "url": "https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-09T12:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Pricing houses in bitcoin exposes dollar's loss of value",
+        "url": "https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-09T11:27:10.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Sony Bank gets US regulator nod to issue stablecoins",
+        "url": "https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-09T11:18:41.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Interpol operation exposes $122M crypto wallet tied to romance scam laundering",
+        "url": "https://cointelegraph.com/news/interpol-122m-crypto-flows-romance-scam-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-09T11:18:21.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
+        "url": "https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-09T11:08:37.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
+        "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-09T10:55:37.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "SK Hynix Nasdaq listing may become the second-largest equity offering ever, trailing only SpaceX’s",
-      "url": "https://www.marketwatch.com/story/sk-hynix-nasdaq-listing-may-become-the-second-largest-equity-offering-ever-trailing-only-spacexs-8dca5afa?mod=mw_rss_topstories",
+      "title": "Senegal’s Political Rupture Raises Risk of Debt Reprofile, Says Citibank",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/senegal-s-political-rupture-raises-risk-of-debt-reprofile-says-citibank",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-09T15:03:03.000Z"
+    },
+    {
+      "title": "Your ETF of the Moment: Winning Big With ‘Trump Accounts’",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/your-etf-of-the-moment-winning-big-with-trump-accounts",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-09T15:01:58.000Z"
+    },
+    {
+      "title": "PepsiCo Up on Earnings; Costco Moves on Comparable Sales Miss | Stock Movers",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-09/pepsico-up-on-earnings-costco-moves-on-comparable-sales-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-09T15:01:58.000Z"
+    },
+    {
+      "title": "‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
+      "url": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-09T09:38:00.000Z"
+      "publishedAt": "2026-07-09T15:00:00.000Z"
     },
     {
-      "title": "‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
-      "url": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
+      "title": "PepsiCo cut snack prices again, but not enough to get American consumers to buy more",
+      "url": "https://www.marketwatch.com/story/pepsico-cuts-prices-on-snacks-its-not-enough-to-drive-growth-in-north-america-5bc0c111?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-09T09:30:00.000Z"
+      "publishedAt": "2026-07-09T14:58:00.000Z"
     },
     {
-      "title": "Defense Valuations Yet to Peak as Orders Surge, BNP Banker Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/defense-valuations-yet-to-peak-as-orders-surge-bnp-banker-says",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T09:28:34.000Z"
-    },
-    {
-      "title": "Dollar follows oil lower; Gulf tensions, Fed minutes in focus",
-      "url": "https://www.investing.com/news/economy-news/dollar-stands-tall-as-gulf-tensions-fuel-oil-price-surge-fed-hike-bets-4782925",
+      "title": "Wall St rises as chip stocks’ gains offset Middle East jitters",
+      "url": "https://www.investing.com/news/economy-news/wall-st-futures-rebound-as-oil-retreats-investors-weigh-usiran-tensions-4783449",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-09T09:24:27.000Z"
+      "publishedAt": "2026-07-09T14:54:43.000Z"
     },
     {
-      "title": "Bank Negara Malaysia holds interest rates at 2.75%",
-      "url": "https://www.investing.com/news/economy-news/bank-negara-malaysia-holds-interest-rates-at-275-93CH-4783288",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-09T09:21:33.000Z"
-    },
-    {
-      "title": "Turkey’s Vestel Said to Start Work on Dollar Bond Restructuring",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/turkey-s-vestel-said-to-start-work-on-dollar-bond-restructuring",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T09:18:32.000Z"
-    },
-    {
-      "title": "US Strikes Iran A Second Day; AI Rotation Trade on Watch | The Asia Trade 7/8/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/the-asia-trade-7-9-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T09:17:38.000Z"
-    },
-    {
-      "title": "The PWHL is Just Getting Started With Hilary Knight",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/the-pwhl-is-just-getting-started-with-hilary-knight-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T09:09:18.000Z"
-    },
-    {
-      "title": "Former Dallas Cowboys cheerleader Reece Weaver buys $750,000 home in Alabama after sudden exit from squad",
-      "url": "https://www.marketwatch.com/story/former-dallas-cowboys-cheerleader-reece-weaver-buys-750-000-home-in-alabama-after-sudden-exit-from-squad-71796a9b?mod=mw_rss_topstories",
+      "title": "Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty.",
+      "url": "https://www.marketwatch.com/story/did-you-mess-up-on-your-taxes-the-irs-just-made-it-easier-to-avoid-paying-a-penalty-20d60ae6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-09T09:01:00.000Z"
+      "publishedAt": "2026-07-09T14:52:00.000Z"
     },
     {
-      "title": "BlackRock’s Jewell Sees AI Capex Stable for Two to Three Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/blackrock-s-jewell-sees-ai-capex-stable-for-two-to-three-years",
+      "title": "TeraWulf Eyes $3.5 Billion for Anthropic-Leased Data Center",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/terawulf-eyes-3-5-billion-for-anthropic-leased-data-center",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T08:52:28.000Z"
+      "publishedAt": "2026-07-09T14:42:57.000Z"
     },
     {
-      "title": "Qatar calls for diplomatic solution to escalating U.S.-Iran tensions",
-      "url": "https://www.investing.com/news/economy-news/qatar-calls-for-diplomatic-solution-to-escalating-usiran-tensions-4783162",
+      "title": "Fed’s Williams doesn’t expect sustained surge in energy prices",
+      "url": "https://www.investing.com/news/economy-news/feds-williams-doesnt-expect-sustained-surge-in-energy-prices-4784464",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-09T08:50:17.000Z"
+      "publishedAt": "2026-07-09T14:38:31.000Z"
     },
     {
-      "title": "Hugo Boss Board Rejects Frasers Bid as Not Reflecting Potential",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/hugo-boss-board-rejects-frasers-bid-as-not-reflecting-potential",
+      "title": "CFTC Blocking CME Plan to Offer 24/7 Oil Futures Trading",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/cftc-blocking-cme-plan-to-offer-24-7-oil-futures-trading",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T08:49:32.000Z"
+      "publishedAt": "2026-07-09T14:38:15.000Z"
     },
     {
-      "title": "HSBC lowers 2026-27 gold price forecasts on hawkish Fed tilt",
-      "url": "https://www.investing.com/news/economy-news/hsbc-lowers-202627-gold-price-forecasts-on-hawkish-fed-tilt-4783145",
+      "title": "Wall Street ticks up as tech hopes offset Middle East worries",
+      "url": "https://www.investing.com/news/economy-news/asian-shares-climb-on-chip-rally-oil-jumps-as-gulf-hostilities-resume-4782953",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-09T08:43:18.000Z"
+      "publishedAt": "2026-07-09T14:37:49.000Z"
     },
     {
-      "title": "7-Eleven made $349 million from surge in gasoline prices in the U.S. last quarter",
-      "url": "https://www.marketwatch.com/story/7-eleven-made-349-million-from-surge-in-gasoline-prices-in-the-u-s-last-quarter-ce74de85?mod=mw_rss_topstories",
+      "title": "Global M&A activity on track to eclipse 2021 deal boom, Morgan Stanley says",
+      "url": "https://www.investing.com/news/economy-news/global-ma-activity-on-track-to-eclipse-2021-deal-boom-morgan-stanley-says-4784460",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-09T14:36:46.000Z"
+    },
+    {
+      "title": "Merz’s Reforms for Germany Get Fitch Cheer But No Big Applause",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/merz-s-reforms-for-germany-get-fitch-cheer-but-no-big-applause",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-09T14:31:36.000Z"
+    },
+    {
+      "title": "8 things I learned about travel expenses after a family tragedy",
+      "url": "https://www.marketwatch.com/story/8-things-i-learned-about-travel-expenses-after-a-family-tragedy-1bbb024f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-09T08:39:00.000Z"
+      "publishedAt": "2026-07-09T14:30:00.000Z"
     },
     {
-      "title": "UK’s Capita Sinks on Profit Hit From Pension Contract Failures",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/uk-s-capita-sinks-on-profit-hit-from-pension-contract-failures",
+      "title": "Repricing of 30-Year Treasury Yield Has Just Begun, PGIM’s Peters Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/pgim-s-peters-says-repricing-of-30-year-treasury-yield-has-just-begun",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T08:37:19.000Z"
+      "publishedAt": "2026-07-09T14:27:28.000Z"
     },
     {
-      "title": "Oil Fluctuates After Second Day of US Strikes on Iran",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/oil-fluctuates-after-second-day-of-us-strikes-on-iran-video",
+      "title": "Hormuz Ship Insurance Demand Drops as Owners Get Nervous",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/hormuz-ship-insurance-demand-drops-as-owners-get-nervous",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T08:36:04.000Z"
+      "publishedAt": "2026-07-09T14:24:03.000Z"
     },
     {
-      "title": "China's Tech Stack Outshines its Economy: 3-Minutes MLIV",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/china-s-tech-stack-outshines-its-economy-mliv-video",
+      "title": "Brazil Miner Vale Facing Scrutiny Over Chair’s Exit Compensation",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/brazil-miner-vale-facing-scrutiny-over-chair-s-exit-compensation",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T08:31:33.000Z"
+      "publishedAt": "2026-07-09T14:17:27.000Z"
     },
     {
-      "title": "Thailand and Malaysia Reach Deal to End Seafood Trade Spat",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/thailand-and-malaysia-reach-deal-to-end-seafood-trade-spat",
+      "title": "Scotiabank Re-Enters Precious Metals Business It Exited in 2020",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/scotiabank-re-enters-precious-metals-business-it-exited-in-2020",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T08:29:40.000Z"
+      "publishedAt": "2026-07-09T14:16:21.000Z"
     },
     {
-      "title": "How South Korea's SK Hynix Became Central to the AI Boom",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/how-south-korea-s-sk-hynix-became-central-to-the-ai-boom-video",
+      "title": "Qiagen Draws Early Takeover Interest From EQT, Advent",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/qiagen-draws-early-takeover-interest-from-eqt-advent",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T08:21:25.000Z"
+      "publishedAt": "2026-07-09T14:12:52.000Z"
     },
     {
-      "title": "France Plans €2 Billion to Cut Fertilizer Imports Dependence",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/france-plans-2-billion-to-cut-fertilizer-imports-dependence",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-09T08:10:52.000Z"
+      "title": "US strikes Iranian railway bridges on route to city of Khamenei’s burial",
+      "url": "https://www.ft.com/content/4b1df8e8-cc24-4991-a900-cde0d25f0f68",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-09T14:11:15.000Z"
     }
   ]
 }
