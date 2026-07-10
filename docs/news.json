@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T19:35:15.381Z",
+  "lastUpdated": "2026-07-10T22:05:02.667Z",
   "ai": {
     "developers": [
       {
@@ -21,13 +21,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
         "source": "The Verge – AI",
         "publishedAt": "2026-07-09T14:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Say hello to Claude Wrapped",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-09T13:30:00.000Z",
         "category": "developers"
       },
       {
@@ -106,9 +99,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-22T00:00:00.000Z",
         "category": "developers"
+      },
+      {
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-21T23:00:00.000Z",
+        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-10T21:36:51.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
         "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
@@ -205,13 +212,6 @@
         "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-30T09:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI agents are not your “coworkers”",
-        "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-29T18:00:00.000Z",
         "category": "everyone"
       }
     ],
@@ -326,17 +326,94 @@
   "finance": {
     "markets": [
       {
-        "title": "S&P 500 rises as index heads for winning week: Live updates",
-        "url": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
+        "title": "Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision",
+        "url": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-10T19:22:08.000Z",
+        "publishedAt": "2026-07-10T22:02:04.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+        "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T21:35:20.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
+        "url": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T21:27:18.000Z",
         "category": "markets"
       },
       {
         "title": "OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO",
         "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-10T19:12:46.000Z",
+        "publishedAt": "2026-07-10T20:51:09.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC 'demand is enormous'",
+        "url": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T20:34:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Looking for your first credit card? The Chase Freedom Rise earns 3% cash back for a limited time",
+        "url": "https://www.cnbc.com/select/chase-freedom-rise-limited-time-bonus/",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T20:31:35.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
+        "url": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T20:25:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "S&P 500 closes higher to notch a winning week, helped by tech gains",
+        "url": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T20:16:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Meta's stock has best week since early 2024 as optimism builds around AI strategy",
+        "url": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T20:06:19.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "US stocks today: US stocks end higher as investors turn to earnings season",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-turn-to-earnings-season/articleshow/132320373.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-10T20:04:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Next week brings earnings and inflation data amid resumption of U.S.-Iran hostilities. Here's what's ahead",
+        "url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T19:58:13.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump Accounts may help foster children build a financial safety net. What to know",
+        "url": "https://www.cnbc.com/2026/07/10/trump-accounts-foster-children.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T19:57:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Buy these dividend-paying real estate stocks ahead of earnings, says UBS",
+        "url": "https://www.cnbc.com/2026/07/10/buy-these-dividend-paying-real-estate-stocks-ahead-of-earnings-says-ubs.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T19:41:14.000Z",
         "category": "markets"
       },
       {
@@ -352,98 +429,56 @@
         "source": "CNBC",
         "publishedAt": "2026-07-10T19:04:32.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Stocks rise as investors await the start of earnings season — here's what to expect",
-        "url": "https://www.cnbc.com/2026/07/10/stocks-rise-as-investors-await-the-start-of-earnings-what-to-expect.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T19:04:06.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Analyst Report: Deere & Co",
-        "url": "https://finance.yahoo.com/research/reports/ARGUS_2888_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-10T18:33:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Analyst Report: Monster Beverage Corp",
-        "url": "https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-10T18:33:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Market Update: UAA, DE, MNST, MRNA",
-        "url": "https://finance.yahoo.com/research/reports/ARGUS_47580_MarketUpdate_1783707526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-10T18:18:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump Accounts may help foster children build a financial safety net. What to know",
-        "url": "https://www.cnbc.com/2026/07/10/trump-accounts-foster-children.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T18:11:55.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump purges Election Assistance Commission members, months before midterms",
-        "url": "https://www.cnbc.com/2026/07/10/trump-purges-election-assistance-commission.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T18:05:24.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Looking for your first credit card? The Chase Freedom Rise earns 3% cash back for a limited time",
-        "url": "https://www.cnbc.com/select/chase-freedom-rise-limited-time-bonus/",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T18:02:55.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more",
-        "url": "https://www.cnbc.com/2026/07/10/stocks-making-big-midday-moves-skhyv-meta-wdfc-dal-vod-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T17:53:52.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Traders fall back in love with Meta. Here's where bulls see it going",
-        "url": "https://www.cnbc.com/2026/07/10/traders-fall-back-in-love-with-meta-heres-where-bulls-see-it-going.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T17:40:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Indian Bank drops capital raising plan on lower ECL hit",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-drops-capital-raising-plan-on-lower-ecl-hit/articleshow/132318232.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-10T17:35:45.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz",
-        "url": "https://www.cnbc.com/2026/07/10/iran-strait-hormuz-oil-tanker-mou-trump.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T17:26:08.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Senate Democrats want hearings on Trump’s crypto holdings and foreign investors",
-        "url": "https://www.cnbc.com/2026/07/10/trump-crypto-senate-democrats.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T17:44:17.000Z",
+        "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+        "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-10T21:26:55.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Kraken to overhaul app with AI investing assistant",
+        "url": "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-10T21:07:39.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
+        "url": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-10T21:03:57.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-10T20:14:39.000Z",
         "category": "crypto"
       },
       {
         "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
         "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-10T17:42:21.000Z",
+        "publishedAt": "2026-07-10T20:01:29.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
+        "url": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-10T19:33:03.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Senate Democrats want hearings on Trump’s crypto holdings and foreign investors",
+        "url": "https://www.cnbc.com/2026/07/10/trump-crypto-senate-democrats.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T17:44:17.000Z",
         "category": "crypto"
       },
       {
@@ -501,164 +536,129 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-07-10T14:48:13.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
-        "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-10T13:54:50.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-10T13:46:13.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
-        "url": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-10T13:30:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
-        "url": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-10T12:29:08.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "US charges prisoner over alleged laundering of seized Kraken crypto",
-        "url": "https://cointelegraph.com/news/us-prisoner-290k-crypto-restrained-kraken-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-10T12:27:40.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Where to put cash right now: Should you lock in at 4% — or wait for the next Fed rate decision?",
-      "url": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
+      "title": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T21:52:56.000Z"
+    },
+    {
+      "title": "Fed again promises to deliver price stability in semiannual monetary policy report",
+      "url": "https://www.investing.com/news/economy-news/fed-again-promises-to-deliver-price-stability-in-semiannual-monetary-policy-report-4787018",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-10T21:43:10.000Z"
+    },
+    {
+      "title": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T21:40:08.000Z"
+    },
+    {
+      "title": "Rhode Island Jail Operator Files Bankruptcy to Cut Bond Debt",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/rhode-island-jail-operator-files-bankruptcy-to-cut-bond-debt",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T21:37:26.000Z"
+    },
+    {
+      "title": "‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
+      "url": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-10T19:30:00.000Z"
+      "publishedAt": "2026-07-10T21:30:00.000Z"
+    },
+    {
+      "title": "Shionogi-Backed Apnimed Files for IPO to Fund Sleep Apnea Drug",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/shionogi-backed-apnimed-files-for-ipo-to-fund-sleep-apnea-drug",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T21:27:05.000Z"
+    },
+    {
+      "title": "Insuring Rare and Collectible Cars and Boats: Masters in Business with McKeel Hagerty",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/masters-in-business-with-mckeel-hagerty-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T21:15:18.000Z"
+    },
+    {
+      "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+      "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-10T21:12:00.000Z"
+    },
+    {
+      "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+      "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-10T21:11:00.000Z"
+    },
+    {
+      "title": "US Treasury bonds fall as Iran tensions raise inflation concerns",
+      "url": "https://www.investing.com/news/economy-news/us-treasury-bonds-fall-as-iran-tensions-raise-inflation-concerns-93CH-4786976",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-10T21:06:26.000Z"
+    },
+    {
+      "title": "片山氏のGPIF発言、全東信の破産ショック、物価の権威が利上げ予測─1週間のニュース5選",
+      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-10/THZ901N3N09800",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T21:00:01.000Z"
+    },
+    {
+      "title": "The Grueling Economics of Tennis",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/the-grueling-economics-of-tennis-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T20:55:44.000Z"
+    },
+    {
+      "title": "Wall Street climbs, oil slides as investors bet on AI growth over Middle East tensions",
+      "url": "https://www.investing.com/news/economy-news/asian-stocks-surge-as-investors-look-past-middle-east-attacks-4785274",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-10T20:54:33.000Z"
+    },
+    {
+      "title": "Seeing Signs of AI Fatigue: CreditSights Global Head of Strategy",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/seeing-signs-of-ai-fatigue-creditsights-cisar-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T20:53:23.000Z"
+    },
+    {
+      "title": "Meta Shares Gain Most Since April 2025 | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/meta-shares-gain-most-since-april-2025-closing-bell-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T20:47:59.000Z"
+    },
+    {
+      "title": "Gotham FC Announces Move to Etihad Stadium in 2028",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/gotham-fc-announces-move-to-etihad-stadium-in-2028-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T20:45:26.000Z"
+    },
+    {
+      "title": "Iran denies requesting talks with US, defies Trump",
+      "url": "https://www.investing.com/news/economy-news/iran-denies-requesting-talks-with-us-defies-trump-93CH-4786917",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-10T20:44:55.000Z"
     },
     {
       "title": "More Americans Are Getting Prenups, Even If They Aren't Rich",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/more-americans-getting-prenups-even-if-they-aren-t-rich-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/more-americans-are-getting-prenups-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T19:06:21.000Z"
-    },
-    {
-      "title": "Exxon Supports SEC Proposal to End Mandatory Quarterly Reports",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/exxon-supports-sec-proposal-to-end-mandatory-quarterly-reports",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T19:04:32.000Z"
-    },
-    {
-      "title": "A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says",
-      "url": "https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-10T19:04:00.000Z"
-    },
-    {
-      "title": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
-      "url": "https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-10T19:02:00.000Z"
-    },
-    {
-      "title": "Headline: Trust Breakdown Between Fed, Consumer Inflation: Kroszner",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/trust-breakdown-between-fed-inflation-kroszner-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T19:00:33.000Z"
-    },
-    {
-      "title": "‘Trump accounts’ are great — if you’re already rich",
-      "url": "https://www.marketwatch.com/story/trump-accounts-are-great-if-youre-already-rich-0bfe5227?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-10T18:49:00.000Z"
-    },
-    {
-      "title": "Trump Says Iran Ceasefire Over But Talks on Deal to Continue",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-iran-ceasefire-over-but-talks-to-continue-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T18:46:48.000Z"
-    },
-    {
-      "title": "SK Hynix's US Debut, Trump Accounts: Money Roundtable",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-s-us-debut-trump-accounts-money-roundtable-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T18:44:08.000Z"
-    },
-    {
-      "title": "Aston Martin Lender Group Led by Arini, BlackRock, Sculptor",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/aston-martin-lender-group-led-by-arini-blackrock-sculptor",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T18:34:58.000Z"
-    },
-    {
-      "title": "SK Hynix’s stock scores double-digit pop in Nasdaq debut",
-      "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-10T18:31:00.000Z"
-    },
-    {
-      "title": "US senators strike deal with White House to tighten Russia sanctions",
-      "url": "https://www.ft.com/content/54fba496-986c-44a0-99db-dfb8bb6fce23",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-10T18:30:33.000Z"
-    },
-    {
-      "title": "‘An American tragedy’ in the making: The majority of small-business owners will retire in the next decade. What happens to their workers?",
-      "url": "https://www.marketwatch.com/story/half-of-small-business-owners-hope-to-sell-their-companies-and-retire-in-the-next-decade-what-happens-to-their-workers-a03ae979?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-10T18:28:00.000Z"
-    },
-    {
-      "title": "Trump Says Ceasefire With Iran Is Over",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-ceasefire-with-iran-is-over-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T18:26:18.000Z"
-    },
-    {
-      "title": "Trump Won’t Sign Housing Bill But Will Allow It to Become Law",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-he-won-t-sign-housing-bill-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T18:25:50.000Z"
+      "publishedAt": "2026-07-10T20:40:13.000Z"
     },
     {
       "title": "US sends team to Beirut to shore up Israel-Hizbollah ceasefire",
       "url": "https://www.ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff",
       "source": "Financial Times",
-      "publishedAt": "2026-07-10T17:57:26.000Z"
+      "publishedAt": "2026-07-10T20:36:41.000Z"
     },
     {
-      "title": "Nasdaq Says SK Hynix Bonanza Opens Path to More Foreign Listings",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/nasdaq-says-sk-hynix-bonanza-opens-path-to-more-foreign-listings",
+      "title": "Hit Memoir \"Strangers\" Spurs Marital Money Rethink",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/hit-memoir-strangers-spurs-marital-money-rethink-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T17:45:04.000Z"
-    },
-    {
-      "title": "BHP Explores Sale of Chilean Desalination Plant, Power Lines",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/bhp-explores-sale-of-chilean-desalination-plant-power-lines",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T17:42:09.000Z"
-    },
-    {
-      "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
-      "url": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-10T17:32:00.000Z"
-    },
-    {
-      "title": "Corporate America is pumping $1 trillion into stock buybacks — but look at what insiders are doing",
-      "url": "https://www.marketwatch.com/story/corporate-america-is-pumping-1-trillion-into-stock-buybacks-but-look-at-what-insiders-are-doing-44854835?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-10T17:31:00.000Z"
+      "publishedAt": "2026-07-10T20:31:35.000Z"
     }
   ]
 }
