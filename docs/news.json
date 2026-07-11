@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T22:05:02.667Z",
+  "lastUpdated": "2026-07-11T02:46:08.800Z",
   "ai": {
     "developers": [
       {
@@ -14,13 +14,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
         "source": "The Verge – AI",
         "publishedAt": "2026-07-09T17:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Meta says its new AI model is ready to compete on coding",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-09T14:00:00.000Z",
         "category": "developers"
       },
       {
@@ -106,9 +99,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-21T23:00:00.000Z",
         "category": "developers"
+      },
+      {
+        "title": "Predicting model behavior before release by simulating deployment",
+        "url": "https://openai.com/index/deployment-simulation",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-10T23:49:50.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
         "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
@@ -205,13 +212,6 @@
         "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-30T12:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "How ChatGPT adoption has expanded",
-        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-30T09:00:00.000Z",
         "category": "everyone"
       }
     ],
@@ -326,17 +326,24 @@
   "finance": {
     "markets": [
       {
-        "title": "Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision",
-        "url": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T22:02:04.000Z",
+        "title": "IT rally powers markets over 1%; Sensex, Nifty end week with marginal losses",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-rally-powers-markets-over-1-sensex-nifty-end-week-with-marginal-losses/articleshow/132323425.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-11T02:12:10.000Z",
         "category": "markets"
       },
       {
         "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
         "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-10T21:35:20.000Z",
+        "publishedAt": "2026-07-11T00:08:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision",
+        "url": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T22:02:04.000Z",
         "category": "markets"
       },
       {
@@ -422,16 +429,23 @@
         "source": "CNBC",
         "publishedAt": "2026-07-10T19:12:18.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Trump says he won't sign housing bill, which would become law automatically",
-        "url": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T19:04:32.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+        "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-11T02:30:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
+        "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-11T01:30:31.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
         "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
@@ -522,24 +536,88 @@
         "source": "CoinDesk",
         "publishedAt": "2026-07-10T15:26:43.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
-        "url": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-10T14:59:30.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacexs-near-term-ai-payoff-seen-tethered-to-earth-not-outer-space/articleshow/132314779.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-10T14:48:13.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "India, NZ Plan Strategic Partnership Including Maritime Security",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/india-nz-plan-strategic-partnership-including-maratime-security",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-11T01:03:38.000Z"
+    },
+    {
+      "title": "Trump administration doubts Iran nuclear deal prospects, WSJ reports",
+      "url": "https://www.investing.com/news/economy-news/trump-administration-doubts-iran-nuclear-deal-prospects-wsj-reports-4787182",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-11T00:18:24.000Z"
+    },
+    {
+      "title": "SK Hynix Rises After Record US Offering | The Close 7/10/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T23:56:41.000Z"
+    },
+    {
+      "title": "Trump says US has agreed to continue talks with Iran",
+      "url": "https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-10T23:43:33.000Z"
+    },
+    {
+      "title": "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’",
+      "url": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-10T23:06:00.000Z"
+    },
+    {
+      "title": "MGM Resorts Engaged in Deal Talks With Diller, WSJ Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/mgm-resorts-engaged-in-deal-talks-with-diller-wsj-says",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T23:02:50.000Z"
+    },
+    {
+      "title": "S&P Global: FIFA to Offer Short-Term Economic Boost",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/s-p-global-fifa-to-offer-short-term-economic-boost-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T22:53:26.000Z"
+    },
+    {
+      "title": "Apple sues OpenAI alleging theft of top-secret information",
+      "url": "https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-10T22:50:16.000Z"
+    },
+    {
+      "title": "Pro Shop's Chad Mumm on 'Full Swing,' Golf in 2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/pro-shop-s-chad-mumm-on-full-swing-golf-in-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T22:38:33.000Z"
+    },
+    {
+      "title": "Gensler: Big Deals a Sign of 'High-Valuation Market'",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/gensler-big-deals-a-sign-of-high-valuation-market-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T22:25:33.000Z"
+    },
+    {
+      "title": "Meta’s stock roars back to life as it notches its best week in years",
+      "url": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-10T22:24:00.000Z"
+    },
+    {
+      "title": "SK Hynix’s stock sees double-digit pop in Nasdaq debut",
+      "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-10T22:18:00.000Z"
+    },
+    {
+      "title": "Bloomberg Money 7/10/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-money-7-10-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-10T22:00:10.000Z"
+    },
     {
       "title": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
       "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
@@ -581,84 +659,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-07-10/masters-in-business-with-mckeel-hagerty-video",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-07-10T21:15:18.000Z"
-    },
-    {
-      "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-      "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-10T21:12:00.000Z"
-    },
-    {
-      "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
-      "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-10T21:11:00.000Z"
-    },
-    {
-      "title": "US Treasury bonds fall as Iran tensions raise inflation concerns",
-      "url": "https://www.investing.com/news/economy-news/us-treasury-bonds-fall-as-iran-tensions-raise-inflation-concerns-93CH-4786976",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-10T21:06:26.000Z"
-    },
-    {
-      "title": "片山氏のGPIF発言、全東信の破産ショック、物価の権威が利上げ予測─1週間のニュース5選",
-      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-10/THZ901N3N09800",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T21:00:01.000Z"
-    },
-    {
-      "title": "The Grueling Economics of Tennis",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/the-grueling-economics-of-tennis-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T20:55:44.000Z"
-    },
-    {
-      "title": "Wall Street climbs, oil slides as investors bet on AI growth over Middle East tensions",
-      "url": "https://www.investing.com/news/economy-news/asian-stocks-surge-as-investors-look-past-middle-east-attacks-4785274",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-10T20:54:33.000Z"
-    },
-    {
-      "title": "Seeing Signs of AI Fatigue: CreditSights Global Head of Strategy",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/seeing-signs-of-ai-fatigue-creditsights-cisar-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T20:53:23.000Z"
-    },
-    {
-      "title": "Meta Shares Gain Most Since April 2025 | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/meta-shares-gain-most-since-april-2025-closing-bell-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T20:47:59.000Z"
-    },
-    {
-      "title": "Gotham FC Announces Move to Etihad Stadium in 2028",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/gotham-fc-announces-move-to-etihad-stadium-in-2028-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T20:45:26.000Z"
-    },
-    {
-      "title": "Iran denies requesting talks with US, defies Trump",
-      "url": "https://www.investing.com/news/economy-news/iran-denies-requesting-talks-with-us-defies-trump-93CH-4786917",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-10T20:44:55.000Z"
-    },
-    {
-      "title": "More Americans Are Getting Prenups, Even If They Aren't Rich",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/more-americans-are-getting-prenups-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T20:40:13.000Z"
-    },
-    {
-      "title": "US sends team to Beirut to shore up Israel-Hizbollah ceasefire",
-      "url": "https://www.ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-10T20:36:41.000Z"
-    },
-    {
-      "title": "Hit Memoir \"Strangers\" Spurs Marital Money Rethink",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/hit-memoir-strangers-spurs-marital-money-rethink-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-10T20:31:35.000Z"
     }
   ]
 }
