@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T13:47:18.511Z",
+  "lastUpdated": "2026-07-14T16:16:27.346Z",
   "ai": {
     "developers": [
       {
@@ -17,15 +17,15 @@
         "category": "developers"
       },
       {
-        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-        "url": "https://openai.com/index/gpt-5-6",
+        "title": "GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/bio-bug-bounty",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-09T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "GPT-5.5 Bio Bug Bounty",
-        "url": "https://openai.com/index/bio-bug-bounty",
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "url": "https://openai.com/index/gpt-5-6",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-09T10:00:00.000Z",
         "category": "developers"
@@ -110,6 +110,27 @@
     ],
     "everyone": [
       {
+        "title": "The Google Images homepage will recommend photos even before you search",
+        "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-14T16:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Spotify is now an AI chatbot, too",
+        "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-14T15:47:36.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Sam Altman didn’t need another lawsuit",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-14T14:01:07.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
         "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
         "source": "The Verge – AI",
@@ -124,15 +145,15 @@
         "category": "everyone"
       },
       {
-        "title": "How data science teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "title": "How sales teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-14T00:00:00.000Z",
         "category": "everyone"
       },
       {
-        "title": "How sales teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+        "title": "How data science teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-14T00:00:00.000Z",
         "category": "everyone"
@@ -166,27 +187,6 @@
         "category": "everyone"
       },
       {
-        "title": "The fight against AI data centers is just beginning",
-        "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-12T12:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-10T23:49:50.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-10T21:36:51.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Getting started with ChatGPT",
         "url": "https://openai.com/academy/getting-started",
         "source": "OpenAI Blog",
@@ -216,6 +216,13 @@
       }
     ],
     "advancements": [
+      {
+        "title": "Celebrating 25 years of visual search innovation",
+        "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-07-14T16:00:00.000Z",
+        "category": "advancements"
+      },
       {
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
         "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
@@ -287,8 +294,8 @@
         "category": "advancements"
       },
       {
-        "title": "Core dump epidemiology: fixing an 18-year-old bug",
-        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+        "title": "Introducing GeneBench-Pro",
+        "url": "https://openai.com/index/introducing-genebench-pro",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-30T00:00:00.000Z",
         "category": "advancements"
@@ -301,8 +308,8 @@
         "category": "advancements"
       },
       {
-        "title": "Introducing GeneBench-Pro",
-        "url": "https://openai.com/index/introducing-genebench-pro",
+        "title": "Core dump epidemiology: fixing an 18-year-old bug",
+        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-30T00:00:00.000Z",
         "category": "advancements"
@@ -313,130 +320,172 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-06-29T16:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "How agents are transforming work",
-        "url": "https://openai.com/index/how-agents-are-transforming-work",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-25T02:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Bank earnings live updates: Jamie Dimon says AI has helped JPMorgan cut up to 40% of jobs in certain roles",
+        "title": "Goldman Sachs CEO David Solomon tells CNBC that 'Fed independence has served us well': Live updates",
         "url": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-14T13:38:54.000Z",
+        "publishedAt": "2026-07-14T16:14:06.000Z",
         "category": "markets"
       },
       {
-        "title": "US stocks today: S&amp;P 500 and Nasdaq open lower as Iran tensions jolt sentiment, chip stocks slide",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-open-lower-as-iran-tensions-jolt-sentiment-chip-stocks-slide/articleshow/132393054.cms",
+        "title": "The New Large-Load Compact",
+        "url": "https://finance.yahoo.com/energy/articles/large-load-compact-161211191.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T16:12:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic",
+        "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-14T16:11:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Gas prices drive down US inflation - but will it last?",
+        "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-14T16:05:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "These 2 Space Stocks Are Down 24% and 41%: Which Is the Better Buy Today?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/2-space-stocks-down-24-160500214.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T16:05:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132395996.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-14T13:37:57.000Z",
+        "publishedAt": "2026-07-14T16:01:46.000Z",
         "category": "markets"
       },
       {
-        "title": "IBM stock craters 23% after issuing second-quarter earnings warning",
-        "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
+        "title": "Cumberland Packaging selects Amtech EnCore ERP for UK operations",
+        "url": "https://finance.yahoo.com/small-business/articles/cumberland-packaging-selects-amtech-encore-160119759.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T16:01:19.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The Ultimate Stock to Buy And Hold For A Decade",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-stock-buy-hold-decade-160036449.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T16:00:36.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-tops-estimates-on-trading-boom-corporate-deal-spree/articleshow/132395970.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-14T15:59:36.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Here's Why Newmont Stock Popped Today (Hint: Wall Street Likes its Valuation)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-newmont-stock-popped-155632099.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T15:56:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "DLocal Director Sebastian Kanovich Sells 25,700 Shares for $398,350 -- Is the Stock a Sell Too?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dlocal-director-sebastian-kanovich-sells-155546930.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T15:55:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "JPMorgan CEO Jamie Dimon offers up a quick insight for investors",
+        "url": "https://finance.yahoo.com/markets/article/jpmorgan-ceo-jamie-dimon-offers-up-a-quick-insight-for-investors-155456381.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T15:54:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "CleanSpark shares surge after company secures $6.6B data center lease agreement",
+        "url": "https://finance.yahoo.com/technology/articles/cleanspark-shares-surge-company-secures-155300773.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T15:53:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "S&P 500 gains after light inflation data, bounce in chip stocks: Live updates",
+        "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-14T13:37:16.000Z",
+        "publishedAt": "2026-07-14T15:51:34.000Z",
         "category": "markets"
       },
       {
-        "title": "Broad Industrials Are Fine. This Infrastructure Fund Rode the AI Build-Out to 28%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/broad-industrials-fine-infrastructure-fund-133647748.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T13:36:47.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Apple, IBM downgraded: Wall Street's top analyst calls",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ibm-downgraded-wall-streets-133610054.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T13:36:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Sen. Tim Scott wants to hear from Warsh on data centers and artificial intelligence",
-        "url": "https://www.cnbc.com/2026/07/14/tim-scott-kevin-warsh-data-centers-artificial-intelligence.html",
+        "title": "Jim Cramer says don't bite on Apple sell call; buy his new chip favorite",
+        "url": "https://www.cnbc.com/2026/07/14/jim-cramer-says-dont-bite-on-apple-sell-call-buy-his-new-chip-favorite.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-14T13:36:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Where Will Nvidia Stock Be in 2030?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/where-nvidia-stock-2030-133500106.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T13:35:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Centene Corporation (CNC) Rallied Following the Robust Result",
-        "url": "https://finance.yahoo.com/healthcare/articles/centene-corporation-cnc-rallied-following-133233020.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T13:32:33.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "I’m 62 and worth millions: how can I give more to my kids without getting slammed on taxes?",
-        "url": "https://finance.yahoo.com/economy/policy/articles/m-62-worth-millions-more-125201209.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T13:31:55.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Inflation had its biggest monthly decline in six years. What Wall Street is saying now",
-        "url": "https://www.cnbc.com/2026/07/14/inflation-saw-biggest-monthly-decline-in-6-years-what-wall-street-is-saying.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-14T13:31:39.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Chipotle opens first restaurant in Mexico in Monterrey",
-        "url": "https://finance.yahoo.com/small-business/articles/chipotle-opens-first-restaurant-mexico-133014717.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T13:30:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Strategy became a symbol of the dot-com crash: Could history repeat?",
-        "url": "https://cointelegraph.com/features/from-dot-com-bust-to-bitcoin-king-has-michael-saylor-rewritten-his-legacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-14T13:30:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dow Jones' Two Biggest Banks Report Earnings. This One Rises.",
-        "url": "https://www.investors.com/news/jpmorgan-chase-goldman-sachs-bank-earnings-q2-2026-dow-jones-jpm-stock-gs-stock/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T13:29:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
-        "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-14T13:29:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Hut 8 Stock Gets A Price Target Boost As A.I. Pivot Succeeds",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hut-8-stock-gets-price-132700057.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T13:27:00.000Z",
+        "publishedAt": "2026-07-14T15:51:01.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Ripple’s Biggest Shareholder Is Building Institutional XRP Lending in Japan",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/ripple-biggest-shareholder-building-institutional-133021828.html",
+        "title": "Bitmine, SharpLink and Joe Lubin Back EthSystems’ Institutional Ethereum Privacy Push",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-sharplink-joe-lubin-back-155900686.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T13:30:21.000Z",
+        "publishedAt": "2026-07-14T15:59:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin Has Fallen 50% From Its Peak. History Points to What Comes Next.",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-fallen-50-peak-history-155700810.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T15:57:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Anchorage Digital expands Tron support with institutional TRX staking",
+        "url": "https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-14T15:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "JPMorgan says Hyperliquid's rise threatens Circle's USDC economics",
+        "url": "https://www.coindesk.com/business/2026/07/14/jpmorgan-says-hyperliquid-s-rise-threatens-circle-s-usdc-economics",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-14T14:57:16.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
+        "url": "https://cointelegraph.com/markets/bitcoin-jumps-on-lowest-us-cpi-since-2020-as-traders-stay-wary-of-64k-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-14T14:53:13.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Chamath Palihapitiya says soaring AI token spend will hit companies' earnings",
+        "url": "https://www.cnbc.com/2026/07/14/chamath-palihapitiya-ai-tokenmaxxing.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-14T14:47:31.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology",
+        "url": "https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-14T14:31:44.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "For pension funds, tokenization’s real play is balance-sheet management, Fidelity’s Lai says",
+        "url": "https://www.coindesk.com/markets/2026/07/14/for-pension-funds-tokenization-s-real-play-is-balance-sheet-management-fidelity-s-lai-says",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-14T14:05:18.000Z",
         "category": "crypto"
       },
       {
@@ -468,20 +517,6 @@
         "category": "crypto"
       },
       {
-        "title": "US Tiger Securities Upgrades Coinbase (COIN) to Buy",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/us-tiger-securities-upgrades-coinbase-123951713.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T12:39:51.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin and ethereum prices today, Tuesday, July 14, 2026:",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T12:30:22.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "ECB picks firms including Deutsche Bank, Revolut for digital euro pilot",
         "url": "https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot",
         "source": "CoinDesk",
@@ -501,164 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-07-14T11:40:00.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Solana community lead enters UK by-election with onchain transparency pitch",
-        "url": "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-14T11:38:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "ECB picks 36 payment providers to test digital euro ahead of 2027 pilot",
-        "url": "https://cointelegraph.com/news/ecb-36-payment-providers-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-14T11:16:38.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs",
-        "url": "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-14T11:15:06.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin's BIP-110 sparked a fight over who gets to decide the future of Bitcoin",
-        "url": "https://www.coindesk.com/tech/2026/07/14/bitcoin-s-bip-110-sparked-a-fight-over-who-gets-to-decide-the-future-of-bitcoin",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-14T11:01:16.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin’s great rotation: Long-term holders pass supply to a new generation of buyers",
-        "url": "https://www.coindesk.com/markets/2026/07/14/bitcoin-s-great-rotation-long-term-holders-pass-supply-to-a-new-generation-of-buyers",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-14T10:46:42.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "YouTube influencers talked me into getting a travel card at 20. Then I realized it wasn’t for me.",
-      "url": "https://www.marketwatch.com/story/youtube-influencers-talked-me-into-getting-a-travel-card-at-20-then-i-realized-it-wasnt-for-me-101138b5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-14T13:44:00.000Z"
+      "title": "Trump says US to abandon proposed Strait of Hormuz cargo fee",
+      "url": "https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-14T16:02:51.000Z"
     },
     {
-      "title": "I’m juggling 3 jobs with irregular pay. How can I budget when my income varies every month?",
-      "url": "https://www.marketwatch.com/story/im-a-bartender-yoga-teacher-and-freelance-consultant-how-can-i-budget-with-such-an-unpredictable-income-d5dce383?mod=mw_rss_topstories",
+      "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+      "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-14T13:43:00.000Z"
+      "publishedAt": "2026-07-14T16:00:00.000Z"
     },
     {
-      "title": "US CPI Falls for the First Time Since 2020",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-14/us-cpi-falls-for-the-first-time-since-2020-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-14T13:40:36.000Z"
+      "title": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
+      "url": "https://www.investing.com/news/economy-news/goldmans-profit-jumps-on-trading-surge-corporate-deal-spree-4790572",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-14T15:32:20.000Z"
+    },
+    {
+      "title": "UK banks’ lack of Mythos access a wake-up call, government AI adviser says",
+      "url": "https://www.investing.com/news/economy-news/uk-banks-lack-of-mythos-access-a-wakeup-call-government-ai-adviser-says-4791284",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-14T15:30:49.000Z"
+    },
+    {
+      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-14T15:30:00.000Z"
+    },
+    {
+      "title": "Lindsey Graham died from a rare heart condition. Here’s how to know if you’re at risk.",
+      "url": "https://www.marketwatch.com/story/lindsey-graham-died-from-a-rare-heart-condition-heres-how-to-know-if-youre-at-risk-8ca5a618?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-14T15:21:00.000Z"
     },
     {
       "title": "Jamie Dimon says ‘booming’ markets and a ‘fine’ consumer fueled JPMorgan’s blowout profits",
       "url": "https://www.marketwatch.com/story/jpmorgan-beats-profit-expectations-by-the-most-in-five-years-as-equity-markets-revenue-surges-9a0d8805?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-14T13:33:00.000Z"
+      "publishedAt": "2026-07-14T15:20:00.000Z"
+    },
+    {
+      "title": "Your Social Security check could go up by $74 a month next year",
+      "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-14T15:20:00.000Z"
+    },
+    {
+      "title": "Ireland’s Manna begins push into U.S. drone delivery ’battleground’",
+      "url": "https://www.investing.com/news/economy-news/irelands-manna-begins-push-into-us-drone-delivery-battleground-4791272",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-14T15:18:35.000Z"
+    },
+    {
+      "title": "Kevin Warsh vows Federal Reserve will be ‘resolute’ in inflation fight",
+      "url": "https://www.ft.com/content/ba8c019e-9d74-4fe2-9cb0-dc45f297df98",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-14T15:13:34.000Z"
+    },
+    {
+      "title": "Warsh says markets to get ample notice to any Fed balance sheet changes",
+      "url": "https://www.investing.com/news/economy-news/warsh-says-markets-to-get-ample-notice-to-any-fed-balance-sheet-changes-4791260",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-14T15:07:33.000Z"
+    },
+    {
+      "title": "WATCH LIVE: Fed Chair Kevin Warsh testifies before House",
+      "url": "https://www.investing.com/news/economy-news/feds-warsh-says-central-bank-wont-tolerate-high-inflation-4790853",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-14T15:05:00.000Z"
+    },
+    {
+      "title": "Fed’s Warsh says markets to get advance notice on any balance sheet changes",
+      "url": "https://www.investing.com/news/economy-news/feds-warsh-says-markets-to-get-advance-notice-on-any-balance-sheet-changes-93CH-4791251",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-14T15:01:34.000Z"
     },
     {
       "title": "Citi results beat Wall St estimates on investment banking, trading strength",
       "url": "https://www.investing.com/news/economy-news/citi-profit-jumps-45-on-investment-banking-trading-strength-4790709",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-14T13:30:33.000Z"
+      "publishedAt": "2026-07-14T14:55:39.000Z"
     },
     {
-      "title": "EU aviation agency warns airlines to avoid Gulf airspace",
-      "url": "https://www.investing.com/news/economy-news/eu-aviation-agency-warns-airlines-to-avoid-gulf-airspace-93CH-4791051",
+      "title": "China’s exports ride AI boom as domestic economy struggles",
+      "url": "https://www.investing.com/news/economy-news/chinas-june-trade-tops-forecasts-buoyed-by-ai-boom-4789667",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-14T13:30:24.000Z"
-    },
-    {
-      "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
-      "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-14T13:30:00.000Z"
-    },
-    {
-      "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
-      "url": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-14T13:29:00.000Z"
-    },
-    {
-      "title": "Spain begins Gibraltar airport checks as Brexit reaches the Rock",
-      "url": "https://www.ft.com/content/47f8712c-825b-447b-abe5-16b73717fcc3",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-14T13:27:01.000Z"
-    },
-    {
-      "title": "IBM shares plunge 23% as customers shift spending to AI",
-      "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-14T13:22:00.000Z"
+      "publishedAt": "2026-07-14T14:49:27.000Z"
     },
     {
       "title": "U.S. headline consumer inflation posts biggest one-month decrease since April 2020",
       "url": "https://www.investing.com/news/economy-news/us-headline-consumer-inflation-posts-biggest-onemonth-decrease-since-april-2020-4790747",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-14T13:20:27.000Z"
+      "publishedAt": "2026-07-14T14:44:17.000Z"
     },
     {
-      "title": "Russia Struggles to Sell All the Oil It's Being Forced to Export",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/russia-struggles-to-sell-all-the-oil-it-s-being-forced-to-export",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-14T13:15:29.000Z"
-    },
-    {
-      "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-      "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-14T13:15:00.000Z"
-    },
-    {
-      "title": "Barito Makes More Than $5 Billion Takeover Bid for EDC",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/barito-makes-more-than-5-billion-takeover-bid-for-edc",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-14T13:11:44.000Z"
-    },
-    {
-      "title": "Consumer prices fall for first time since early days of COVID pandemic, but war against high inflation isn’t won",
-      "url": "https://www.marketwatch.com/story/consumer-prices-fall-for-first-time-since-2020-pandemic-but-fight-vs-high-inflation-isnt-over-1544566d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-14T13:11:00.000Z"
-    },
-    {
-      "title": "US inflation fell more than expected to 3.5% in June as petrol prices tumbled",
-      "url": "https://www.ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b",
+      "title": "Ukraine targets Russian shipping in ‘unprecedented’ drone assault",
+      "url": "https://www.ft.com/content/6d5e952f-eb03-4277-a8b4-caae478a02d9",
       "source": "Financial Times",
-      "publishedAt": "2026-07-14T13:06:03.000Z"
+      "publishedAt": "2026-07-14T14:43:45.000Z"
     },
     {
-      "title": "Citi Stock Traders Post Record Revenue for Quarter",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-14/citi-stock-traders-post-record-revenue-for-quarter-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-14T13:06:01.000Z"
+      "title": "Wall Street bank earnings surge, lifted by trading and investment banking",
+      "url": "https://www.investing.com/news/economy-news/wall-street-bank-earnings-surge-lifted-by-trading-and-investment-banking-4791211",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-14T14:37:33.000Z"
     },
     {
-      "title": "Why SpaceX and Tesla are ‘value’ stocks, according to this fund manager",
-      "url": "https://www.marketwatch.com/story/why-spacex-and-tesla-are-value-stocks-according-to-this-fund-manager-5f59ff86?mod=mw_rss_topstories",
+      "title": "IBM shares plunge 25% as customers shift spending to AI",
+      "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-14T14:16:03.000Z"
+    },
+    {
+      "title": "IBM’s stock is having its worst day ever after the surprise release of an earnings miss",
+      "url": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-14T12:58:00.000Z"
-    },
-    {
-      "title": "Fed Has ‘No Tolerance’ for Elevated Inflation, Warsh Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-14/fed-has-no-tolerance-for-elevated-inflation-warsh-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-14T12:57:02.000Z"
-    },
-    {
-      "title": "Fed’s Warsh Testifies Before House Panel on Monetary Policy",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-07-14/fed-s-warsh-testifies-before-house-panel",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-14T12:52:19.000Z"
+      "publishedAt": "2026-07-14T14:10:00.000Z"
     }
   ]
 }
