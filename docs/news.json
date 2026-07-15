@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-07-15T16:23:27.666Z",
+  "lastUpdated": "2026-07-15T19:13:36.703Z",
   "ai": {
     "developers": [
-      {
-        "title": "German AI consortium releases Soofi S, an open 30B model",
-        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T16:21:47.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Mailberry – an AI-native email platform with The Email Brain",
-        "url": "https://mailberry.ai/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T16:18:18.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: AI-powered sports analytics and social betting platform",
-        "url": "https://statsniper.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T16:16:12.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "After Geneva, AI Governance Must Confront the Trust Deficit",
-        "url": "https://www.techpolicy.press/after-geneva-ai-governance-must-confront-the-trust-deficit/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T16:02:31.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The Internet Had a North Star. The UN's Global Dialogue Made Clear AI Doesn't",
-        "url": "https://www.techpolicy.press/the-internet-had-a-north-star-the-uns-global-dialogue-made-clear-ai-doesnt/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T16:01:58.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Meta employees sue, allege AI-driven layoffs targeted medical, parental leave",
-        "url": "https://apnews.com/article/meta-lawsuit-workers-target-ai-layoffs-leave-019fb9c7fdc09167e91547546bce5be8",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T16:00:10.000Z",
-        "category": "developers"
-      },
       {
         "title": "OpenAI finally launches hardware… for Codex",
         "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
@@ -52,96 +10,110 @@
         "category": "developers"
       },
       {
-        "title": "How to Make Your AI Agent's Actions Reliable (No Code)",
-        "url": "https://quickchat.ai/post/reliable-ai-agent-actions",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:48:03.000Z",
+        "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-14T19:25:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Making something on your own(without any LLM) feels so good",
-        "url": "https://news.ycombinator.com/item?id=48922615",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:46:14.000Z",
+        "title": "How to manage AI investments in the agentic era",
+        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-14T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-        "url": "https://arxiv.org/abs/2607.05391",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:40:43.000Z",
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-07-09T20:22:28.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Generalized – AI agent skills with community proof",
-        "url": "https://generalized.dev/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:38:45.000Z",
+        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-09T13:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "George Lucas likens AI sceptics to luddites clinging to horses and carts",
-        "url": "https://www.theguardian.com/film/2026/jul/15/george-lucas-likens-ai-sceptics-to-luddites-clinging-to-horses-and-carts",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:25:13.000Z",
+        "title": "GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/bio-bug-bounty",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-09T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Generative AI Is an Engineering Disaster",
-        "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:18:10.000Z",
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "url": "https://openai.com/index/gpt-5-6",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-09T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Agent runtime reduces LLM turns by 80% with a higher success rate in DeepSWE",
-        "url": "https://github.com/Tura-AI/tura",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:10:14.000Z",
+        "title": "Separating signal from noise in coding evaluations",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-08T13:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "GeoSQL: Showing AI a map increased its accuracy by 4× (Korean)",
-        "url": "https://ideas.paasup.io/geosql/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T14:59:17.000Z",
+        "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-07-07T08:54:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+        "url": "https://openai.com/index/australian-payments-plus",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-07T00:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-30T21:50:04.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-26T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+        "url": "https://openai.com/index/gpt-5-immunology-mystery",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-23T17:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+        "url": "https://openai.com/index/patch-the-planet",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-22T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Codex-maxxing for long-running work",
+        "url": "https://openai.com/index/codex-maxxing-long-running-work",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-06-22T00:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
       {
-        "title": "What happens when your VPN meets 200 AI agents",
-        "url": "https://thenewstack.io/unified-access-ai-agents/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T16:11:19.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Show HN: Sign in with your ChatGPT account for free AI",
-        "url": "https://openai-oauth.vercel.app/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:50:22.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "MentalHappy – a support group marketplace rebuilt by a solo founder using AI",
-        "url": "https://www.mentalhappy.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:18:18.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "I tested 11 AI detectors on my pre-ChatGPT writing and I'm as little as 5% human",
-        "url": "https://originalseparation.substack.com/p/i-have-been-95-robotic-since-2019",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T15:16:17.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Practice Negotiations with an AI Phone Agent Real-Time Roleplay with Telnyx",
-        "url": "https://lowlatencyclub.ai/blog/posts/ai-negotiation-practice-phone-python",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-15T14:50:14.000Z",
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-07-15T17:09:37.000Z",
         "category": "everyone"
       },
       {
@@ -194,15 +166,15 @@
         "category": "everyone"
       },
       {
-        "title": "How sales teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+        "title": "How data science teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-14T00:00:00.000Z",
         "category": "everyone"
       },
       {
-        "title": "How data science teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "title": "How sales teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-14T00:00:00.000Z",
         "category": "everyone"
@@ -213,6 +185,34 @@
         "source": "The Verge – AI",
         "publishedAt": "2026-07-13T20:43:20.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Getting started with ChatGPT",
+        "url": "https://openai.com/academy/getting-started",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-10T00:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "ChatGPT is now a partner for your most ambitious work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-09T10:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Our approach to government and national security partnerships",
+        "url": "https://openai.com/index/government-national-security-partnerships",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-08T13:30:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-07-07T11:10:52.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
@@ -221,6 +221,13 @@
         "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-15T12:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-15T10:00:00.000Z",
         "category": "advancements"
       },
       {
@@ -294,8 +301,8 @@
         "category": "advancements"
       },
       {
-        "title": "Core dump epidemiology: fixing an 18-year-old bug",
-        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+        "title": "Inside Genebench-Pro",
+        "url": "https://openai.com/index/genebench-pro/case-studies",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-30T00:00:00.000Z",
         "category": "advancements"
@@ -308,17 +315,10 @@
         "category": "advancements"
       },
       {
-        "title": "Inside Genebench-Pro",
-        "url": "https://openai.com/index/genebench-pro/case-studies",
+        "title": "Core dump epidemiology: fixing an 18-year-old bug",
+        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-30T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Ask an AI expert: What exactly is the full stack?",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-06-29T16:00:00.000Z",
         "category": "advancements"
       }
     ]
@@ -326,117 +326,138 @@
   "finance": {
     "markets": [
       {
-        "title": "SpaceX stock sinks below $135 IPO price for the first time",
-        "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-15T16:20:18.000Z",
-        "category": "markets"
-      },
-      {
         "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
         "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-15T16:19:08.000Z",
+        "publishedAt": "2026-07-15T19:05:12.000Z",
         "category": "markets"
       },
       {
-        "title": "Citi revamps Apple's stock price target for the rest of 2026",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/citi-revamps-apples-stock-price-161700515.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:17:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "S&P 500 is little changed as chip stocks fall; traders weigh inflation data: Live updates",
-        "url": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+        "title": "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election",
+        "url": "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-15T16:15:35.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "SpaceX Stock Is Already Down 37% From Its Peak. Here's What Deutsche Bank's $255 Target Says Happens Next",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-already-down-37-161500725.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:15:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Buying stock with borrowed money reaches level of past market tops: 'Very bearish looking'",
-        "url": "https://www.cnbc.com/2026/07/15/buying-stock-with-borrowed-money-reaches-level-of-past-market-tops.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-15T16:13:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Steel nationalisation takes step closer",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzy3ng05lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-07-15T16:12:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Why Two Major Analysts Are Pumping The Brakes On Microsoft Before Earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-two-major-analysts-pumping-160628281.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:06:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Down 18%, Should You Buy Rivian Stock After Its Biggest 1-Day Drop Since November 2024?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/down-18-buy-rivian-stock-160500884.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:05:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Factorial Energy Eyes Solid-State Battery Scale-Up After Nasdaq Debut",
-        "url": "https://finance.yahoo.com/technology/articles/factorial-energy-eyes-solid-state-160343722.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:03:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Cintas Q4 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cintas-q4-earnings-call-highlights-160342320.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:03:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Grupo Aeroportuario Del Pacifico Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/grupo-aeroportuario-del-pacifico-q2-160342392.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:03:42.000Z",
+        "publishedAt": "2026-07-15T19:02:13.000Z",
         "category": "markets"
       },
       {
         "title": "Todd Blanche says he has 'full faith' in Kash Patel as FBI director",
         "url": "https://www.cnbc.com/2026/07/15/todd-blanche-attorney-general-trump-senate-nomination-hearing.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-15T16:03:40.000Z",
+        "publishedAt": "2026-07-15T18:52:05.000Z",
         "category": "markets"
       },
       {
-        "title": "New Dow Jones AI Data Center Play Flashes A Buy Signal",
-        "url": "https://www.investors.com/news/3m-dow-jones-ai-data-center-play-buy-signal/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:03:36.000Z",
+        "title": "Stocks rise on Big Tech gains, encouraging inflation signs: Live updates",
+        "url": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-15T18:46:27.000Z",
         "category": "markets"
       },
       {
-        "title": "Morgan Stanley Picks Its Top Three Defense Stocks. One Has 100% Upside.",
-        "url": "https://www.investors.com/news/morgan-stanley-northrop-grumman-ftai-aviation-hawkeye-360-defense-aerospace/?src=A00220&yptr=yahoo",
+        "title": "Salary information to be shown on job ads under new laws",
+        "url": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-15T18:46:26.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot",
+        "url": "https://www.cnbc.com/2026/07/15/why-jim-cramer-is-shocked-by-citis-against-the-grain-praise-of-microsofts-copilot.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-15T18:23:35.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Amazon senior cloud executive departs after 18 years",
+        "url": "https://www.cnbc.com/2026/07/15/amazon-dave-brown-treadwell-aws.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-15T18:23:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "SpaceX share price drops below stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-15T18:11:57.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "See if you qualify for Fidelity's $2.5M data breach settlement and learn how to fight identity theft",
+        "url": "https://www.cnbc.com/select/fidelity-2-5-million-data-breach-settlement/",
+        "source": "CNBC",
+        "publishedAt": "2026-07-15T18:06:52.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Market Update: MS, NKE, W",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_47622_MarketUpdate_1784138527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:01:53.000Z",
+        "publishedAt": "2026-07-15T18:02:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Public Service Loan Forgiveness has new rules — 3 changes borrowers should know about",
+        "url": "https://www.cnbc.com/2026/07/15/public-service-loan-forgiveness-pslf-changes.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-15T17:58:41.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Pentair shares dip 17% on dour forecast amid weak pool sales",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/pentair-shares-dip-17-on-dour-forecast-amid-weak-pool-sales/articleshow/132422544.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-15T17:56:15.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Fed's Cook says she is prepared to act soon if inflation does not begin to slow",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow/articleshow/132422413.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-15T17:51:57.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bullish charts and fundamentals are lining up for JPMorgan Chase, says Frank Cappelleri",
+        "url": "https://www.cnbc.com/2026/07/15/bullish-charts-and-fundamentals-are-lining-up-for-jpmorgan-chase-says-frank-cappelleri.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-15T17:38:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+        "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-15T17:22:51.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Bitcoin Breaks Heavy Resistance—But Death Cross Looms: Analysis",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-breaks-heavy-resistance-death-160519148.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T16:05:19.000Z",
+        "title": "US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
+        "url": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-15T17:56:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
+        "url": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-15T17:02:22.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
+        "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-15T16:52:28.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
+        "url": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-15T16:29:39.000Z",
         "category": "crypto"
       },
       {
@@ -515,150 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-07-15T13:19:48.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Crypto firms face AML risks during post-MiCA migration, says AMLA chair",
-        "url": "https://cointelegraph.com/news/amla-customer-migration-strain-mica-licensed-casps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-15T13:08:43.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T12:26:02.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "BlackRock's crypto assets fall 39% despite $15 billion of net inflows",
-        "url": "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-15T12:12:01.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "It’s a buyer’s market for bonds",
-      "url": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
+      "title": "This isn’t a plan to save Social Security. It’s a plan to have a plan.",
+      "url": "https://www.marketwatch.com/story/this-isnt-a-plan-to-save-social-security-its-a-plan-to-have-a-plan-d55860af?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-15T16:16:00.000Z"
+      "publishedAt": "2026-07-15T19:11:00.000Z"
     },
     {
-      "title": "America’s oil refiners could more than triple profits as Iran war sparks massive boom",
-      "url": "https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories",
+      "title": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
+      "url": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-15T16:14:00.000Z"
+      "publishedAt": "2026-07-15T19:01:00.000Z"
     },
     {
-      "title": "Shabana Mahmood set to be named UK chancellor by Andy Burnham",
-      "url": "https://www.ft.com/content/54d17925-a1d3-4bae-a1bc-a325df7577dd",
+      "title": "OECD says global minimum tax boosted revenue, not job losses",
+      "url": "https://www.investing.com/news/economy-news/oecd-says-global-minimum-tax-boosted-revenue-not-job-losses-4794103",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-15T19:00:36.000Z"
+    },
+    {
+      "title": "AI is killing the cover letter — but here’s when it still pays to send one",
+      "url": "https://www.marketwatch.com/story/ai-is-killing-the-cover-letter-heres-when-it-pays-off-to-send-one-and-when-to-skip-it-e8800ef0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-15T18:51:00.000Z"
+    },
+    {
+      "title": "IBM employees losing $400 million on the company’s stock should be a wake-up call",
+      "url": "https://www.marketwatch.com/story/ibm-workers-pay-a-400-million-price-for-investing-in-company-stock-fb02f5fa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-15T18:34:00.000Z"
+    },
+    {
+      "title": "Fed’s Cook says she is prepared to act soon if inflation does not begin to slow",
+      "url": "https://www.investing.com/news/economy-news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow-4793982",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-15T18:31:06.000Z"
+    },
+    {
+      "title": "Economic activity on the rise and inflation may be improving, Fed survey shows",
+      "url": "https://www.investing.com/news/economy-news/economic-activity-on-the-rise-and-inflation-may-be-improving-fed-survey-shows-4794064",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-15T18:18:53.000Z"
+    },
+    {
+      "title": "Brazil government now expects 2026 inflation to be above central bank’s target",
+      "url": "https://www.investing.com/news/economy-news/brazil-government-now-expects-2026-inflation-to-be-above-central-banks-target-4794051",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-15T18:07:42.000Z"
+    },
+    {
+      "title": "AI startup Thinking Machines launches an open-weight AI model",
+      "url": "https://www.investing.com/news/economy-news/ai-startup-thinking-machines-launches-an-openweight-ai-model-4794050",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-15T18:07:24.000Z"
+    },
+    {
+      "title": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
+      "url": "https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-15T18:07:00.000Z"
+    },
+    {
+      "title": "What the launch of SK Hynix leveraged ETFs tells us about the hottest trade on Wall Street",
+      "url": "https://www.marketwatch.com/story/what-the-launch-of-sk-hynix-leveraged-etfs-tells-us-about-the-hottest-trade-on-wall-street-2110c484?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-15T18:02:00.000Z"
+    },
+    {
+      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-15T18:01:00.000Z"
+    },
+    {
+      "title": "Permanent daylight-saving time would be a win for tourism, but other sectors have big concerns",
+      "url": "https://www.marketwatch.com/story/permanent-daylight-saving-time-would-be-a-win-for-tourism-but-other-sectors-have-big-concerns-dd3076f8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-15T17:48:00.000Z"
+    },
+    {
+      "title": "Uber nears €12.5bn deal to acquire Delivery Hero",
+      "url": "https://www.ft.com/content/c15115ea-7386-4f44-9643-f95f58187514",
       "source": "Financial Times",
-      "publishedAt": "2026-07-15T16:03:50.000Z"
+      "publishedAt": "2026-07-15T17:47:40.000Z"
     },
     {
-      "title": "US House panel unveils $95 billion plan to fund defense and parts of Trump’s voter ID bill",
-      "url": "https://www.investing.com/news/economy-news/us-house-panel-unveils-95-billion-plan-to-fund-defense-and-parts-of-trumps-voter-id-bill-4793667",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-15T16:00:56.000Z"
-    },
-    {
-      "title": "More people are reaching their 60s than ever before — and it’s an incredible investing opportunity",
-      "url": "https://www.marketwatch.com/story/more-people-are-reaching-their-60s-than-ever-before-and-its-an-incredible-investing-opportunity-367cc8b8?mod=mw_rss_topstories",
+      "title": "Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends",
+      "url": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-15T15:57:00.000Z"
+      "publishedAt": "2026-07-15T17:47:00.000Z"
     },
     {
-      "title": "White House weighs extending Jones Act waivers as Iran conflict raises price concerns",
-      "url": "https://www.investing.com/news/economy-news/white-house-weighs-extending-jones-act-waivers-as-iran-conflict-raises-price-concerns-4793881",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-15T15:54:42.000Z"
-    },
-    {
-      "title": "Trump’s pick to head Bureau of Labor Statistics clears key Senate hurdle",
-      "url": "https://www.investing.com/news/economy-news/trumps-pick-to-head-bureau-of-labor-statistics-clears-key-senate-hurdle-4793867",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-15T15:42:27.000Z"
-    },
-    {
-      "title": "This overlooked index is a better investment than the S&P 500",
-      "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+      "title": "Your Social Security check could go up by $74 a month next year",
+      "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-15T15:34:00.000Z"
+      "publishedAt": "2026-07-15T17:45:00.000Z"
     },
     {
-      "title": "Copper is shadowing the AI hyperscaler stocks — but wait for a dip before buying",
-      "url": "https://www.marketwatch.com/story/copper-is-shadowing-the-hyperscaler-stocks-but-wait-for-a-dip-before-buying-8fe7adcc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-15T15:32:00.000Z"
-    },
-    {
-      "title": "Dollar slips after cooling producer prices, Middle East escalation in focus",
-      "url": "https://www.investing.com/news/economy-news/dollar-struggles-as-softer-inflation-dims-fed-hike-bets-4792113",
+      "title": "Peru’s economy posts slowest growth of 2026 in May",
+      "url": "https://www.investing.com/news/economy-news/perus-economy-posts-slowest-growth-of-2026-in-may-93CH-4794013",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-15T15:13:18.000Z"
+      "publishedAt": "2026-07-15T17:30:20.000Z"
     },
     {
-      "title": "Wall Street’s investment banking machine firing on all cylinders",
-      "url": "https://www.investing.com/news/economy-news/wall-streets-investment-banking-machine-firing-on-all-cylinders-4793845",
+      "title": "Foreigners bought $132 billion of U.S. securities in May, Treasury says",
+      "url": "https://www.investing.com/news/economy-news/foreigners-bought-132-billion-of-us-securities-in-may-treasury-says-4791819",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-15T15:12:57.000Z"
+      "publishedAt": "2026-07-15T17:19:46.000Z"
     },
     {
-      "title": "BlackRock has best-ever start to a year as investment flows double and profits surge",
-      "url": "https://www.marketwatch.com/story/blackrock-profits-jump-as-assets-under-management-hit-a-record-15-trillion-8e6fd54b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-15T15:10:00.000Z"
+      "title": "SpaceX sell-off wipes $1tn from Musk’s rocket group",
+      "url": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-15T17:13:38.000Z"
     },
     {
-      "title": "Bank of Canada holds rates, says the economy is growing again",
-      "url": "https://www.investing.com/news/economy-news/bank-of-canada-seen-holding-rates-as-inflation-weak-growth-pull-in-opposite-directions-4792678",
+      "title": "US money market funds turn defensive with Fed rate outlook uncertain",
+      "url": "https://www.investing.com/news/economy-news/us-money-market-funds-turn-defensive-with-fed-rate-outlook-uncertain-4793916",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-15T15:00:59.000Z"
-    },
-    {
-      "title": "US producer prices post largest monthly drop in 14 months on lower energy costs",
-      "url": "https://www.investing.com/news/economy-news/us-producer-prices-unexpectedly-fall-in-june-4793413",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-15T15:00:43.000Z"
-    },
-    {
-      "title": "Fed’s Warsh says AI price surge is real but not inflationary",
-      "url": "https://www.investing.com/news/economy-news/feds-warsh-says-ai-price-surge-is-real-but-not-inflationary-93CH-4793814",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-15T14:59:42.000Z"
-    },
-    {
-      "title": "Lebanon and Israel wrap Rome talks on troop withdrawal, report progress",
-      "url": "https://www.investing.com/news/economy-news/lebanon-and-israel-wrap-rome-talks-on-troop-withdrawal-report-progress-93CH-4793794",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-15T14:52:41.000Z"
-    },
-    {
-      "title": "You are missing the bond deal of the decade — and it is guaranteed to beat inflation",
-      "url": "https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-15T14:49:00.000Z"
-    },
-    {
-      "title": "Buying a house is getting easier by one measure. Here’s why it doesn’t feel like it.",
-      "url": "https://www.marketwatch.com/story/homes-are-getting-more-affordable-so-how-come-you-still-cant-afford-to-buy-one-f2d69d02?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-15T14:44:00.000Z"
-    },
-    {
-      "title": "PayPal’s battered stock is getting a record boost from a report of buyout interest",
-      "url": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-15T14:35:00.000Z"
-    },
-    {
-      "title": "Paychecks are rising faster than prices for a change — but when will consumers feel the relief?",
-      "url": "https://www.marketwatch.com/story/your-paycheck-is-rising-faster-than-prices-for-a-change-but-when-will-you-feel-the-relief-cbbcb8bd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-15T14:29:00.000Z"
+      "publishedAt": "2026-07-15T17:13:34.000Z"
     }
   ]
 }
