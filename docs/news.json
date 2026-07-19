@@ -1,133 +1,140 @@
 {
-  "lastUpdated": "2026-07-19T13:20:10.685Z",
+  "lastUpdated": "2026-07-19T15:58:42.012Z",
   "ai": {
     "developers": [
+      {
+        "title": "The bottleneck for AI agents isn't the model anymore. It's the context layer",
+        "url": "https://thenewstack.io/ai-agent-infrastructure-bottleneck/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T15:57:03.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "JustREPL: A no-AI coding playground",
+        "url": "https://justrepl.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T15:52:36.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The neutrality project – Making the politics inside AI measurable",
+        "url": "https://neutralityproject.org/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T15:38:20.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The Economics of LLM Profits: HyperScalers, or Labs?",
+        "url": "https://davidmanheim.com/AI-Economics/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T15:34:55.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "MLB restricts dugout iPad use to prevent AI help with strategy. Mets involved",
+        "url": "https://apnews.com/article/mlb-ai-ipads-ac940e2490557438f440514977832a74",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T15:06:21.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Why AI needs a data layer built on Postgres and ClickHouse",
+        "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T14:50:28.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Visuali: An AI agent that creates and edits images on an infinite canvas",
+        "url": "https://visuali.io",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T14:40:26.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI didn't replace our security team – it multiplied it",
+        "url": "https://webflow.com/blog/ai-didnt-replace-our-security-team",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T14:39:06.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Pro-AI super PAC keeps $31M ready for the midterms",
+        "url": "https://www.axios.com/2026/07/17/pro-ai-super-pac-ready-midterms",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T14:25:38.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Ask HN: Does a local, Git-backed LLM \"compiler\" for personal notes make sense?",
+        "url": "https://news.ycombinator.com/item?id=48968447",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T14:20:05.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: DWS A LLM Generated, \"Drudge Report\" style news site",
+        "url": "https://news.dws.rip/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T13:49:33.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Pricing for 145 models LLM/STT/TTS aggregated and comparable",
+        "url": "https://hail.so/costs",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T13:36:44.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
+        "url": "https://www.cortex.io/drive",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T13:30:01.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: CallBro – Granola, but Powered by Codex, Claude Code, or Your Local LLM",
+        "url": "https://callbro.ai/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T13:19:43.000Z",
+        "category": "developers"
+      },
       {
         "title": "Show HN: Claude Code Workflows for GPT/Codex",
         "url": "https://github.com/cyrusNuevoDia/gpt-workflow",
         "source": "Hacker News – AI",
         "publishedAt": "2026-07-19T13:14:48.000Z",
         "category": "developers"
-      },
-      {
-        "title": "YouTube's S-CTS: The AI Slop Purge has arrived",
-        "url": "https://insidethecreator.beehiiv.com/p/the-slop-purge-has-arrived",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T13:08:26.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI isn't destroying entry-level jobs. It's changing them",
-        "url": "https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T13:05:42.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "In-House LLM Serving at Netflix",
-        "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss-c3aeaf49d8a4------2",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T12:55:21.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Ask HN: Guidelines on GPT 5.6 Sol steering",
-        "url": "https://news.ycombinator.com/item?id=48967745",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T12:48:14.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Are the LLM Wars the Database Wars?",
-        "url": "https://rruxandra.github.io/llm-wars-database-wars.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T12:45:05.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "I built llms.txt files to make local businesses discoverable by AI agents",
-        "url": "https://www.kloofstreet.online/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T12:39:20.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: We ranked our dev tools in Google's new AI Overviews",
-        "url": "https://zlvox.com/blog/google-ai-overviews-2026-optimize-agentic-search",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T11:52:27.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Anti-AI protest reaches OpenAI HQ",
-        "url": "https://www.msn.com/en-in/money/topstories/anti-ai-protest-reaches-openai-hq-why-protesters-left-body-bags-outside-office/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T11:31:57.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Could AI Be Conscious?",
-        "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T11:18:09.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Agent Arena: Benchmarking AI Agent Devtool Onboarding",
-        "url": "https://2027.dev/arena/sandboxes",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T10:44:13.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Who's Subsidizing Chinese AI",
-        "url": "https://www.chinese-ai-report.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T10:25:56.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Save GPT-5.5",
-        "url": "https://save-gpt-5-5.fyi/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T10:23:35.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "From Algorithms to Autonomy:How AI Is Rewriting Architecture of SW and Mobility",
-        "url": "https://bhanuprakash795480.substack.com/p/from-algorithms-to-autonomy",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T10:21:35.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI coding agents should optimize for less owned code",
-        "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T10:03:08.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "I Made 11 AI Agents Do My Job. Here's What Happened",
+        "url": "https://hackenewhome.blogspot.com/p/my-take-on-ai-vc-benchmark-bloggers.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T15:41:32.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Show HN: Free, curated prompts for AI image, video and music",
+        "url": "https://ahaprompt.app",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T15:40:37.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Show HN: Skimlane – A local-first, customizable, AI reading assistant for Chrome",
+        "url": "https://skimlane.com/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-19T15:25:19.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Show HN: AI Buddy – Free STT and Screenshot Tool for Mac (Requires Gemini)",
         "url": "https://claudete.co/ai-buddy",
         "source": "Hacker News – AI",
         "publishedAt": "2026-07-19T10:29:34.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "San Francisco Demands Apple and Google Delete AI 'Nudify' Apps from App Stores",
-        "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T10:06:10.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Show HN: AI mock interview tool that scores your answers – free, no signup",
-        "url": "https://interviewpracticeai.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T08:58:14.000Z",
         "category": "everyone"
       },
       {
@@ -206,23 +213,9 @@
         "source": "The Verge – AI",
         "publishedAt": "2026-07-15T21:33:20.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-07-15T17:09:37.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
-      {
-        "title": "Aging Baby Boomers are America's real labor problem, not AI",
-        "url": "https://fortune.com/2026/07/18/us-labor-shortage-ai-baby-boomers-2032/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-19T09:56:44.000Z",
-        "category": "advancements"
-      },
       {
         "title": "A scorecard for the AI age",
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -320,118 +313,153 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-07-01T18:15:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-07-01T16:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
-        "url": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-19T12:46:25.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
-        "url": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-19T12:42:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Russia pounds Kyiv in major ballistic missile attack",
-        "url": "https://www.cnbc.com/2026/07/19/russia-pounds-kyiv-in-major-ballistic-missile-attack.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-19T12:22:20.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Samsung reportedly cuts some U.S. jobs, offers relocations ahead of HQ move: Reuters",
-        "url": "https://www.cnbc.com/2026/07/19/samsung-cuts-us-jobs-offers-relocations-ahead-of-hq-move-reuters.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-19T12:04:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-        "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-19T12:00:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
-        "url": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-19T12:00:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-        "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-19T11:36:45.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Chinese firm seeks compensation over British Steel nationalisation",
-        "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-07-19T10:59:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, U.S. Marshals Service tells AP",
-        "url": "https://www.cnbc.com/2026/07/19/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-19T10:28:13.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/132492765.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-19T10:08:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nifty breakout isn’t convincing yet; a move above 24,600 could unlock record high: Anand James",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-breakout-isnt-convincing-yet-a-move-above-24600-could-unlock-record-high-anand-james/articleshow/132492717.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-19T10:05:26.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Best CD rates today, Sunday, July 19, 2026: Lock in up to 4.10% APY",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-19-2026-lock-in-up-to-410-apy-100000814.html",
+        "title": "D-Wave Quantum's CEO Sold Over 50,000 Company Shares. Here's What That Means for Investors.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantums-ceo-sold-154301441.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-19T10:00:00.000Z",
+        "publishedAt": "2026-07-19T15:43:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Mortgage and refinance interest rates today, Sunday, July 19, 2026: Rates moved higher last week as Iranian conflict escalated",
-        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-19-2026-rates-moved-higher-last-week-as-iranian-conflict-escalated-100000829.html",
+        "title": "Behind Wall Street’s Scorching Quarter",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/behind-wall-street-scorching-quarter-154033498.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-19T10:00:00.000Z",
+        "publishedAt": "2026-07-19T15:40:33.000Z",
         "category": "markets"
       },
       {
-        "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-07-19T09:52:48.000Z",
+        "title": "The Average 401(k) Is $148,153. The Median Is $38,176. One of Those Numbers Is Misleading You.",
+        "url": "https://finance.yahoo.com/markets/articles/average-401-k-148-153-154021095.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:40:21.000Z",
         "category": "markets"
       },
       {
-        "title": "Nifty weekly outlook: 24,500 holds the key to next leg of gains; focus on stock-specific bets",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-weekly-outlook-24500-holds-the-key-to-next-leg-of-gains-focus-on-stock-specific-bets/articleshow/132492041.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-19T09:04:10.000Z",
+        "title": "Divorced? You May Be Owed Up to 50% of Your Ex’s Social Security",
+        "url": "https://finance.yahoo.com/healthcare/articles/divorced-may-owed-50-ex-154003508.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:40:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The World Cup winner will earn $51 million under expanded purse",
+        "url": "https://www.cnbc.com/2026/07/19/heres-what-to-know-about-the-world-cup-prize-money.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-19T15:36:54.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bill Gates' Foundation Was Snubbed by Warren Buffett for the First Time in 20 Years. Buffett Is Now on Track to Offload His Entire $140 Billion Berkshire Stake by 2034.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-foundation-snubbed-warren-153500209.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:35:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Warren Buffett Said He Personally Started Berkshire's $31 Billion Alphabet Position",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-said-personally-started-153300363.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:33:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Want 6% Monthly Yield Without Touching the Riskiest Junk? This ETF Has a Clever Trick",
+        "url": "https://finance.yahoo.com/markets/options/articles/want-6-monthly-yield-without-153239705.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:32:39.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "SanDisk vs Seagate: Two Divergent Paths Through the AI Storage Boom, One Winner",
+        "url": "https://finance.yahoo.com/technology/ai/articles/sandisk-vs-seagate-two-divergent-153056177.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:30:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Google Already Proved This AI Fear False So I Keep Loading Up",
+        "url": "https://finance.yahoo.com/technology/ai/articles/google-already-proved-ai-fear-152714753.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:27:14.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why Warren Buffett Warns That the Market Is Headed for Trouble",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-warns-market-152000600.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:20:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The 12% Yield Trap: Why BIZD’s Soaring Payout Ratio Signals Trouble Ahead",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/12-yield-trap-why-bizd-151351256.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:13:51.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Take a $15,000 Income Cut Today. Gain a $55,000 Raise Tomorrow.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/15-000-income-cut-today-150753044.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:07:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Goldman Sachs Warns on AI’s Debt Tsunami — Is the AI Boom?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-warns-ai-debt-150748535.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:07:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Hedge Fund Star Ken Griffin Thought AI Was \"Garbage.\" Now He's Changing His Tune.",
+        "url": "https://finance.yahoo.com/technology/ai/articles/hedge-fund-star-ken-griffin-150500248.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:05:00.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+        "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-19T15:19:21.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "A couple with $6.1 million can't agree on when to retire — Ramit Sethi says 'it's not the numbers' holding them back",
+        "url": "https://finance.yahoo.com/markets/articles/couple-6-1-million-cant-150000535.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-19T15:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "AI is destroying the internet. Math is our only hope.",
+        "url": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-19T14:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-19T13:20:25.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
         "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
@@ -450,14 +478,14 @@
         "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
         "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-07-19T12:53:12.000Z",
+        "publishedAt": "2026-07-19T12:56:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "South Korean regulator begins sanctions process against Dunamu: Report",
+        "title": "Upbit parent Dunamu faces South Korean regulator sanctions process: Report",
         "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-07-19T10:17:46.000Z",
+        "publishedAt": "2026-07-19T10:23:00.000Z",
         "category": "crypto"
       },
       {
@@ -508,38 +536,52 @@
         "source": "CoinDesk",
         "publishedAt": "2026-07-18T15:50:31.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
-        "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-18T14:15:15.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Tokenization has become a strategic priority for 84% of financial firms",
-        "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-18T14:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-18T11:42:51.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Kaspersky identifies malware framework targeting crypto investors",
-        "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-18T11:40:48.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
+      "url": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-19T15:43:00.000Z"
+    },
+    {
+      "title": "Bernstein traffic data analysis shows low-income U.S. consumers under pressure",
+      "url": "https://www.investing.com/news/economy-news/bernstein-traffic-data-analysis-shows-lowincome-us-consumers-under-pressure-4799728",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-19T15:35:14.000Z"
+    },
+    {
+      "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
+      "url": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-19T14:45:00.000Z"
+    },
+    {
+      "title": "EU faces crumbling support for new Russia sanctions",
+      "url": "https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-19T14:00:02.000Z"
+    },
+    {
+      "title": "Extreme Stock Swings Tempt Funds Into Reverse Dispersion Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/extreme-stock-swings-tempt-funds-into-reverse-dispersion-trade",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-19T14:00:00.000Z"
+    },
+    {
+      "title": "It’s time for Europe to embrace air conditioning",
+      "url": "https://www.ft.com/content/cbeea953-1162-48f0-ac6d-e022c42353c6?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-19T13:58:44.000Z"
+    },
+    {
+      "title": "Prediction Markets Swell to 27% of Sports Bets During World Cup",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/prediction-markets-swell-to-27-of-sports-bets-during-world-cup",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-19T13:30:00.000Z"
+    },
     {
       "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
       "url": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
@@ -595,13 +637,13 @@
       "publishedAt": "2026-07-19T08:06:28.000Z"
     },
     {
-      "title": "Caspian Pipeline Consortium Halts Loadings After Drone Strike",
+      "title": "Caspian Pipeline Consortium Halts Loadings on Drone Strike",
       "url": "https://www.bloomberg.com/news/articles/2026-07-19/caspian-pipeline-consortium-halts-loadings-after-drone-strike",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-07-19T08:03:40.000Z"
     },
     {
-      "title": "US, Iran Launch Fresh Strikes After Two Troops Die in Jordan",
+      "title": "US-Iran Attacks Escalate as Strikes Kill Two American Troops",
       "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-07-19T06:58:45.000Z"
@@ -617,48 +659,6 @@
       "url": "https://www.investing.com/news/economy-news/fda-finds-outbreaklinked-parasite-in-taylor-farms-lettuce-sample-4799703",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-07-19T06:00:05.000Z"
-    },
-    {
-      "title": "Ukraine strikes Wildberries warehouses deep inside Russia, killing eight",
-      "url": "https://www.investing.com/news/economy-news/ukraine-strikes-wildberries-warehouses-deep-inside-russia-killing-eight-4799702",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-19T05:23:09.000Z"
-    },
-    {
-      "title": "Jingye Says It Reserves Legal Rights in UK Steel Nationalization",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/jingye-says-it-reserves-legal-rights-in-uk-steel-nationalization",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-19T05:00:13.000Z"
-    },
-    {
-      "title": "Analyst says there is a divide in how Americans shop for Apparel & Footwear",
-      "url": "https://www.investing.com/news/economy-news/analyst-says-there-is-a-divide-in-how-americans-shop-for-apparel--footwear-4799701",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-19T04:55:10.000Z"
-    },
-    {
-      "title": "How Maga fell hard for the gender binary",
-      "url": "https://www.ft.com/content/c5045a09-29c1-4a9b-8f5b-f8dead22b09c?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-19T04:00:20.000Z"
-    },
-    {
-      "title": "Heroes, villains and clowns: Simon Kuper’s World Cup awards",
-      "url": "https://www.ft.com/content/8005bed0-afab-4240-91f8-7567212f2b91",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-19T04:00:20.000Z"
-    },
-    {
-      "title": "Chinese leaders zero in on need for stimulus for economy",
-      "url": "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-19T04:00:20.000Z"
-    },
-    {
-      "title": "Why ‘rightwing’ is no longer such a dirty word in Britain",
-      "url": "https://www.ft.com/content/658e1eb4-2c33-4755-8f44-0261d24dd1b7?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-19T04:00:12.000Z"
     }
   ]
 }
