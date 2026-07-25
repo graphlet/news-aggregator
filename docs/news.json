@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-07-25T05:43:50.434Z",
+  "lastUpdated": "2026-07-25T08:07:52.221Z",
   "ai": {
     "developers": [
+      {
+        "title": "General Resolution: LLM Usage in Debian",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-25T08:06:30.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
+        "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-25T07:50:15.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "At the altar of AI capex, Google is sacrificing the golden goose",
+        "url": "https://twitter.com/i/status/2080229375773941871",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-25T07:49:58.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The Library and the Librarian: Why AI Needs Two Different Brains",
+        "url": "https://www.innerkore.com/blog/library-and-librarian/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-25T07:40:13.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Ask HN: How would you harden AI changes to a 1M-line legacy SaaS before review?",
+        "url": "https://news.ycombinator.com/item?id=49045271",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-25T07:19:48.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Substack adds AI text detection to all notes and posts",
+        "url": "https://post.substack.com/p/against-claudefishing",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-25T07:04:43.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Herv AI – Spatial Intelligence",
+        "url": "https://hervai.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-25T06:00:08.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: AI Anime Finder – Natural language semantic search for AniList",
+        "url": "https://zlvox.com/tools/anime-finder",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-07-25T05:52:29.000Z",
+        "category": "developers"
+      },
       {
         "title": "The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction",
         "url": "https://varnam.substack.com/p/the-architecture-of-deep-thought",
@@ -50,62 +106,6 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-07-25T03:49:17.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Speculative Decoding: The Free Speed Toggle Your Local LLM Is Probably Not Using",
-        "url": "https://vettedconsumer.com/speculative-decoding-explained-the-free-speed-toggle-your-local-llm-is-probably-not-using/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-25T03:28:44.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Cage-lite:Prebind assurance for consequential AI agent actions",
-        "url": "https://github.com/roopamwsure/cage-lite",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-25T03:15:37.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Aside: Fleetwide AI Chat",
-        "url": "https://aside.vgnsh.xyz",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-25T03:02:14.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Agentic AI Workflows and the Future of Streaming Ad Tech",
-        "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175405",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-25T02:31:42.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Are we threatened by AI misalignment seen in the OpenAI Hugging Face attack?",
-        "url": "https://www.lesswrong.com/posts/H6DDSEvrtCk8Sehfd/are-we-existentially-threatened-by-the-type-of-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-25T02:27:44.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: AI Meter – Local token usage with energy and water estimates",
-        "url": "https://ai-meter.app",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-25T02:11:52.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Can AI Run a Food Truck Business?",
-        "url": "https://foodtruckbench.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-25T02:10:59.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Japanese Firm to Train Robot with AI to Reproduce Runners' Movements",
-        "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260403-320199/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-25T02:05:04.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -114,20 +114,6 @@
         "url": "https://github.com/Joaoha/Bonsai",
         "source": "Hacker News – AI",
         "publishedAt": "2026-07-24T23:52:26.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
-        "url": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-24T21:43:30.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Canadian legislator's speech features telltale signs of LLM prompting",
-        "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-24T21:41:06.000Z",
         "category": "everyone"
       },
       {
@@ -213,6 +199,20 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-21T17:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Advancing next-gen AI with materials science innovation",
+        "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-07-21T10:37:34.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "China’s AI models have Trump’s AI world at war with itself",
+        "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-07-20T18:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
@@ -221,13 +221,6 @@
         "url": "https://github.com/Jaybell31/dreamwalk",
         "source": "Hacker News – AI",
         "publishedAt": "2026-07-25T03:00:45.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "AI companies stripping universities of their best computer scientists",
-        "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-07-24T22:13:20.000Z",
         "category": "advancements"
       },
       {
@@ -320,16 +313,100 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-07-14T16:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-07-13T18:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
+        "title": "F&amp;O Talk: Nifty looks weak on chart, says Sudeep Shah; outlines HDFC Bank, Bluestone Strategy after Q1",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-looks-weak-on-chart-says-sudeep-shah-outlines-hdfc-bank-bluestone-strategy-after-q1/articleshow/132621304.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-25T07:35:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Buy L&amp;T, Emmvee and RR Kabel once market selloff eases: LKP’s Rupak De",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/buy-lt-emmvee-and-rr-kabel-once-market-selloff-eases-lkps-rupak-de/articleshow/132620671.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-25T06:49:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Rajesh Exports, Inox Wind among 10 worst Nifty smallcap 250 performers YTD. Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-inox-wind-among-10-worst-nifty-smallcap-250-performers-ytd-do-you-own-any/slideshow/132620496.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-25T06:28:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "What does the South make of the King of the North?",
+        "url": "https://www.bbc.co.uk/news/articles/czekpx8yzj0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-25T06:18:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Hitachi Energy, Solar Industries among top 10 best midcaps in 2026. Check full list",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-solar-industries-among-top-10-best-midcaps-in-2026-check-full-list/slideshow/132620242.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-25T06:16:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "'We feel the pressure juggling holiday logistics'",
+        "url": "https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-25T06:16:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "360 ONE's Mayur Patel bets on smallcaps, says midcaps look somewhat expensive",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/360-ones-mayur-patel-bets-on-smallcaps-says-midcaps-look-somewhat-expensive/articleshow/132620081.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-25T06:10:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Ashish Kacholia purchased another 1.30 lakh shares in recently listed stock that’s up 206% YTD",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-purchased-another-1-30-lakh-shares-in-recently-listed-stock-thats-up-206-ytd/articleshow/132619943.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-25T06:00:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why gold is showing signs of reversal after recent selling pressure",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/why-gold-is-showing-signs-of-reversal-after-recent-selling-pressure/articleshow/132619913.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-25T05:56:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Selling spree! Ace investor Dolly Khanna likely exited these 5 stocks in Q1. Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/selling-spree-ace-investor-dolly-khanna-likely-exited-these-5-stocks-in-q1-do-you-own-any/slideshow/132619866.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-25T05:44:32.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Retirement planning at 50: How a Rs 1.3 crore bond portfolio can generate nearly Rs 1 lakh a month",
         "url": "https://economictimes.indiatimes.com/markets/bonds/retirement-planning-at-50-how-a-rs-1-3-crore-bond-portfolio-can-generate-nearly-rs-1-lakh-a-month/articleshow/132619701.cms",
         "source": "Economic Times – Markets",
         "publishedAt": "2026-07-25T05:40:47.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
+        "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-25T05:29:38.000Z",
         "category": "markets"
       },
       {
@@ -352,86 +429,16 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-07-25T04:25:10.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/stocks-waver-on-wall-street-while-crude-oil-prices-fall-for-the-first-time-in-a-week/articleshow/132618845.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T04:21:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "NMC health settlement drags Bank of Baroda Q1 net profit down 72%",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nmc-health-settlement-drags-bank-of-baroda-q1-net-profit-down-72/articleshow/132618762.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T04:20:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Yen records biggest weekly drop in over two months, dollar climbs for the week",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-records-biggest-weekly-drop-in-over-two-months-dollar-climbs-for-the-week/articleshow/132618828.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T04:19:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Gold edges up as Brent eases, Mideast developments in focus ahead of Fed meet",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-brent-eases-mideast-developments-in-focus-ahead-of-fed-meet/articleshow/132618808.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T04:16:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Oil falls on report of China pushing for end of US-Iran war",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T04:14:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks mixed as oil prices pause climb but yields hover near highs",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/stocks-mixed-as-oil-prices-pause-climb-but-yields-hover-near-highs/articleshow/132618760.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T04:10:57.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rupee hits day’s low against US dollar, recovers on RBI support",
-        "url": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-days-low-against-us-dollar-recovers-on-rbi-support/articleshow/132618749.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T04:09:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "BNP Paribas Cardif to acquire Warburg’s 26% in IndiaFirst Life",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bnp-paribas-cardif-to-acquire-warburgs-26-in-indiafirst-life/articleshow/132618738.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T04:06:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Index entry wait may temper bond rally as FPI inflows start to ease",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/index-entry-wait-may-temper-bond-rally-as-fpi-inflows-start-to-ease/articleshow/132618635.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T03:55:37.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "More banks may join overseas bond run after ICICI Bank’s bumper dollar bond sale",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/more-banks-may-join-overseas-bond-run-after-icicis-bumper-dollar-bond-sale/articleshow/132618588.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T03:51:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Wall Street Week Ahead: US stocks face tests from Fed decision, tech-led earnings deluge",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-week-ahead-us-stocks-face-tests-from-fed-decision-tech-led-earnings-deluge/articleshow/132618500.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-25T03:41:46.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
+        "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-25T07:40:35.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Nifty closes below key 23,800 level on Gulf war ripples",
         "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-closes-below-key-23800-level-on-gulf-war-ripples/articleshow/132618691.cms",
@@ -529,22 +536,39 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-07-24T13:30:00.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-        "url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-24T13:15:15.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
+      "title": "Europe’s Stock Market Rally Is the Most Concentrated in Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/europe-s-stock-market-rally-is-the-most-concentrated-in-years",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-25T07:00:00.000Z"
+    },
+    {
+      "title": "Kuwait signs $16 billion oil pipeline deal with Blackstone, KKR and Brookfield",
+      "url": "https://www.investing.com/news/economy-news/kuwait-signs-16-billion-oil-pipeline-deal-with-blackstone-kkr-and-brookfield-4812748",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-25T06:41:57.000Z"
+    },
+    {
+      "title": "France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread",
+      "url": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-25T06:04:19.000Z"
+    },
+    {
       "title": "Good cop, bad cop? What a Burnham-Healey duo might mean for the markets",
       "url": "https://www.investing.com/news/economy-news/good-cop-bad-cop-what-a-burnhamhealey-duo-might-mean-for-the-markets-4812734",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-07-25T05:24:26.000Z"
+    },
+    {
+      "title": "Indonesia Arrests Former Top Graft Prosecutor After Police Raids",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/indonesia-arrests-former-top-graft-prosecutor-after-police-raids",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-25T05:21:13.000Z"
     },
     {
       "title": "Modi Sidesteps Exam Leaks in Video as India Protests Spread",
@@ -583,7 +607,7 @@
       "publishedAt": "2026-07-25T04:00:27.000Z"
     },
     {
-      "title": "Trump turns media dinner into cringe-inducing roast of his enemies",
+      "title": "Trump attacks journalists at awkward White House press dinner",
       "url": "https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1",
       "source": "Financial Times",
       "publishedAt": "2026-07-25T03:54:28.000Z"
@@ -601,7 +625,7 @@
       "publishedAt": "2026-07-25T02:39:00.000Z"
     },
     {
-      "title": "Seven & i Abandons Investment Talks with Poland’s Zabka",
+      "title": "Japan’s Seven & i Abandons Investment Talks With Poland’s Zabka",
       "url": "https://www.bloomberg.com/news/articles/2026-07-25/seven-i-abandons-investment-talks-with-poland-s-zabka-group",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-07-25T01:24:58.000Z"
@@ -635,30 +659,6 @@
       "url": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-07-24T22:30:00.000Z"
-    },
-    {
-      "title": "Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-      "url": "https://www.investing.com/news/economy-news/exclusiveits-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week-4812585",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-24T22:18:28.000Z"
-    },
-    {
-      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
-      "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-24T22:00:00.000Z"
-    },
-    {
-      "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
-      "url": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-24T21:48:00.000Z"
-    },
-    {
-      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-24T21:45:00.000Z"
     }
   ]
 }
