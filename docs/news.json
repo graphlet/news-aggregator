@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-28T14:09:38.448Z",
+  "lastUpdated": "2026-07-28T16:40:54.485Z",
   "ai": {
     "developers": [
+      {
+        "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-07-28T16:00:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "Hugging Face is being used to easily undress women and children",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
@@ -98,13 +105,6 @@
         "url": "https://openai.com/index/previewing-gpt-5-6-sol",
         "source": "OpenAI Blog",
         "publishedAt": "2026-06-26T10:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-        "url": "https://openai.com/index/gpt-5-immunology-mystery",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-06-23T17:00:00.000Z",
         "category": "developers"
       }
     ],
@@ -326,117 +326,187 @@
   "finance": {
     "markets": [
       {
-        "title": "AMD, Micron and Nvidia extend losses as chip stocks get clobbered",
-        "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-28T14:08:51.000Z",
+        "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-28T16:35:05.000Z",
         "category": "markets"
       },
       {
-        "title": "J&J reaches sweeping talc deal that could end decade of litigation",
-        "url": "https://www.cnbc.com/2026/07/28/jj-reaches-sweeping-talc-deal-that-could-end-decade-of-litigation.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-28T14:06:45.000Z",
+        "title": "Boston Scientific expects headcount reductions amid restructuring initiative",
+        "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-expects-headcount-reductions-163407139.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-28T16:34:07.000Z",
         "category": "markets"
       },
       {
-        "title": "UPS raises full-year guidance but says it expects domestic third-quarter revenue to be flat",
-        "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+        "title": "Under pressure over China backers, Mercedes CEO pledges to defend U.S. business",
+        "url": "https://www.cnbc.com/2026/07/28/china-mercedes-ceo-pledges-defend-us-business.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-28T14:06:28.000Z",
+        "publishedAt": "2026-07-28T16:33:07.000Z",
         "category": "markets"
       },
       {
-        "title": "Dow rises on strong earnings, but Nasdaq falls as chip sell-off continues: Live updates",
+        "title": "Three Prices Where SpaceX Stock Is a Buy",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-buy-dfe4aa70?siteid=yhoof2&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-28T16:33:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Mercedes' mixed bag: Upbeat Q2 results come as German automaker could face US sales ban",
+        "url": "https://finance.yahoo.com/markets/stocks/article/mercedes-mixed-bag-upbeat-q2-results-come-as-german-automaker-could-face-us-sales-ban-163220201.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-28T16:32:20.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why Did SpaceX Stock Drop Today -- Then Pop?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-spacex-stock-drop-163029199.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-28T16:30:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Dow rallies 600 points, boosted by strong earnings and a steep decline in oil: Live updates",
         "url": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-28T14:05:13.000Z",
+        "publishedAt": "2026-07-28T16:28:25.000Z",
         "category": "markets"
       },
       {
-        "title": "Chip stock rout sends investors rushing back to bruised Alphabet stock",
-        "url": "https://finance.yahoo.com/markets/stocks/article/chip-stock-rout-sends-investors-rushing-back-to-bruised-alphabet-stock-140503906.html",
+        "title": "How to save cash: 7 ways to protect and grow your liquid savings",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-cash-grow-liquid-savings-162718210.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T14:05:03.000Z",
+        "publishedAt": "2026-07-28T16:27:18.000Z",
         "category": "markets"
       },
       {
-        "title": "Meta, BlackRock partner on $14 billion El Paso data center",
-        "url": "https://www.cnbc.com/2026/07/28/meta-blackrock-partner-on-14-billion-el-paso-data-center.html",
+        "title": "Major quake hits southern Japan, workers missing after mall blast",
+        "url": "https://www.cnbc.com/2026/07/28/major-quake-in-southern-japan-knocks-out-power-disrupts-transport.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-28T14:04:32.000Z",
+        "publishedAt": "2026-07-28T16:26:53.000Z",
         "category": "markets"
       },
       {
-        "title": "US distributor RNDC files for Chapter 11",
-        "url": "https://finance.yahoo.com/small-business/articles/us-distributor-rndc-files-chapter-101404576.html",
+        "title": "Daktronics, Inc. Q1 2010 Earnings Call Summary",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/daktronics-inc-q1-2010-earnings-162534893.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T14:04:07.000Z",
+        "publishedAt": "2026-07-28T16:25:34.000Z",
         "category": "markets"
       },
       {
-        "title": "Moore Kingston Smith to unify media teams at new West End office",
-        "url": "https://finance.yahoo.com/media-advertising/articles/moore-kingston-smith-unify-media-140204337.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T14:02:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "I’ll Keep Buying Microsoft Because of This Simple, Extremely Powerful Advantage",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ll-keep-buying-microsoft-because-140003669.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T14:00:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Why I Keep Buying NVIDIA Confidently",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-keep-buying-nvidia-confidently-135930052.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T13:59:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Coca-Cola second quarter earnings top estimates, raises full-year guidance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-second-quarter-earnings-135900994.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T13:59:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "It’s Time to Sell Apple for These 3 Simple Reasons",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/time-sell-apple-3-simple-135813049.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T13:58:13.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Billionaire Investor Andreas Halvorsen’s Top 5 Picks: Are They a Buy Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-andreas-halvorsen-top-135719093.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T13:57:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
-        "url": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+        "title": "Trump: New tariffs 'doing the same thing' as the ones struck down by Supreme Court",
+        "url": "https://www.cnbc.com/2026/07/28/trump-usmca-canada-mexico-trade-deal.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-28T13:56:52.000Z",
+        "publishedAt": "2026-07-28T16:25:21.000Z",
         "category": "markets"
       },
       {
-        "title": "Rivian vs. Stellantis: This Wall Street Bank Just Told You Which EV Stock to Own and Which to Dump",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-stellantis-wall-street-135641267.html",
+        "title": "OpenAI’s Agent Hacked Hugging Face. Sam Altman Says the Singularity Is Here; Nvidia (NVDA), CrowdStrike (CRWD) Build the Defenses",
+        "url": "https://finance.yahoo.com/technology/ai/articles/openai-agent-hacked-hugging-face-162250634.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T13:56:41.000Z",
+        "publishedAt": "2026-07-28T16:22:50.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "2 Major Reasons to Buy Moderna Stock Before July 31",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/2-major-reasons-buy-moderna-162149323.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-28T16:21:49.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Jim Cramer says buy these 2 stocks but remain cautious on a couple of others",
+        "url": "https://www.cnbc.com/2026/07/28/jim-cramer-says-buy-these-2-stocks-but-remain-cautious-a-couple-of-others.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-28T16:20:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Domino's Pizza CTO Kelly Garcia Sells $4.0 Million Stock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-cto-kelly-garcia-162001698.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-28T16:20:01.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "US goods trade deficit contracts, still expected to subtract from Q2 GDP growth",
+        "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
+        "url": "https://cointelegraph.com/markets/bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-28T16:27:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-rally-seems-more-162218698.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-28T16:22:18.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
+        "url": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-28T16:20:57.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "US goods trade deficit shrinks, is still expected to weigh on Q2 GDP growth",
         "url": "https://finance.yahoo.com/economy/policy/articles/us-goods-trade-deficit-contracts-125003300.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-28T13:52:19.000Z",
+        "publishedAt": "2026-07-28T16:19:24.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin may be showing signs of a bottom despite continued consolidation, chart analysts say",
+        "url": "https://www.cnbc.com/2026/07/28/bitcoin-is-showing-signs-of-a-bottom-chart-analysts-say.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-28T15:56:17.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
+        "url": "https://cointelegraph.com/markets/core-scientific-revenue-doubles-q2-ai-colocation-expansion-accelerate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-28T15:47:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
+        "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-28T15:46:33.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
+        "url": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-28T14:49:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
+        "url": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-28T14:49:01.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
+        "url": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-28T14:35:28.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
+        "url": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-28T14:30:57.000Z",
         "category": "crypto"
       },
       {
@@ -466,199 +536,129 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-28T12:52:10.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
-        "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-28T12:46:05.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Binance makes fighting crypto crime more difficult, says new report",
-        "url": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-28T12:24:02.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Lawmakers renew push to axe a lucrative tax loophole for crypto investors",
-        "url": "https://www.cnbc.com/2026/07/28/congress-renews-push-to-end-crypto-wash-sale-tax-loophole.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-28T12:15:01.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
-        "url": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-28T12:07:51.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
-        "url": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-28T11:59:17.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
-        "url": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-28T11:37:31.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act",
-        "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-28T11:09:16.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "1inch opens Aqua liquidity protocol across 13 chains",
-        "url": "https://www.coindesk.com/web3/2026/07/27/1inch-opens-aqua-liquidity-protocol-across-13-chains",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-28T11:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "1Inch moves to unite DeFi liquidity across 13 chains with Aqua",
-        "url": "https://cointelegraph.com/news/1inch-moves-to-unite-defi-liquidity-across-11-chains-with-aqua?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-28T11:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
-        "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-28T10:09:47.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Las Vegas home prices post largest drop in the nation",
-      "url": "https://www.marketwatch.com/story/las-vegas-home-prices-post-largest-drop-in-the-nation-d39d6ecd?mod=mw_rss_topstories",
+      "title": "Software stocks are rising, and these 6 are expected to withstand the AI threat",
+      "url": "https://www.marketwatch.com/story/software-stocks-are-rising-and-these-6-are-expected-to-withstand-the-ai-threat-1ce47e99?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-28T14:02:00.000Z"
+      "publishedAt": "2026-07-28T16:30:00.000Z"
     },
     {
-      "title": "How coordinating 401(k) contributions with your spouse can unlock thousands in retirement wealth",
-      "url": "https://www.marketwatch.com/story/how-coordinating-401-k-contributions-with-your-spouse-can-unlock-thousands-in-retirement-wealth-b5c5d733?mod=mw_rss_topstories",
+      "title": "Your retirement math may have a surprising flaw",
+      "url": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-28T14:00:00.000Z"
+      "publishedAt": "2026-07-28T16:22:00.000Z"
     },
     {
-      "title": "Apple is now letting you lease an iPhone like a car. Here’s what to know.",
-      "url": "https://www.marketwatch.com/story/apple-is-now-letting-you-lease-an-iphone-like-a-car-heres-what-to-know-51a10a91?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-28T13:59:00.000Z"
+      "title": "S&P Acquires Nigerian Rating Agency to Deepen Africa Coverage",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/s-p-acquires-nigerian-rating-agency-to-deepen-africa-coverage",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-28T16:21:45.000Z"
     },
     {
-      "title": "Brazil inflation nears target band, supporting more monetary easing",
-      "url": "https://www.investing.com/news/economy-news/brazil-midjuly-inflation-slows-more-than-expected-annual-rate-nears-target-band-4816821",
+      "title": "Private Equity Firm Unloads Mental Health Chain Into Muni Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/private-equity-firm-unloads-mental-health-chain-into-muni-market",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-28T16:12:40.000Z"
+    },
+    {
+      "title": "My financial adviser is against a withdrawal plan for my $2.3 million portfolio. Is he making a mistake?",
+      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-28T16:08:00.000Z"
+    },
+    {
+      "title": "Market watchers weigh chances of a surprise Fed rate hike tomorrow",
+      "url": "https://www.investing.com/news/economy-news/market-watchers-weigh-chances-of-a-suprise-fed-rate-hike-tomorrow-4817675",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-28T13:55:21.000Z"
+      "publishedAt": "2026-07-28T16:07:20.000Z"
     },
     {
-      "title": "US tech stocks enter correction as AI sell-off deepens",
+      "title": "French Container Giant Says Transpacific Revival Boost Profits",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/french-container-giant-says-transpacific-revival-boost-profits",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-28T16:02:51.000Z"
+    },
+    {
+      "title": "You’ll Know When to Worry About the Strategic Petroleum Reserve",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-28/you-ll-know-when-to-worry-about-the-strategic-petroleum-reserve",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-28T16:00:01.000Z"
+    },
+    {
+      "title": "Chip stocks tumble as AI sell-off deepens",
       "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-07-28T13:48:18.000Z"
+      "publishedAt": "2026-07-28T15:56:09.000Z"
     },
     {
-      "title": "I got an unexpected $1,000 medical bill. Here’s why I’m not paying it yet.",
-      "url": "https://www.marketwatch.com/story/i-got-an-unexpected-1-000-medical-bill-heres-why-im-not-paying-it-yet-67265caf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-28T13:48:00.000Z"
-    },
-    {
-      "title": "Nasdaq 100 Heads for Correction as AI Worries Rattle Investors",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/nasdaq-100-heads-for-correction-as-ai-worries-rattle-investors",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-28T13:45:45.000Z"
-    },
-    {
-      "title": "Apple Becomes Second Company to Hit $5 Trillion in Market Value",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/apple-becomes-second-company-to-hit-5-trillion-in-market-value",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-28T13:42:46.000Z"
-    },
-    {
-      "title": "U.S. Senators to vote on new Russia and Iran energy sanctions bill",
-      "url": "https://www.investing.com/news/economy-news/us-senators-to-vote-on-new-russia-and-iran-energy-sanctions-bill-4817064",
+      "title": "UK public inflation expectations ease further in July, survey shows",
+      "url": "https://www.investing.com/news/economy-news/uk-public-inflation-expectations-ease-further-in-july-survey-shows-4817631",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-28T13:38:04.000Z"
+      "publishedAt": "2026-07-28T15:55:03.000Z"
     },
     {
-      "title": "As chips sell off, rattled investors should heed this Cisco Systems lesson from the last millennium",
-      "url": "https://www.marketwatch.com/story/as-semis-sell-off-rattled-investors-should-heed-last-millenniums-lesson-from-cisco-systems-4bb53304?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-28T13:31:00.000Z"
-    },
-    {
-      "title": "Market warning signals flare again as tech, inflation fears intensify",
-      "url": "https://www.investing.com/news/economy-news/market-warning-signals-flare-again-as-tech-inflation-fears-intensify-4817007",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-28T13:30:27.000Z"
-    },
-    {
-      "title": "First Brands Bankruptcy: Lawsuits Around Alleged Fraud Seek to Recoup Billions",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/first-brands-bankruptcy-lawsuits-around-alleged-fraud-seek-to-recoup-billions",
+      "title": "US Insurers Rally as Stocks Shift from AI Loser to Safe Haven",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/us-insurers-rally-as-stocks-shift-from-ai-loser-to-safe-haven",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-28T13:20:17.000Z"
+      "publishedAt": "2026-07-28T15:46:22.000Z"
     },
     {
-      "title": "Trump reiterates threat to strike Iran’s Pickaxe Mountain, other sites if no deal",
-      "url": "https://www.investing.com/news/economy-news/trump-to-host-netanyahu-amid-diplomatic-efforts-to-restart-usiran-talks-4815908",
+      "title": "Euro zone bond yields hold steady ahead of Fed meeting",
+      "url": "https://www.investing.com/news/economy-news/euro-zone-bond-yields-hold-steady-ahead-of-fed-meeting-93CH-4817597",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-28T13:18:49.000Z"
+      "publishedAt": "2026-07-28T15:43:49.000Z"
     },
     {
-      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-28T13:15:00.000Z"
-    },
-    {
-      "title": "Fifa plans stake sale in new $20bn commercial vehicle",
-      "url": "https://www.ft.com/content/819cc297-4e1e-493b-91b3-e6b12519214b?syn-25a6b1a6=1",
+      "title": "Powerful earthquake hits Japan’s southern Kumamoto prefecture",
+      "url": "https://www.ft.com/content/568eb170-a4c1-445d-8edb-67fa51f7a134?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-07-28T13:09:47.000Z"
+      "publishedAt": "2026-07-28T15:41:28.000Z"
     },
     {
-      "title": "Nasdaq set for lower open as AI worries mount ahead of pivotal earnings",
-      "url": "https://www.investing.com/news/economy-news/nasdaq-futures-drop-on-ai-chip-worries-ahead-of-pivotal-earnings-4815749",
+      "title": "USTR’s Greer says Trump’s latest tariffs won’t have an economic impact",
+      "url": "https://www.investing.com/news/economy-news/ustrs-greer-says-trumps-latest-tariffs-wont-have-an-economic-impact-4815286",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-28T12:55:11.000Z"
+      "publishedAt": "2026-07-28T15:36:58.000Z"
     },
     {
-      "title": "Wildberries says began paying victims of warehouse attacks",
-      "url": "https://www.investing.com/news/economy-news/wildberries-says-began-paying-victims-of-warehouse-attacks-93CH-4816802",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-28T12:51:31.000Z"
-    },
-    {
-      "title": "PayPal delivers an earnings beat — and suggests it’s not against a merger deal",
-      "url": "https://www.marketwatch.com/story/paypal-delivers-an-earnings-beat-as-investors-await-updates-on-possible-merger-105930b7?mod=mw_rss_topstories",
+      "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
+      "url": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-28T12:46:00.000Z"
+      "publishedAt": "2026-07-28T15:35:00.000Z"
     },
     {
-      "title": "Analysis-Germany’s sick-note crackdown may be treating the symptoms, not the disease",
-      "url": "https://www.investing.com/news/economy-news/analysisgermanys-sicknote-crackdown-may-be-treating-the-symptoms-not-the-disease-4812967",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-28T12:42:52.000Z"
+      "title": "Your healthcare could now cost $185,500 in retirement — and that doesn’t include long-term care",
+      "url": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-28T15:33:00.000Z"
     },
     {
-      "title": "Germany’s Merz calls for EU budget cuts of hundreds of billions",
-      "url": "https://www.investing.com/news/economy-news/germanys-merz-calls-for-eu-budget-cuts-of-hundreds-of-billions-93CH-4816768",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-28T12:39:27.000Z"
+      "title": "S&P Global’s Shares Drop as Company Misses Profit Estimates",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/s-p-global-s-shares-drop-as-company-misses-profit-estimates",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-28T15:31:08.000Z"
+    },
+    {
+      "title": "Stop snacking all day: Eating for only 8 or 9 hours a day may keep your mind sharp.",
+      "url": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-28T15:26:00.000Z"
+    },
+    {
+      "title": "EU Stocking Up on Brazil Chicken as Ban on Meat Trade Looms",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/eu-stocking-up-on-brazil-chicken-as-ban-on-meat-trade-looms",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-28T15:26:00.000Z"
+    },
+    {
+      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
+      "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-28T15:17:00.000Z"
     }
   ]
 }
