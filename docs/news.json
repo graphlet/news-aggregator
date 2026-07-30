@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-30T16:27:29.482Z",
+  "lastUpdated": "2026-07-30T19:27:12.232Z",
   "ai": {
     "developers": [
+      {
+        "title": "Advancing the price-performance frontier with GPT-5.6",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-30T10:00:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "Microsoft confirms Copilot ‘super app’ coming this year",
         "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
@@ -99,16 +106,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-09T10:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-        "url": "https://openai.com/index/gpt-5-6",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-09T10:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-30T18:43:26.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+        "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-30T16:33:32.000Z",
+        "category": "everyone"
+      },
       {
         "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
@@ -149,20 +163,6 @@
         "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-07-29T08:42:57.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI leaders sign a statement asking the government to do something about automated AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-28T19:46:43.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI’s finally expensive enough to make Wall Street nervous",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-28T19:33:03.000Z",
         "category": "everyone"
       },
       {
@@ -217,6 +217,13 @@
     ],
     "advancements": [
       {
+        "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+        "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-30T17:18:45.000Z",
+        "category": "advancements"
+      },
+      {
         "title": "We’re running out of reasons to ignore AI safety",
         "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
         "source": "The Verge – AI",
@@ -242,13 +249,6 @@
         "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
         "source": "Google AI Blog",
         "publishedAt": "2026-07-28T13:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-28T12:30:00.000Z",
         "category": "advancements"
       },
       {
@@ -326,112 +326,133 @@
   "finance": {
     "markets": [
       {
-        "title": "The number of stocks trading above a key technical level hit a peak not seen in two years",
-        "url": "https://www.cnbc.com/2026/07/30/-the-number-of-stocks-trading-above-a-key-technical-level-hit-its-highest-level-in-two-years.html",
+        "title": "Apple earnings live updates: iPhone, AI and Tim Cook’s final CEO call",
+        "url": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-30T16:26:48.000Z",
+        "publishedAt": "2026-07-30T19:26:03.000Z",
         "category": "markets"
       },
       {
-        "title": "Stocks recover from Fed day sell-off, Nasdaq soars 2% led by chip stocks and Microsoft: Live updates",
+        "title": "Dow rallies 600 points, Nasdaq soars nearly 3% in tech-fueled recovery: Live updates",
         "url": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-30T16:21:23.000Z",
+        "publishedAt": "2026-07-30T19:23:59.000Z",
         "category": "markets"
       },
       {
-        "title": "WealthStack Roundup: Worthy Analyzes $1B in Client Income as Tax Tech Grows",
-        "url": "https://finance.yahoo.com/technology/ai/articles/wealthstack-roundup-worthy-analyzes-1b-161836774.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:18:36.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "How NBCUniversal's deal with YouTube could jump-start the next chapter of the streaming wars",
-        "url": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
+        "title": "AI stocks rebound, and why J&J's earnings guidance cut is not cause for concern",
+        "url": "https://www.cnbc.com/2026/07/30/ai-stocks-rebound-and-why-jjs-earnings-guidance-cut-is-not-cause-for-concern.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-30T16:18:04.000Z",
+        "publishedAt": "2026-07-30T19:05:46.000Z",
         "category": "markets"
       },
       {
-        "title": "The Market Thinks Texas Instruments (TXN) Is a Boring Analog Chipmaker; AI Data Centers Disagree",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/market-thinks-texas-instruments-txn-161524238.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:15:24.000Z",
+        "title": "Virtual interviews don't show bosses your personality, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-30T19:04:55.000Z",
         "category": "markets"
       },
       {
-        "title": "Should You Buy Shake Shack Stock Before Aug. 5?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/buy-shake-shack-stock-aug-161500572.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:15:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more",
-        "url": "https://www.cnbc.com/2026/07/30/stocks-making-the-biggest-moves-midday-meta-msft-mktx-crox.html",
+        "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+        "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-30T16:13:54.000Z",
+        "publishedAt": "2026-07-30T19:01:38.000Z",
         "category": "markets"
       },
       {
-        "title": "Tesla Looks To Snap Losing Streak As It Hits 10 Million EV Milestone",
-        "url": "https://www.investors.com/news/tesla-stock-electric-vehicle-ev-model-y-elon-musk-optimus-robotaxi/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:10:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Okta buys AI security startup Permiso; source says for about $200M",
-        "url": "https://finance.yahoo.com/technology/ai/articles/okta-buys-ai-security-startup-160942099.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:09:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stock Market Today: Nasdaq Rebounds As Chips Jump; This Medical Name Jams Ahead Of Earnings (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-meta-stock-meta-q2-earnings/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:07:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Amazon on deck to report earnings after the bell with cloud, capex in focus",
-        "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+        "title": "China’s open-weight model lead exposes America’s AI blind spot",
+        "url": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-30T16:06:46.000Z",
+        "publishedAt": "2026-07-30T18:51:42.000Z",
         "category": "markets"
       },
       {
-        "title": "FTAI Aviation Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-q2-earnings-call-160423931.html",
+        "title": "Analyst Report: Ford Motor Co",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_2959_AnalystReport_1785435883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:04:23.000Z",
+        "publishedAt": "2026-07-30T18:24:43.000Z",
         "category": "markets"
       },
       {
-        "title": "Exelon Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/energy/articles/exelon-q2-earnings-call-highlights-160422767.html",
+        "title": "Analyst Report: Visa Inc",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_3489_AnalystReport_1785435883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:04:22.000Z",
+        "publishedAt": "2026-07-30T18:24:43.000Z",
         "category": "markets"
       },
       {
-        "title": "Euronet Worldwide Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/euronet-worldwide-q2-earnings-call-160422116.html",
+        "title": "Analyst Report: Cognizant Tech Sol. Corp",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_3633_AnalystReport_1785435883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:04:22.000Z",
+        "publishedAt": "2026-07-30T18:24:43.000Z",
         "category": "markets"
       },
       {
-        "title": "DLH Q3 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dlh-q3-earnings-call-highlights-160421504.html",
+        "title": "Analyst Report: SoFi Technologies Inc",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_6791_AnalystReport_1785435883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T16:04:21.000Z",
+        "publishedAt": "2026-07-30T18:24:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Analyst Report: Qorvo Inc",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_4655_AnalystReport_1785435883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-30T18:24:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Apple and Amazon report after the bell. Here's what the options market is saying",
+        "url": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-30T18:17:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Jersey Mike's stock falls 3% in public market debut after pricing shares at $23",
+        "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-30T17:59:19.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Retailer Reformation opens flat in NYSE debut as CEO says company is 'ready to scale'",
+        "url": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-30T17:41:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "British Airways flight called mayday on approach to Heathrow",
+        "url": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-30T17:34:26.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
+        "url": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-30T17:38:13.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
+        "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
+        "source": "CoinDesk",
+        "publishedAt": "2026-07-30T17:34:03.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Canadian crypto ownership increases to 25%: Ontario survey",
+        "url": "https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-30T17:03:17.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
         "url": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -444,27 +465,6 @@
         "url": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
         "source": "CoinDesk",
         "publishedAt": "2026-07-30T16:04:16.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Peter Schiff Warns Bitcoin Faces Bigger Selloff Beyond Tech Rout",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-bitcoin-faces-155700182.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T15:57:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Coinbase Readies For Earnings. Bitcoin, Miners Jump On AI Trade.",
-        "url": "https://www.investors.com/news/coinbase-stock-earnings-q2-2026-bitcoin-price-cryptocurrency-miners-ai/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T15:56:41.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Hyperscale Data Taps Bitcoin Holdings to Advance $3B AI Campus Deal",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/hyperscale-data-taps-bitcoin-holdings-155400194.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T15:54:00.000Z",
         "category": "crypto"
       },
       {
@@ -541,124 +541,124 @@
   },
   "trends": [
     {
-      "title": "Mortgage rates jump to their highest level in a year and show few signs of falling",
-      "url": "https://www.marketwatch.com/story/mortgage-rates-jump-to-their-highest-level-in-a-year-and-show-few-signs-of-falling-4d485df0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T16:20:00.000Z"
-    },
-    {
-      "title": "Blackstone Said to Buy $25 Billion HSBC Australia Home Loan Book",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/blackstone-said-to-buy-25-billion-hsbc-australia-home-loan-book",
+      "title": "No Idea of Warsh's Position, 'Hall of Mirrors': Ed Al-Hussainy",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/no-idea-of-warsh-s-position-ed-al-hussainy-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T16:15:27.000Z"
+      "publishedAt": "2026-07-30T19:19:07.000Z"
     },
     {
-      "title": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
-      "url": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T16:15:00.000Z"
-    },
-    {
-      "title": "Womenswear Firm Reformation Opens Flat After $210.9 Million IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/womenswear-firm-reformation-opens-flat-after-210-9-million-ipo",
+      "title": "Fed's Messaging 'Extraordinarily Muddled': Ed Al-Hussainy",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/fed-s-messaging-extraordinarily-muddled-al-hussainy-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T16:10:40.000Z"
+      "publishedAt": "2026-07-30T19:17:15.000Z"
     },
     {
-      "title": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
-      "url": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
+      "title": "Warsh’s Wall Street cred takes a hit as investors doubt the Fed chair’s inflation-fighting resolve",
+      "url": "https://www.marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-30T16:06:00.000Z"
+      "publishedAt": "2026-07-30T19:02:00.000Z"
     },
     {
-      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
-      "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T16:03:00.000Z"
+      "title": "Exclusive-Intel providing chip technology to startup led by co-investor of Tan in rare deal",
+      "url": "https://www.investing.com/news/economy-news/exclusiveintel-providing-chip-technology-to-startup-led-by-coinvestor-of-tan-in-rare-deal-4822039",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-30T18:54:37.000Z"
     },
     {
-      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "title": "US-Iran War Has Made Every Middle East Country a Target, Says Jane Harman",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/us-iran-war-has-made-all-of-middle-east-a-target-harman-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-30T18:49:15.000Z"
+    },
+    {
+      "title": "The warning signal insiders are sending",
+      "url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-30T16:00:00.000Z"
+      "publishedAt": "2026-07-30T18:49:00.000Z"
+    },
+    {
+      "title": "Oil Billionaire Hamm Seeks to Expand in Argentina’s Shale Patch",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/oil-billionaire-hamm-seeks-to-expand-in-argentina-s-shale-patch",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-30T18:44:16.000Z"
+    },
+    {
+      "title": "Madrid deploys army as thousands of Moroccans swim to Spanish enclave",
+      "url": "https://www.ft.com/content/5546b044-0582-4ed9-8e61-bd1732f3063e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-30T18:38:27.000Z"
+    },
+    {
+      "title": "Imports hold back US economic growth in Q2, but domestic demand robust",
+      "url": "https://www.investing.com/news/economy-news/us-economic-growth-slows-in-second-quarter-but-domestic-demand-robust-4824275",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-30T18:37:16.000Z"
+    },
+    {
+      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "title": "US-Iran War Flares as Fighting Spreads Across Mideast",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/us-iran-war-flares-as-fighting-spreads-across-mideast-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-30T18:26:37.000Z"
+    },
+    {
+      "title": "Wall Street Delivers Harsh Verdict on Warsh Fed",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/wall-street-delivers-harsh-verdict-on-warsh-fed",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-30T18:21:26.000Z"
+    },
+    {
+      "title": "Mark Zuckerberg is becoming the king of the ‘side quest’",
+      "url": "https://www.ft.com/content/6d206b85-bc50-4c89-973b-f18cd84e2a15?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-30T18:16:48.000Z"
     },
     {
       "title": "Citadel buys Situational Awareness equity holdings after steep AI losses",
       "url": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-07-30T15:58:56.000Z"
+      "publishedAt": "2026-07-30T18:16:07.000Z"
     },
     {
-      "title": "I’ve seen families destroyed by this common estate-planning mistake. Here’s how to protect yours.",
-      "url": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T15:55:00.000Z"
-    },
-    {
-      "title": "Microsoft surges 15% as results and data centre leases cheer investors",
-      "url": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-30T15:50:00.000Z"
-    },
-    {
-      "title": "5 microcap software stocks expected to soar by triple digits as the companies’ sales pop",
-      "url": "https://www.marketwatch.com/story/5-microcap-software-stocks-expected-to-soar-by-triple-digits-as-the-companies-sales-pop-66b5cf6a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T15:47:00.000Z"
-    },
-    {
-      "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
-      "url": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T15:43:00.000Z"
-    },
-    {
-      "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
-      "url": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T15:36:00.000Z"
-    },
-    {
-      "title": "BOE Governor Bailey on Rates, Uncertainty, Labor Market",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-30/boe-governor-bailey-on-rates-uncertainty-labor-market",
+      "title": "UK’s FCA to Publish Daily Stock-Trading Data Starting Friday",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/uk-s-fca-to-publish-daily-stock-trading-data-starting-friday",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T15:30:20.000Z"
+      "publishedAt": "2026-07-30T18:11:32.000Z"
     },
     {
-      "title": "Yen jumps as analysts suspect official intervention; dollar broadly weaker",
-      "url": "https://www.investing.com/news/economy-news/dollar-steadies-as-fed-holds-rates-us-strikes-iran-4822229",
+      "title": "Portugal approves 33% windfall tax on oil company profits",
+      "url": "https://www.investing.com/news/economy-news/portugal-approves-33-windfall-tax-on-oil-company-profits-93CH-4825820",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-30T15:21:01.000Z"
+      "publishedAt": "2026-07-30T17:58:07.000Z"
     },
     {
-      "title": "US economic growth slows in second quarter, but domestic demand robust",
-      "url": "https://www.investing.com/news/economy-news/us-economic-growth-slows-in-second-quarter-but-domestic-demand-robust-4824275",
+      "title": "Chinese vice premier voices concern over US measures in call",
+      "url": "https://www.investing.com/news/economy-news/chinese-vice-premier-voices-concern-over-us-measures-in-call-4825814",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-30T15:20:05.000Z"
+      "publishedAt": "2026-07-30T17:55:16.000Z"
     },
     {
-      "title": "Fed’s Warsh Rebuked by Investors Craving a Real Inflation Fight",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-30/fed-s-warsh-rebuked-by-investors-craving-inflation-fight-video",
+      "title": "Mortgage Rates In US Rise to 6.66%, Highest Level In A Year",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/mortgage-rates-in-us-rises-highest-level-in-a-year-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T15:18:10.000Z"
+      "publishedAt": "2026-07-30T17:48:17.000Z"
     },
     {
-      "title": "Equinix Seeks at Least $3 Billion From Latest Data Center Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/equinix-seeks-at-least-3-billion-from-latest-data-center-deal",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T15:18:01.000Z"
-    },
-    {
-      "title": "European nations to boycott World Cup in protest at Fifa’s plans",
-      "url": "https://www.ft.com/content/b12a08f4-442c-4f10-9688-0f93553a292f?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-30T15:17:51.000Z"
-    },
-    {
-      "title": "Treasury yields rise on inflation concerns after Fed holds rates",
-      "url": "https://www.investing.com/news/economy-news/treasury-yields-rise-on-inflation-concerns-after-fed-holds-rates-93CH-4825236",
+      "title": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+      "url": "https://www.investing.com/news/economy-news/asian-stocks-choppy-after-rout-fed-leaves-markets-uncertain-on-rates-4822256",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-30T15:10:47.000Z"
+      "publishedAt": "2026-07-30T17:42:48.000Z"
+    },
+    {
+      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
+      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-30T17:36:00.000Z"
     }
   ]
 }
