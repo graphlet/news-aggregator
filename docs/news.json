@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T22:07:38.908Z",
+  "lastUpdated": "2026-07-31T02:55:42.551Z",
   "ai": {
     "developers": [
       {
@@ -21,13 +21,6 @@
         "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-29T15:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-29T11:54:29.000Z",
         "category": "developers"
       },
       {
@@ -106,9 +99,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-09T10:00:00.000Z",
         "category": "developers"
+      },
+      {
+        "title": "GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/bio-bug-bounty",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-09T10:00:00.000Z",
+        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+        "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-07-30T22:29:45.000Z",
+        "category": "everyone"
+      },
       {
         "title": "The loss of Situational Awareness",
         "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
@@ -206,13 +213,6 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-07-22T13:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Introducing the ChatGPT for small business program",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-21T17:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
@@ -221,6 +221,13 @@
         "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
         "source": "The Verge – AI",
         "publishedAt": "2026-07-30T17:18:45.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+        "url": "https://openai.com/index/avatarin",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-30T00:00:00.000Z",
         "category": "advancements"
       },
       {
@@ -313,125 +320,132 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-16T16:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "How Cars24 scales conversations and builds faster with OpenAI",
-        "url": "https://openai.com/index/cars24",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-16T00:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Apple's stock drops 8% as supply constraints lead to weak revenue guidance: Live updates",
-        "url": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
+        "title": "Nasdaq futures rise as Wall Street rebounds; Kospi soars 13%, triggers trading curbs: Live updates",
+        "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-30T21:53:24.000Z",
+        "publishedAt": "2026-07-31T02:53:43.000Z",
         "category": "markets"
       },
       {
-        "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
-        "url": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
+        "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
+        "url": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
         "source": "CNBC",
-        "publishedAt": "2026-07-30T21:50:17.000Z",
+        "publishedAt": "2026-07-31T02:51:48.000Z",
         "category": "markets"
       },
       {
-        "title": "Andy Burnham to give regional mayors share of income tax",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+        "title": "Manipal Health IPO Day 3 Update: GMP remains at 1%, subscription at 45%. Should you Subscribe or Skip?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-ipo-day-3-update-gmp-remains-at-1-subscription-at-45-should-you-subscribe-or-skip/articleshow/132753776.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T02:29:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "South Korea’s Kospi rockets 17% after massive 3-day selloff. What’s behind the surge?",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-rockets-17-after-massive-3-day-selloff-whats-behind-the-surge/articleshow/132753722.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T02:23:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Largecaps look more attractive after midcap, smallcap rally: HDFC AMC’s Rahul Baijal",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-look-more-attractive-after-midcap-smallcap-rally-hdfc-amcs-rahul-baijal/articleshow/132753591.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T02:11:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a positive start; Asian shares trade higher",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-maruti-suzuki-itc-share-price-31-july-2026/liveblog/132753582.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T02:09:47.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "China's factory activity unexpectedly contracts in July as export rush fades",
+        "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-07-31T02:06:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Positive Breakout: These 10 stocks cross above their 200 DMAs",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/slideshow/132753585.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T02:04:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "ETMarkets Smart Talk | Build a portfolio with 50% large caps, 30% midcaps and 20% small caps: Roop Bhootra",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-build-a-portfolio-with-50-large-caps-30-midcaps-and-20-small-caps-roop-bhootra/articleshow/132753472.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T02:01:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stocks to buy in 2026 for long term: Adani Ports, Phoenix Mills among 5 stocks that could give 10-30% return",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-adani-ports-phoenix-mills-among-5-stocks-that-could-give-10-30-return/slideshow/132753494.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T01:58:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Gold on track to end four-month slump as investors weigh Fed signals",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-on-track-to-end-four-month-slump-as-investors-weigh-fed-signals/articleshow/132753370.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T01:48:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Yen weakens after intervention-led surge ahead of BOJ policy decision",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-weakens-after-intervention-led-surge-ahead-of-boj-policy-decision/articleshow/132753342.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T01:46:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "South Korea’s Kospi index jumps more than 16% on a surge of chipmaking stocks",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-index-jumps-more-than-15-pc-on-a-surge-of-chipmaking-stocks/articleshow/132753299.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-07-31T01:43:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Three things we learned about AI from Big Tech earnings",
+        "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-07-30T21:32:09.000Z",
+        "publishedAt": "2026-07-31T01:31:50.000Z",
         "category": "markets"
       },
       {
-        "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
-        "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-30T21:31:31.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-        "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-30T21:29:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks making the biggest moves after hours: Apple, Amazon, Rivian, Reddit & more",
-        "url": "https://www.cnbc.com/2026/07/30/stocks-making-the-biggest-moves-after-hours-aapl-amzn-rivn-rddt-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-30T21:23:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
-        "url": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-30T21:19:16.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
-        "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-30T21:17:37.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "'The Odyssey' extends stay in 70 mm Imax theaters as shows sell out weeks in advance",
-        "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-30T20:51:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-        "url": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-30T20:38:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Tata Steel Q1 net profit beats estimates; approves Rs 33,873 crore capex",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-steel-q1-net-profit-beats-estimates-approves-rs-33873-crore-capex/articleshow/132750129.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-30T20:35:08.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mahindra Q1 net profit rises 34%, standalone earnings beat estimates",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-q1-net-profit-rises-34-standalone-earnings-beat-estimates/articleshow/132750115.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-30T20:31:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
-        "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-30T20:17:16.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks: Amazon beats estimates for quarterly cloud revenue growth",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-amazon-beats-estimates-for-quarterly-cloud-revenue-growth/articleshow/132750040.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-07-30T20:13:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
-        "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-        "source": "CNBC",
-        "publishedAt": "2026-07-30T20:13:00.000Z",
+        "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-07-31T01:31:14.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+        "url": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-31T02:38:09.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
+        "url": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-07-31T00:31:21.000Z",
+        "category": "crypto"
+      },
       {
         "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
         "url": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -522,143 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-07-30T17:03:17.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
-        "url": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-07-30T16:17:29.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ondo Finance weighs acquisition worth up to $500 million",
-        "url": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
-        "source": "CoinDesk",
-        "publishedAt": "2026-07-30T16:04:16.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Spain’s migrant crisis triggers Italian call for EU travel restrictions",
-      "url": "https://www.ft.com/content/5546b044-0582-4ed9-8e61-bd1732f3063e?syn-25a6b1a6=1",
+      "title": "Japan Preempts Market With Yen Intervention",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/japan-preempts-market-with-yen-intervention-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-31T02:36:24.000Z"
+    },
+    {
+      "title": "Iron Ore Climbs as Traders Weigh Supply Risks From BHP Strike",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/iron-ore-climbs-as-traders-weigh-supply-risks-from-bhp-strike",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-31T02:32:36.000Z"
+    },
+    {
+      "title": "Rising US Yields May Complicate RBI’s Strategy on Rates and the Rupee",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-31/rising-us-yields-may-complicate-rbi-s-strategy-on-rates-and-the-rupee",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-31T02:31:08.000Z"
+    },
+    {
+      "title": "Asia stocks surge, yen steals spotlight after suspected intervention",
+      "url": "https://www.investing.com/news/economy-news/asia-stocks-surge-yen-in-the-spotlight-after-suspected-intervention-4826666",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-31T02:30:32.000Z"
+    },
+    {
+      "title": "Korea Cites Close Ties With US, Japan After Overnight FX Surge",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/korea-cites-close-ties-with-us-japan-after-overnight-fx-surge",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-31T02:29:50.000Z"
+    },
+    {
+      "title": "Shionogi-Backed Biotech Apnimed Raises $192 Million in US IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/shionogi-backed-biotech-apnimed-raises-192-million-in-us-ipo",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-31T02:24:09.000Z"
+    },
+    {
+      "title": "Wild Tech Stock Swings Spur Retail Traders to Cut Margin Loans",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/wild-tech-stock-swings-spur-retail-traders-to-cut-margin-loans",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-31T02:18:41.000Z"
+    },
+    {
+      "title": "HSBC, Singapore Banks to Show Strength on Wealth Performance",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/hsbc-singapore-banks-to-show-strength-on-wealth-performance",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-31T02:07:51.000Z"
+    },
+    {
+      "title": "Indonesia court bars use of education budget to fund free meals starting from 2028",
+      "url": "https://www.investing.com/news/economy-news/indonesia-court-bars-use-of-education-budget-to-fund-free-meals-starting-from-2028-4823143",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-31T02:06:50.000Z"
+    },
+    {
+      "title": "Japan’s FX reserve account logs $31 billion surplus in FY2025",
+      "url": "https://www.investing.com/news/economy-news/japans-fx-reserve-account-logs-31-billion-surplus-in-fy2025-4826686",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-31T02:06:27.000Z"
+    },
+    {
+      "title": "China’s factory activity unexpectedly shrinks in July as demand sags",
+      "url": "https://www.investing.com/news/economy-news/chinas-factory-activity-unexpectedly-shrinks-in-july-4826670",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-31T02:00:27.000Z"
+    },
+    {
+      "title": "Stocks rebound and yen jumps on signs of intervention",
+      "url": "https://www.ft.com/content/23eb1fd4-8301-4c0e-89b3-2647389e6226?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-07-30T21:50:49.000Z"
+      "publishedAt": "2026-07-31T01:56:08.000Z"
     },
     {
-      "title": "US Senate advances nominee to head Transportation Security Administration",
-      "url": "https://www.investing.com/news/economy-news/us-senate-confirms-new-tsa-head-as-trump-pushes-for-private-airport-security-4826022",
+      "title": "Yen weakens after intervention-led surge ahead of BOJ policy decision",
+      "url": "https://www.investing.com/news/economy-news/yen-weakens-after-interventionled-surge-ahead-of-boj-policy-decision-4826616",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-30T21:49:11.000Z"
+      "publishedAt": "2026-07-31T01:54:44.000Z"
     },
     {
-      "title": "Get ready to buy the dip in tech stocks. Why the recent selling won’t break the bull market.",
-      "url": "https://www.marketwatch.com/story/get-ready-to-buy-the-dip-in-tech-stocks-why-the-recent-selling-wont-break-the-bull-market-900699f5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T21:45:00.000Z"
-    },
-    {
-      "title": "Can credit cards survive AI shopping? Why Mastercard’s CEO says they’ll ‘prevail’ in this new era.",
-      "url": "https://www.marketwatch.com/story/can-credit-cards-survive-ai-shopping-why-mastercards-ceo-says-theyll-prevail-in-this-new-era-8f8a660c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T21:45:00.000Z"
-    },
-    {
-      "title": "Apple forecasts slower growth as AI build-out strains tech supply chains",
-      "url": "https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1",
+      "title": "Big Tech AI spending spree tops $1tn",
+      "url": "https://www.ft.com/content/dcf3873e-7b32-4a24-a90d-3bccf1d2c996?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-07-30T21:41:42.000Z"
+      "publishedAt": "2026-07-31T01:52:48.000Z"
     },
     {
-      "title": "Amazon increases AI infrastructure spending to $220bn this year",
-      "url": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1",
+      "title": "Japan intervenes to prop up yen ahead of BOJ policy decision, source says",
+      "url": "https://www.investing.com/news/economy-news/japan-intervenes-to-prop-up-yen-ahead-of-boj-policy-decision-source-says-4826621",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-07-31T01:30:35.000Z"
+    },
+    {
+      "title": "India Billionaire Family Offices Offer Profit-Sharing to Attract Top Talent",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/india-billionaire-family-offices-offer-profit-sharing-to-attract-top-talent",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-07-31T01:30:00.000Z"
+    },
+    {
+      "title": "Donald Trump says Hamas has agreed to disarm over time",
+      "url": "https://www.ft.com/content/e4cec5e1-a4e9-449b-a411-da1c025af2e8?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-07-30T21:27:17.000Z"
+      "publishedAt": "2026-07-31T01:13:40.000Z"
     },
     {
-      "title": "Trading Day: Communication, intervention & liquidation",
-      "url": "https://www.investing.com/news/economy-news/trading-day-communication-intervention--liquidation-4826318",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-30T21:25:14.000Z"
-    },
-    {
-      "title": "Software stocks are fading — but these 4 could shine through the rest of the year",
-      "url": "https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T21:24:00.000Z"
-    },
-    {
-      "title": "Amazon Tops Estimates | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-30/amazon-tops-estimates-closing-bell-video",
+      "title": "Egypt Unlocks About $1.8 Billion IMF Payout After Passing Review",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/egypt-unlocks-about-1-8-billion-imf-payout-after-passing-review",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T21:09:32.000Z"
+      "publishedAt": "2026-07-31T01:12:41.000Z"
     },
     {
-      "title": "BOJ to keep rates steady, deliver hawkish signal as price pressures mount",
-      "url": "https://www.investing.com/news/economy-news/boj-to-keep-rates-steady-deliver-hawkish-signal-as-price-pressures-mount-4826275",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-30T21:06:32.000Z"
-    },
-    {
-      "title": "Japan conducts massive yen-buying intervention, Nikkei reports",
-      "url": "https://www.investing.com/news/economy-news/japan-conducts-massive-yenbuying-intervention-nikkei-reports-4826253",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-30T20:54:39.000Z"
-    },
-    {
-      "title": "Carvana Bears Reap $500 Million as Stock Sinks on Profit Miss",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/carvana-bears-reap-500-million-as-stock-sinks-on-profit-miss",
+      "title": "Top India Fund Manager Favors Banks, Power as Oil Risks Loom",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/top-india-fund-manager-favors-banks-power-as-oil-risks-loom",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T20:52:35.000Z"
+      "publishedAt": "2026-07-31T01:00:00.000Z"
     },
     {
-      "title": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
-      "url": "https://www.investing.com/news/economy-news/asian-stocks-choppy-after-rout-fed-leaves-markets-uncertain-on-rates-4822256",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-30T20:49:44.000Z"
-    },
-    {
-      "title": "Coinbase Posts Loss as Revenue Drops for Another Quarter",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/coinbase-posts-loss-as-revenue-drops-for-third-straight-quarter",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T20:43:33.000Z"
-    },
-    {
-      "title": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
-      "url": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T20:40:00.000Z"
-    },
-    {
-      "title": "Churchill Downs Shares Fall on Plans to Sell Casinos, Keep Derby",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/churchill-downs-shares-fall-on-plans-to-sell-casinos-keep-derby",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T20:38:14.000Z"
-    },
-    {
-      "title": "Lula’s payroll loans boom, but Brazilian defaults spike too",
-      "url": "https://www.investing.com/news/economy-news/lulas-payroll-loans-boom-but-brazilian-defaults-spike-too-4826217",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-07-30T20:37:47.000Z"
-    },
-    {
-      "title": "Aon Keeps Margin Edge as Industry Tailwinds Fade",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-30/aon-keeps-margin-edge-as-industry-tailwinds-fade-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-07-30T20:37:12.000Z"
-    },
-    {
-      "title": "Meta’s stock falls hard. Here’s why the company is in Wall Street’s doghouse.",
-      "url": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T20:31:00.000Z"
-    },
-    {
-      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
-      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-30T20:26:00.000Z"
+      "title": "How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low",
+      "url": "https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-31T00:57:59.000Z"
     }
   ]
 }
