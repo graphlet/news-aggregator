@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T10:41:33.148Z",
+  "lastUpdated": "2026-08-02T13:23:49.436Z",
   "ai": {
     "developers": [
       {
@@ -110,6 +110,13 @@
     ],
     "everyone": [
       {
+        "title": "Is paying artists enough to convince them to embrace AI?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-02T13:00:00.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Is this Billboard Hot 100 hit AI slop?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
         "source": "The Verge – AI",
@@ -206,13 +213,6 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-07-22T13:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Introducing the ChatGPT for small business program",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-21T17:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
@@ -256,13 +256,6 @@
         "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-31T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-        "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-07-30T17:18:45.000Z",
         "category": "advancements"
       },
       {
@@ -320,11 +313,74 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-22T13:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "Advancing the next era of national science",
+        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-22T12:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
+      {
+        "title": "OPEC agrees September oil hike, completing rollback of voluntary cuts",
+        "url": "https://www.cnbc.com/2026/08/02/opec-agrees-september-oil-hike-completing-rollback-of-voluntary-cuts.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-02T13:09:44.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Op-ed: The U.S. lead over China in AI is all but gone",
+        "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-02T12:30:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
+        "url": "https://www.cnbc.com/2026/08/02/ukrainian-drones-kill-two-russia-governors-say.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-02T12:06:04.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
+        "url": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-02T12:01:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why flights are so expensive and will likely stay that way",
+        "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-02T12:00:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The Nasdaq-100 just had its worst month since March 2025. These stocks held up and are expected to outperform ahead",
+        "url": "https://www.cnbc.com/2026/08/02/nasdaq-100-just-had-worst-month-since-march-2025-these-stocks-held-up.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-02T11:59:15.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AMD and Sandisk are two of the big chip stocks with earnings momentum in the new week",
+        "url": "https://www.cnbc.com/2026/08/02/amd-sandisk-are-two-of-the-big-chip-stocks-with-earnings-momentum.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-02T11:56:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Japan to announce that Tokyo and Washington took joint action to support the yen, Reuters reports",
+        "url": "https://www.cnbc.com/2026/08/02/japan-to-announce-tokyo-washington-took-joint-action-on-yen-reuters.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-02T11:21:33.000Z",
+        "category": "markets"
+      },
       {
         "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
         "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
@@ -373,65 +429,37 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-08-02T07:41:15.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Real estate firm Assetz files IPO papers with Sebi via confidential route; plans Rs 1,200 cr issue",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/real-estate-firm-assetz-files-ipo-papers-with-sebi-via-confidential-route-plans-rs-1200-cr-issue/articleshow/132802599.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-02T07:27:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AI isn’t a catch-all trade for stocks in this earnings season",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-isnt-a-catch-all-trade-for-stocks-in-this-earnings-season/articleshow/132801452.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-02T06:34:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "10 largecap stocks with upside potential up to 37%. Do you own any?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-largecap-stocks-with-upside-potential-up-to-37-do-you-own-any/slideshow/132801264.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-02T06:02:31.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "FPIs reverse 4-month selling trend with Rs 20,200 cr inflow in July",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-reverse-4-month-selling-trend-with-rs-20200-cr-inflow-in-july/articleshow/132801120.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-02T05:57:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mcap of nine of top-10 most valued firms jumps Rs 2.51 lakh cr; Bajaj Finance biggest winner",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-jumps-rs-2-51-lakh-cr-bajaj-finance-biggest-winner/articleshow/132801107.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-02T05:55:47.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AI may hurt IT today, but it could create the sector's next growth engine: Baroda BNP Paribas MF",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-may-hurt-it-today-but-it-could-create-the-sectors-next-growth-engine-baroda-bnp-paribas-mf/articleshow/132800924.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-02T05:36:23.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-        "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-02T05:18:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dividends &amp; stock splits: Maruti Suzuki, ICICI Bank among nearly 100 stocks turning ex-date this week. Do you own?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-stock-splits-maruti-suzuki-icici-bank-among-nearly-100-stocks-turning-ex-date-this-week-do-you-own/articleshow/132800731.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-02T05:09:39.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "The reverse bridge: Crypto meets Wall Street using perps",
+        "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-02T13:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+        "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-02T12:03:51.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-02T11:56:35.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
+        "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-02T11:20:06.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
         "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -508,38 +536,112 @@
         "source": "CoinDesk",
         "publishedAt": "2026-08-01T13:00:00.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Everyone has the perps convergence backwards",
-        "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-01T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Russia expands crypto mining ban to Moscow through 2032",
-        "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-01T10:23:41.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-        "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-01T09:23:56.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-        "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-01T09:01:08.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "By The Way: Headlines You May Have Missed the Week of 8/02",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/by-the-way-headlines-you-may-have-missed-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-02T13:14:21.000Z"
+    },
+    {
+      "title": "Teetering US stock market faces jobs report, big earnings week",
+      "url": "https://www.investing.com/news/economy-news/teetering-us-stock-market-faces-jobs-report-big-earnings-week-4829696",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-02T13:00:36.000Z"
+    },
+    {
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-02T13:00:00.000Z"
+    },
+    {
+      "title": "How Apple’s cheap MacBook Neo sparked a war in budget laptops",
+      "url": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-02T13:00:00.000Z"
+    },
+    {
+      "title": "Wall Street’s Favorite Bet Comes Undone as Chips Whipsaw Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/wall-street-s-favorite-bet-comes-undone-as-chips-whipsaw-market",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-02T13:00:00.000Z"
+    },
+    {
+      "title": "SpaceX IPO Faces First Reality Check",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/spacex-ipo-faces-first-reality-check-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-02T12:53:41.000Z"
+    },
+    {
+      "title": "Yen Traders Brace for More Intervention With US at Japan’s Side",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-02T12:47:40.000Z"
+    },
+    {
+      "title": "Ugly Month in Emerging Markets May Be a Taste of What’s Ahead",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/ugly-month-in-emerging-markets-may-be-a-taste-of-what-s-ahead",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-02T12:30:00.000Z"
+    },
+    {
+      "title": "Trump says he cancelled Iran strikes after Middle East allies’ request",
+      "url": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-02T12:28:13.000Z"
+    },
+    {
+      "title": "Trump Pauses Iran Strikes as Talks Resume",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/trump-pauses-iran-strikes-as-talks-resume-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-02T12:20:11.000Z"
+    },
+    {
+      "title": "This Surgical Robot Could Transform the Operating Room",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/this-surgical-robot-could-transform-the-operating-room-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-02T12:04:12.000Z"
+    },
+    {
+      "title": "‘Crush this lady’: how eBay harassment campaign led to $56mn payout",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-02T12:00:05.000Z"
+    },
+    {
+      "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
+      "url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-02T12:00:00.000Z"
+    },
+    {
+      "title": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.",
+      "url": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-02T12:00:00.000Z"
+    },
+    {
+      "title": "Why every tech giant wants to look like a cybersecurity company in the AI era",
+      "url": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-02T11:30:00.000Z"
+    },
+    {
+      "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
+      "url": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-02T11:00:00.000Z"
+    },
+    {
+      "title": "Banks Offload Risk from Leveraged ETFs With Exotic ‘Crash Puts’",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/banks-offload-risk-from-leveraged-etfs-with-exotic-crash-puts",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-02T11:00:00.000Z"
+    },
     {
       "title": "Morgan Stanley’s IPO after-party: a wealth management bonanza",
       "url": "https://www.ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1",
@@ -553,112 +655,10 @@
       "publishedAt": "2026-08-02T08:48:38.000Z"
     },
     {
-      "title": "Trump says he cancelled Iran strikes after Middle East allies’ request",
-      "url": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-02T08:45:59.000Z"
-    },
-    {
       "title": "ANZ, NAB Among Banks Funding Blackstone HSBC Book Buy, AFR Says",
       "url": "https://www.bloomberg.com/news/articles/2026-08-02/anz-nab-among-banks-funding-blackstone-hsbc-book-buy-afr-says",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-08-02T08:45:44.000Z"
-    },
-    {
-      "title": "Bomb kills three and wounds 21 at central Moscow restaurant",
-      "url": "https://www.investing.com/news/economy-news/bomb-kills-three-and-wounds-21-at-central-moscow-restaurant-4829680",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-02T08:03:16.000Z"
-    },
-    {
-      "title": "Bomb Kills Three, Injures 21 at Restaurant on Moscow’s Kudrinskaya Square",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/bomb-kills-three-injures-21-at-restaurant-on-moscow-s-kudrinskaya-square",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-02T07:22:43.000Z"
-    },
-    {
-      "title": "Ukrainian drone strikes kill two in Russia, hit Wildberries warehouse",
-      "url": "https://www.investing.com/news/economy-news/ukrainian-drone-strikes-kill-two-in-russia-hit-wildberries-warehouse-4829676",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-02T07:18:34.000Z"
-    },
-    {
-      "title": "Hungarian companies pivot after Orban’s allies lose political influence",
-      "url": "https://www.investing.com/news/economy-news/hungarian-companies-pivot-after-orbans-allies-lose-political-influence-4829674",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-02T06:45:58.000Z"
-    },
-    {
-      "title": "Iran sets the pace in war with Trump",
-      "url": "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-02T05:37:40.000Z"
-    },
-    {
-      "title": "AI creates two-speed UK jobs market as demand shifts to senior tech roles",
-      "url": "https://www.investing.com/news/economy-news/ai-creates-twospeed-uk-jobs-market-as-demand-shifts-to-senior-tech-roles-4829670",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-02T05:21:39.000Z"
-    },
-    {
-      "title": "Apple struggles to keep pace with AI ‘bug’ hunters",
-      "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-02T04:00:06.000Z"
-    },
-    {
-      "title": "German carmakers flood jobs market with managers after wielding axe",
-      "url": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-02T04:00:06.000Z"
-    },
-    {
-      "title": "Don’t pretend jokes can’t lead to political violence",
-      "url": "https://www.ft.com/content/6a3abcca-1477-4daa-9481-1a63492601a9?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-02T04:00:05.000Z"
-    },
-    {
-      "title": "Trump cancels planned Iran attack after framework for deal agreed",
-      "url": "https://www.investing.com/news/economy-news/iran-threatens-regional-energy-fields-if-the-us-launches-fresh-attacks-4829658",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-02T03:21:32.000Z"
-    },
-    {
-      "title": "Exclusive-Japan to announce Tokyo, Washington took joint action on yen, sources say",
-      "url": "https://www.investing.com/news/economy-news/exclusivejapan-to-announce-tokyo-washington-took-joint-action-on-yen-sources-say-4829661",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-02T03:18:30.000Z"
-    },
-    {
-      "title": "Israeli strikes kill at least four in Gaza despite Trump ceasefire breakthrough",
-      "url": "https://www.investing.com/news/economy-news/israeli-strikes-kill-at-least-four-in-gaza-despite-trump-ceasefire-breakthrough-4829665",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-02T02:47:14.000Z"
-    },
-    {
-      "title": "Trump Says US to Hold Off Iran Attack If Rapid Deal Agreed",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-02T02:19:38.000Z"
-    },
-    {
-      "title": "Japan to announce joint yen intervention with US, sources say - Reuters",
-      "url": "https://www.investing.com/news/economy-news/japan-to-announce-joint-yen-intervention-with-us-sources-say--reuters-4829663",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-02T01:42:18.000Z"
-    },
-    {
-      "title": "OpenAI, Anthropic hacking models breached companies after escaping tests",
-      "url": "https://www.investing.com/news/economy-news/openai-anthropic-hacking-models-breached-companies-after-escaping-tests-4829662",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-02T01:21:00.000Z"
-    },
-    {
-      "title": "Saudi Prince Concerned Over Trump’s Iran Strike Plan: Axios",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/saudi-prince-concerned-over-trump-s-iran-strike-plan-axios",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-02T00:13:35.000Z"
     }
   ]
 }
