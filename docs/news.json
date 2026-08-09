@@ -1,114 +1,121 @@
 {
-  "lastUpdated": "2026-08-08T21:31:16.116Z",
+  "lastUpdated": "2026-08-09T01:49:58.321Z",
   "ai": {
     "developers": [
       {
-        "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-07T18:40:34.000Z",
+        "title": "The AI Apocalypse Is Here",
+        "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T01:28:36.000Z",
         "category": "developers"
       },
       {
-        "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-        "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-06T14:30:00.000Z",
+        "title": "A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]",
+        "url": "https://www.youtube.com/watch?v=DP454c1K_vQ",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T00:56:23.000Z",
         "category": "developers"
       },
       {
-        "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-06T10:00:00.000Z",
+        "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
+        "url": "https://zenodo.org/records/21855824",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T00:23:41.000Z",
         "category": "developers"
       },
       {
-        "title": "Third-party cyber evaluations involving OpenAI models",
-        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-04T19:00:00.000Z",
+        "title": "Teaching Coding When AI Can Write the Code",
+        "url": "https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T23:55:37.000Z",
         "category": "developers"
       },
       {
-        "title": "New ways to learn and teach with ChatGPT Work and Codex",
-        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-04T00:00:00.000Z",
+        "title": "Things I learned about how people use AI after 1800 people",
+        "url": "https://news.ycombinator.com/item?id=49226913",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T23:35:27.000Z",
         "category": "developers"
       },
       {
-        "title": "Inside our 353,000-person vibe coding course",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-08-03T15:00:00.000Z",
+        "title": "Show HN: Faaah – Filesystem as an AI Handler",
+        "url": "https://github.com/sebastiancarlos/faaah",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T23:13:46.000Z",
         "category": "developers"
       },
       {
-        "title": "Advancing the price-performance frontier with GPT-5.6",
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-30T10:00:00.000Z",
+        "title": "GPT-4 finished training four years ago today",
+        "url": "https://twitter.com/gdb/status/2086092396023120286",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T23:05:30.000Z",
         "category": "developers"
       },
       {
-        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-29T15:00:00.000Z",
+        "title": "How AI is breaking the British State",
+        "url": "https://news.ycombinator.com/item?id=49226649",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T22:50:11.000Z",
         "category": "developers"
       },
       {
-        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "title": "You can build an AI agent's memory layer with only Go's standard library",
+        "url": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T22:50:06.000Z",
         "category": "developers"
       },
       {
-        "title": "Scientific computing in the age of agentic AI",
-        "url": "https://openai.com/index/scientific-computing-agentic-ai",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-28T17:00:00.000Z",
+        "title": "How Can LLM RL Work Despite Information-Theoretic Inefficiency",
+        "url": "https://www.beren.io/2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T22:32:28.000Z",
         "category": "developers"
       },
       {
-        "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-07-28T16:00:00.000Z",
+        "title": "Show HN: ExpertCache – Run the Full GPT-OSS 120B (63GB) on a 16GB M1 Pro",
+        "url": "https://github.com/amos-labs/expertcache",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T22:28:33.000Z",
         "category": "developers"
       },
       {
-        "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-        "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-07-27T18:00:00.000Z",
+        "title": "Roku Fairgound, a new 24/7 AI slop channel",
+        "url": "https://therokuchannel.roku.com/details/b484db42f3d31b6dc2f604d453c694a0/fairground-ai-creator-tv",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T22:25:59.000Z",
         "category": "developers"
       },
       {
-        "title": "Building the enterprise environment for agentic AI",
-        "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-07-27T11:32:58.000Z",
+        "title": "AI Settles a 25 Year-Old Problem We Left Behind",
+        "url": "https://twitter.com/DimitrisPapail/status/2086158118354887060",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T22:22:24.000Z",
         "category": "developers"
       },
       {
-        "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-        "url": "https://openai.com/index/ntt-data",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "title": "AI Music Debate Is Missing Half the Money",
+        "url": "https://justwordz.medium.com/the-ai-music-debate-is-missing-half-the-money-ffb714924aaa",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T21:31:03.000Z",
         "category": "developers"
       },
       {
-        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-21T07:00:00.000Z",
+        "title": "Shadow AI is a hidden risk to your business",
+        "url": "https://proton.me/business/blog/shadow-ai",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T21:20:43.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "I built a video editor in Rust with extensive AI-powered features",
+        "url": "https://github.com/heng30/wayshot",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T01:43:22.000Z",
+        "category": "everyone"
+      },
       {
         "title": "An Amazon data center could have the worst polluting power plant in the country",
         "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
@@ -206,16 +213,23 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-07-27T12:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Closing the data loop in AI-driven drug discovery",
-        "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-07-27T11:40:16.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
+        "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T22:49:54.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Korea's AI-driven chip boom reorders country's society from careers to culture",
+        "url": "https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-08T20:28:48.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Responding to the next frontier of critical cyber capabilities",
         "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
@@ -306,128 +320,114 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-30T00:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-29T10:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "5 ways AI Mode in Search helps you enjoy the real world",
-        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-07-28T13:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "What a $2.2 Million Portfolio Actually Pays After Taxes in Florida vs. New York",
-        "url": "https://finance.yahoo.com/markets/currencies/articles/2-2-million-portfolio-actually-211114864.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:11:14.000Z",
+        "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+        "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-09T00:36:19.000Z",
         "category": "markets"
       },
       {
-        "title": "Navigator Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/navigator-q2-earnings-call-highlights-210355500.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:03:55.000Z",
+        "title": "Andy Burnham to embark on cost of living tour through the UK",
+        "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-08-08T23:10:50.000Z",
         "category": "markets"
       },
       {
-        "title": "Nuvation Bio Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/healthcare/articles/nuvation-bio-q2-earnings-call-210354900.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:03:54.000Z",
+        "title": "ICE says it expects to equip every field officer with body cameras by the end of August",
+        "url": "https://www.cnbc.com/2026/08/08/ice-expects-to-equip-field-officers-with-body-cams-by-end-of-august.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T22:26:43.000Z",
         "category": "markets"
       },
       {
-        "title": "NexPoint Real Estate Finance Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/real-estate/articles/nexpoint-real-estate-finance-q2-210354759.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:03:54.000Z",
+        "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+        "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T17:41:31.000Z",
         "category": "markets"
       },
       {
-        "title": "Natural Resource Partners Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/natural-partners-q2-earnings-call-210354695.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:03:54.000Z",
+        "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
+        "url": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T17:25:25.000Z",
         "category": "markets"
       },
       {
-        "title": "Nutrien Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nutrien-q2-earnings-call-highlights-210354995.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:03:54.000Z",
+        "title": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
+        "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T15:43:23.000Z",
         "category": "markets"
       },
       {
-        "title": "Northern Oil and Gas Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/energy/articles/northern-oil-gas-q2-earnings-210353210.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:03:53.000Z",
+        "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+        "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T15:29:19.000Z",
         "category": "markets"
       },
       {
-        "title": "NNN REIT Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/real-estate/articles/nnn-reit-q2-earnings-call-210353568.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:03:53.000Z",
+        "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+        "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T15:00:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Nerdy Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nerdy-q2-earnings-call-highlights-210353763.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:03:53.000Z",
+        "title": "Here’s how we played the massive rebound in AI stocks this week",
+        "url": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T14:07:30.000Z",
         "category": "markets"
       },
       {
-        "title": "NiSource Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/energy/articles/nisource-q2-earnings-call-highlights-210352310.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:03:52.000Z",
+        "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+        "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-08-08T13:41:32.000Z",
         "category": "markets"
       },
       {
-        "title": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-shows-magnificent-seven-ai-210102010.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T21:01:02.000Z",
+        "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
+        "url": "https://www.cnbc.com/2026/08/08/dems-plan-trump-investigations-instead-of-impeachment-reuters.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T13:40:35.000Z",
         "category": "markets"
       },
       {
-        "title": "What to Know About SentinelOne's Insider Transactions Ahead of Earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/know-sentinelones-insider-transactions-ahead-204936173.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T20:49:36.000Z",
+        "title": "'Moneymaxxing' isn't a trend, it's a 'cultural shift,' financial advisor says — here's how to get started",
+        "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T13:30:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
-        "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T20:42:34.000Z",
+        "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+        "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T13:28:00.000Z",
         "category": "markets"
       },
       {
-        "title": "SentinelOne (S) Deepens AWS Ties As Growth Accelerates",
-        "url": "https://finance.yahoo.com/technology/ai/articles/sentinelone-deepens-aws-ties-growth-200954951.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T20:09:54.000Z",
+        "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
+        "url": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T13:00:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Jim Cramer Praises Exchange Duopoly CME Group (CME) and Cboe (CBOE)",
-        "url": "https://finance.yahoo.com/markets/options/articles/jim-cramer-praises-exchange-duopoly-200924789.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-08T20:09:24.000Z",
+        "title": "How cleaning up space debris could grow to become a big business",
+        "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-08T12:04:15.000Z",
         "category": "markets"
       }
     ],
@@ -541,6 +541,30 @@
   },
   "trends": [
     {
+      "title": "The bank behind China’s AI listings bonanza",
+      "url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-09T01:22:52.000Z"
+    },
+    {
+      "title": "Pentagon asks defence firms to accelerate weapons production",
+      "url": "https://www.investing.com/news/economy-news/pentagon-asks-defence-firms-to-accelerate-weapons-production-4847693",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-09T00:38:48.000Z"
+    },
+    {
+      "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-09T00:00:00.000Z"
+    },
+    {
+      "title": "Germany warns of constant hybrid attack threats after drone incident",
+      "url": "https://www.investing.com/news/economy-news/germany-warns-of-constant-hybrid-attack-threats-after-drone-incident-4847692",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-08T23:56:26.000Z"
+    },
+    {
       "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
       "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -635,30 +659,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-08-08/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-08-08T14:50:48.000Z"
-    },
-    {
-      "title": "LIV Golf Tries to Survive Without Saudi Billions",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-08/liv-golf-tries-to-survive-without-saudi-billions-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-08T14:41:53.000Z"
-    },
-    {
-      "title": "China’s AI Push Reshapes Its Economic Future",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-08T14:32:07.000Z"
-    },
-    {
-      "title": "US Senate narrowly confirms Todd Blanche as US attorney-general",
-      "url": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-08T14:24:48.000Z"
-    },
-    {
-      "title": "US Munitions Strain Complicates Iran Strategy",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-08/us-munitions-strain-complicates-iran-strategy-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-08T14:01:29.000Z"
     }
   ]
 }
