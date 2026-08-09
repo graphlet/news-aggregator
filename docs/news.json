@@ -1,7 +1,56 @@
 {
-  "lastUpdated": "2026-08-09T06:58:04.021Z",
+  "lastUpdated": "2026-08-09T09:40:30.025Z",
   "ai": {
     "developers": [
+      {
+        "title": "Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container",
+        "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T09:02:27.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Time has started serving ads to AI agents",
+        "url": "https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T08:05:16.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI Will Change What It Is to Be Human. Are We Ready? (2025)",
+        "url": "https://www.thefp.com/p/ai-will-change-what-it-is-to-be-human",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T08:03:20.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T08:00:51.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "TechFlow Intelligence: The AI-Powered Technology Decision Engine",
+        "url": "https://c33643568e89f8ad5d3286d09343df94.ctonew.app",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T07:44:30.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Lessons from Reducing My Coding Agent's LLM API Costs",
+        "url": "https://medium.com/@chuanweipeng5/where-my-llm-api-bill-actually-went-and-how-i-cut-it-f10158329c5c",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T07:20:41.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Open-source federated AI framework for Space Solar power routing",
+        "url": "https://github.com/WVGlobal/Planetary-Energy-Routing-Protocol",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T06:58:38.000Z",
+        "category": "developers"
+      },
       {
         "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
         "url": "https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/",
@@ -56,55 +105,6 @@
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
         "source": "Hacker News – AI",
         "publishedAt": "2026-08-09T04:07:06.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "I asked 4 AI companions what they were. They lied, then texted me the next day",
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-09T03:21:10.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Pomona, offline small AI reasoners for agricultural sensors",
-        "url": "https://github.com/okyanu/pomona",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-09T03:11:07.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Suggest some uncensored AI for photo genaration?",
-        "url": "https://news.ycombinator.com/item?id=49227939",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-09T02:43:25.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Turn messy AliExpress dropshipping listings into clean products with AI",
-        "url": "https://importer.omniicore.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-09T02:10:42.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
-        "url": "https://huggingface.co/blog/mayafree/model-dna",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-09T01:54:24.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The AI Apocalypse Is Here",
-        "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-09T01:28:36.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]",
-        "url": "https://www.youtube.com/watch?v=DP454c1K_vQ",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-09T00:56:23.000Z",
         "category": "developers"
       }
     ],
@@ -217,10 +217,17 @@
     ],
     "advancements": [
       {
-        "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
-        "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
+        "title": "China's Top AI Model Evaded Testing Environment, Researchers Say",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-08-08T22:49:54.000Z",
+        "publishedAt": "2026-08-09T08:07:06.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "I built the AI platform for a company crucial to a small nation's food safety",
+        "url": "https://twitter.com/swisscheese4299/status/2086175870146998447",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-09T07:56:56.000Z",
         "category": "advancements"
       },
       {
@@ -313,18 +320,39 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-30T00:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-29T10:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
+      {
+        "title": "9 Nifty 500 stocks with up to 50% upside potential: Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/9-nifty-500-stocks-with-up-to-50-upside-potential-do-you-own-any/slideshow/133064784.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-09T08:47:50.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "GMPs indicate 15 IPOs opening or listing this week could offer investors up to 37% returns",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/gmps-indicate-15-ipos-opening-or-listing-this-week-could-offer-investors-up-to-37-returns/slideshow/133064592.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-09T08:37:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "14 penny stocks plunge up to 85% in 6 months. Are you holding any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/14-penny-stocks-plunge-up-to-85-in-6-months-are-you-holding-any/slideshow/133064275.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-09T08:00:10.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Canada's British Columbia declares state of emergency as more than 20,000 flee wildfires",
+        "url": "https://www.cnbc.com/2026/08/09/british-columbia-declares-emergency-more-than-20000-flee-wildfires.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-09T07:20:17.000Z",
+        "category": "markets"
+      },
       {
         "title": "$20 billion bet: Where is Warren Buffett's successor spending Berkshire's cash pile after 14 quarters?",
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/20-billion-bet-where-is-warren-buffetts-successor-spending-berkshires-cash-pile-after-14-quarters/articleshow/133063236.cms",
@@ -333,7 +361,7 @@
         "category": "markets"
       },
       {
-        "title": "Rs 7,681 crore IPO rush next week: Shiprocket, Milky Mist among 9 issues to hit the market",
+        "title": "Rs 7,681 crore IPO rush: Shiprocket, Milky Mist among 9 issues to hit the market",
         "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-7681-crore-ipo-rush-next-week-shiprocket-milky-mist-among-9-issues-to-hit-the-market/articleshow/133063172.cms",
         "source": "Economic Times – Markets",
         "publishedAt": "2026-08-09T06:13:34.000Z",
@@ -401,37 +429,16 @@
         "source": "CNBC",
         "publishedAt": "2026-08-09T00:36:19.000Z",
         "category": "markets"
-      },
-      {
-        "title": "ICE says it expects to equip every field officer with body cameras by the end of August",
-        "url": "https://www.cnbc.com/2026/08/08/ice-expects-to-equip-field-officers-with-body-cams-by-end-of-august.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-08T22:26:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-        "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-08T17:41:31.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
-        "url": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-08T17:25:25.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
-        "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-08T15:43:23.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+        "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-09T09:10:39.000Z",
+        "category": "crypto"
+      },
       {
         "title": "BTCPay restricts remote Lightning access after attackers steal funds",
         "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -529,17 +536,46 @@
         "source": "Economic Times – Markets",
         "publishedAt": "2026-08-08T08:45:51.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-        "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-08T07:46:04.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Iran sets sweeping U.S. conditions for reopening Strait of Hormuz",
+      "url": "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-09T09:21:05.000Z"
+    },
+    {
+      "title": "Taiwan’s 2027 defence spending to rise 16%, official media reports",
+      "url": "https://www.investing.com/news/economy-news/taiwans-2027-defence-spending-to-rise-16-official-media-reports-4847720",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-09T09:06:29.000Z"
+    },
+    {
+      "title": "Romania Extends Reactor Output by Nine Days After Danube Blasts",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/romania-extends-reactor-output-by-nine-days-after-danube-blasts",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-09T08:55:26.000Z"
+    },
+    {
+      "title": "Spain checks 200 Italy arrivals in border controls after migration row",
+      "url": "https://www.investing.com/news/economy-news/spain-checks-200-italy-arrivals-in-border-controls-after-migration-row-4847719",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-09T08:54:53.000Z"
+    },
+    {
+      "title": "Europe’s Hot Stock Markets Are Creating a Buzz Among Investors",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/europe-s-hot-stock-markets-are-creating-a-buzz-among-investors",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-09T08:00:00.000Z"
+    },
+    {
+      "title": "Ukraine drone attacks put Russia’s Wildberries and banks under pressure",
+      "url": "https://www.investing.com/news/economy-news/ukraine-drone-attacks-put-russias-wildberries-and-banks-under-pressure-4847713",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-09T07:26:07.000Z"
+    },
     {
       "title": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears",
       "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
@@ -551,12 +587,6 @@
       "url": "https://www.investing.com/news/economy-news/humanoids-are-as-much-a-compute-story-as-a-robotics-one-4847709",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-08-09T06:00:38.000Z"
-    },
-    {
-      "title": "Fire at Saudi Aramco’s Jazan refinery extinguished, no injuries reported",
-      "url": "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-09T04:03:50.000Z"
     },
     {
       "title": "Turkey’s cyber law shifts sweeping powers to presidency",
@@ -629,36 +659,6 @@
       "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-08-08T20:00:00.000Z"
-    },
-    {
-      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-08T19:00:00.000Z"
-    },
-    {
-      "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
-      "url": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-08T19:00:00.000Z"
-    },
-    {
-      "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
-      "url": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-08T18:37:00.000Z"
-    },
-    {
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-08T18:30:00.000Z"
-    },
-    {
-      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-      "url": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-08T18:30:00.000Z"
     }
   ]
 }
