@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-11T16:01:36.557Z",
+  "lastUpdated": "2026-08-11T19:03:01.886Z",
   "ai": {
     "developers": [
+      {
+        "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-08-11T17:00:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "Claude will apply invisible watermarks to AI text and images",
         "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
@@ -99,16 +106,30 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-22T00:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-21T07:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Another OpenAI executive takes off",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-11T17:50:01.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Made by Google 2026: all the Pixel news and announcements",
+        "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-11T17:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+        "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-11T16:19:15.000Z",
+        "category": "everyone"
+      },
       {
         "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
         "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
@@ -138,6 +159,13 @@
         "category": "everyone"
       },
       {
+        "title": "Testing ads in ChatGPT",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-11T10:00:00.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Mark Zuckerberg doesn’t understand how to live",
         "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
         "source": "The Verge – AI",
@@ -156,20 +184,6 @@
         "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
         "source": "Google AI Blog",
         "publishedAt": "2026-08-10T14:30:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "What happens to Bose when headphones become AI?",
-        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-10T14:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-        "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-10T11:00:00.000Z",
         "category": "everyone"
       },
       {
@@ -198,20 +212,6 @@
         "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-10T00:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI detectors are creating a new era of distrust",
-        "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-09T12:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "From asking to doing: How the world is putting ChatGPT to work",
-        "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-06T00:00:00.000Z",
         "category": "everyone"
       }
     ],
@@ -326,124 +326,159 @@
   "finance": {
     "markets": [
       {
-        "title": "S&P 500 falls into the red as unraveling Iran situation overhangs market: Live updates",
+        "title": "S&P 500 falls amid Iran uncertainty, Big Tech losses: Live updates",
         "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-11T15:57:25.000Z",
+        "publishedAt": "2026-08-11T18:58:17.000Z",
         "category": "markets"
       },
       {
         "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
         "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-11T15:55:26.000Z",
+        "publishedAt": "2026-08-11T18:58:06.000Z",
         "category": "markets"
       },
       {
-        "title": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
-        "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
+        "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+        "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-11T15:54:37.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Hims & Hers stock trims losses following quarterly results",
-        "url": "https://finance.yahoo.com/markets/stocks/article/hims--hers-stock-trims-losses-following-quarterly-results-155021166.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T15:50:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Down 0.5% in 2026, Is Palantir Stock a Buy?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/down-0-5-2026-palantir-155000412.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T15:50:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "See if you qualify for Equifax's $2.2 million settlement and learn how to dispute credit report errors",
-        "url": "https://www.cnbc.com/select/equifax-2-2-million-class-action-settlement/",
-        "source": "CNBC",
-        "publishedAt": "2026-08-11T15:48:28.000Z",
+        "publishedAt": "2026-08-11T18:55:16.000Z",
         "category": "markets"
       },
       {
         "title": "Why JPMorgan is investing big in the 2028 LA Olympics",
         "url": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-11T15:45:44.000Z",
+        "publishedAt": "2026-08-11T18:50:37.000Z",
         "category": "markets"
       },
       {
-        "title": "Target appoints its first chief AI officer as big retailers bet on AI",
-        "url": "https://www.cnbc.com/2026/08/11/target-appoints-chief-ai-officer-chandhu-nair.html",
+        "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+        "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-11T15:44:43.000Z",
+        "publishedAt": "2026-08-11T18:34:41.000Z",
         "category": "markets"
       },
       {
-        "title": "Why Aecom Group Earnings Made the Stock Drop",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-aecom-group-earnings-made-154241541.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T15:42:41.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Vietnam’s VinSpace signs deal with Elon Musk’s SpaceX to launch its first satellites in 2027",
-        "url": "https://www.cnbc.com/2026/08/11/vietnams-vinspace-signs-deal-with-elon-musks-spacex.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-11T15:41:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Apple Already Increased the Price of iPhones Up to $300. Their Price Hikes Might Be Just Starting.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-already-increased-price-iphones-154126850.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T15:41:26.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nvidia Stock Rises As Chipmaker Rounds Up Funding For AI Buildout",
-        "url": "https://www.investors.com/news/technology/nvidia-stock-ai-buildout-financing/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T15:41:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/133159099.cms",
+        "title": "Why the US-Iran war continues to disrupt oil markets",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/why-the-us-iran-war-continues-to-disrupt-oil-markets/articleshow/133163454.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-11T15:39:09.000Z",
+        "publishedAt": "2026-08-11T18:32:15.000Z",
         "category": "markets"
       },
       {
-        "title": "DA Davidson cuts Nebius target 30% as Vineland delays threaten 2026 guidance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-cuts-nebius-target-153630956.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T15:36:30.000Z",
+        "title": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
+        "url": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-11T18:23:43.000Z",
         "category": "markets"
       },
       {
-        "title": "Archer Aviation Zooms 11% Higher as Boeing Deal Rally Extends on Earnings-Call Details; Joby, EHang Lag Behind",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-zooms-11-higher-153508049.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T15:35:08.000Z",
+        "title": "Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block",
+        "url": "https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-11T18:10:10.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+        "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-11T18:09:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Investors poured $2.3 billion into this riskier corner of the bond market in July",
+        "url": "https://www.cnbc.com/2026/08/11/investors-poured-2point3-billion-into-this-riskier-corner-of-the-bond-market-in-july.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-11T18:08:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "ARP Digital secures Dubai VARA broker-dealer license",
+        "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-11T17:53:51.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
+        "url": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-11T16:54:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Shiprocket draws Goldman Sachs, HDFC MF, SBI MF and others to Rs 727 crore anchor round ahead of IPO",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-draws-goldman-sachs-hdfc-mf-sbi-mf-and-others-to-727-crore-anchor-round-ahead-of-ipo/articleshow/133160685.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-11T16:53:54.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences",
+        "url": "https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-11T16:50:04.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bank of America promotions: Get up to $600",
+        "url": "https://www.cnbc.com/select/bank-of-america-promotions/",
+        "source": "CNBC",
+        "publishedAt": "2026-08-11T16:45:59.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/russia-allow-bitcoin-ether-tether-145700776.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T14:57:00.000Z",
+        "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
+        "url": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-11T18:45:40.000Z",
         "category": "crypto"
       },
       {
-        "title": "Sharplink Posts $394M Loss as Ether Treasury Weighs on Q2 Results",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/sharplink-posts-394m-loss-ether-145500529.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T14:55:00.000Z",
+        "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
+        "url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-11T18:03:49.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
+        "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-11T17:12:11.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "FlightAware sues Kalshi over flight cancellation data",
+        "url": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-11T16:55:14.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
+        "url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-11T16:39:17.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
+        "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-11T16:24:48.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
+        "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-11T16:21:35.000Z",
         "category": "crypto"
       },
       {
@@ -482,13 +517,6 @@
         "category": "crypto"
       },
       {
-        "title": "Bitcoin and ethereum prices today, Tuesday, August 11, 2026: Opening prices fall back ahead of inflation reports this week",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-11-2026-opening-prices-fall-back-ahead-of-inflation-reports-this-week-124608146.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-11T12:46:08.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
         "url": "https://cointelegraph.com/markets/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -508,157 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-08-11T12:02:22.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
-        "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-11T11:45:47.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
-        "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-11T11:24:56.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
-        "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-11T11:23:25.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
-        "url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-11T11:13:55.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Latvia’s Air Baltic Plans Smaller Fleet, Debt-for-Equity Swap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/latvia-s-air-baltic-plans-smaller-fleet-debt-for-equity-swap",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-11T15:49:22.000Z"
-    },
-    {
-      "title": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "title": "Social Security expands list of conditions to 314 illnesses for faster disability claims",
+      "url": "https://www.marketwatch.com/story/social-security-expands-list-of-conditions-to-314-illnesses-for-faster-disability-claims-b1883c2d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-11T15:45:00.000Z"
+      "publishedAt": "2026-08-11T18:40:00.000Z"
     },
     {
-      "title": "If you can answer this one question, you’ll never worry about money again",
-      "url": "https://www.marketwatch.com/story/if-you-can-answer-this-one-question-youll-never-worry-about-money-again-6cf8d0a8?mod=mw_rss_topstories",
+      "title": "Nvidia just soothed a major market fear about AI, analysts say",
+      "url": "https://www.marketwatch.com/story/nvidia-just-soothed-a-major-market-fear-about-ai-analysts-say-9ec6fa85?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-11T15:44:00.000Z"
+      "publishedAt": "2026-08-11T18:36:00.000Z"
     },
     {
-      "title": "U.S. Treasuries gain as Iran deal reports push yields lower",
-      "url": "https://www.investing.com/news/economy-news/us-treasuries-gain-as-iran-deal-reports-push-yields-lower-93CH-4852261",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-11T15:42:19.000Z"
-    },
-    {
-      "title": "US Opens In-Depth Antitrust Review of Kone-TK Elevator Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/us-opens-in-depth-antitrust-review-of-kone-tk-elevator-deal",
+      "title": "Don't See Evidence That US is on 'Back Heels' Against Iran, Says Megan Ortagus",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/no-evidence-us-is-on-back-heels-with-iran-ortagus-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-11T15:41:14.000Z"
+      "publishedAt": "2026-08-11T18:25:40.000Z"
     },
     {
-      "title": "A historically strong stretch for the U.S. stock market is about to begin",
-      "url": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories",
+      "title": "Colombia Coffee Exports Largely Halted After Deadly Earthquake",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/colombia-coffee-exports-largely-halted-after-deadly-earthquake",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-11T18:23:46.000Z"
+    },
+    {
+      "title": "Houthis claim attack on Saudi vessel in Bab el-Mandeb",
+      "url": "https://www.investing.com/news/economy-news/houthis-claim-attack-on-saudi-vessel-in-bab-elmandeb-93CH-4852420",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-11T18:13:26.000Z"
+    },
+    {
+      "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
+      "url": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-11T15:40:00.000Z"
+      "publishedAt": "2026-08-11T18:02:00.000Z"
     },
     {
-      "title": "Atlanta Fed’s Venable: Inflation too high, with prospect of easing dependent on events in Middle East",
-      "url": "https://www.investing.com/news/economy-news/atlanta-feds-venable-inflation-too-high-with-prospect-of-easing-dependent-on-events-in-middle-east-4852245",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-11T15:36:52.000Z"
+      "title": "Moscow releases former US Marine after four-year stint in Russian prison",
+      "url": "https://www.ft.com/content/c1296b77-a8a4-4cfc-aebc-a2f0d62af25f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-11T17:51:42.000Z"
     },
     {
-      "title": "US consumers set record for auto loans in second quarter",
-      "url": "https://www.investing.com/news/economy-news/us-consumers-set-record-for-auto-loans-in-second-quarter-93CH-4852247",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-11T15:32:25.000Z"
-    },
-    {
-      "title": "I looked into buying a house in Singapore as an investment. Here’s why I didn’t — despite the 2% mortgage rate.",
-      "url": "https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories",
+      "title": "‘I’m dreaming of cocktails at Château Marmont’: I found $100 in my Airbnb’s communal washer. What should I do?",
+      "url": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-11T15:32:00.000Z"
+      "publishedAt": "2026-08-11T17:45:00.000Z"
     },
     {
-      "title": "US auto loans hit record high in second quarter, New York Fed says",
-      "url": "https://www.investing.com/news/economy-news/auto-loans-hit-record-high-and-some-other-consumer-debt-rising-new-york-fed-says-4852194",
+      "title": "Iran ties Strait of Hormuz opening to US policy changes",
+      "url": "https://www.investing.com/news/economy-news/iran-ties-strait-of-hormuz-opening-to-us-policy-changes-93CH-4852384",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-11T15:30:59.000Z"
+      "publishedAt": "2026-08-11T17:44:10.000Z"
     },
     {
-      "title": "Trend-Chasing Funds’ Big Short on Bonds Raises Stakes for CPI",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/trend-chasing-funds-big-short-on-bonds-raises-stakes-for-cpi",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-11T15:30:01.000Z"
-    },
-    {
-      "title": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/blue-owl-sets-500-million-bond-sale-to-pay-down-credit-lines",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-11T15:25:51.000Z"
-    },
-    {
-      "title": "Oil again gains with eyes on potential US-Iran deal; stocks climb",
-      "url": "https://www.investing.com/news/economy-news/oil-prices-rise-asia-stocks-drift-amid-usiran-stalemate-4850719",
+      "title": "Wall St inches lower as tech drags, US-Iran peace optimism fades",
+      "url": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-usiran-impasse-lifts-oil-prices-4851124",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-11T15:24:25.000Z"
+      "publishedAt": "2026-08-11T17:43:33.000Z"
     },
     {
-      "title": "S&P 500 Hovers Near Record Highs on US-Iran Hopes",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/s-p-500-hovers-near-record-highs-on-us-iran-hopes-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-11T15:24:14.000Z"
-    },
-    {
-      "title": "US household debt falls by $13 billion in second quarter",
-      "url": "https://www.investing.com/news/economy-news/us-household-debt-falls-by-13-billion-in-second-quarter-93CH-4852207",
+      "title": "Venezuela and Israel agree to restore consular services",
+      "url": "https://www.investing.com/news/economy-news/venezuela-and-israel-agree-to-restore-consular-services-93CH-4852382",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-11T15:12:59.000Z"
+      "publishedAt": "2026-08-11T17:41:50.000Z"
     },
     {
-      "title": "Bloomberg Surveillance 8/11/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-surveillance-8-11-2026-video",
+      "title": "US judge cites ‘concerning’ irregularities in Adani fraud case",
+      "url": "https://www.ft.com/content/5010fd54-5982-47c7-801a-e0a354a71c31?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-11T17:29:11.000Z"
+    },
+    {
+      "title": "Texas Power Demand Forecast Trimmed After Data Center Pause",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/texas-power-demand-forecast-trimmed-after-data-center-pause",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-11T15:10:49.000Z"
+      "publishedAt": "2026-08-11T17:29:07.000Z"
     },
     {
-      "title": "US Household Delinquencies Improve: NY Fed Quarterly Report",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/us-household-delinquencies-improve-in-ny-fed-quarterly-report",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-11T15:02:43.000Z"
-    },
-    {
-      "title": "Apollo Inks $2.6 Billion Financing Deal With the Yankees",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/apollo-inks-2-6-billion-financing-deal-with-the-yankees-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-11T15:01:39.000Z"
-    },
-    {
-      "title": "FlightAware sues Kalshi over flight-cancellation markets",
-      "url": "https://www.investing.com/news/economy-news/flightaware-sues-kalshi-over-flightcancellation-markets-4850829",
+      "title": "US power demand to reach new highs through 2027, EIA says",
+      "url": "https://www.investing.com/news/economy-news/us-power-demand-to-reach-new-highs-through-2027-eia-says-93CH-4852372",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-11T15:00:59.000Z"
+      "publishedAt": "2026-08-11T17:27:23.000Z"
     },
     {
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "title": "US sees oil disruptions from Iran conflict reaching 600,000 bpd",
+      "url": "https://www.investing.com/news/economy-news/us-sees-oil-disruptions-from-iran-conflict-reaching-600000-bpd-4852371",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-11T17:24:41.000Z"
+    },
+    {
+      "title": "Citadel Securities Says Prepare for a Reload on Levered Stock Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/citadel-securities-says-prepare-for-a-reload-on-levered-stock-bets",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-11T17:20:28.000Z"
+    },
+    {
+      "title": "Trump floats possible legal challenge to New York tax on luxury  second homes",
+      "url": "https://www.investing.com/news/economy-news/trump-floats-possible-legal-challenge-to-new-york-tax-on-luxury--second-homes-4852313",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-11T17:19:12.000Z"
+    },
+    {
+      "title": "Hawaii Taps Muni Market to Finish First US Driverless Rail Line",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/hawaii-taps-muni-market-to-finish-first-us-driverless-rail-line",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-11T17:17:21.000Z"
+    },
+    {
+      "title": "Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks",
+      "url": "https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-11T15:00:00.000Z"
+      "publishedAt": "2026-08-11T17:17:00.000Z"
+    },
+    {
+      "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "url": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-11T17:16:00.000Z"
     }
   ]
 }
