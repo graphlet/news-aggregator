@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T10:06:30.093Z",
+  "lastUpdated": "2026-08-12T13:11:56.918Z",
   "ai": {
     "developers": [
       {
@@ -7,13 +7,6 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
         "source": "Google AI Blog",
         "publishedAt": "2026-08-11T17:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Claude will apply invisible watermarks to AI text and images",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-11T12:22:20.000Z",
         "category": "developers"
       },
       {
@@ -106,9 +99,30 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-22T00:00:00.000Z",
         "category": "developers"
+      },
+      {
+        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-21T07:00:00.000Z",
+        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-12T12:09:34.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Grok is now an AI ‘teammate’ you can assign work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-12T11:58:54.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
         "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
@@ -159,13 +173,6 @@
         "category": "everyone"
       },
       {
-        "title": "The AI takeover of mathematics has begun",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-11T11:00:00.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Testing ads in ChatGPT",
         "url": "https://openai.com/index/testing-ads-in-chatgpt",
         "source": "OpenAI Blog",
@@ -206,16 +213,16 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-10T00:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-        "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-10T00:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "From assistance to execution: How enterprises put AI to work",
+        "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-12T06:00:00.000Z",
+        "category": "advancements"
+      },
       {
         "title": "ChatGPT and Gemini both just passed 1 billion users",
         "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
@@ -313,125 +320,195 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-01T00:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Advancing responsible AI across Europe",
-        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-31T15:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Jenoptik Q2 Earnings Call Highlights",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jenoptik-q2-earnings-call-highlights-100227025.html",
+        "title": "ARKX vs. NASA ETF: Identical Fees, Different Space Strategies",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/arkx-vs-nasa-etf-identical-130501109.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T10:02:27.000Z",
+        "publishedAt": "2026-08-12T13:05:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Coreweave surges 18% in premarket after a 'cleaner quarter'. Here's what's happening",
+        "title": "Thinking of a 401(k) Loan? Here's Why You May Want to Reconsider.",
+        "url": "https://finance.yahoo.com/markets/articles/thinking-401-k-loan-heres-130400920.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-12T13:04:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "These 4 Dividend Stocks Yield 8%. Only Roth Owners Keep All of It",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-stocks-yield-8-130052778.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-12T13:00:52.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Which Precious Metals ETF Is the Better Buy: Global X's Silver Miners SIL or iShares' Gold Trust IAU?",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/precious-metals-etf-better-buy-130051028.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-12T13:00:51.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Could SpaceX Realistically Hit $1 Trillion in Revenue by 2030?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/could-spacex-realistically-hit-1-130046788.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-12T13:00:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "What is a covered call? How this options income strategy works.",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-a-covered-call-130000003.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-12T13:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads",
+        "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-12T12:59:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Automatic Data Processing vs. C3.ai: Which Tech Stock Is a Better Buy in 2026?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/automatic-data-processing-vs-c3-125501632.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-12T12:55:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "CoreWeave surges 20% in premarket after a 'cleaner quarter.' Here's what's happening",
         "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-12T10:01:52.000Z",
+        "publishedAt": "2026-08-12T12:54:52.000Z",
         "category": "markets"
       },
       {
-        "title": "Coherent shares rise after Lumentum earnings boost optical networking outlook",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-shares-rise-lumentum-earnings-100003483.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T10:00:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
-        "url": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
+        "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+        "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-12T10:00:01.000Z",
+        "publishedAt": "2026-08-12T12:54:09.000Z",
         "category": "markets"
       },
       {
-        "title": "Best CD rates today, Wednesday, August 12, 2026: Earn up to 4.30% APY",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-12-2026-earn-up-to-430-apy-100000560.html",
+        "title": "CPI Inflation Data Cools As Expected, May Keep Fed Rate Hikes On Hold (Live Coverage)",
+        "url": "https://www.investors.com/news/cpi-inflation-july-federal-reserve-rate-hike-apple-sp-500/?src=A00220&yptr=yahoo",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T10:00:00.000Z",
+        "publishedAt": "2026-08-12T12:53:12.000Z",
         "category": "markets"
       },
       {
-        "title": "Tech stocks are getting cheaper even as earnings stay strong: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/tech-stocks-are-getting-cheaper-even-as-earnings-stay-strong-chart-of-the-day-100000044.html",
+        "title": "Cooler CPI inflation reading bolsters case for Fed to hold rates in September",
+        "url": "https://finance.yahoo.com/economy/policy/article/cooler-cpi-inflation-reading-bolsters-case-for-fed-to-hold-rates-in-september-125312469.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T10:00:00.000Z",
+        "publishedAt": "2026-08-12T12:53:12.000Z",
         "category": "markets"
       },
       {
-        "title": "Mortgage and refinance interest rates today, Wednesday, August 12, 2026: Fixed rates move higher",
-        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-12-2026-fixed-rates-move-higher-100000633.html",
+        "title": "Cava Stock Leaps As Growth Returns; Chili's Parent Brinker Misses But Outlook Crispy",
+        "url": "https://www.investors.com/news/cava-stock-earnings-q2-chilis-parent-brinker/?src=A00220&yptr=yahoo",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T10:00:00.000Z",
+        "publishedAt": "2026-08-12T12:51:37.000Z",
         "category": "markets"
       },
       {
-        "title": "Merit Financial Advisors Acquires $900M Commonwealth Team",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/merit-financial-advisors-acquires-900m-100000521.html",
+        "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+        "url": "https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-12T12:50:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why Revolution Medicines May Be Big Pharma’s Next Takeover Target",
+        "url": "https://finance.yahoo.com/healthcare/articles/why-revolution-medicines-may-big-125024116.html",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T10:00:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nebius Group shares jump as AI cloud growth fuels investor optimism",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nebius-group-shares-jump-ai-095830477.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T09:58:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Cava Group shares jump as revenue and restaurant traffic beat expectations",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cava-group-shares-jump-revenue-095711459.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T09:57:11.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Lumentum beats quarterly forecasts as AI demand drives stronger outlook",
-        "url": "https://finance.yahoo.com/technology/ai/articles/lumentum-beats-quarterly-forecasts-ai-095605324.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T09:56:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Sandisk Is Up 429% This Year -- Its $15.5 Billion Stock Buyback Suggests Management Thinks Shares Are Still Cheap",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-429-15-5-billion-095500818.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T09:55:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "River AI secures $1.1bn investment for full-stack AI development",
-        "url": "https://finance.yahoo.com/technology/ai/articles/river-ai-secures-1-1bn-095328944.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-12T09:53:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Marksans Pharma shares rally over 9% after Q1 profit spikes 174% YoY to Rs 159 crore",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/marksans-pharma-shares-rally-over-9-after-q1-profit-spikes-174-yoy-to-rs-159-crore/articleshow/133178142.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-12T09:52:23.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Global Market: Euro zone bond yields dip ahead of US CPI, heavy debt supply",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-dip-ahead-of-us-cpi-heavy-debt-supply/articleshow/133178019.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-12T09:49:57.000Z",
+        "publishedAt": "2026-08-12T12:50:24.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "America doesn’t need a second-class payments system",
+        "url": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-12T13:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Cashi launches public beta for stablecoin spending app and Visa card",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/cashi-launches-public-beta-stablecoin-125721688.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-12T12:57:21.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Rubrik (RBRK) Defies Memory Cost Concerns",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rubrik-rbrk-defies-memory-cost-124758107.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-12T12:47:58.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
+        "url": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-12T12:44:39.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Fidelity files with SEC to add staking to Ethereum ETF",
+        "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-12T12:42:58.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin and ethereum prices today, Wednesday, August 12, 2026:  Crypto prices rise with CPI report on deck",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-12T12:10:22.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+        "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-12T11:19:32.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
+        "url": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-12T10:30:10.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
+        "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-12T10:18:18.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+        "url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-12T10:17:05.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
+        "url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-12T10:06:05.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Bitcoin near $64,000 as crypto markets turn cautious ahead of US CPI. Here is what expert say",
         "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-64000-as-crypto-markets-turn-cautious-ahead-of-us-cpi-here-is-what-expert-say/articleshow/133178203.cms",
@@ -459,206 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-08-12T09:03:01.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "One overlooked group has added $1.78 billion of selling pressure to bitcoin market",
-        "url": "https://www.coindesk.com/markets/2026/08/12/one-overlooked-group-has-added-usd1-78-billion-of-selling-pressure-to-bitcoin-market",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-12T08:53:23.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-        "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-12T07:34:58.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
-        "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-12T07:04:53.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
-        "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-12T06:02:52.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-        "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-12T06:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
-        "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-12T05:26:55.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
-        "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-12T05:18:40.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
-        "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-12T04:53:46.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-        "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-12T04:53:26.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-        "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-12T04:33:25.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ravencoin hits record low as network exploit puts transactions at risk",
-        "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-12T01:11:51.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "title": "Eli Lilly is suing pharmacies and peptide vendors over premature sales of the next big weight-loss drug: retatrutide",
+      "url": "https://www.marketwatch.com/story/eli-lilly-is-suing-pharmacies-and-peptide-vendors-over-sales-of-the-next-big-weight-loss-drug-retatrutide-22434cce?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-12T10:00:00.000Z"
+      "publishedAt": "2026-08-12T13:07:00.000Z"
     },
     {
-      "title": "Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race",
-      "url": "https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1",
+      "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
+      "url": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-12T13:06:00.000Z"
+    },
+    {
+      "title": "US inflation falls to 3.4% in July",
+      "url": "https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-08-12T09:46:38.000Z"
+      "publishedAt": "2026-08-12T13:02:18.000Z"
     },
     {
-      "title": "AI capex could hit $1.6 trillion next year, says fund manager who sees more echoes of 1998 than the dot-com bust",
-      "url": "https://www.marketwatch.com/story/ai-capex-could-hit-1-6-trillion-next-year-says-fund-manager-who-sees-more-echoes-of-1998-than-the-dot-com-bust-0576b598?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-12T09:35:00.000Z"
-    },
-    {
-      "title": "Another AI lab is burning through cash as Tencent earnings rise",
-      "url": "https://www.marketwatch.com/story/another-ai-lab-is-burning-through-cash-as-tencent-earnings-rise-1251b4c6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-12T09:30:00.000Z"
-    },
-    {
-      "title": "Most Electricity Sought for AI Data Centers in US Will Never Materialize",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/most-electricity-sought-for-ai-data-centers-in-us-will-never-materialize",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-12T09:30:00.000Z"
-    },
-    {
-      "title": "Why Romantasy May Soon Be a Billion-Dollar Business",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-12/why-romantasy-may-soon-be-a-billion-dollar-business",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-12T09:15:02.000Z"
-    },
-    {
-      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-12T09:15:00.000Z"
-    },
-    {
-      "title": "Pimco Sees Fed on Hold Through 2026 as Inflation Moderates",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-12/pimco-sees-fed-on-hold-in-2026-as-inflation-moderates-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-12T09:11:58.000Z"
-    },
-    {
-      "title": "Citi sees Bank of Korea rate hike on inflation concerns",
-      "url": "https://www.investing.com/news/economy-news/citi-sees-bank-of-korea-rate-hike-on-inflation-concerns-93CH-4853996",
+      "title": "US consumer prices increase as expected in July",
+      "url": "https://www.investing.com/news/economy-news/us-consumer-prices-increase-as-expected-in-july-4854914",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-12T09:03:05.000Z"
+      "publishedAt": "2026-08-12T13:00:38.000Z"
     },
     {
-      "title": "Musician John Oates sells his idyllic Colorado ranch for $6.9 million",
-      "url": "https://www.marketwatch.com/story/musician-john-oates-sells-his-idyllic-colorado-ranch-for-6-9-million-2676c716?mod=mw_rss_topstories",
+      "title": "Citadel Securities called the stock-market reset. Now it sees a leverage buildup on the horizon.",
+      "url": "https://www.marketwatch.com/story/citadel-securities-called-the-stock-market-reset-now-it-says-leverage-may-build-up-again-988eec86?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-12T09:01:00.000Z"
+      "publishedAt": "2026-08-12T13:00:00.000Z"
     },
     {
-      "title": "Analysis-Australia promised 1.2 million new homes, but builders are at their limits",
-      "url": "https://www.investing.com/news/economy-news/analysisaustralia-promised-12-million-new-homes-but-builders-are-at-their-limits-4853559",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-12T09:00:25.000Z"
-    },
-    {
-      "title": "Pimco’s Seidner Says Angst Over Fed Credibility is Unwarranted",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/pimco-s-seidner-says-angst-over-fed-credibility-is-unwarranted",
+      "title": "New York City’s Five Pensions Gain 13% on Surging US Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/new-york-city-s-five-pensions-gain-13-on-surging-us-stocks",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-12T09:00:03.000Z"
+      "publishedAt": "2026-08-12T13:00:00.000Z"
     },
     {
-      "title": "Lloyds Metals Allowed to Ready Restart of Giant PNG Copper Mine",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/lloyds-metals-allowed-to-ready-restart-of-giant-png-copper-mine",
+      "title": "Bond Traders Keep Cointoss Wager on September Fed Hike Post-CPI",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/bond-traders-keep-cointoss-wager-on-september-fed-hike-post-cpi",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-12T08:53:34.000Z"
+      "publishedAt": "2026-08-12T12:58:03.000Z"
     },
     {
-      "title": "Yen Intervention Put China’s Yuan Under More Pressure, BE Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/yen-intervention-puts-yuan-under-even-more-appreciation-pressure",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-12T08:48:29.000Z"
-    },
-    {
-      "title": "Korea to Require Mock Trading for Single-Stock Leveraged ETFs",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/korea-to-require-mock-trading-for-single-stock-leveraged-etfs",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-12T08:27:41.000Z"
-    },
-    {
-      "title": "A stock just surged on news Situational Awareness had bought it. But its current fate is unclear.",
-      "url": "https://www.marketwatch.com/story/a-stock-just-surged-on-news-situational-awareness-had-bought-it-but-its-current-fate-is-unclear-00f17a97?mod=mw_rss_topstories",
+      "title": "The $30 trillion Treasury market is facing a painful reckoning. How rising yields could squeeze your portfolio.",
+      "url": "https://www.marketwatch.com/story/the-30-trillion-treasury-market-is-facing-a-painful-reckoning-how-rising-yields-could-squeeze-your-portfolio-8fa9edd8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-12T08:22:00.000Z"
+      "publishedAt": "2026-08-12T12:58:00.000Z"
     },
     {
-      "title": "JPY/USD: Why Yen Intervention by Japan and US Has Limited Impact",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/jpy-usd-why-yen-intervention-by-japan-and-us-has-limited-impact",
+      "title": "Traders stick to narrow bets on September Fed hold after inflation data",
+      "url": "https://www.investing.com/news/economy-news/traders-stick-to-narrow-bets-on-september-fed-hold-after-inflation-data-4854938",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-12T12:48:35.000Z"
+    },
+    {
+      "title": "US stock futures pare gains after July inflation data",
+      "url": "https://www.investing.com/news/economy-news/us-stock-futures-pare-gains-after-july-inflation-data-4854916",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-12T12:43:14.000Z"
+    },
+    {
+      "title": "India’s inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook",
+      "url": "https://www.investing.com/news/economy-news/india-july-inflation-accelerates-to-445-unlikely-to-alter-rbi-rate-outlook-4854327",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-12T12:42:55.000Z"
+    },
+    {
+      "title": "Real Estate Fund Set to Lose Boston Life Science Investment",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/real-estate-fund-set-to-lose-boston-life-science-investment",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-12T08:19:59.000Z"
+      "publishedAt": "2026-08-12T12:41:04.000Z"
     },
     {
-      "title": "European stocks steady, oil rises before CPI",
-      "url": "https://www.investing.com/news/economy-news/oil-gold-prices-rise-as-geopolitical-tensions-mount-before-cpi-4853603",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-12T08:13:45.000Z"
+      "title": "Hormuz Closure Helps Emerging-Market Company Bonds Beat US Peers",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/hormuz-closure-helps-emerging-market-company-bonds-beat-us-peers",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-12T12:40:21.000Z"
     },
     {
-      "title": "Iran to join BRICS development bank soon, central bank governor says",
-      "url": "https://www.investing.com/news/economy-news/iran-to-join-brics-development-bank-soon-central-bank-governor-says-4853890",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-12T08:12:29.000Z"
+      "title": "Yardeni Says He Hasn't Been Bullish Enough on Earnings",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/yardeni-says-he-hasn-t-been-bullish-enough-on-earnings-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-12T12:32:41.000Z"
     },
     {
-      "title": "Dollar ticks up on Iran tensions, with US data in focus",
-      "url": "https://www.investing.com/news/economy-news/dollar-subdued-as-markets-await-us-inflation-data-for-fed-clues-4853550",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-12T08:06:56.000Z"
+      "title": "Potential ‘Peak Earnings’ Set the Stage for Disappointing Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/potential-peak-earnings-set-the-stage-for-disappointing-stocks",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-12T12:28:53.000Z"
+    },
+    {
+      "title": "Vestas CEO Says EU Prevents Mergers Needed to Compete Globally",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/vestas-ceo-says-eu-prevents-mergers-needed-to-compete-globally",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-12T12:27:34.000Z"
+    },
+    {
+      "title": "CoreWeave’s stock is rocketing after earnings lead to praise from bulls and bears alike",
+      "url": "https://www.marketwatch.com/story/coreweaves-stock-is-rocketing-after-earnings-lead-to-praise-from-bulls-and-bears-alike-46c831e7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-12T12:24:00.000Z"
+    },
+    {
+      "title": "US Stock Futures Rise as Tech Rally Resumes Before Key CPI Data",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-12T12:15:30.000Z"
+    },
+    {
+      "title": "Trump Claims Hormuz Control as US-Iran Deadlock Continues | The Pulse 8/12/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/the-pulse-8-12-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-12T12:10:23.000Z"
+    },
+    {
+      "title": "Switzerland pushes ahead with post-Credit Suisse crackdown",
+      "url": "https://www.ft.com/content/de0e971c-0223-4d52-9f52-b703ef5ac467?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-12T12:05:02.000Z"
     }
   ]
 }
