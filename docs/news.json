@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T09:28:11.881Z",
+  "lastUpdated": "2026-08-16T12:40:40.038Z",
   "ai": {
     "developers": [
       {
@@ -7,13 +7,6 @@
         "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
         "source": "The Verge – AI",
         "publishedAt": "2026-08-13T21:42:38.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-        "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-13T13:30:00.000Z",
         "category": "developers"
       },
       {
@@ -106,9 +99,23 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-07-28T16:00:00.000Z",
         "category": "developers"
+      },
+      {
+        "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+        "url": "https://openai.com/index/ntt-data",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Rogue AI aren’t science fiction anymore",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-16T12:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
         "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
@@ -205,13 +212,6 @@
         "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-11T10:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Evolve your marketing with new AI tools",
-        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-08-10T14:30:00.000Z",
         "category": "everyone"
       }
     ],
@@ -326,6 +326,83 @@
   "finance": {
     "markets": [
       {
+        "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+        "url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-16T11:58:15.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
+        "url": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-16T11:55:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "JPMorgan could soon be the first $1 trillion bank. Top analyst Mayo says next stop is $2 trillion",
+        "url": "https://www.cnbc.com/2026/08/16/jpmorgan-may-become-first-1-trillion-bank-next-stop-could-be-2-trillion.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-16T11:52:28.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Geraldine Weiss’s dividend strategy: The blue-chip investing formula that stood the 'Test of Time'",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/geraldine-weisss-dividend-strategy-the-blue-chip-investing-formula-that-stood-the-test-of-time/articleshow/133273809.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-16T10:58:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133273600.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-16T10:35:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "What Shah Rukh Khan, Madhuri Dixit and Sachin Tendulkar see in Purple Style Labs IPO? Here’s what DRHP reveals",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/what-shah-rukh-khan-madhuri-dixit-and-sachin-tendulkar-see-in-purple-style-labs-ipo-heres-what-drhp-reveals/articleshow/133273577.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-16T10:32:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Police have arrested a 19-year-old in connection with Virginia State University shooting",
+        "url": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-16T10:04:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-16-2026-lock-in-up-to-430-apy-100000956.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-16T10:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Mortgage and refinance interest rates today, Sunday, August 16, 2026: Rates mostly lower than last week",
+        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-16-2026-rates-mostly-lower-than-last-week-100000512.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-16T10:00:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Still holding cash at home? Warren Buffett calls it oxygen, but says it’s not good as an asset",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/still-holding-cash-at-home-warren-buffett-calls-it-oxygen-but-says-its-not-good-as-an-asset/articleshow/133272964.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-16T09:47:37.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+        "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-16T09:45:45.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Big Bull's magic: How Rakesh Jhunjhunwala turned Rs 1 crore into Rs 20 crore overnight after the 1989 budget",
         "url": "https://economictimes.indiatimes.com/markets/stocks/news/big-bulls-magic-how-rakesh-jhunjhunwala-turned-rs-1-crore-into-rs-20-crore-overnight-after-the-1989-budget/articleshow/133272063.cms",
         "source": "Economic Times – Markets",
@@ -352,86 +429,23 @@
         "source": "CNBC",
         "publishedAt": "2026-08-16T06:43:52.000Z",
         "category": "markets"
-      },
-      {
-        "title": "9 penny stocks surge up to 325% in 2026 so far; 3 turn multibaggers. Did you own any?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/9-penny-stocks-surge-up-to-325-in-2026-so-far-3-turn-multibaggers-did-you-own-any/slideshow/133271258.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-16T06:18:40.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Bonus, stock splits &amp; dividends: Bandhan Bank, MGL, Mazagon Dock among nearly 100 stocks turning ex-record date this week",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-stock-splits-dividends-bandhan-bank-mgl-mazagon-dock-among-nearly-100-stocks-turning-ex-record-date-this-week/articleshow/133270824.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-16T06:06:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Parents 'watering down baby milk' over high costs",
-        "url": "https://www.bbc.co.uk/news/articles/cpq8p82gq49o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-08-16T06:03:55.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Will Sensex, Nifty continue to bleed on Monday? 4 factors which will drive D-Street action this week",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-bleed-on-monday-4-factors-which-will-drive-d-street-action-this-week/articleshow/133270103.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-16T05:00:22.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "IPO wave: six companies eye nearly Rs 5,600 cr next week",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-six-companies-eye-nearly-rs-5600-cr-next-week/articleshow/133270086.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-16T04:53:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Small, microcaps offer better alpha opportunities; midcaps look expensive: Equitree CIO Pawan Bharaddia",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/small-microcaps-offer-better-alpha-opportunities-midcaps-look-expensive-equitree-cio-pawan-bharaddia/articleshow/133269914.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-16T04:32:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Zinc Rally: What's drivingprices to record highs and what lies ahead?",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/zinc-rally-whats-drivingprices-to-record-highs-and-what-lies-ahead/articleshow/133269883.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-16T04:29:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Morgan Stanley sends a blunt Tesla message to investors",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-16T01:03:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-        "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-08-15T23:45:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters",
-        "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-15T22:49:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Historic retailer gets lifeline after warning it could collapse",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-15T22:07:00.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+        "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-16T12:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+        "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-16T11:12:51.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Tokenized stock holders more than double as monthly volume surges",
         "url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -510,36 +524,112 @@
         "category": "crypto"
       },
       {
+        "title": "Bitcoin Drop Cost Abu Dhabi $118 Million: Will They Sell?",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drop-cost-abu-dhabi-110506535.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-15T11:05:06.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Bitcoin near $63,000 as weaker ETF demand and cancelled SEC meeting dampen crypto sentiment",
         "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-63000-as-weaker-etf-demand-and-cancelled-sec-meeting-dampen-crypto-sentiment/articleshow/133259389.cms",
         "source": "Economic Times – Markets",
         "publishedAt": "2026-08-15T09:02:23.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Galaxy lowers CLARITY Act odds to 10%",
-        "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-15T08:40:59.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
-        "url": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-15T05:00:01.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "The Market Is Doing Something It's Only Done Once Before. Here's What History Says Happens Next.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/market-doing-something-only-done-043500004.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-15T04:35:00.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Crowded Florida Race Puts Trump’s Clout to Test",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-16/crowded-florida-race-puts-trump-s-clout-to-test-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-16T12:30:32.000Z"
+    },
+    {
+      "title": "What’s Happening in EM: Traders Get Pickier on Linkers (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-08-16/what-s-happening-in-em-traders-get-pickier-on-linkers-podcast",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-16T12:30:00.000Z"
+    },
+    {
+      "title": "U.S. said to have negotiated directly with Iran’s IRGC in May",
+      "url": "https://www.investing.com/news/economy-news/us-said-to-have-negotiated-directly-with-irans-irgc-in-may-4861974",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-16T12:19:25.000Z"
+    },
+    {
+      "title": "Iran MOU Expires With Diplomacy Still in Play",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-16/iran-mou-expires-with-diplomacy-still-in-play-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-16T12:13:02.000Z"
+    },
+    {
+      "title": "Why Private Equity’s Playbook Is Losing to Public Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-16/private-equity-s-playbook-is-losing-to-public-markets-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-16T12:03:47.000Z"
+    },
+    {
+      "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
+      "url": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-16T12:00:00.000Z"
+    },
+    {
+      "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-16T12:00:00.000Z"
+    },
+    {
+      "title": "Ukraine presses drone attacks on Moscow and Russian logistics",
+      "url": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-16T11:34:01.000Z"
+    },
+    {
+      "title": "Massachusetts anti-hunger advocate fasts to protest Trump food stamp cuts​",
+      "url": "https://www.investing.com/news/economy-news/massachusetts-antihunger-advocate-fasts-to-protest-trump-food-stamp-cuts-4861967",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-16T11:06:50.000Z"
+    },
+    {
+      "title": "How economics is changing",
+      "url": "https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-16T11:00:02.000Z"
+    },
+    {
+      "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
+      "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-16T11:00:00.000Z"
+    },
+    {
+      "title": "Big Tech’s data centre boom poised to drive up carbon emissions",
+      "url": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-16T10:00:02.000Z"
+    },
+    {
+      "title": "The sports billionaire threatening to upend Wall Street",
+      "url": "https://www.ft.com/content/cf87b6cd-f940-4b09-b072-7da36faa183f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-16T10:00:02.000Z"
+    },
+    {
+      "title": "Wildberries warehouse burns near Moscow as Russia strikes across Ukraine",
+      "url": "https://www.investing.com/news/economy-news/wildberries-warehouse-burns-near-moscow-as-russia-strikes-across-ukraine-4861958",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-16T09:46:21.000Z"
+    },
+    {
+      "title": "Malaysia’s DAP Hands Anwar Reprieve With Vote to Stay in Cabinet",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/malaysia-s-dap-hands-anwar-reprieve-with-vote-to-stay-in-cabinet",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-16T09:28:24.000Z"
+    },
     {
       "title": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
       "url": "https://www.investing.com/news/economy-news/iran-war-commander-visits-uss-abraham-lincoln-as-carrier-prepares-to-return-home-4861886",
@@ -569,96 +659,6 @@
       "url": "https://www.investing.com/news/economy-news/central-bank-market-backstops-risk-fuelling-leverage-and-future-crises-4861929",
       "source": "Investing.com – Economy",
       "publishedAt": "2026-08-16T07:05:50.000Z"
-    },
-    {
-      "title": "China plans faster rollout of renewable-energy recycling rules - CCTV",
-      "url": "https://www.investing.com/news/economy-news/china-plans-faster-rollout-of-renewableenergy-recycling-rules--cctv-4861924",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-16T06:26:33.000Z"
-    },
-    {
-      "title": "Analysis-Europe’s heatwaves expose insurance gap as business losses mount",
-      "url": "https://www.investing.com/news/economy-news/analysiseuropes-heatwaves-expose-insurance-gap-as-business-losses-mount-4861914",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-16T05:18:24.000Z"
-    },
-    {
-      "title": "Hong Kong’s First-Half Air Passenger Traffic Up 11.7%, Chan Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/hong-kong-s-first-half-air-passenger-traffic-up-11-7-chan-says",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-16T05:11:19.000Z"
-    },
-    {
-      "title": "Romania shoots down drone that breached its airspace",
-      "url": "https://www.investing.com/news/economy-news/romania-shoots-down-drone-that-breached-its-airspace-4861912",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-16T04:49:06.000Z"
-    },
-    {
-      "title": "China Plans to Speed Up New Energy Recycling, Waste Rules: CCTV",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/china-plans-to-speed-up-new-energy-recycling-waste-rules-cctv",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-16T04:28:04.000Z"
-    },
-    {
-      "title": "Most US voters say they are worse off under Trump — FT poll",
-      "url": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-16T04:01:09.000Z"
-    },
-    {
-      "title": "Are Americans making peace with the spectre of socialism?",
-      "url": "https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-16T04:00:11.000Z"
-    },
-    {
-      "title": "BlackBerry: From phone dinosaur to tech champion",
-      "url": "https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-16T04:00:11.000Z"
-    },
-    {
-      "title": "Can we stop with the public ‘blasterbating’, actually?",
-      "url": "https://www.ft.com/content/8c9e43d2-636a-449e-a376-b4b262143e38?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-16T04:00:11.000Z"
-    },
-    {
-      "title": "World’s largest carmakers seek to avert motor oil crisis",
-      "url": "https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-16T04:00:11.000Z"
-    },
-    {
-      "title": "European companies count the costs and gains of extreme heat",
-      "url": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-16T04:00:11.000Z"
-    },
-    {
-      "title": "China Revises Timing of July Economic Data Release, Briefing",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/china-to-hold-july-economic-briefing-after-official-data-release",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-16T03:45:10.000Z"
-    },
-    {
-      "title": "Chinese refiner Hengli accused of funding Iran through sanctioned oil purchases",
-      "url": "https://www.investing.com/news/economy-news/chinese-refiner-hengli-accused-of-funding-iran-through-sanctioned-oil-purchases-4861903",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-16T03:22:25.000Z"
-    },
-    {
-      "title": "Fires erupt across Kyiv after Russian missile strike, one injured",
-      "url": "https://www.investing.com/news/economy-news/fires-erupt-across-kyiv-after-russian-missile-strike-one-injured-4861901",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-16T02:39:59.000Z"
-    },
-    {
-      "title": "Singapore Inc’s AI ace card in rivalry with Hong Kong",
-      "url": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-16T01:52:17.000Z"
     }
   ]
 }
