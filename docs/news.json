@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T15:31:59.260Z",
+  "lastUpdated": "2026-08-19T18:36:34.568Z",
   "ai": {
     "developers": [
       {
@@ -28,13 +28,6 @@
         "url": "https://openai.com/index/asana",
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-18T07:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-17T10:57:13.000Z",
         "category": "developers"
       },
       {
@@ -106,9 +99,30 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-07-29T15:00:00.000Z",
         "category": "developers"
+      },
+      {
+        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "OpenAI hit the brakes. Now what?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-19T17:10:09.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Meta AI is getting a Mac app",
+        "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-19T17:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "ChatGPT Ads expands across Europe",
         "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -194,28 +208,21 @@
         "category": "everyone"
       },
       {
-        "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-        "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-17T11:00:00.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "What happens when a kid’s robot best friend dies?",
         "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-08-17T09:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Get closer to the game with Gemini and Pixel",
-        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-08-17T08:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Offering Zero Data Retention for frontier models",
+        "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-19T19:00:00.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Nvidia’s new financial strategy does not compute",
         "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
@@ -313,125 +320,174 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-10T10:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-10T10:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Francesco Giannolo secures key EMEA role in Sonoco’s unified consumer unit",
-        "url": "https://finance.yahoo.com/small-business/articles/francesco-giannolo-secures-key-emea-153113237.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:31:13.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Leadership Investment: Director Carande Acquires 2,101 Shares of United Community Banks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/leadership-investment-director-carande-acquires-152001287.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:20:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "3 Reasons to Buy and Hold This Wide-Moat Dividend King's Stock Forever",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-hold-wide-152000821.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:20:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-        "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-08-19T15:19:55.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mexico pushes back on US ruling on strawberry dumping",
-        "url": "https://finance.yahoo.com/economy/policy/articles/mexico-pushes-back-us-ruling-151813042.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:18:13.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Why Kingsoft Cloud Stock Is Soaring Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-kingsoft-cloud-stock-soaring-151508269.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:15:08.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "We're booking a five-fold profit on one of drug stock's rally to record highs",
-        "url": "https://www.cnbc.com/2026/08/19/were-booking-a-five-fold-profit-on-one-of-drug-stocks-rally-to-record-highs.html",
+        "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+        "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-19T15:14:45.000Z",
+        "publishedAt": "2026-08-19T18:31:21.000Z",
         "category": "markets"
       },
       {
-        "title": "RADCOM (RDCM) Q2 2026 Earnings Call Transcript",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/radcom-rdcm-q2-2026-earnings-151346476.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:13:46.000Z",
+        "title": "US Treasury to double long-dated debt buybacks to battle surging yields",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-to-double-long-dated-debt-buybacks-to-battle-surging-yields/articleshow/133356002.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-19T18:14:57.000Z",
         "category": "markets"
       },
       {
-        "title": "PodcastOne (PODC) Q1 2027 Earnings Call Transcript",
-        "url": "https://finance.yahoo.com/media-advertising/articles/podcastone-podc-q1-2027-earnings-151346070.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:13:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-        "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+        "title": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
+        "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-19T15:12:28.000Z",
+        "publishedAt": "2026-08-19T18:07:40.000Z",
         "category": "markets"
       },
       {
-        "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+        "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
+        "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-19T18:06:04.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
+        "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-19T17:48:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Marvell pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
         "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-19T15:09:51.000Z",
+        "publishedAt": "2026-08-19T17:34:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Costco's Cash Pile Keeps Building. Is a Special Dividend Finally Coming This Fall?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/costcos-cash-pile-keeps-building-150800397.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:08:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rising non-accruals signal growing risk in private credit",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rising-non-accruals-signal-growing-150344245.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:03:44.000Z",
+        "title": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
+        "url": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-19T17:25:05.000Z",
         "category": "markets"
       },
       {
         "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
         "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-19T15:00:48.000Z",
+        "publishedAt": "2026-08-19T17:22:29.000Z",
         "category": "markets"
       },
       {
-        "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-        "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+        "title": "US retail giant receives $1bn boost from tariff refunds",
+        "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-08-19T17:07:49.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year",
+        "url": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-19T14:58:26.000Z",
+        "publishedAt": "2026-08-19T17:05:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump picks Heidi Overton, a top White House aide, to lead the Food and Drug Administration",
+        "url": "https://www.cnbc.com/2026/08/19/trump-picks-heidi-overton-lead-fda.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-19T16:54:41.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stephanie Link is buying this little-known play on the AI food chain. And it's cheap",
+        "url": "https://www.cnbc.com/2026/08/19/stephanie-link-buying-ai-play-timken.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-19T16:49:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Jim Cramer says buy Target on any pullback as turnaround takes hold",
+        "url": "https://www.cnbc.com/2026/08/19/jim-cramer-says-buy-target-on-any-pullback-as-turnaround-takes-hold.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-19T16:48:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Cramer on Treasury buying: People want to preserve the stock rally ‘in the worst way’",
+        "url": "https://www.cnbc.com/2026/08/19/cramer-on-treasury-buying-people-want-to-preserve-the-stock-rally-in-the-worst-way.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-19T16:44:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
+        "url": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-19T16:40:21.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+        "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-19T18:10:10.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+        "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-19T17:34:10.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "OCC head promises final GENIUS rules by November",
+        "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-19T17:00:01.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
+        "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-19T16:30:12.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
+        "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-19T16:18:04.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+        "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-08-19T16:14:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-19T16:00:03.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-19T15:44:09.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
         "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
@@ -454,13 +510,6 @@
         "category": "crypto"
       },
       {
-        "title": "Veteran fund manager rethinks Intel stock target",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-fund-manager-rethinks-intel-150700717.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T15:07:00.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says",
         "url": "https://www.coindesk.com/tech/2026/08/19/ai-could-supercharge-crypto-but-there-s-a-catch-fidelity-digital-assets-says",
         "source": "CoinDesk",
@@ -472,13 +521,6 @@
         "url": "https://www.coindesk.com/coindesk-indices/2026/08/18/crypto-long-and-short-where-defi-yield-really-comes-from-and-why-it-broke-this-spring",
         "source": "CoinDesk",
         "publishedAt": "2026-08-19T14:57:35.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Stock Market Today: Dow Gathers Steam On Treasury News; Moderna Soars As Bitcoin Rises (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-19T14:56:45.000Z",
         "category": "crypto"
       },
       {
@@ -494,171 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-08-19T13:30:00.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce",
-        "url": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-19T13:27:09.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-19T13:10:52.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
-        "url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-19T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Strengthen the Clarity Act",
-        "url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-19T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
-        "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-19T12:45:35.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
-        "url": "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-19T12:01:09.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Target Raises Sales Outlook as Turnaround Gains Strength",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-19/target-raises-sales-outlook-as-turnaround-gains-strength-video",
+      "title": "Fed Minutes Show Many Officials Wanted Rate Hike in July",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/fed-minutes-show-many-officials-wanted-a-rate-hike-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T15:21:52.000Z"
+      "publishedAt": "2026-08-19T18:29:57.000Z"
     },
     {
-      "title": "I want to be a snowbird, but I’m not sure my $2 million nest egg can sustain two homes",
+      "title": "Fed minutes reveal growing support for rate hikes",
+      "url": "https://www.marketwatch.com/story/fed-minutes-reveal-growing-support-for-rate-hikes-84fc9afa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-19T18:27:00.000Z"
+    },
+    {
+      "title": "I want to be a snowbird. Can my $2 million nest egg sustain two homes?",
       "url": "https://www.marketwatch.com/story/i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-homes-ce903e6b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-19T15:17:00.000Z"
+      "publishedAt": "2026-08-19T18:26:00.000Z"
     },
     {
-      "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
-      "url": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T15:15:00.000Z"
+      "title": "Iran Has 'Little Incentive' To Open Strait, Says Former Ambassador Daniel Fried",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/iran-has-little-incentive-to-open-strait-says-fried-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T18:14:37.000Z"
     },
     {
-      "title": "UK employers raise pay by least in 10 months, Brightmine says",
-      "url": "https://www.investing.com/news/economy-news/uk-employers-raise-pay-by-least-in-10-months-brightmine-says-4866230",
+      "title": "Fed policymakers’ inflation concerns increased at July meeting, minutes show",
+      "url": "https://www.investing.com/news/economy-news/fed-policymakers-inflation-concerns-increased-at-july-meeting-minutes-show-4868029",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-19T15:08:44.000Z"
+      "publishedAt": "2026-08-19T18:07:39.000Z"
     },
     {
-      "title": "U.S. refiners boost crude oil intake to highest level since 2019",
-      "url": "https://www.investing.com/news/economy-news/us-refiners-boost-crude-oil-intake-to-highest-level-since-2019-93CH-4867848",
+      "title": "Amazon plans drone delivery expansion to about 500 US locales",
+      "url": "https://www.investing.com/news/economy-news/amazon-plans-drone-delivery-expansion-to-about-500-us-locales-4868017",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-19T15:08:19.000Z"
+      "publishedAt": "2026-08-19T18:07:22.000Z"
     },
     {
-      "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
-      "url": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
+      "title": "Want to bet on the bond rally? Check out these overlooked funds.",
+      "url": "https://www.marketwatch.com/story/want-to-bet-on-the-bond-rally-check-out-these-overlooked-funds-15e957a2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-19T15:05:00.000Z"
+      "publishedAt": "2026-08-19T18:04:00.000Z"
     },
     {
-      "title": "Should you Venmo your kid’s college tuition? Here’s what to know as schools add new payment options.",
-      "url": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T15:02:00.000Z"
-    },
-    {
-      "title": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
-      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T15:00:00.000Z"
-    },
-    {
-      "title": "Jefferies Targets €1 Billion for Private Credit Secondaries Fund",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/jefferies-targets-1-billion-for-private-credit-secondaries-fund",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T14:58:00.000Z"
-    },
-    {
-      "title": "Lerner: Give Bull Market Benefit of the Doubt",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-19/lerner-give-bull-market-benefit-of-the-doubt",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T14:47:55.000Z"
-    },
-    {
-      "title": "SDC Capital Is Said to Consider $1 Billion Singapore REIT IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/sdc-capital-is-said-to-consider-1-billion-singapore-reit-ipo",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T14:44:22.000Z"
-    },
-    {
-      "title": "Target’s Turnaround Is Finally Working: Telsey Analyst",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-19/target-s-turnaround-is-finally-working-telsey-analyst-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T14:43:12.000Z"
-    },
-    {
-      "title": "US 10-Year Treasury Yield Will Top 5% This Year: Markets Pulse",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/us-10-year-treasury-yield-will-top-5-this-year-markets-pulse",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T14:43:08.000Z"
-    },
-    {
-      "title": "Berkshire Hathaway bet big on the U.S. housing market. You probably shouldn’t follow suit.",
-      "url": "https://www.marketwatch.com/story/berkshire-hathaway-bet-big-on-the-u-s-housing-market-you-probably-shouldnt-follow-suit-55c3e1c3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T14:40:00.000Z"
-    },
-    {
-      "title": "Citi Turns Bullish on Zambia Debt as Election Heralds Upgrades",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/citi-turns-bullish-on-zambia-debt-as-election-heralds-upgrades",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T14:39:52.000Z"
-    },
-    {
-      "title": "Strategic Value Partners Considers Sale of APCOA Parking",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/strategic-value-partners-considers-sale-of-apcoa-parking",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T14:34:28.000Z"
-    },
-    {
-      "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
-      "url": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T14:31:00.000Z"
-    },
-    {
-      "title": "Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check.",
-      "url": "https://www.marketwatch.com/story/can-you-get-a-piece-of-state-farms-5-billion-cash-back-dividend-heres-how-to-check-027d1c21?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T14:29:00.000Z"
-    },
-    {
-      "title": "Merck, Moderna Stocks Soar After Melanoma Trial Success",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-19/merck-moderna-stocks-soar-after-melanoma-trial-success-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T14:27:14.000Z"
-    },
-    {
-      "title": "US yields head lower after Treasury offers liquidity support",
-      "url": "https://www.investing.com/news/economy-news/us-yields-head-lower-after-treasury-offers-liquidity-support-4867802",
+      "title": "Many policymakers see rate hikes likely if inflation does not fall - Fed minutes",
+      "url": "https://www.investing.com/news/economy-news/many-policymakers-see-rate-hikes-likely-if-inflation-does-not-fall--fed-minutes-4868004",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-19T14:25:41.000Z"
+      "publishedAt": "2026-08-19T18:03:18.000Z"
+    },
+    {
+      "title": "US Treasury to boost long-term bond purchases in bid to steady market",
+      "url": "https://www.ft.com/content/777c9014-2f12-45cf-8224-6bbe808c62cb?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-19T18:02:27.000Z"
+    },
+    {
+      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?",
+      "url": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-19T18:00:00.000Z"
+    },
+    {
+      "title": "Treasury’s Potentially Limitless Buybacks Cloud T-Bill Outlook",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/treasury-s-potentially-limitless-buybacks-cloud-t-bill-outlook",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T17:54:45.000Z"
+    },
+    {
+      "title": "Treasury-market reprieve could be fleeting with deluge of corporate-bond issuance due in September",
+      "url": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-19T17:49:00.000Z"
+    },
+    {
+      "title": "Betterment CEO Warns on Sports Betting",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/betterment-ceo-warns-on-sports-betting",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T17:48:37.000Z"
+    },
+    {
+      "title": "Five reasons we’re headed for a 10% stock-market correction — or worse",
+      "url": "https://www.marketwatch.com/story/five-reasons-were-headed-for-a-10-stock-market-correction-or-worse-74840e8e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-19T17:47:00.000Z"
+    },
+    {
+      "title": "Apple’s stock could be the savviest buy within Big Tech, according to this analysis",
+      "url": "https://www.marketwatch.com/story/apples-stock-could-be-the-savviest-buy-within-big-tech-according-to-this-analysis-84d67c92?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-19T17:39:00.000Z"
+    },
+    {
+      "title": "US, Canadian Funds Are Hedging FX Risks by Most in Three Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/us-canadian-funds-are-hedging-fx-risks-by-most-in-three-years",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T17:36:22.000Z"
+    },
+    {
+      "title": "The New AI Bottleneck Might Not Be So Great For Investors",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/the-new-ai-bottleneck-might-not-be-so-great-for-investors",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T17:33:45.000Z"
+    },
+    {
+      "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "url": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-19T17:30:00.000Z"
+    },
+    {
+      "title": "Healthcare of Ontario Pension Plan names interim private equity heads - Bloomberg",
+      "url": "https://www.investing.com/news/economy-news/healthcare-of-ontario-pension-plan-names-interim-private-equity-heads--bloomberg-93CH-4867987",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-19T17:21:58.000Z"
+    },
+    {
+      "title": "‘Trump accounts’ won’t help solve Americans’ savings problems. Here’s a better way.",
+      "url": "https://www.marketwatch.com/story/trump-accounts-wont-help-solve-americans-savings-problems-heres-a-better-way-73c32cff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-19T17:21:00.000Z"
     }
   ]
 }
