@@ -1,114 +1,128 @@
 {
-  "lastUpdated": "2026-08-19T01:18:48.152Z",
+  "lastUpdated": "2026-08-19T03:47:31.013Z",
   "ai": {
     "developers": [
       {
+        "title": "Explaining AI agents is like explaining 3D printers",
+        "url": "https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T03:43:32.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Control AI Agents on Your Old PC at Home from Any Device Anywhere",
+        "url": "https://github.com/elin66alpha/Relay",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T03:26:59.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The Recursive Economy: AI Self-Improvement and Scarcity",
+        "url": "https://recursive-economy.pages.dev/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T03:16:21.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Agent2Agent (A2A) joins Agentic AI Foundation (AAIF)'s open agentic stack",
+        "url": "https://aaif.io/blog/a2a-joins-aaif",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T03:05:02.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Warp DD – AI that analyzes technology ecosystems in ~30 seconds",
+        "url": "https://warpdd.com",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T02:25:47.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The End-State Fallacy: Where Is AI Security Headed?",
+        "url": "https://endstatefallacy.com/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T02:13:40.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Sutton and Javed: Why AI Models Stop Learning, and How to Start It Again [video]",
+        "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T02:12:16.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Do All Your Agents Need Models Like Claude 5 or GPT-5.6?",
+        "url": "https://aimoway-lab.github.io/blog/articles/do-all-your-agents-really-need-models-like-claude-5-or-gpt-5-6/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T01:27:35.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+        "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T01:06:12.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+        "url": "https://secitbench.cribl.io/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T00:28:02.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Monity.ai – Get notified when any website changes",
+        "url": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T00:15:24.000Z",
+        "category": "developers"
+      },
+      {
         "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
         "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-18T19:28:30.000Z",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T00:07:06.000Z",
         "category": "developers"
       },
       {
-        "title": "Partnering with CodeAI to prepare the first AI generation",
-        "url": "https://openai.com/index/partnering-with-codeai",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
+        "url": "https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-18T23:06:19.000Z",
         "category": "developers"
       },
       {
-        "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "url": "https://openai.com/index/asana",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-18T07:00:00.000Z",
+        "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
+        "url": "https://maritime.sh",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-18T23:02:32.000Z",
         "category": "developers"
       },
       {
-        "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-17T10:57:13.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-        "url": "https://openai.com/index/previewing-ultrafast",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-13T10:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-08-11T17:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "url": "https://openai.com/index/model-ml",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-10T12:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-        "url": "https://openai.com/index/zapier",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-10T00:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-06T10:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Third-party cyber evaluations involving OpenAI models",
-        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-04T19:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "New ways to learn and teach with ChatGPT Work and Codex",
-        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-04T00:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Inside our 353,000-person vibe coding course",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-08-03T15:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Advancing the price-performance frontier with GPT-5.6",
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-30T10:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-29T15:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "title": "AI-drafted bills are swamping the House office that writes US laws",
+        "url": "https://gizmodo.com/its-absolutely-terrifying-ai-is-reportedly-slopping-up-the-bills-in-congress-2000799734",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-18T23:01:45.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T02:09:31.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "How to tame AI's voracious appetite for energy",
+        "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T00:14:34.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
         "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
@@ -199,23 +213,37 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-08-17T09:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Get closer to the game with Gemini and Pixel",
-        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-08-17T08:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-16T21:32:56.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Will Autonomous AI Exceed AI-Aided Physicians as the Best Medical Care?",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2852952?guestAccessKey=562af865-a038-4425-993f-ff25e5e3a130",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T02:59:52.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+        "url": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-19T00:14:25.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Ask HN: How should I price an AI infrastructure platform?",
+        "url": "https://news.ycombinator.com/item?id=49354254",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-18T23:19:22.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
+        "url": "https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-08-18T23:18:29.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Strengthening democratic oversight in national security",
         "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -292,146 +320,125 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-10T17:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-        "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-10T14:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Putting frontier cyber models in more trusted hands",
-        "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-10T10:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-10T10:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Responding to the next frontier of critical cyber capabilities",
-        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-07T15:20:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-        "url": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-19T01:15:50.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Global Market Today: Asian equities decline as chip selloff extends",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-decline-as-chip-selloff-extends/articleshow/133334774.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-19T00:54:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rising interest in retail trading of high-yield corporate bonds reflects shifting investor strategies in a changing market",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/rising-interest-in-retail-trading-of-high-yield-corporate-bonds-reflects-shifting-investor-strategies-in-a-changing-market/articleshow/133334749.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-19T00:52:43.000Z",
-        "category": "markets"
-      },
-      {
         "title": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates",
         "url": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-19T00:48:51.000Z",
+        "publishedAt": "2026-08-19T03:37:52.000Z",
         "category": "markets"
       },
       {
-        "title": "Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms",
+        "title": "Symbiotec Pharmalab sets price band for Rs 1,757 crore IPO, to open on August 24",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-sets-price-band-for-rs-1757-crore-ipo-to-open-on-august-24/articleshow/133336512.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-19T00:42:37.000Z",
+        "publishedAt": "2026-08-19T03:34:57.000Z",
         "category": "markets"
       },
       {
-        "title": "In upset, democratic socialist Nixon defeats Vindman in Florida Democratic Senate primary",
-        "url": "https://www.cnbc.com/2026/08/18/democratic-representative-moskowitz-fends-off-challenge-in-florida-from-democratic-socialist.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-19T00:30:52.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Pre-market action: Here's the trade setup for today's session",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133328000.cms",
+        "title": "Strong Q1 results spark stock-picking rush: 50 top ideas for investors to buy",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/strong-q1-results-spark-stock-picking-rush-50-top-ideas-for-investors-to-buy/articleshow/133336468.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-19T00:30:00.000Z",
+        "publishedAt": "2026-08-19T03:31:55.000Z",
         "category": "markets"
       },
       {
-        "title": "Stocks in news: ONGC, BPCL, RailTel Corporation, Exide Industries and Lohia Corp",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ongc-bpcl-railtel-corporation-exide-industries-and-lohia-corp/articleshow/133327591.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-19T00:30:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Strong IPO gains stoke FOMO fears, set grey market abuzz",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-ipo-gains-fuel-fomo-as-grey-market-heats-up/articleshow/133334554.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-19T00:10:27.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
-        "url": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-18T23:58:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raising risk of a proliferation cascade",
-        "url": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-18T23:25:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The critical tech staying safe by going underground",
-        "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+        "title": "Chinese robotics giant Unitree soars in stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-08-18T23:25:21.000Z",
+        "publishedAt": "2026-08-19T03:26:27.000Z",
         "category": "markets"
       },
       {
-        "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-08-18T23:14:49.000Z",
+        "title": "Action Construction Equipment among 4 stocks flashing bullish signals, indicating possible uptrend",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/action-construction-equipment-among-4-stocks-flashing-bullish-signals-indicating-possible-uptrend/slideshow/133336455.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-19T03:26:14.000Z",
         "category": "markets"
       },
       {
-        "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-        "url": "https://www.cnbc.com/2026/08/18/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
+        "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-18T23:07:35.000Z",
+        "publishedAt": "2026-08-19T03:18:57.000Z",
         "category": "markets"
       },
       {
-        "title": "Mobile payments on the rise but cash decline slows",
-        "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss",
+        "title": "Rupee may slip on oil, risk-off mood; RBI once again expected to ride to rescue",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-may-slip-on-oil-risk-off-mood-rbi-once-again-expected-to-ride-to-rescue/articleshow/133336204.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-19T03:11:41.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "India Inc’s blockbuster Q1 earnings may not last as 3 key tailwinds fade in H2",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-incs-blockbuster-q1-earnings-may-not-last-as-3-key-tailwinds-fade-in-h2/articleshow/133336153.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-19T03:09:28.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Shankesh Jewellers IPO Day 2: GMP, subscription status. Should you subscribe?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/shankesh-jewellers-ipo-day-2-gmp-subscription-status-should-you-subscribe/articleshow/133336093.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-19T03:06:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Hindalco Share Price Live Updates: Hindalco's Stock Sees a Minor Weekly Drop",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-updates-19-aug-2026/liveblog/133336100.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-19T03:04:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Tube Investments among 5 stocks showing bullish RSI upswing",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/tube-investments-among-5-stocks-showing-bullish-rsi-upswing/slideshow/133336078.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-19T02:59:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-08-18T23:04:53.000Z",
+        "publishedAt": "2026-08-19T02:41:36.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
+        "url": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-19T02:40:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Behari Lal Engineering shares set to debut today; GMP signals 47% premium ahead of listing",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-set-to-debut-today-gmp-signals-47-premium-ahead-of-listing/articleshow/133335450.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-19T02:25:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Shiprocket shares to list today; GMP signals 37% listing gains",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-to-list-today-gmp-signals-37-listing-gains/articleshow/133335398.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-19T02:20:45.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+        "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-19T01:35:36.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
         "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
@@ -529,17 +536,112 @@
         "source": "CoinDesk",
         "publishedAt": "2026-08-18T16:08:46.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
-        "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-18T15:59:54.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Copper Holds Loss as Deliveries to LME Mitigate Supply Crunch",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/copper-holds-loss-as-deliveries-to-lme-mitigate-supply-crunch",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T03:07:45.000Z"
+    },
+    {
+      "title": "RBA’s Hauser warns of rate hike if inflation risks crystallize",
+      "url": "https://www.investing.com/news/economy-news/rbas-hauser-warns-of-rate-hike-if-inflation-risks-crystallize-4866395",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-19T03:01:14.000Z"
+    },
+    {
+      "title": "Trump pauses 50% tariffs on Canada, claims trade deal is close",
+      "url": "https://www.investing.com/news/economy-news/trump-pauses-50-tariffs-on-canada-claims-trade-deal-is-close-4866391",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-19T03:00:52.000Z"
+    },
+    {
+      "title": "Swiss to Reject Stricter Neutrality in Vote Russia Wants to Sway",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/swiss-to-reject-stricter-neutrality-in-vote-russia-wants-to-sway",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T03:00:00.000Z"
+    },
+    {
+      "title": "Trump holds off on new 50% tariffs for Canadian goods",
+      "url": "https://www.marketwatch.com/story/trump-holds-off-on-new-50-tariffs-for-canadian-goods-71f75005?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-19T02:42:00.000Z"
+    },
+    {
+      "title": "Japan bond yields near 3% as inflation, fiscal worries mount",
+      "url": "https://www.investing.com/news/economy-news/japan-bond-yields-near-3-as-inflation-fiscal-worries-mount-4866381",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-19T02:36:32.000Z"
+    },
+    {
+      "title": "Trump says deal reached with Canada and delays tariffs",
+      "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-19T02:34:47.000Z"
+    },
+    {
+      "title": "NSE Eyes $55 Billion Valuation in IPO While Rival BSE’s Shares Lose Favor",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/nse-eyes-55-billion-valuation-in-ipo-while-rival-bse-s-shares-lose-favor",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T02:30:01.000Z"
+    },
+    {
+      "title": "Humanoids Make Stock Market Debut in China’s AI Push",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/humanoids-make-stock-market-debut-in-china-s-ai-push-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T02:24:54.000Z"
+    },
+    {
+      "title": "China eases limits on Nvidia H200 chips as AI race escalates",
+      "url": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-19T02:09:39.000Z"
+    },
+    {
+      "title": "Oasis Urges Kakaku.com to Withdraw Support for EQT’s Buyout Bid",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/oasis-urges-kakaku-com-to-withdraw-support-for-eqt-s-buyout-bid",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T02:07:24.000Z"
+    },
+    {
+      "title": "Chinese humanoid robot maker surges 600% in trading debut",
+      "url": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-19T02:00:51.000Z"
+    },
+    {
+      "title": "Bolivia lawmakers likely force economy minister’s removal in setback for President Paz",
+      "url": "https://www.investing.com/news/economy-news/bolivia-lawmakers-likely-force-economy-ministers-removal-in-setback-for-president-paz-4866349",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-19T01:54:44.000Z"
+    },
+    {
+      "title": "PHP/USD: Philippine Peso Fell to New Record Low as Oil Prices Rise",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/php-usd-philippine-peso-fell-to-new-record-low-as-oil-prices-rise",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T01:41:01.000Z"
+    },
+    {
+      "title": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited",
+      "url": "https://www.investing.com/news/economy-news/dollar-drifts-near-multimonth-lows-as-treasury-yields-ease-fed-minutes-awaited-4866325",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-19T01:36:46.000Z"
+    },
+    {
+      "title": "Japan Bond Volatility Is Pumping Up Futures Trading in Singapore",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/japan-bond-volatility-is-pumping-up-futures-trading-in-singapore",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T01:00:00.000Z"
+    },
+    {
+      "title": "Hitachi Construction Shares Drop After $740 Million Block Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/hitachi-construction-shares-drop-after-740-million-block-trade",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-19T00:58:44.000Z"
+    },
     {
       "title": "Evergrande Liquidators Challenge Hong Kong Watchdog in Court",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/evergrande-liquidators-challenge-hong-kong-watchdog-in-court",
@@ -547,118 +649,16 @@
       "publishedAt": "2026-08-19T00:51:41.000Z"
     },
     {
-      "title": "Australian Housing Shares Surge as Earnings Defy Property Slump",
+      "title": "Australia Housing Shares Jump as Tax Rules Favor New Builds",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/australian-housing-shares-surge-as-earnings-defy-property-slump",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-08-19T00:51:23.000Z"
     },
     {
-      "title": "Korean Stocks Bear Brunt of Chip Selloff on Higher Yield Worry",
+      "title": "Korean Stocks Bear Brunt of Chip Slide Spurred by Rise in Yields",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/korea-bears-brunt-as-higher-bond-yields-weigh-on-chip-stocks",
       "source": "Bloomberg Markets",
       "publishedAt": "2026-08-19T00:42:52.000Z"
-    },
-    {
-      "title": "Japanese Stocks Slide as Bond Market Anxiety Hits AI Sentiment",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/japanese-stocks-slide-as-bond-market-anxiety-hits-ai-sentiment",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T00:22:43.000Z"
-    },
-    {
-      "title": "Trump Takes Hard Line as Hormuz Tensions Mark New Normal",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-19/trump-takes-hard-line-as-hormuz-tensions-mark-new-normal-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-19T00:17:20.000Z"
-    },
-    {
-      "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
-      "url": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T00:00:00.000Z"
-    },
-    {
-      "title": "Gold Holds Losses as Bond Selloff, Hormuz Limbo Weigh on Outlook",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-18T23:42:24.000Z"
-    },
-    {
-      "title": "Terton Opposes Korea’s Golfzon on Second Buyout Bid",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/terton-capital-challenges-korea-s-golfzon-on-second-buyout-bid",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-18T23:38:24.000Z"
-    },
-    {
-      "title": "JBS Seeks Rest of Pilgrim’s Pride Stake in $1.2 Billion Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/jbs-seeks-rest-of-pilgrim-s-pride-stake-in-1-2-billion-deal",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-18T23:36:31.000Z"
-    },
-    {
-      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
-      "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-18T23:30:00.000Z"
-    },
-    {
-      "title": "UK employers raise pay by least in 10 months, Brightmine says",
-      "url": "https://www.investing.com/news/economy-news/uk-employers-raise-pay-by-least-in-10-months-brightmine-says-4866230",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-18T23:19:42.000Z"
-    },
-    {
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-18T23:15:00.000Z"
-    },
-    {
-      "title": "China Bonds Buck Global Selloff on Policy Divide With Peers",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-flatter-bond-curve-shows-deeper-policy-divide-with-peers",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-18T23:00:00.000Z"
-    },
-    {
-      "title": "Hong Kong Exchanges’ Non-Equity Push Seen as Key for Stock Boost",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/hong-kong-exchanges-non-equity-push-seen-as-key-for-stock-boost",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-18T23:00:00.000Z"
-    },
-    {
-      "title": "Canada faces deadline to stop US tariffs on $20bn of exports",
-      "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-18T22:58:00.000Z"
-    },
-    {
-      "title": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?",
-      "url": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-18T22:45:00.000Z"
-    },
-    {
-      "title": "Japan’s Earnings Surprise Analysts to Fuel Bets for Broad Rally",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/japan-s-earnings-surprise-analysts-to-fuel-bets-for-broad-rally",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-18T22:42:20.000Z"
-    },
-    {
-      "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
-      "url": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-18T22:31:00.000Z"
-    },
-    {
-      "title": "Roz Brewer Talks College Aid, Walgreens During Covid and Retail",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-18/roz-brewer-talks-college-aid-walgreens-and-retail-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-18T22:15:18.000Z"
-    },
-    {
-      "title": "Chip Selloff Extends to Asia, Treasuries Stabilize: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-18T22:11:07.000Z"
     }
   ]
 }
