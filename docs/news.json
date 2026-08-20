@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T12:51:47.699Z",
+  "lastUpdated": "2026-08-20T15:34:21.705Z",
   "ai": {
     "developers": [
       {
@@ -110,6 +110,13 @@
     ],
     "everyone": [
       {
+        "title": "Welcome to the AI crisis in math",
+        "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-20T14:00:00.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Unlocking hidden revenue streams with market models",
         "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
         "source": "MIT Technology Review",
@@ -163,13 +170,6 @@
         "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
         "source": "The Verge – AI",
         "publishedAt": "2026-08-18T12:01:29.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-        "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-18T11:00:00.000Z",
         "category": "everyone"
       },
       {
@@ -326,124 +326,180 @@
   "finance": {
     "markets": [
       {
-        "title": "Dow futures drop 300 points as Treasury yields reverse Bessent-driven decline, Walmart tumbles: Live updates",
-        "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
+        "title": "Bessent says Treasury buyback operation could be more than $4 billion",
+        "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-20T12:49:50.000Z",
+        "publishedAt": "2026-08-20T15:33:16.000Z",
         "category": "markets"
       },
       {
-        "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
-        "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+        "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
+        "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-20T12:48:54.000Z",
+        "publishedAt": "2026-08-20T15:32:50.000Z",
         "category": "markets"
       },
       {
-        "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
-        "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+        "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+        "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-20T12:47:10.000Z",
+        "publishedAt": "2026-08-20T15:32:04.000Z",
         "category": "markets"
       },
       {
-        "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
-        "url": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
+        "title": "SpaceX Drops 6%, Dips Below Its IPO Price as 319M Shares Unlock; Rocket Lab Falls 4%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-drops-6-dips-below-152822462.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:28:22.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "China blocks cooperation with EU probe into JD.com’s Ceconomy bid",
+        "url": "https://finance.yahoo.com/economy/policy/articles/china-blocks-cooperation-eu-probe-152740673.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:27:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "JEPI Stumbles as Tech Dominates, But History Suggests the Tide Is About to Turn",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jepi-stumbles-tech-dominates-history-152525578.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:25:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Billionaire Stanley Druckenmiller's Top Holding Is Up 37% This Year. Is the Market Pricing in the Full Story?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmillers-top-holding-152000797.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:20:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Scott Bessent’s Surprise Bond Buyback Sparks a Silver Rally. Is It Too Late to Buy In?",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/scott-bessent-surprise-bond-buyback-151753181.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:17:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Walmart Stock Sinks To A 2026 Low Despite Earnings Beat-And-Raise",
+        "url": "https://www.investors.com/news/walmart-earnings-the-biggest-and-most-influential-retail-report/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:17:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Home Depot faces uphill battle amid a growing customer problem",
+        "url": "https://finance.yahoo.com/real-estate/articles/home-depot-faces-uphill-battle-151700334.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:17:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Why Salesforce Stock Could Pop On August 26th",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-stock-could-pop-151543890.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:15:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Deoleo shareholders reviewing interest in olive-oil business",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/deoleo-shareholders-reviewing-interest-olive-122735369.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:14:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "FTAI Aviation (FTAI) Gains Edge from Asset Light Shift",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ftai-gains-edge-151017438.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:10:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Crossroads Capital’s Confidence in Nebius Group (NBIS) Reflected in Scaled Position",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/crossroads-capital-confidence-nebius-group-150844082.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T15:08:44.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
+        "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-20T12:45:35.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Interview: BlackRock’s Ronald Ratcliffe on why traditional diversification fails wealth managers",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/interview-blackrock-ronald-ratcliffe-why-124412007.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T12:44:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "I’ve socked away $1 million for retirement – this might be an odd question, but is there such a thing as too much money in a 401k?",
-        "url": "https://finance.yahoo.com/markets/options/articles/ve-socked-away-1-million-160044466.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T12:41:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "CVC deepens insurance bet with Standard Life partnership",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cvc-deepens-insurance-bet-standard-124100497.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T12:41:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "3 Stocks That Win If the US-Canada Tariff Pause Becomes a Deal",
-        "url": "https://finance.yahoo.com/economy/policy/articles/3-stocks-win-us-canada-124030287.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T12:40:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Where commercial real estate demand is the highest, according to new data",
-        "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-20T12:38:23.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What Restaurants Can Learn From the Lettuce Recall",
-        "url": "https://finance.yahoo.com/healthcare/articles/restaurants-learn-lettuce-recall-123621485.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T12:36:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Private Credit Is Wall Street’s Favorite Trade and These 3 ETFs Hand Regular Investors Up to 11 Percent",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/private-credit-wall-street-favorite-123551103.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T12:35:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "ACV Auctions (ACVA) Reports Record Revenue and EBITDA Growth As Market Softens",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-reports-record-123518860.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T12:35:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Sebi unlocks digital POAs for FPIs, waives notarisation &amp; apostillisation",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-unlocks-digital-poas-for-fpis-waives-notarisation-apostillisation/articleshow/133377609.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-20T12:35:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Why Micron Won’t Join the Great Memory Stock Buyback—Yet",
-        "url": "https://www.barrons.com/articles/micron-stock-memory-share-buy-back-468cc1ae?siteid=yhoof2&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T12:35:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US dollar at 3-month low as Treasury moves to soothe bond jitters",
-        "url": "https://economictimes.indiatimes.com/markets/forex/us-dollar-at-3-month-low-as-treasury-moves-to-soothe-bond-jitters/articleshow/133377514.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-20T12:33:03.000Z",
+        "publishedAt": "2026-08-20T15:08:28.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
+        "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
+        "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T15:16:12.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto for Advisors: What are tokenized deposits?",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T15:01:40.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin Could Extend Rally as ETF Inflows Hit $517M: Expert",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-extend-rally-etf-144800080.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T14:48:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "US stocks: Crypto shares climb after Trump advocates for Clarity Act",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-crypto-shares-climb-after-trump-advocates-for-clarity-act/articleshow/133380847.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-08-20T14:38:04.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
+        "url": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T14:35:01.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "MiCA cracks down on USDT in Europe... but no one else cares",
+        "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-20T13:30:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitdeer signs $400M AI cloud computing deal for Malaysia facility",
+        "url": "https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-20T13:18:02.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-20T13:12:56.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin surges 11% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
+        "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-20T13:06:30.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
         "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-08-20T12:35:32.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Where Will XRP (Ripple) Be in 5 Years?",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/where-xrp-ripple-5-years-123300192.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T12:33:00.000Z",
         "category": "crypto"
       },
       {
@@ -480,185 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-08-20T11:16:41.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Crypto generated about 1% of Webull’s record $198M Q2 revenue",
-        "url": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-20T11:05:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Is Bitcoin finally nearing a bottom? Bitwise CIO Matt Hougan answers",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/is-bitcoin-finally-nearing-a-bottom-bitwise-cio-matt-hougan-answers/articleshow/133374496.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-20T11:02:38.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
-        "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-20T10:47:35.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
-        "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-20T10:46:21.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Why Zerodha’s Nithin Kamath wants fintech founders to rethink trading in the age of AI",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-zerodhas-nithin-kamath-wants-fintech-founders-to-rethink-trading-in-the-age-of-ai/articleshow/133373513.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-20T10:09:29.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
-        "url": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-20T10:03:04.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin jumps 11% to $71K, hits 2-month high; $190 billion added to crypto market cap after Trump’s crypto push",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-jumps-11-to-71k-hits-2-month-high-190-billion-added-to-crypto-market-cap-after-trumps-crypto-push/articleshow/133373099.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-20T09:56:43.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Young crypto investors sell more, while older investors buy and diversify portfolios : CoinSwitch Report",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/young-crypto-investors-sell-more-while-older-investors-buy-and-diversify-portfolios-coinswitch-report/articleshow/133372934.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-20T09:48:13.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Want to bet on the bond rally? Check out these overlooked funds.",
-      "url": "https://www.marketwatch.com/story/want-to-bet-on-the-bond-rally-check-out-these-overlooked-funds-15e957a2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-20T12:38:00.000Z"
-    },
-    {
-      "title": "Most of Gen Z is now afraid AI will steal their jobs.",
-      "url": "https://www.marketwatch.com/story/gen-z-used-to-embrace-ai-now-most-young-adults-fear-it-will-steal-their-jobs-b02bdcfb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-20T12:37:00.000Z"
-    },
-    {
-      "title": "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
-      "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-20T12:27:00.000Z"
-    },
-    {
-      "title": "AI productivity gains may not curb inflation, IMF’s Tenreyro warns",
-      "url": "https://www.investing.com/news/economy-news/ai-productivity-gains-may-not-curb-inflation-imfs-tenreyro-warns-4869642",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-20T12:19:49.000Z"
-    },
-    {
-      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?",
+      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
       "url": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-20T12:15:00.000Z"
+      "publishedAt": "2026-08-20T15:30:00.000Z"
     },
     {
-      "title": "US Stock Futures Fall as Oil, Yields Climb While Walmart Slumps",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/us-stock-futures-fall-as-oil-yields-climb-while-walmart-slumps",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-20T12:13:11.000Z"
-    },
-    {
-      "title": "Bond relief ebbs, stocks fall as investors question Treasury’s rescue efforts",
-      "url": "https://www.investing.com/news/economy-news/bonds-steady-after-us-treasury-comes-to-the-rescue-4868552",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-20T12:12:48.000Z"
-    },
-    {
-      "title": "PGA of America's New CEO Is Bullish on Golf in Texas",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-20/pga-of-america-s-new-ceo-is-bullish-on-golf-in-texas",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-20T12:02:23.000Z"
-    },
-    {
-      "title": "Bond Yields Are ‘Elephant in Room’ Stock Investors Are Ignoring",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/bond-yields-are-elephant-in-room-stock-investors-are-ignoring",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-20T12:00:09.000Z"
-    },
-    {
-      "title": "Ukraine Says It Hit Russia’s Taneco Refinery, Small Oil Terminal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ukraine-says-it-hit-russia-s-taneco-refinery-small-oil-terminal",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-20T11:57:00.000Z"
-    },
-    {
-      "title": "Venezuela-US Oil Deals Remain Clouded in Secrecy",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/venezuela-us-oil-deals-remain-clouded-in-secrecy",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-20T11:55:51.000Z"
-    },
-    {
-      "title": "Brazil to keep fiscal framework, spending restraint under new Lula term, minister says",
-      "url": "https://www.investing.com/news/economy-news/brazil-to-keep-fiscal-framework-spending-restraint-under-new-lula-term-minister-says-4869500",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-20T11:54:33.000Z"
-    },
-    {
-      "title": "Brazil to maintain fiscal framework if Lula wins reelection",
-      "url": "https://www.investing.com/news/economy-news/brazil-to-maintain-fiscal-framework-if-lula-wins-reelection-93CH-4869488",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-20T11:53:28.000Z"
-    },
-    {
-      "title": "US Public Debt Climbs Above $40 Trillion for the First Time",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-20/us-public-debt-tops-40-trillion-for-the-first-time-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-20T11:53:27.000Z"
-    },
-    {
-      "title": "Buyback-fueled Treasury Rally Cools; US Public Debt Hits $40T | Bloomberg Brief 08/20/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-20/bloomberg-brief-08-20-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-20T11:51:48.000Z"
-    },
-    {
-      "title": "Dollar at three-month low as Treasury moves to soothe bond jitters",
-      "url": "https://www.investing.com/news/economy-news/dollar-hugs-threemonth-lows-as-treasury-seeks-to-sooth-the-bond-market-4868503",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-20T11:48:39.000Z"
-    },
-    {
-      "title": "A $420 camera for $10: China’s young consumers would rather rent than buy. It’s a problem for the government and the economy.",
-      "url": "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
+      "title": "Bessent suggests Treasury could intervene again in bond market: ‘We have a big tool kit’",
+      "url": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-20T11:44:00.000Z"
+      "publishedAt": "2026-08-20T15:25:00.000Z"
     },
     {
-      "title": "Global Credit Giants Lose Ground to Homegrown Rivals in India",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/global-credit-giants-lose-ground-to-homegrown-rivals-in-india",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-20T11:40:42.000Z"
+      "title": "Bessent says may raise bond buyback beyond $4 billion",
+      "url": "https://www.investing.com/news/economy-news/bessent-says-may-raise-bond-buyback-beyond-4-billion-93CH-4870164",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-20T15:22:34.000Z"
     },
     {
-      "title": "Raw Sugar Climbs as Indian Buying Interest Fuels Demand Hopes",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/raw-sugar-climbs-as-indian-buying-interest-fuels-demand-hopes",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-20T11:39:09.000Z"
-    },
-    {
-      "title": "Walmart shares slide as U.S. sales hit by falling drug prices",
-      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
+      "title": "The energy market’s rising ‘crack spread’ is threatening to break the American consumer",
+      "url": "https://www.marketwatch.com/story/the-energy-markets-rising-crack-spread-is-threatening-to-break-the-american-consumer-90b421dc?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-20T11:37:00.000Z"
+      "publishedAt": "2026-08-20T15:22:00.000Z"
+    },
+    {
+      "title": "Bessent to host press conference on Iran pressure plan on Monday",
+      "url": "https://www.investing.com/news/economy-news/bessent-to-host-press-conference-on-iran-pressure-plan-on-monday-93CH-4870161",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-20T15:18:53.000Z"
+    },
+    {
+      "title": "Mexico’s central bank signals more rate holds",
+      "url": "https://www.investing.com/news/economy-news/mexicos-central-bank-signals-more-rate-holds-93CH-4870155",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-20T15:15:34.000Z"
+    },
+    {
+      "title": "US long-term bonds slide as Bessent intervention fails to soothe investors",
+      "url": "https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-20T15:09:59.000Z"
+    },
+    {
+      "title": "Harvard-Feeder School That JFK Attended to Borrow $35 Million",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/harvard-feeder-school-that-jfk-attended-to-borrow-35-million",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-20T15:07:01.000Z"
+    },
+    {
+      "title": "Latin America growth to slow to 2.2% in 2026, UN agency says",
+      "url": "https://www.investing.com/news/economy-news/latin-america-growth-to-slow-to-22-in-2026-un-agency-says-93CH-4870141",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-20T15:04:30.000Z"
+    },
+    {
+      "title": "Bessent Says Buybacks May Be More Than $4 Billion Per Issue",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/bessent-says-buybacks-could-be-more-than-4-billion-per-issue",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-20T15:04:29.000Z"
+    },
+    {
+      "title": "India Allows Tax-Free Sugar Import in Rare Move to Cool Prices",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/india-allows-tax-free-sugar-import-in-rare-move-to-cool-prices",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-20T14:56:13.000Z"
+    },
+    {
+      "title": "China boosts yttrium exports to US ahead of trade talks",
+      "url": "https://www.investing.com/news/economy-news/china-boosts-yttrium-exports-to-us-ahead-of-trade-talks-93CH-4870126",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-20T14:55:33.000Z"
+    },
+    {
+      "title": "More SpaceX stock is about to hit the market. Here’s what to know.",
+      "url": "https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T14:53:00.000Z"
+    },
+    {
+      "title": "India Prop Traders’ Derivatives Profits Fall to $4.7 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/india-prop-traders-derivatives-profits-fall-to-4-7-billion",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-20T14:46:39.000Z"
+    },
+    {
+      "title": "We're Seeing a 'K-Shaped Bond Market' Says Guneet Dhingra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/we-re-seeing-a-k-shaped-bond-market-says-dhingra-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-20T14:42:39.000Z"
+    },
+    {
+      "title": "Walmart Tumbles on Sales; Coty Falls on Forecast | Stock Movers",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/walmart-tumbles-on-sales-coty-falls-on-forecast-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-20T14:41:39.000Z"
+    },
+    {
+      "title": "Egypt’s central bank holds key interest rates unchanged",
+      "url": "https://www.investing.com/news/economy-news/egypts-central-bank-holds-key-interest-rates-unchanged-4870082",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-20T14:30:35.000Z"
+    },
+    {
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T14:30:00.000Z"
+    },
+    {
+      "title": "Western oil refinery closures set to continue despite war shock",
+      "url": "https://www.ft.com/content/eae8bbc5-7946-4fdc-8e0a-3215f7e56dd2?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-20T14:29:44.000Z"
+    },
+    {
+      "title": "The Deal: Why Everyone's Watching Vanderbilt",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/the-deal-why-everyone-s-watching-vanderbilt-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-20T14:27:42.000Z"
     }
   ]
 }
