@@ -1,84 +1,7 @@
 {
-  "lastUpdated": "2026-08-26T19:48:34.214Z",
+  "lastUpdated": "2026-08-27T00:31:03.494Z",
   "ai": {
     "developers": [
-      {
-        "title": "Why AI Agents Need Persistent Browser Identities",
-        "url": "https://github.com/Radek-B3/browser3/blob/main/WHY_AI_AGENTS_NEED_PERSISTENT_BROWSER_IDENTITIES.md",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:46:59.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Serve Markdown to AI Agents with Accept Headers",
-        "url": "https://acceptmarkdown.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:45:59.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The AI writing taboo begins to fade following WSJ op-ed",
-        "url": "https://www.semafor.com/article/08/26/2026/the-ai-writing-taboo-begins-to-fade-after-wsj-op-ed",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:45:31.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The risks of AI are real but manageable",
-        "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:44:33.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Hacker Lens – in-browser reader for HN and GitHub, with on-device AI",
-        "url": "https://hackerlens.cc/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:38:16.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "A new center aims to make St. Louis a hub of global AI innovation",
-        "url": "https://www.stlmag.com/business/spirit-of-st-louis-ai-innovation-center-launches/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:36:27.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The turbulent AI era is here. The choices we make now are critical",
-        "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:35:47.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Toward Measuring AI's Effects on Skill Formation: The Stock-Formation Gap",
-        "url": "https://arxiv.org/abs/2605.16283",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:28:46.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Can Agentic Engineers Estimate Software Delivery in the Age of AI?",
-        "url": "https://serendb.com/blog/can-agentic-engineers-estimate-software-delivery-in-the-age-of-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:17:02.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Disenchantment with the Post-AI Internet",
-        "url": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:06:59.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:01:51.000Z",
-        "category": "developers"
-      },
       {
         "title": "The inside story on why OpenAI agents hacked Hugging Face",
         "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -87,47 +10,110 @@
         "category": "developers"
       },
       {
-        "title": "Aperture GA: Building a home(lab) for agentic AI",
-        "url": "https://tailscale.com/blog/aperture-ga",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T18:51:07.000Z",
+        "title": "The Hugging Face incident and the road ahead",
+        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Credentials Are Leaked by LLM Agent Skills: An Empirical Study",
-        "url": "https://arxiv.org/abs/2604.03070",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T18:21:01.000Z",
+        "title": "How loveholidays is making everyone a builder with Codex",
+        "url": "https://openai.com/index/loveholidays",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: AI scientist builds an open-source Codex Micro from scratch for $40",
-        "url": "https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T18:16:57.000Z",
+        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-25T09:15:03.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+        "url": "https://openai.com/index/introducing-admin-plugin",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How to encourage smarter AI use in the classroom",
+        "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-24T14:20:19.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-24T12:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-21T21:25:50.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Replit expands access to software creation with GPT-5.6 Luna",
+        "url": "https://openai.com/index/replit",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-19T07:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Partnering with CodeAI to prepare the first AI generation",
+        "url": "https://openai.com/index/partnering-with-codeai",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "url": "https://openai.com/index/asana",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-18T07:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "url": "https://openai.com/index/previewing-ultrafast",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-13T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-08-11T17:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "url": "https://openai.com/index/model-ml",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-10T12:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+        "url": "https://openai.com/index/zapier",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-10T00:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
       {
-        "title": "1-800-APL-Care Now Connects You with AI Assistant Instead of Human",
-        "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:40:35.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Perplexity partners with Nvidia to launch a local AI agent",
-        "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T17:32:23.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "The sperm whale 'phonetic alphabet' revealed by AI",
-        "url": "https://www.bbc.com/future/article/20240709-the-sperm-whale-phonetic-alphabet-revealed-by-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T17:12:54.000Z",
+        "title": "OpenAI’s rogue AI model incident was worse than we thought",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-26T21:36:06.000Z",
         "category": "everyone"
       },
       {
@@ -213,28 +199,28 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-08-20T15:42:39.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Unlocking hidden revenue streams with market models",
+        "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-20T09:47:22.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+        "url": "https://openai.com/index/stampli",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-20T00:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
       {
-        "title": "An analog-AI chip for energy-efficient speech recognition and transcription",
-        "url": "https://www.nature.com/articles/s41586-023-06337-5",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:45:53.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Primus – AI Research Scientist",
-        "url": "https://lab.cloud/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T19:11:26.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "America's immigration policy is driving away future AI leaders",
-        "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-08-26T17:51:09.000Z",
+        "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+        "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-26T21:40:53.000Z",
         "category": "advancements"
       },
       {
@@ -280,7 +266,7 @@
         "category": "advancements"
       },
       {
-        "title": "Introducing AI Futures",
+        "title": "Introducing Intelligence Age",
         "url": "https://openai.com/index/introducing-ai-futures",
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-20T07:00:00.000Z",
@@ -320,118 +306,153 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-17T05:30:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "OpenAI joins PORTS-Pike project",
+        "url": "https://openai.com/index/openai-joins-ports-pike-project",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-17T05:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "New policy ideas for the Intelligence Age",
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-17T03:15:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "S&P 500 is little changed after PCE report shows sticky inflation; Nvidia earnings on deck: Live updates",
-        "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+        "title": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market",
+        "url": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-26T19:35:52.000Z",
+        "publishedAt": "2026-08-27T00:21:44.000Z",
         "category": "markets"
       },
       {
-        "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
+        "title": "CrowdStrike's quarter shows AI is a cybersecurity tailwind, not a threat",
+        "url": "https://www.cnbc.com/2026/08/26/crowdstrikes-shows-ai-is-a-cybersecurity-tailwind-not-a-threat.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-27T00:19:24.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Fed Gov Lisa Cook’s lawyer fires back at Trump's renewed threat to oust her",
+        "url": "https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-27T00:15:35.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered",
+        "url": "https://www.cnbc.com/2026/08/27/hundreds-missing-after-flood-hits-nepal-tibet-border-157-bodies-recovered.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-27T00:13:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The toy industry's latest craze is cheap, colorful and very squishy",
+        "url": "https://www.cnbc.com/2026/08/27/the-toy-industrys-latest-craze-is-cheap-colorful-and-very-squishy-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-27T00:07:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
+        "url": "https://www.cnbc.com/2026/08/27/trump-asia-allies-defense-washington-terms-political-analyst.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-26T23:53:45.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+        "url": "https://www.cnbc.com/2026/08/26/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-26T23:45:54.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates",
         "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-26T19:23:00.000Z",
+        "publishedAt": "2026-08-26T23:42:30.000Z",
         "category": "markets"
       },
       {
-        "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-        "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+        "title": "Republicans are dismissing affordability. That could be a problem in November",
+        "url": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-26T19:15:53.000Z",
+        "publishedAt": "2026-08-26T23:17:46.000Z",
         "category": "markets"
       },
       {
-        "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
-        "url": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T19:15:45.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-        "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T19:00:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Micron elevates two executives. Plus, what the Meta settlement means for its top line",
-        "url": "https://www.cnbc.com/2026/08/26/micron-elevates-two-executives-plus-what-the-meta-settlement-means-for-its-top-line.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T18:31:26.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "At least 157 killed and hundreds missing after flash floods in Nepal and China",
-        "url": "https://www.cnbc.com/2026/08/26/flash-floods-deaths-missing-nepal-china.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T18:29:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US corporate profit margins widen to highest on record",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-corporate-profit-margins-widen-to-highest-on-record/articleshow/133548769.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-26T18:18:45.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
-        "url": "https://www.cnbc.com/2026/08/26/las-vegas-sands-shares-are-about-to-catch-a-heater-says-mike-khouw.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T18:17:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
-        "url": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T18:16:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
-        "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T18:07:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "How Dolly Parton inspired women in leadership: 'We all owe Dolly a debt'",
-        "url": "https://www.cnbc.com/2026/08/26/dolly-parton-women-leadership.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T18:04:25.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "An auto parts stock bottomed in May and is set to keep rallying, according to the charts",
-        "url": "https://www.cnbc.com/2026/08/26/an-auto-parts-stock-bottomed-in-may-and-is-set-to-keep-rallying-according-to-the-charts.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T18:00:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-        "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T17:54:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-        "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+        "title": "Experts' five tips to make a rented property feel like home",
+        "url": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-08-26T17:44:39.000Z",
+        "publishedAt": "2026-08-26T23:08:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-08-26T23:06:41.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+        "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-08-26T23:04:24.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+        "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-08-26T23:03:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Salesforce CEO Marc Benioff says the ‘SaaSpocalypse’ is nonsense. Here's why",
+        "url": "https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-26T22:47:37.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+        "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-26T22:39:49.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
+        "url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-26T23:01:44.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin’s macro case is strengthening even as regulation takes a back seat, says BlackRock’s digital assets head",
+        "url": "https://www.cnbc.com/2026/08/26/case-for-bitcoin-stronger-as-regulation-takes-back-seat-blackrock-says.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-26T20:11:52.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
+        "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-26T20:09:23.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -482,13 +503,6 @@
         "category": "crypto"
       },
       {
-        "title": "A breakout is brewing in this bitcoin-linked stock. How to trade it",
-        "url": "https://www.cnbc.com/2026/08/26/a-breakout-is-brewing-in-this-bitcoin-linked-stock-how-to-trade-it.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-26T14:06:55.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
         "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
         "source": "CoinDesk",
@@ -522,143 +536,129 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-26T12:42:54.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
-        "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-26T12:32:36.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
-        "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-26T12:00:00.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Mexico central bank raises 2026 growth outlook, delays inflation target",
-      "url": "https://www.investing.com/news/economy-news/mexico-central-bank-raises-2026-growth-outlook-delays-inflation-target-93CH-4877792",
+      "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+      "url": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-27T00:14:00.000Z"
+    },
+    {
+      "title": "Dollar near eight-day high as US data lifts Fed hike bets",
+      "url": "https://www.investing.com/news/economy-news/dollar-near-eightday-high-as-us-data-lifts-fed-hike-bets-4878113",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-26T19:40:34.000Z"
+      "publishedAt": "2026-08-27T00:13:22.000Z"
+    },
+    {
+      "title": "Three of Australia’s four major banks forecast another rate hike this year",
+      "url": "https://www.investing.com/news/economy-news/three-of-australias-four-major-banks-forecast-another-rate-hike-this-year-4878112",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-27T00:12:33.000Z"
+    },
+    {
+      "title": "Colombia central bank sees inflation approaching 3% target by mid-2028",
+      "url": "https://www.investing.com/news/economy-news/colombia-central-bank-sees-inflation-approaching-3-target-by-mid2028-4878099",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-26T23:54:32.000Z"
+    },
+    {
+      "title": "Malaysia Detains Ex-Treasury Chief Over Pilgrimage Fund Probe",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/malaysia-detains-ex-treasury-chief-over-pilgrimage-fund-probe",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-26T23:52:07.000Z"
+    },
+    {
+      "title": "Economists See RBA Rate Hike as Early as September After Hot CPI",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/economists-see-rba-rate-hike-as-early-as-september-after-hot-cpi",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-26T23:50:08.000Z"
+    },
+    {
+      "title": "Gold Consolidates Above $4,600 as Investors Weigh Fed Rate Path",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/gold-consolidates-above-4-600-as-investors-weigh-fed-rate-path",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-26T23:48:19.000Z"
+    },
+    {
+      "title": "Thai Yield Gap May Narrow as Tame Inflation Boosts Long Bonds",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/thai-yield-gap-may-narrow-as-tame-inflation-boosts-long-bonds",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-26T23:43:33.000Z"
+    },
+    {
+      "title": "Lawyer for Fed’s Cook, targeted by Trump, says there is no grounds for dismissal",
+      "url": "https://www.investing.com/news/economy-news/lawyer-for-feds-cook-targeted-by-trump-says-there-is-no-grounds-for-dismissal-4878091",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-26T23:36:35.000Z"
+    },
+    {
+      "title": "Lisa Cook says Trump has no grounds to fire her over ‘inadvertent’ mortgage paperwork",
+      "url": "https://www.ft.com/content/fba48322-ea6e-4905-ae68-1d57209129ac?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-26T23:26:14.000Z"
+    },
+    {
+      "title": "Li Ka-shing Keeps $23 Billion Ask for Ports Despite Panama Loss",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/li-ka-shing-keeps-ports-sale-s-price-tag-despite-panama-loss",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-26T23:00:00.000Z"
+    },
+    {
+      "title": "Australia’s Future Fund Taps Spencer Stuart for New CEO Search",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/australia-s-future-fund-taps-spencer-stuart-for-new-ceo-search",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-26T22:56:20.000Z"
+    },
+    {
+      "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings",
+      "url": "https://www.investing.com/news/economy-news/us-stock-futures-subdued-in-runup-to-nvidia-results-inflation-print-4876659",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-26T22:54:45.000Z"
+    },
+    {
+      "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+      "url": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-26T22:50:00.000Z"
+    },
+    {
+      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-26T22:30:00.000Z"
     },
     {
       "title": "I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?",
       "url": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-26T19:33:00.000Z"
+      "publishedAt": "2026-08-26T22:30:00.000Z"
     },
     {
-      "title": "Exclusive-US produce supplier Taylor Farms frequently fails to disclose workplace injury tallies, records show",
-      "url": "https://www.investing.com/news/economy-news/exclusiveus-produce-supplier-taylor-farms-frequently-fails-to-disclose-workplace-injury-tallies-records-show-4876623",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-26T19:31:14.000Z"
+      "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "url": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-26T22:15:00.000Z"
     },
     {
-      "title": "Cryptocurrency chief facing extradition from UK to US on fraud charges",
-      "url": "https://www.investing.com/news/economy-news/cryptocurrency-chief-facing-extradition-from-uk-to-us-on-fraud-charges-4877216",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-26T19:30:54.000Z"
-    },
-    {
-      "title": "Two Sigma’s Overdeck Defends $723 Million Divorce Offer to Wife",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/two-sigma-s-overdeck-defends-723-million-divorce-offer-to-wife",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-26T19:28:47.000Z"
-    },
-    {
-      "title": "Brightline Lands $350 Million Assured Loan in Case of Bankruptcy",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/brightline-lands-350-million-assured-loan-in-case-of-bankruptcy",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-26T19:24:01.000Z"
-    },
-    {
-      "title": "An Interesting Time to Be in Jackson Hole",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-26/an-interesting-time-to-be-in-jackson-hole",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-26T19:23:58.000Z"
-    },
-    {
-      "title": "US Aims to Revive Civil War-Era Court to Claim Iran Oil as Prize",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/us-aims-to-revive-civil-war-era-court-to-claim-iran-oil-as-prize",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-26T19:07:08.000Z"
-    },
-    {
-      "title": "OpenAI report says its network was hacked by its own rogue AI agents",
+      "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find",
       "url": "https://www.investing.com/news/economy-news/openai-report-says-its-network-was-hacked-by-its-own-rogue-ai-agents-4877759",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-26T19:06:34.000Z"
+      "publishedAt": "2026-08-26T22:12:51.000Z"
     },
     {
-      "title": "First US Phosphate Plant in Decades Planned Amid Global Conflict",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/first-us-phosphate-plant-in-decades-planned-amid-global-conflict",
+      "title": "Nasdaq Futures, Asia Stocks Rise on Nvidia Outlook: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/nasdaq-futures-rise-on-bullish-nvidia-sales-growth-markets-wrap",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-26T19:06:21.000Z"
+      "publishedAt": "2026-08-26T22:10:37.000Z"
     },
     {
-      "title": "Are older Americans spoiling the economy for everyone else?",
-      "url": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-26T19:06:00.000Z"
-    },
-    {
-      "title": "US data buoys dollar as Fed hike expectations nudged higher",
-      "url": "https://www.investing.com/news/economy-news/dollar-moves-in-a-narrow-range-ahead-of-inflation-data-jackson-hole-4876177",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-26T19:00:54.000Z"
-    },
-    {
-      "title": "OpenAI says it took a week to detect its AI models had hacked Hugging Face",
-      "url": "https://www.ft.com/content/3fc189d6-28e7-4a2b-b77e-5c94bf513955?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-26T19:00:04.000Z"
-    },
-    {
-      "title": "Bessent’s Treasury Twist Makes November Refunding a Wall Street Wildcard",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/bessent-s-treasury-twist-makes-november-refunding-a-wall-street-wildcard",
+      "title": "Latest Oil Market News and Analysis for Aug. 27",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/latest-oil-market-news-and-analysis-for-aug-27",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-26T18:52:19.000Z"
-    },
-    {
-      "title": "Brazil’s inflation cools as prices post first monthly decline in a year",
-      "url": "https://www.investing.com/news/economy-news/brazils-inflation-cools-as-prices-post-first-monthly-decline-in-a-year-4877296",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-26T18:50:04.000Z"
-    },
-    {
-      "title": "Wall Street dips on hot inflation data ahead of Nvidia earnings",
-      "url": "https://www.investing.com/news/economy-news/us-stock-futures-subdued-in-runup-to-nvidia-results-inflation-print-4876659",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-26T18:49:17.000Z"
-    },
-    {
-      "title": "Israel 'Fully Aligned' With Trump, Kushner on Hamas Disarmament Says Ophir Falk",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-26/israel-fully-aligned-with-trump-kushner-on-hamas-falk-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-26T18:47:16.000Z"
-    },
-    {
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-26T18:45:00.000Z"
-    },
-    {
-      "title": "Brazil vote offers opposing politics, similar fiscal outcomes",
-      "url": "https://www.investing.com/news/economy-news/brazil-vote-offers-opposing-politics-similar-fiscal-outcomes-4876550",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-26T18:43:15.000Z"
-    },
-    {
-      "title": "Influenciadores de IA entram na campanha eleitoral no Brasil",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-26/influenciadores-de-ia-entram-na-campanha-eleitoral-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-26T18:38:53.000Z"
+      "publishedAt": "2026-08-26T22:02:04.000Z"
     }
   ]
 }
