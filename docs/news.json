@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T00:16:39.562Z",
+  "lastUpdated": "2026-08-28T15:00:43.634Z",
   "ai": {
     "developers": [
       {
@@ -159,13 +159,6 @@
         "category": "everyone"
       },
       {
-        "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-08-26T11:07:40.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
         "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
         "source": "OpenAI Blog",
@@ -213,9 +206,30 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-08-20T15:42:39.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Unlocking hidden revenue streams with market models",
+        "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-20T09:47:22.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-08-28T03:14:06.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Supporting Thailand’s next generation of AI startups",
+        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-28T02:00:00.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
         "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
@@ -306,359 +320,345 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-18T19:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Pacing model development in an era of cyber-critical capabilities",
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-18T11:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "The Defender’s Window",
-        "url": "https://openai.com/index/the-defenders-window",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-17T05:30:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Irdai opens NDB's Maharajah INR bonds to insurers",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/irdai-opens-ndbs-maharajah-inr-bonds-to-insurers/articleshow/133580700.cms",
+        "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+        "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-28T14:59:54.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
+        "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+        "source": "CNBC",
+        "publishedAt": "2026-08-28T14:58:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Lenskart Rs 1,857-crore block deal: Goldman Sachs, Morgan Stanley, ICICI Prudential, SBI MF among buyers as Alpha Wave exits",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-rs-1857-crore-block-deal-goldman-sachs-morgan-stanley-icici-prudential-sbi-mf-among-buyers-as-alpha-wave-exits/articleshow/133594276.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-08-28T00:08:17.000Z",
+        "publishedAt": "2026-08-28T14:55:19.000Z",
         "category": "markets"
       },
       {
-        "title": "Texas Senate hopeful Talarico teams with Mark Cuban on plan to break up healthcare 'monopolies'",
-        "url": "https://www.cnbc.com/2026/08/27/texas-senate-james-talarico-mark-cuban-healthcare.html",
+        "title": "Fed Chair Warsh Leans Hawkish In Jackson Hole Speech (Live Coverage)",
+        "url": "https://www.investors.com/news/federal-reserve-chairman-kevin-warsh-jackson-hole-treasury-yields-sp-500/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:53:49.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "REMA 1000 selects ITAB for store makeover and loss prevention rollout",
+        "url": "https://finance.yahoo.com/small-business/articles/rema-1000-selects-itab-store-145303212.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:53:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Morgan Stanley (MS) is Well Positioned to Benefit from AI Capital Raising",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-well-positioned-144732682.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:47:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Cramer Says the Bears Spent Months Lying About Salesforce and Nvidia. One Earnings Report Just Ended It.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-bears-spent-months-144719560.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:47:19.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "A Retiree With the Average $167,970 401(k) Can Buy About $1,000 a Month for Life. The Average One Buys Nothing and Draws $560.",
+        "url": "https://finance.yahoo.com/markets/articles/retiree-average-167-970-401-144657166.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:46:57.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Tokio Marine HCC International agrees deal for Direct Commercial",
+        "url": "https://finance.yahoo.com/healthcare/articles/tokio-marine-hcc-international-agrees-144646221.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:46:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Rate-hike expectations rise on Warsh speech at Jackson Hole",
+        "url": "https://finance.yahoo.com/economy/policy/articles/rate-hike-expectations-rise-warsh-144023525.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:45:37.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Walmart (WMT) and Home Depot (HD) Results Show US Consumers Cut Back but Still Find Room for Splurges",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-home-depot-hd-144137699.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:41:37.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Massive Installed Base Drives End-Market Stability for Nvidia Corp. (NVDA)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/massive-installed-drives-end-market-144123801.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:41:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "2 Stocks Down 26% and 68% to Buy Now and Hold for the Next Decade",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-down-26-68-144100229.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:41:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "BlackBerry lost the phone war. Now it's betting on cars and robots",
+        "url": "https://www.cnbc.com/2026/08/28/blackberry-cars-robots-tech-download.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-27T23:59:05.000Z",
+        "publishedAt": "2026-08-28T14:40:22.000Z",
         "category": "markets"
       },
       {
-        "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-        "url": "https://www.cnbc.com/2026/08/27/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T23:25:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Overcooked? Why robotic pizza makers are failing",
-        "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-08-27T23:16:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Selena Gomez pushes back against 'absurd' fraud claims",
-        "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-08-27T23:08:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Military veterans told they owe thousands of pounds over clerical error",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-08-27T23:06:22.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
-        "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-08-27T23:04:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
-        "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T22:58:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives",
-        "url": "https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T22:20:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more",
-        "url": "https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-after-hours-gap-wday-adsk-and-more.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T22:11:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
-        "url": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T21:54:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
-        "url": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T21:49:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "'Cowboy builders' targeted in new government clampdown",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-08-27T21:44:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What Warsh will say and how the market will react, according to prediction markets",
-        "url": "https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T21:17:34.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war",
-        "url": "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T21:16:40.000Z",
+        "title": "A Closer Look at Amphenol (APH): Pioneers in Connectors and Cables",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/closer-look-amphenol-aph-pioneers-143738452.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:37:38.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "UAE ‘spy sheikh’ backs 49% stake in Trump family’s crypto bank venture, WSJ reports",
-        "url": "https://www.cnbc.com/2026/08/27/uae-spy-sheikh-trump-family-crypto-bank.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T21:22:08.000Z",
+        "title": "Investors In Trump Crypto Ventures Are $4.7 Billion Underwater: Report",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/investors-trump-crypto-ventures-4-142400214.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-28T14:24:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds",
-        "url": "https://www.cnbc.com/2026/08/27/bitgo-to-acquire-nydigs-institutional-trading-business-as-crypto-trading-rebounds.html",
-        "source": "CNBC",
-        "publishedAt": "2026-08-27T20:36:53.000Z",
+        "title": "Who is legally liable when an AI agent goes rogue?",
+        "url": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-28T13:30:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
+        "url": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-28T13:16:37.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "The Clarity Act slipped to September. Banks are building anyway",
+        "url": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
         "category": "crypto"
       },
       {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-08-27T19:27:53.000Z",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
-        "url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-27T19:22:14.000Z",
+        "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+        "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-28T12:30:57.000Z",
         "category": "crypto"
       },
       {
-        "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
-        "url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-27T19:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
-        "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-27T18:51:02.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "SpaceX shares are doing something very unusual. Options traders are taking note",
-        "url": "https://www.cnbc.com/2026/08/27/spacex-shares-are-doing-something-very-unusual-options-traders-are-taking-note.html",
+        "title": "BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds",
+        "url": "https://www.cnbc.com/2026/08/27/bitgo-to-acquire-nydigs-institutional-trading-business-as-crypto-trading-rebounds.html",
         "source": "CNBC",
-        "publishedAt": "2026-08-27T18:50:29.000Z",
+        "publishedAt": "2026-08-28T12:27:23.000Z",
         "category": "crypto"
       },
       {
-        "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
-        "url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
+        "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+        "url": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
         "source": "CoinDesk",
-        "publishedAt": "2026-08-27T17:32:20.000Z",
+        "publishedAt": "2026-08-28T12:18:31.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
-        "url": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "California Senate passes bill to ban memecoin issuance by public officials",
+        "url": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-08-27T17:15:43.000Z",
+        "publishedAt": "2026-08-28T12:09:48.000Z",
         "category": "crypto"
       },
       {
-        "title": "GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal",
-        "url": "https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal",
+        "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/28/bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-most",
         "source": "CoinDesk",
-        "publishedAt": "2026-08-27T16:32:38.000Z",
+        "publishedAt": "2026-08-28T11:43:19.000Z",
         "category": "crypto"
       },
       {
-        "title": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
-        "url": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
+        "url": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-08-27T16:13:10.000Z",
+        "publishedAt": "2026-08-28T11:36:43.000Z",
         "category": "crypto"
       },
       {
-        "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
-        "url": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
+        "title": "Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO",
+        "url": "https://cointelegraph.com/markets/bitcoin-bear-market-over-as-price-metric-copies-2023-recovery-cryptoquant-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-08-28T11:22:59.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Circle's USDC takes over Chelsea's jersey in Premier League first sponsorship deal",
+        "url": "https://www.coindesk.com/business/2026/08/28/circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first",
         "source": "CoinDesk",
-        "publishedAt": "2026-08-27T16:12:10.000Z",
+        "publishedAt": "2026-08-28T11:09:27.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
-        "url": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-27T16:04:15.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "UK government reports 240 crypto millionaires in 2025",
-        "url": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-08-27T15:56:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "MoonPay’s newest integration lets AI agents handle crypto lending on Solana",
-        "url": "https://www.coindesk.com/business/2026/08/27/moonpay-s-newest-integration-lets-ai-agents-handle-crypto-lending-on-solana",
+        "title": "Bitcoin hits highest level in 3 months before pulling back as altcoins consolidate",
+        "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate",
         "source": "CoinDesk",
-        "publishedAt": "2026-08-27T15:52:21.000Z",
+        "publishedAt": "2026-08-28T10:37:35.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
+        "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-28T10:21:47.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "SpaceX’s $100 billion spaceport plan has investors asking where all the money is coming from",
-      "url": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
+      "title": "Warsh at Jackson Hole: underlying inflation trend has not ’meaningfully improved’",
+      "url": "https://www.investing.com/news/economy-news/fed-chair-warsh-kicks-off-jackson-hole-keynote-address-4881470",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-28T14:55:20.000Z"
+    },
+    {
+      "title": "Everybody’s Business: Inside the US and Canada “Bar Fight”",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/everybody-s-business-inside-the-us-and-canada-bar-fight",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-28T14:54:57.000Z"
+    },
+    {
+      "title": "PayPal’s stock plunges as a takeover bid is said to fall through. What’s next for the company?",
+      "url": "https://www.marketwatch.com/story/paypals-stock-sinks-as-suitors-reportedly-walk-away-from-their-takeover-bid-b943e5ec?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-28T00:02:00.000Z"
+      "publishedAt": "2026-08-28T14:53:00.000Z"
     },
     {
-      "title": "Gold Holds Near $4,600 as Investors Focus on Fed Rate-Hike Path",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/gold-holds-near-4-600-as-investors-focus-on-fed-rate-hike-path",
+      "title": "Rate-hike expectations rise on Warsh speech at Jackson Hole",
+      "url": "https://www.investing.com/news/economy-news/ratehike-expectations-rise-on-warsh-speech-at-jackson-hole-4881579",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-28T14:49:11.000Z"
+    },
+    {
+      "title": "Fed's Warsh Vows to Hit 2% Inflation Target",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/fed-s-warsh-vows-to-hit-2-inflation-target-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-27T23:34:18.000Z"
+      "publishedAt": "2026-08-28T14:39:08.000Z"
     },
     {
-      "title": "BYD Needs EV Success Overseas to Sustain $20 Billion Stock Rally",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/byd-needs-ev-success-overseas-to-sustain-20-billion-stock-rally",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-27T23:30:00.000Z"
-    },
-    {
-      "title": "Nippon Life Is Open to Becoming Net JGB Buyer Next Fiscal Year",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/nippon-life-is-open-to-becoming-net-jgb-buyer-next-fiscal-year",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-27T23:18:51.000Z"
-    },
-    {
-      "title": "Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that’s possible.",
-      "url": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
+      "title": "The bull market for stocks is defying everything, but Bank of America warns that an autumn reality check is coming",
+      "url": "https://www.marketwatch.com/story/the-bull-market-for-stocks-is-defying-everything-but-bank-of-america-warns-that-an-autumn-reality-check-is-coming-8cdf831f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-27T23:05:00.000Z"
+      "publishedAt": "2026-08-28T14:39:00.000Z"
+    },
+    {
+      "title": "Warsh says Fed will have ‘work to do’ if inflation does not fall soon",
+      "url": "https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-28T14:38:19.000Z"
+    },
+    {
+      "title": "Accuracy in Economic Forecasting Is an Aspiration, Says Fed Chair Warsh",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/accuracy-in-forecasting-is-an-aspiration-warsh-says-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-28T14:36:15.000Z"
+    },
+    {
+      "title": "El auge del oro impulsa la minería ilegal y la deforestación en la Amazonía de Perú",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/el-auge-del-oro-impulsa-la-mineria-ilegal-y-la-deforestacion-en-la-amazonia-de-peru",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-28T14:35:52.000Z"
+    },
+    {
+      "title": "Fed's Hammack Calls for Raising Rates Amid Inflation Pressures",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/fed-s-hammack-calls-for-raising-interest-rates-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-28T14:34:37.000Z"
+    },
+    {
+      "title": "Land Rover Should Be Wary of Chinese Look-Alikes",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/opinion-jlr-should-be-wary-of-chinese-look-alikes-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-08-28T14:33:57.000Z"
     },
     {
       "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
       "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-27T23:00:00.000Z"
+      "publishedAt": "2026-08-28T14:30:00.000Z"
     },
     {
-      "title": "CrowdStrike’s stock jumps after record-breaking earnings. Wall Street is lapping it up.",
-      "url": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
+      "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-27T22:53:00.000Z"
+      "publishedAt": "2026-08-28T14:30:00.000Z"
     },
     {
-      "title": "Salesforce’s stock rockets 20% and gives the software sector a major lift",
-      "url": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
+      "title": "U.S. added 79,000 fewer jobs in 12 months through March, BLS says",
+      "url": "https://www.investing.com/news/economy-news/us-added-79000-fewer-jobs-in-12-months-through-march-bls-says-4881547",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-28T14:25:11.000Z"
+    },
+    {
+      "title": "Should I use my financial institution’s free advisers or hire someone independent?",
+      "url": "https://www.marketwatch.com/story/should-i-use-my-financial-institutions-free-advisers-or-hire-an-independent-78b7eff4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-27T22:51:00.000Z"
+      "publishedAt": "2026-08-28T14:25:00.000Z"
     },
     {
-      "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
-      "url": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-27T22:17:00.000Z"
+      "title": "Warsh says Fed has ’work to do’ if above-target inflation persists",
+      "url": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-28T14:24:49.000Z"
     },
     {
-      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story",
-      "url": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-27T22:13:00.000Z"
-    },
-    {
-      "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-27T22:12:00.000Z"
-    },
-    {
-      "title": "US Stock Futures Slip Heading Into Jackson Hole: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/stock-market-today-dow-s-p-live-updates",
+      "title": "Fed's Hammack Backs Rate Hike to Rein in Inflation",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/fed-s-hammack-backs-rate-hike-to-rein-in-inflation-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-27T22:08:04.000Z"
+      "publishedAt": "2026-08-28T14:22:49.000Z"
     },
     {
-      "title": "France’s Le Pen seeks to woo business leaders by vowing to cut spending",
-      "url": "https://www.ft.com/content/a22e4fb3-efb0-4027-a18f-3d499eaf229b?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-27T21:15:01.000Z"
+      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+      "url": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-28T14:15:00.000Z"
     },
     {
-      "title": "Jobs Data Is in Jeopardy",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-27/opinion-jobs-data-is-in-jeopardy-video",
+      "title": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow",
+      "url": "https://www.investing.com/news/economy-news/canadas-second-quarter-gdp-recovers-sharply-as-domestic-demand-revives-exports-grow-4881215",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-08-28T14:07:47.000Z"
+    },
+    {
+      "title": "US Job Growth Marked Down in Preliminary Benchmark Estimate",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/us-job-growth-marked-down-79-000-in-preliminary-estimate",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-27T21:13:36.000Z"
-    },
-    {
-      "title": "US bank regulators finalize rules defining ’unsafe’ bank practices",
-      "url": "https://www.investing.com/news/economy-news/us-bank-regulators-finalize-rules-defining-unsafe-bank-practices-4880225",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-27T21:08:23.000Z"
-    },
-    {
-      "title": "Anxious investors hope for clarity on Warsh’s Fed plan at Jackson Hole",
-      "url": "https://www.investing.com/news/economy-news/anxious-investors-hope-for-clarity-on-warshs-fed-plan-at-jackson-hole-4876622",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-27T21:07:27.000Z"
-    },
-    {
-      "title": "Trading Day: Tech on a tear, attention Fed chair",
-      "url": "https://www.investing.com/news/economy-news/trading-day-tech-on-a-tear-attention-fed-chair-4880239",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-27T21:07:08.000Z"
-    },
-    {
-      "title": "Analysis-Bessent, Warsh diverge on who should set the price of money",
-      "url": "https://www.investing.com/news/economy-news/analysisbessent-warsh-diverge-on-who-should-set-the-price-of-money-4878323",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-27T21:06:41.000Z"
-    },
-    {
-      "title": "Carney’s finance chief hears Canada can handle US tariffs - Bloomberg",
-      "url": "https://www.investing.com/news/economy-news/carneys-finance-chief-hears-canada-can-handle-us-tariffs--bloomberg-93CH-4880232",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-08-27T21:03:18.000Z"
-    },
-    {
-      "title": "Will LIV Survive Pro Golf's Civil War?",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-27/liv-golf-from-disruptor-to-distressed-asset-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-08-27T21:00:07.000Z"
+      "publishedAt": "2026-08-28T14:01:56.000Z"
     }
   ]
 }
