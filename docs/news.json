@@ -1,7 +1,77 @@
 {
-  "lastUpdated": "2026-09-02T23:03:24.120Z",
+  "lastUpdated": "2026-09-03T03:26:41.356Z",
   "ai": {
     "developers": [
+      {
+        "title": "Frontier Act – Federal oversight of the development of frontier AI",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/9925/text",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-03T03:24:42.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI security that assumes the attacker has root",
+        "url": "https://thenewstack.io/tide-raziel-emergent-authority/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-03T03:07:02.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Protocols for People: AI, the Internet and the IETF",
+        "url": "https://digitalmedusa.org/protocols-for-people-ai-the-internet-and-the-ietf/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-03T02:34:12.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI-DLC – one core, many harnesses",
+        "url": "https://github.com/awslabs/aidlc-workflows/tree/main",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-03T02:04:59.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "MemHub – Persistent shared memory for AI coding agents",
+        "url": "https://memhub.simplex.lat",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-03T01:43:31.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+        "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-03T01:11:22.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: Redactle LLM Leaderboard",
+        "url": "https://redactle.net/llm-leaderboard",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-03T00:11:55.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Workplace surveillance is on the rise, spurred by AI",
+        "url": "https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-02T23:39:26.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Why Software Developers Are Highly Unrepresentative of Broader AI Use",
+        "url": "https://paulkedrosky.com/why-software-developers-are-hiunrepresentative-of-broader-ai-use/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-02T23:28:56.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI-Memory 2.0 – The Best Memory System for Agents and Teams",
+        "url": "https://akitaonrails.com/en/2026/09/02/ai-memory-2-0-best-memory-system-for-agents-and-teams/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-02T23:03:38.000Z",
+        "category": "developers"
+      },
       {
         "title": "Ontologies catch untrustworthy LLM claims",
         "url": "https://antithetical-labs.com/blog/the-judge-liked-it-better/",
@@ -36,98 +106,21 @@
         "source": "Hacker News – AI",
         "publishedAt": "2026-09-02T22:08:18.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
-        "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T22:05:40.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "NYC Announced Nation's Broadest Generative AI Moratorium in Schools",
-        "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T21:45:48.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Inspect, test, and debug your website with an AI agent connected to Safari",
-        "url": "https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T21:25:28.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Will AI save or ruin democracy?",
-        "url": "https://theconversation.com/will-ai-save-or-ruin-democracy-it-depends-on-whether-we-allow-computers-to-stand-in-for-people-289369",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T21:23:35.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: I put four persistent AI minds in a room and let them change each other",
-        "url": "https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T21:10:27.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: The Drudge Report, but for AI",
-        "url": "https://theainewsreport.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T21:06:17.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI is changing religion and religions are trying to change AI",
-        "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T20:58:45.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Mamdani Bans AI in NYC Schools",
-        "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T20:57:04.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Show HN: Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations",
-        "url": "https://dehurdle.com/register/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T20:56:11.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Run any LLM in t3's Codex and Claude tabs through a local gateway",
-        "url": "https://github.com/0xhsn/proxy-llms",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T20:47:12.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "An embodied, privacy-first AI agent that can control mobile apps via GUI",
+        "url": "https://plugos.net/plugclaw/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-03T02:35:59.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
         "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
         "source": "The Verge – AI",
         "publishedAt": "2026-09-02T20:11:40.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Uber drivers launch European class action over AI algorithm",
-        "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T19:54:26.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI Agents and the Refactoring That Never Happens",
-        "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-02T19:51:39.000Z",
         "category": "everyone"
       },
       {
@@ -163,6 +156,13 @@
         "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
         "source": "The Verge – AI",
         "publishedAt": "2026-09-02T14:30:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "url": "https://openai.com/index/atv-big-air-tour",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-02T12:00:00.000Z",
         "category": "everyone"
       },
       {
@@ -326,108 +326,108 @@
   "finance": {
     "markets": [
       {
-        "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-        "url": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+        "title": "India's $127 billion NRI deposits arm gives RBI more firepower, setting rupee up for rally",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-127-billion-nri-deposits-arm-gives-rbi-more-firepower-setting-rupee-up-for-rally/articleshow/133724162.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T03:22:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+        "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-02T22:37:13.000Z",
+        "publishedAt": "2026-09-03T03:21:50.000Z",
         "category": "markets"
       },
       {
         "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
         "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-02T22:21:45.000Z",
+        "publishedAt": "2026-09-03T02:39:48.000Z",
         "category": "markets"
       },
       {
-        "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-        "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T22:17:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks making the biggest moves after hours: Snowflake, Broadcom, Netskope, Five Below & more",
-        "url": "https://www.cnbc.com/2026/09/02/stocks-making-the-biggest-moves-after-hours-snow-avgo-ntsk-five.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T22:15:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
-        "url": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T22:10:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "'We've raided this shop many times - we keep finding fake cigarettes'",
-        "url": "https://www.bbc.co.uk/news/videos/c1l6p7j9652o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-09-02T21:57:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "G20 tech takeaways: Lutnick pitches adoption of U.S. AI, pushes data center buildout",
-        "url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T21:46:34.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Travel industry presses Trump to target 100 million international visitors in Oval Office meeting",
-        "url": "https://www.cnbc.com/2026/09/02/trump-travel-industry-world-cup-tourism-airlines-hotels.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T21:16:47.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "New Jersey asks the Supreme Court to take on prediction markets",
-        "url": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T21:15:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
-        "url": "https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T21:07:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers",
-        "url": "https://www.cnbc.com/2026/09/02/jjs-run-to-record-highs-hasnt-reached-the-finish-line-yet-here-are-the-key-drivers.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T20:53:08.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "USTR's Greer huddles with House Republicans amid Trump trade spats",
-        "url": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T20:50:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks stumbled out of the gate in September. Use these hedges to guard against volatility, Evercore ISI says",
-        "url": "https://www.cnbc.com/2026/09/02/stocks-stumble-out-of-the-gate-in-september-use-these-hedges-evercore-isi-says.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-02T20:20:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks today: US markets rebound from lows, but inflation, Iran war worries persist",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-markets-rebound-from-lows-but-inflation-iran-war-worries-persist/articleshow/133719828.cms",
+        "title": "SBI Share Price Live Updates: SBI's beta indicates potential for price fluctuations",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-03-sep-2026/liveblog/133723507.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-02T20:18:38.000Z",
+        "publishedAt": "2026-09-03T02:30:31.000Z",
         "category": "markets"
       },
       {
-        "title": "Yields surged to kick off September. BlackRock spots solid income in this corner of the market",
-        "url": "https://www.cnbc.com/2026/09/02/yields-surged-to-kick-off-september-blackrock-spots-solid-income-here.html",
+        "title": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates",
+        "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-02T20:11:40.000Z",
+        "publishedAt": "2026-09-03T02:17:59.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Purple Style Labs IPO allotment likely today. Check status, GMP and listing outlook",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/purple-style-labs-ipo-allotment-likely-today-check-status-gmp-and-listing-outlook/articleshow/133723301.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T02:13:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oil Price Today (September 3): Crude oil flat at $96 as traders weigh fresh US-Iran attacks. What are experts saying?",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-3-crude-oil-flat-at-96-as-traders-weigh-fresh-us-iran-attacks-what-are-experts-saying/articleshow/133723351.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T02:12:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Kwick Forensic Solutions shares to list today; GMP soars 87% ahead of debut",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/kwick-forensic-solutions-shares-to-list-today-gmp-soars-87-ahead-of-debut/articleshow/133723263.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T02:09:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-swiggy-adani-ports-share-price-03-september-2026/liveblog/133723288.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T02:04:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Lumino Industries shares to debut today; 45% GMP signals strong listing buzz",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/lumino-industries-shares-to-debut-today-45-gmp-signals-strong-listing-buzz/articleshow/133723248.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T02:04:13.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oil edges down as investors weigh uncertainty over U.S.-Iran strikes",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-down-as-investors-weigh-uncertainty-over-u-s-iran-strikes/articleshow/133723219.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T01:57:24.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump $1 coin makes him first living president on US currency in a century",
+        "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-03T01:56:05.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Gold treads water ahead of US nonfarm payrolls report",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-treads-water-ahead-of-us-nonfarm-payrolls-report/articleshow/133723178.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T01:55:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Hitachi Energy emerges as potential ‘buy’ on strong order inflows, earnings visibility",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/amid-orders-flowing-in-hitachi-emerges-as-a-potential-buy-option-for-investors/articleshow/133723061.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T01:42:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Happiest Minds shares fall for 5th day as merger concerns weigh",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/happiest-minds-faces-a-bumpy-ride-as-many-on-d-street-unhappy/articleshow/133722904.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-03T01:16:45.000Z",
         "category": "markets"
       }
     ],
@@ -541,124 +541,124 @@
   },
   "trends": [
     {
-      "title": "Five Below Lifts Outlook, Aims to Ramp Up Appeal to Gen Alpha",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/five-below-lifts-outlook-aims-to-ramp-up-appeal-to-gen-alpha",
+      "title": "HDFC Bank Is at Risk of Losing Its Top Nifty Spot to Rival ICICI",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/hdfc-bank-is-at-risk-of-losing-its-top-nifty-spot-to-rival-icici",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-02T22:30:30.000Z"
+      "publishedAt": "2026-09-03T03:07:41.000Z"
+    },
+    {
+      "title": "Base Metals Gain Ground as Trump Says Iran Attacks Will Be Brief",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/base-metals-gain-ground-as-trump-says-iran-attacks-will-be-brief",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T02:55:30.000Z"
+    },
+    {
+      "title": "Yen Traders Brace for Holiday Intervention Risk Around BOJ",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/yen-traders-brace-for-holiday-intervention-risk-around-boj",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T02:44:13.000Z"
+    },
+    {
+      "title": "HDFC Bank’s Nifty Crown Under Threat From ICICI Bank After CEO Exit",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-03/hdfc-bank-s-nifty-crown-under-threat-from-icici-bank-after-ceo-exit",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T02:41:39.000Z"
+    },
+    {
+      "title": "Trump signs bill to avert government shutdown before midterm elections",
+      "url": "https://www.investing.com/news/economy-news/trump-signs-bill-to-avert-government-shutdown-before-midterm-elections-4886940",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-03T02:30:41.000Z"
+    },
+    {
+      "title": "Iran launches drone, missile strikes at U.S. bases in Kuwait",
+      "url": "https://www.investing.com/news/economy-news/iran-launches-drone-missile-strikes-at-us-bases-in-kuwait-4886939",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-03T02:28:32.000Z"
+    },
+    {
+      "title": "Singapore Ruling on Bankrupt Indonesian Firm May Open Recovery Path for Others",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/singapore-ruling-on-bankrupt-indonesian-firm-may-open-recovery-path-for-others",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T02:26:48.000Z"
+    },
+    {
+      "title": "Shares, bonds rally as markets await signals for Fed rates",
+      "url": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-03T02:13:09.000Z"
+    },
+    {
+      "title": "Vietnam Trade Gap Narrows to $113 Million; Inflation Faster",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/vietnam-trade-deficit-narrows-to-113-million-inflation-at-4-9",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T02:11:41.000Z"
+    },
+    {
+      "title": "China services activity quickens on stronger domestic demand, private PMI shows",
+      "url": "https://www.investing.com/news/economy-news/china-services-activity-quickens-on-stronger-domestic-demand-private-pmi-shows-4886924",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-03T02:00:28.000Z"
+    },
+    {
+      "title": "China’s Services Gauge Tops Forecasts With Surprise Rebound",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/china-s-services-gauge-exceeds-forecasts-with-surprise-rebound",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T01:53:55.000Z"
+    },
+    {
+      "title": "Japan Trading House Stocks Gain as Berkshire Signals Commitment",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/japan-trading-house-stocks-gain-as-berkshire-signals-commitment",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T01:44:49.000Z"
+    },
+    {
+      "title": "Hongkong Land Eyes Billion-Dollar Property Deals to Enter Japan",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/hongkong-land-eyes-billion-dollar-property-deals-to-enter-japan",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T01:43:00.000Z"
+    },
+    {
+      "title": "Korean FX Reserves Swell by Record $14.3 Billion in August",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/korea-fx-reserves-swell-by-record-14-3-billion-in-august",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T01:32:22.000Z"
+    },
+    {
+      "title": "Diversified Energy Buys Elliott-Backed Birch for $1.8 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/diversified-energy-buys-elliott-backed-birch-for-1-8-billion",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T01:11:59.000Z"
+    },
+    {
+      "title": "Yen in the spotlight after sudden jump",
+      "url": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-03T01:07:03.000Z"
+    },
+    {
+      "title": "IMF’s Georgieva says rising bond yields threaten progress on developing country debt",
+      "url": "https://www.investing.com/news/economy-news/imfs-georgieva-says-rising-bond-yields-threaten-progress-on-developing-country-debt-4886901",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-03T01:06:44.000Z"
+    },
+    {
+      "title": "Pakistan Raises $3 Billion in Two-Part Junk Bond Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/pakistan-raises-3-billion-in-two-part-junk-bond-sale",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T01:06:05.000Z"
+    },
+    {
+      "title": "Yen Surge Puts Traders on High Alert for Intervention",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-03/yen-surge-puts-traders-on-high-alert-for-intervention-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-03T00:30:58.000Z"
     },
     {
       "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
       "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-02T22:28:00.000Z"
-    },
-    {
-      "title": "Steve Ballmer banned by NBA over improper payment to basketball star",
-      "url": "https://www.ft.com/content/6b74303c-0190-4e86-8a7b-feaf3dd29658?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-02T22:25:18.000Z"
-    },
-    {
-      "title": "Petco Services, Auto-Ship Sales Grow as Turnaround Continues",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/petco-services-auto-ship-sales-grow-as-turnaround-continues",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-02T22:16:56.000Z"
-    },
-    {
-      "title": "Asian Stocks Set to Advance as Oil Pressures Ease: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/stock-market-today-dow-s-p-live-updates",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-02T22:08:10.000Z"
-    },
-    {
-      "title": "Stocks climb and US yields ease; yen jumps against dollar",
-      "url": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-02T22:07:54.000Z"
-    },
-    {
-      "title": "Latest Oil Market News and Analysis for Sept. 3",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/latest-oil-market-news-and-analysis-for-sept-3",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-02T22:03:57.000Z"
-    },
-    {
-      "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-02T21:45:00.000Z"
-    },
-    {
-      "title": "Struggling Republicans urge Trump to open Maga Inc’s $400mn war chest",
-      "url": "https://www.ft.com/content/8f699fbc-cb01-4846-837c-0d1528a620d0?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-02T21:42:59.000Z"
-    },
-    {
-      "title": "Nvidia’s stock is climbing as investors get more confidence in an expanding base of AI customers",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-02T21:38:00.000Z"
-    },
-    {
-      "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
-      "url": "https://www.investing.com/news/economy-news/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise-4885685",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-02T21:31:12.000Z"
-    },
-    {
-      "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
-      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-02T21:31:00.000Z"
-    },
-    {
-      "title": "Palantir’s stock is slumping. Why bond yields and Google may be to blame.",
-      "url": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-02T21:12:00.000Z"
-    },
-    {
-      "title": "How Oracle’s ‘extremely controversial’ stock could more than double from here",
-      "url": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-02T21:11:00.000Z"
-    },
-    {
-      "title": "Yen jumps, oil pumps",
-      "url": "https://www.investing.com/news/economy-news/yen-jumps-oil-pumps-4886787",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-02T21:07:24.000Z"
-    },
-    {
-      "title": "NBA Suspends Clippers Owner Ballmer After Leonard Salary Probe",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/nba-suspends-clippers-owner-ballmer-after-leonard-probe-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-02T21:04:57.000Z"
-    },
-    {
-      "title": "Shaquille O’Neal Kicks off College Tour on Credit",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/shaquille-o-neal-kicks-off-college-tour-on-credit-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-02T21:00:32.000Z"
-    },
-    {
-      "title": "Deadly Flooding in Nepal Highlights Asia’s Climate Vulnerability",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/deadly-flooding-in-nepal-highlights-asia-s-climate-vulnerability",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-02T21:00:06.000Z"
-    },
-    {
-      "title": "Australian Earnings Beat Estimates for First Time in Four Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/australian-earnings-beat-estimates-for-first-time-in-four-years",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-02T21:00:00.000Z"
-    },
-    {
-      "title": "Japanese Companies Consider Asset Sales as Yen Debt Costs Rise",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/japanese-companies-consider-asset-sales-as-yen-debt-costs-rise",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-02T21:00:00.000Z"
+      "publishedAt": "2026-09-03T00:25:00.000Z"
     }
   ]
 }
