@@ -1,114 +1,121 @@
 {
-  "lastUpdated": "2026-09-08T20:50:21.958Z",
+  "lastUpdated": "2026-09-08T23:13:42.856Z",
   "ai": {
     "developers": [
       {
-        "title": "Poisoning AI Scrapers",
-        "url": "https://www.brainonfire.net/blog/2024/09/19/poisoning-ai-scrapers/",
+        "title": "An anti-RAG AI memory in Rust that intentionally forgets and hallucinates",
+        "url": "https://github.com/jbsalles/Selmem",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T20:39:13.000Z",
+        "publishedAt": "2026-09-08T23:12:28.000Z",
         "category": "developers"
       },
       {
-        "title": "Taint tracking on AI agent traces: 0.48 precision on AgentDojo",
-        "url": "https://github.com/IdoGol24/weir",
+        "title": "Feds accuse China of 'systematic' distillation of U.S. AI models",
+        "url": "https://cyberscoop.com/us-accuses-chinese-ai-companies-distillation/",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T20:33:04.000Z",
+        "publishedAt": "2026-09-08T23:12:21.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: CodeEraser – a deterministic judge of LLM-induced code and doc entropy",
-        "url": "https://github.com/skymanbp/CodeEraser",
+        "title": "How to manage a growing fleet of AI agents with Latitude",
+        "url": "https://latitude.so/blog/how-to-manage-a-fleet-of-agents-with-latitude",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T20:26:06.000Z",
+        "publishedAt": "2026-09-08T22:39:45.000Z",
         "category": "developers"
       },
       {
-        "title": "How long before a real crackdown on AI model decensoring?",
-        "url": "https://www.unite.ai/how-long-before-a-real-crackdown-on-ai-model-decensoring/",
+        "title": "Hacking Cable: AI in post-exploitation operations",
+        "url": "https://palisaderesearch.org/blog/hacking-cable",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T20:22:12.000Z",
+        "publishedAt": "2026-09-08T22:35:54.000Z",
         "category": "developers"
       },
       {
-        "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
-        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
+        "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
+        "url": "https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T20:07:08.000Z",
+        "publishedAt": "2026-09-08T22:32:51.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Eliminating text looping/latent collapse in LLM activation steering",
-        "url": "https://nathanegbuna.com/latense/",
+        "title": "Despite the chatter, AI pricing is not converging on a model",
+        "url": "https://www.solvimon.com/blog/ai-pricing-not-converging-on-single-model",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:57:25.000Z",
+        "publishedAt": "2026-09-08T22:30:50.000Z",
         "category": "developers"
       },
       {
-        "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads",
-        "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+        "title": "Open Models Change the Economics of AI [video]",
+        "url": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:43:54.000Z",
+        "publishedAt": "2026-09-08T22:29:33.000Z",
         "category": "developers"
       },
       {
-        "title": "The AI Bill of Materials Is an Operational Record",
-        "url": "https://jasondoyle.ie/whitepapers/the-ai-bill-of-materials-is-an-operational-record/",
+        "title": "The DOJ's AI Fair Use Brief Is Correct, but from a DOJ That Has No Credibility",
+        "url": "https://www.techdirt.com/2026/09/08/the-dojs-ai-fair-use-brief-is-correct-but-from-a-doj-that-has-no-credibility/",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:42:32.000Z",
+        "publishedAt": "2026-09-08T22:23:07.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: PortraitDesk – A headshot tool that doesn't look like AI slop",
-        "url": "https://portraitdesk.app/",
+        "title": "Show HN: SagaShield – ACID transactions and security guardrails for AI agents",
+        "url": "https://github.com/sebastianmechno-sys/sagashield",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:39:26.000Z",
+        "publishedAt": "2026-09-08T22:16:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Muse AI",
-        "url": "https://twitter.com/finkd/status/2097402101332590646",
+        "title": "The AI-Native SDLC Playbook",
+        "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:32:34.000Z",
+        "publishedAt": "2026-09-08T21:50:31.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Remarc – better contextual feedback for AI agents",
-        "url": "https://github.com/metedata/Remarc",
+        "title": "Show HN: Routi Bot – AI bots with their own desktops on your Mac",
+        "url": "https://github.com/narralabs/routi/",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:31:40.000Z",
+        "publishedAt": "2026-09-08T21:50:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Meta Introduces Muse, an AI Agent That Can Send Your Emails and Book Your Travel",
-        "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
+        "title": "Show HN: Browser LLM Fit",
+        "url": "https://news.ycombinator.com/item?id=49617427",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:27:40.000Z",
+        "publishedAt": "2026-09-08T21:35:54.000Z",
         "category": "developers"
       },
       {
-        "title": "Drawing the Line on AI – Bluesky Thread",
-        "url": "https://bsky.app/profile/jalexandercohen.com/post/3muzpqgguc52a",
+        "title": "A Highly Productive Dark Age: The Impact of AI on Mathematics",
+        "url": "https://ev12183725.substack.com/p/a-highly-productive-dark-age",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:20:50.000Z",
+        "publishedAt": "2026-09-08T21:28:51.000Z",
         "category": "developers"
       },
       {
-        "title": "Muse by Meta: The First Personal AI Agent Built for Everyone",
-        "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+        "title": "China-Based AI Companies Using Distillation at Scale Against US AI Companies",
+        "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:17:34.000Z",
+        "publishedAt": "2026-09-08T21:14:07.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
-        "url": "https://github.com/aminueza/Keyfence",
+        "title": "Ask HN: As AI becomes more capable what's the value of knowledge?",
+        "url": "https://news.ycombinator.com/item?id=49617135",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:16:46.000Z",
+        "publishedAt": "2026-09-08T21:12:31.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-08T20:53:52.000Z",
+        "category": "everyone"
+      },
       {
         "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
         "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
@@ -117,31 +124,10 @@
         "category": "everyone"
       },
       {
-        "title": "Muse: Meta's personal AI agent, features and capabilities",
-        "url": "https://ai.meta.com/muse/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T19:25:00.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Meta bets on AI agent Muse to catch up in AI race",
         "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
         "source": "The Verge – AI",
         "publishedAt": "2026-09-08T19:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "What Happens Inside an LLM",
-        "url": "https://mapathak-commits.github.io/inference-wall/articles/primer-2/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T18:26:46.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Show HN: AI Mood Tracker and Journal for iPhone",
-        "url": "https://apps.apple.com/us/app/moon-mood-tracker-journal/id6773049470",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T17:59:01.000Z",
         "category": "everyone"
       },
       {
@@ -201,26 +187,54 @@
         "category": "everyone"
       },
       {
-        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-04T13:34:12.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
         "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-09-04T09:25:19.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "url": "https://openai.com/index/atv-big-air-tour",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-02T12:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-01T12:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+        "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-27T09:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
       {
-        "title": "Robots \"protest\" in Warsaw to demand regulation of AI and automation",
-        "url": "https://notesfrompoland.com/2026/09/08/robots-protest-in-warsaw-to-demand-regulation-of-ai-and-automation/",
+        "title": "Buckmaster raising alarms that AI corporations snooped on their research",
+        "url": "https://social.coop/@cwebber/117236126658335889",
         "source": "Hacker News – AI",
-        "publishedAt": "2026-09-08T17:58:48.000Z",
+        "publishedAt": "2026-09-08T23:12:29.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "The AI-Native SDLC Starts with Your Infrastructure",
+        "url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-08T21:45:55.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Research on Outbound B2B Prospecting with AI",
+        "url": "https://news.ycombinator.com/item?id=49616876",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-09-08T20:53:49.000Z",
         "category": "advancements"
       },
       {
@@ -287,15 +301,15 @@
         "category": "advancements"
       },
       {
-        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-03T12:00:00.000Z",
         "category": "advancements"
       },
       {
-        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-03T12:00:00.000Z",
         "category": "advancements"
@@ -306,44 +320,93 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-03T11:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Safety overview: GPT-6 Astra",
-        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-09-03T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Proactive cyber defense for governments and enterprises",
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-09-02T15:40:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
+        "title": "U.S. military destroys five Iranian oil tankers after attempted attack on American warship, Centcom says",
+        "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-08T23:08:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock futures are little changed after losing session; Brent crude tops $99 per barrel: Live updates",
+        "url": "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-08T23:08:40.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Should promotion depend on how workers use AI?",
+        "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-08T23:05:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "I'm 27 and I've already written my will - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-08T23:04:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
+        "url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-08T22:02:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-08T21:46:21.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "LIV Golf files for Chapter 11 bankruptcy protection",
+        "url": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-08T21:45:55.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
         "url": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-08T20:40:44.000Z",
+        "publishedAt": "2026-09-08T21:37:12.000Z",
         "category": "markets"
       },
       {
-        "title": "Dow closes 600 points lower in back-to-back losses as oil prices gain",
-        "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
+        "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
+        "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-08T20:38:04.000Z",
+        "publishedAt": "2026-09-08T21:02:32.000Z",
         "category": "markets"
       },
       {
-        "title": "Major UK airports hit by air traffic control problems",
-        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+        "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+        "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-09-08T20:34:36.000Z",
+        "publishedAt": "2026-09-08T20:57:09.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: ServiceTitan, Mission Produce, Chime Financial and more",
+        "url": "https://www.cnbc.com/2026/09/08/stocks-making-the-biggest-moves-after-hours-ttan-avo-chym.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-08T20:56:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Limited-time offer: Capital One Venture welcome bonus is worth $1,050 in travel",
+        "url": "https://www.cnbc.com/select/new-capital-one-venture-welcome-bonus-worth-1050/",
+        "source": "CNBC",
+        "publishedAt": "2026-09-08T20:53:24.000Z",
         "category": "markets"
       },
       {
@@ -366,72 +429,23 @@
         "source": "CNBC",
         "publishedAt": "2026-09-08T20:21:37.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Why the Fed's interest rate call could come down to a few hundredths of a percentage point",
-        "url": "https://www.cnbc.com/2026/09/08/federal-reserves-rate-call-could-hang-on-a-tiny-fraction.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-08T20:21:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
-        "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-08T20:17:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks today: US stocks slip as AI fears weigh on software, while oil and rate bets add pressure",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-slip-as-ai-fears-weigh-on-software-while-oil-and-rate-bets-add-pressure/articleshow/133940798.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-08T20:14:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
-        "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-08T20:12:25.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "These dividend stocks could catch a tailwind from data center pushback",
-        "url": "https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-08T19:29:41.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "New Hampshire goes to the polls in primary for key open Senate seat",
-        "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-08T19:25:59.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Memory stocks are pressing their summer highs. Where the charts show them going",
-        "url": "https://www.cnbc.com/2026/09/08/memory-stocks-are-pressing-their-summer-highs-where-the-charts-show-them-going.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-08T19:20:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety",
-        "url": "https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-08T19:09:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Lilly perseveres in a bad day for drug stocks — plus, Boeing's mixed deliveries",
-        "url": "https://www.cnbc.com/2026/09/08/lilly-perseveres-in-a-bad-day-for-drug-stocks-plus-boeings-mixed-deliveries.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-08T19:03:06.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "New York town weighs crypto mining and AI data center ban",
+        "url": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-08T21:33:49.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+        "url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-08T20:59:20.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -522,143 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-09-08T13:06:34.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
-        "url": "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-08T12:51:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
-        "url": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-08T12:41:14.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "I’m a single 58-year-old veteran with $1.5 million in assets and a VA pension. Can I afford to retire?",
-      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+      "url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-08T20:45:00.000Z"
+      "publishedAt": "2026-09-08T22:50:00.000Z"
     },
     {
-      "title": "LIV Golf files for bankruptcy, plans player ownership model",
-      "url": "https://www.investing.com/news/economy-news/liv-golf-files-for-bankruptcy-plans-player-ownership-model-93CH-4892442",
+      "title": "Asian Chip Stocks Set for Gains, Brent Nears $100: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-08T22:11:28.000Z"
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for Sept. 9",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/latest-oil-market-news-and-analysis-for-sept-9",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-08T22:03:16.000Z"
+    },
+    {
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T22:00:00.000Z"
+    },
+    {
+      "title": "A Case Against the \"Conventional Wisdom\" of Investing",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-08/a-case-against-the-conventional-wisdom-of-investing-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-08T21:56:45.000Z"
+    },
+    {
+      "title": "Cognition AI raises $2 billion at $48 billion valuation",
+      "url": "https://www.investing.com/news/economy-news/cognition-ai-raises-2-billion-at-48-billion-valuation-4892546",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-08T20:39:05.000Z"
+      "publishedAt": "2026-09-08T21:54:27.000Z"
     },
     {
-      "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
-      "url": "https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
+      "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay.",
+      "url": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-08T20:28:00.000Z"
+      "publishedAt": "2026-09-08T21:51:00.000Z"
     },
     {
-      "title": "Google, Blackstone Venture Faces Delays at Data-Center Sites",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/google-blackstone-venture-faces-delays-at-data-center-sites",
+      "title": "Oil nears $100 as US launches new strikes on Iranian tankers",
+      "url": "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-08T21:48:15.000Z"
+    },
+    {
+      "title": "CEO of BIVA Stock Exchange on Investor Appeal in Mexico",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-08/ceo-of-biva-stock-exchange-on-investor-appeal-in-mexico-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T20:25:10.000Z"
+      "publishedAt": "2026-09-08T21:46:28.000Z"
     },
     {
-      "title": "Novartis’s failed trial for cholesterol drug leads to broad biopharma stock selloff",
-      "url": "https://www.marketwatch.com/story/novartiss-failed-trial-for-cholesterol-drug-leads-to-broad-biopharma-selloff-2d487746?mod=mw_rss_topstories",
+      "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
+      "url": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-08T20:23:00.000Z"
-    },
-    {
-      "title": "A contrarian case for stock-market gains through the midterm election",
-      "url": "https://www.marketwatch.com/story/a-contrarian-case-for-further-stock-market-gains-through-the-midterm-election-6f1bf8a9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-08T20:23:00.000Z"
-    },
-    {
-      "title": "Stocks Slide as U.S.-Iran Tensions Push Oil Toward $99 | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-08/us-iran-tensions-push-oil-higher-closing-bell-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T20:18:00.000Z"
-    },
-    {
-      "title": "Massachusetts Will Require New Data Centers to Use Clean Energy",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/massachusetts-will-require-new-data-centers-to-use-clean-energy",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T20:01:46.000Z"
-    },
-    {
-      "title": "Cerberus Sells Real Estate Firm Tenet Equity for $1.6 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/cerberus-sells-real-estate-firm-tenet-equity-for-1-6-billion",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T20:01:00.000Z"
-    },
-    {
-      "title": "Lender Chaos Hampers Australia Developer Bathla’s Hunt for Cash",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/lender-chaos-hampers-australia-developer-bathla-s-hunt-for-cash",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T20:00:00.000Z"
-    },
-    {
-      "title": "Why the Bond Market Has Everyone On Edge",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-08/why-the-bond-market-has-everyone-on-edge-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T19:54:39.000Z"
-    },
-    {
-      "title": "SpaceX Shares to Get a Boost If Nasdaq 100 Increases Weighting",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-08/spacex-shares-to-get-boost-if-nasdaq-100-ups-weighting-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T19:43:56.000Z"
-    },
-    {
-      "title": "Rising Interest Rates and Surging Bond Yields Explained: Big Take Podcast",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/rising-interest-rates-and-surging-bond-yields-explained-big-take-podcast",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T19:42:54.000Z"
+      "publishedAt": "2026-09-08T21:38:00.000Z"
     },
     {
       "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
       "url": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-08T19:36:37.000Z"
+      "publishedAt": "2026-09-08T21:37:21.000Z"
     },
     {
-      "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
-      "url": "https://www.investing.com/news/economy-news/irs-under-trump-unlawfully-shared-taxpayer-info-with-immigration-authorities-court-rules-4892276",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-08T19:32:21.000Z"
-    },
-    {
-      "title": "Meta unveils AI personal assistant linked to WhatsApp and Instagram",
-      "url": "https://www.ft.com/content/5816292b-c36b-4c22-aa50-2680b9970382?syn-25a6b1a6=1",
+      "title": "LIV Golf files for bankruptcy with at least $500mn in liabilities",
+      "url": "https://www.ft.com/content/08da69fa-ee6e-4667-b039-8d9c2d1538a0?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-08T19:30:32.000Z"
+      "publishedAt": "2026-09-08T21:37:10.000Z"
     },
     {
-      "title": "Major Food Companies Allege US Sugar Producers Colluded on Price",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/major-food-companies-allege-us-sugar-producers-colluded-on-price",
+      "title": "Westwood CEO on the First ETF Listing on the TXSE",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-08/westwood-ceo-on-the-first-etf-listing-on-the-txse-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T19:21:58.000Z"
+      "publishedAt": "2026-09-08T21:32:14.000Z"
     },
     {
-      "title": "Bessent’s ‘Fever’-Quelling Debt Buybacks Put Wall Street on Edge",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/bessent-s-fever-quelling-debt-buybacks-put-wall-street-on-edge",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-08T19:17:26.000Z"
-    },
-    {
-      "title": "Tung Chee-hwa, Hong Kong chief executive, 1937-2026",
-      "url": "https://www.ft.com/content/a943b766-c4f1-4417-8578-2c9f60ec6c11?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-08T19:14:13.000Z"
-    },
-    {
-      "title": "Stocks are stumbling after Labor Day. This year’s easy gains may be over.",
-      "url": "https://www.marketwatch.com/story/stocks-are-stumbling-after-labor-day-why-the-easy-gains-of-2026-may-be-over-1d31fa69?mod=mw_rss_topstories",
+      "title": "Qualcomm’s stock climbs as Amazon chip deal offers investors much-needed good news",
+      "url": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-08T18:58:00.000Z"
+      "publishedAt": "2026-09-08T21:32:00.000Z"
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T21:30:00.000Z"
+    },
+    {
+      "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
+      "url": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T21:30:00.000Z"
+    },
+    {
+      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
+      "url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T21:29:00.000Z"
+    },
+    {
+      "title": "Expecting an inheritance? Don’t count on it.",
+      "url": "https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T21:28:00.000Z"
+    },
+    {
+      "title": "Walmart’s advertising empire is booming. Here’s what it could target next.",
+      "url": "https://www.marketwatch.com/story/walmarts-advertising-empire-is-booming-heres-what-it-could-target-next-7e30fb74?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T21:23:00.000Z"
+    },
+    {
+      "title": "LIV Golf Files for Bankruptcy Protection",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-08/liv-golf-files-for-bankruptcy-protection-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-08T21:16:16.000Z"
     }
   ]
 }
