@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-10T20:31:45.419Z",
+  "lastUpdated": "2026-09-10T22:57:47.743Z",
   "ai": {
     "developers": [
+      {
+        "title": "Slack can now vibe-code interactive charts and reports inside chats",
+        "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-10T21:25:21.000Z",
+        "category": "developers"
+      },
       {
         "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
         "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -10,15 +17,15 @@
         "category": "developers"
       },
       {
-        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "title": "Introducing the Agents API",
+        "url": "https://openai.com/index/introducing-the-agents-api",
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-10T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Introducing the Agents API",
-        "url": "https://openai.com/index/introducing-the-agents-api",
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-10T00:00:00.000Z",
         "category": "developers"
@@ -99,13 +106,6 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-25T00:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-        "url": "https://openai.com/index/gpt-5-6-in-kiro",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-24T12:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
@@ -180,13 +180,6 @@
         "category": "everyone"
       },
       {
-        "title": "Microsoft has new AI privacy rules for schools",
-        "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-09T17:07:48.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Get ready for the game with new football features in Search",
         "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
         "source": "Google AI Blog",
@@ -212,6 +205,13 @@
         "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-09-08T10:34:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+        "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-04T09:25:19.000Z",
         "category": "everyone"
       }
     ],
@@ -326,17 +326,66 @@
   "finance": {
     "markets": [
       {
-        "title": "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles",
-        "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-10T20:30:07.000Z",
+        "title": "Watch: Three times Trump has promised money to Americans",
+        "url": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-10T22:53:00.000Z",
         "category": "markets"
       },
       {
-        "title": "Dow tumbles 300 points to notch 4-day drop as Treasury yields and oil prices surge",
-        "url": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html",
+        "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
+        "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-10T20:24:11.000Z",
+        "publishedAt": "2026-09-10T21:42:47.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
+        "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-10T21:22:39.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-10T21:22:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Alstom to build new battery-electric train fleet",
+        "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-10T21:00:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Oracle, Adobe, RH & more",
+        "url": "https://www.cnbc.com/2026/09/10/stocks-making-the-biggest-moves-after-hours-orcl-adbe-rh.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-10T20:59:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
+        "url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-10T20:48:14.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies",
+        "url": "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-10T20:45:59.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "The price of pet ownership is rising. These credit cards offer perks, from complimentary pet insurance to cash back on vet visits",
+        "url": "https://www.cnbc.com/select/best-credit-cards-for-pet-owners/",
+        "source": "CNBC",
+        "publishedAt": "2026-09-10T20:20:18.000Z",
         "category": "markets"
       },
       {
@@ -344,13 +393,6 @@
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-rising-oil-treasury-yields-lift-fed-hike-bets/articleshow/134028937.cms",
         "source": "Economic Times – Markets",
         "publishedAt": "2026-09-10T20:18:47.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The best debt relief companies of September 2026",
-        "url": "https://www.cnbc.com/select/best-debt-relief-companies/",
-        "source": "CNBC",
-        "publishedAt": "2026-09-10T20:01:32.000Z",
         "category": "markets"
       },
       {
@@ -382,56 +424,21 @@
         "category": "markets"
       },
       {
-        "title": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies",
-        "url": "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-10T19:08:41.000Z",
-        "category": "markets"
-      },
-      {
         "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
         "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
         "source": "CNBC",
         "publishedAt": "2026-09-10T19:02:58.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
-        "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-10T18:52:34.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-        "url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-10T18:47:08.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "30-year fixed mortgage rate tops 7% for the first time in over a year",
-        "url": "https://www.cnbc.com/2026/09/10/30-year-fixed-mortgage-rate-crosses.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-10T18:30:08.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy",
-        "url": "https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-10T18:20:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
-        "url": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-10T18:15:59.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-10T21:30:00.000Z",
+        "category": "crypto"
+      },
       {
         "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
         "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
@@ -529,136 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-09-10T13:56:54.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
-        "url": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-10T13:35:23.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
-      "url": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
+      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
+      "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-10T20:26:00.000Z"
+      "publishedAt": "2026-09-10T22:54:00.000Z"
+    },
+    {
+      "title": "Oracle reports rising data centre revenue as AI strategy accelerates",
+      "url": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-10T22:47:12.000Z"
+    },
+    {
+      "title": "Anthropic says it blocked attempts to use AI for potential biological weapons",
+      "url": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-10T22:27:10.000Z"
+    },
+    {
+      "title": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
+      "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-10T22:25:00.000Z"
+    },
+    {
+      "title": "SpaceX is inching closer to this lofty $100 billion milestone",
+      "url": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-10T22:19:00.000Z"
+    },
+    {
+      "title": "Asian Stocks, Bonds to Drop on Oil, Inflation Woes: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-10T22:15:53.000Z"
+    },
+    {
+      "title": "Bessent Dismisses Buyback Concern, Says Treasuries Strong",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/bessent-dismisses-concern-on-buyback-says-treasuries-are-strong",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-10T22:09:50.000Z"
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for Sept. 11",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/latest-oil-market-news-and-analysis-for-sept-11",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-10T22:06:51.000Z"
+    },
+    {
+      "title": "Global bond sell-off reignites as oil jumps to $109",
+      "url": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-10T22:05:18.000Z"
+    },
+    {
+      "title": "Here are the stocks to favor in the fourth quarter — and those you should avoid",
+      "url": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-10T22:02:00.000Z"
+    },
+    {
+      "title": "The Rise of Organized Retail Crime at Big Box Stores",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-10/the-rise-of-organized-retail-crime-at-big-box-stores-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-10T22:01:47.000Z"
+    },
+    {
+      "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+      "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-10T21:55:00.000Z"
+    },
+    {
+      "title": "Fanatics’ King on Sports Betting and Prediction Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-10/fanatics-king-on-sports-betting-and-prediction-markets-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-10T21:41:08.000Z"
+    },
+    {
+      "title": "Strahan and Schwartz-Morini on Athlete Economy",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-10/strahan-and-schwartz-morini-on-athlete-economy-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-10T21:40:45.000Z"
+    },
+    {
+      "title": "Matt Freese on US Soccer Post World Cup",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-10/matt-freese-on-us-soccer-post-world-cup-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-10T21:40:13.000Z"
+    },
+    {
+      "title": "Philip Morris CEO Is ‘Optimistic’ About Zyn Potential",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-10/philip-morris-ceo-is-optimistic-about-zyn-potential-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-10T21:25:47.000Z"
+    },
+    {
+      "title": "Trading Day: Inflation palpitations",
+      "url": "https://www.investing.com/news/economy-news/trading-day-inflation-palpitations-4896968",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-10T21:06:37.000Z"
+    },
+    {
+      "title": "FanDuel CEO on Sports Betting",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-10/fanduel-ceo-on-sports-betting-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-10T21:00:40.000Z"
+    },
+    {
+      "title": "Adobe’s latest earnings leave Wall Street wanting more",
+      "url": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-10T20:53:00.000Z"
     },
     {
       "title": "Trump’s $5,000 dividend plan draws some Republican skepticism",
       "url": "https://www.investing.com/news/economy-news/trumps-5000-dividend-plan-draws-some-republican-skepticism-4896744",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-10T20:24:33.000Z"
-    },
-    {
-      "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
-      "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-10T20:24:00.000Z"
-    },
-    {
-      "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
-      "url": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-10T20:18:50.000Z"
-    },
-    {
-      "title": "Global bond sell-off reignites as oil jumps to $108",
-      "url": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-10T20:18:08.000Z"
-    },
-    {
-      "title": "Dispersion In High Yield Idiosyncratic: Steinbach",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-10/dispersion-in-high-yield-idiosyncratic-steinbach-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-10T20:15:03.000Z"
-    },
-    {
-      "title": "How to create a ‘forever paycheck’ without paying for an annuity",
-      "url": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-10T20:13:00.000Z"
-    },
-    {
-      "title": "Stocks are sliding as this ‘negative risk trinity’ spooks investors",
-      "url": "https://www.marketwatch.com/story/stocks-are-sliding-as-this-negative-risk-trinity-spooks-investors-4dd1927e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-10T20:06:00.000Z"
-    },
-    {
-      "title": "NYC Transit Agency Prepares $785M Mansion Tax Bond Sale",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-10/nyc-transit-agency-prepares-785m-mansion-tax-bond-sale-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-10T20:03:50.000Z"
-    },
-    {
-      "title": "Connecticut Surplus Deposits to State Pensions Top $11B",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-10/connecticut-surplus-deposits-to-state-pensions-top-11b-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-10T20:03:28.000Z"
-    },
-    {
-      "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-10T20:00:00.000Z"
-    },
-    {
-      "title": "Credit Has Been 'Well Behaved': Griffiths",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-10/credit-has-been-well-behaved-griffiths-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-10T19:53:37.000Z"
-    },
-    {
-      "title": "It’s not just Hormuz. Another war is providing fresh price shocks to fuel and food.",
-      "url": "https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-10T19:38:00.000Z"
-    },
-    {
-      "title": "Odd Lots Los Angeles, One Week From Today",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/odd-lots-los-angeles-one-week-from-today",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-10T19:36:30.000Z"
-    },
-    {
-      "title": "Mexican Government Slashes Pemex Aid by 70%",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-10/mexican-government-slashes-pemex-aid-by-70-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-10T19:33:03.000Z"
-    },
-    {
-      "title": "US Treasury buys back $5.2bn in bonds to support liquidity",
-      "url": "https://www.investing.com/news/economy-news/us-treasury-buys-back-52bn-in-bonds-to-support-liquidity-93CH-4896760",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-10T19:29:55.000Z"
-    },
-    {
-      "title": "'The House Is Losing': Mike Contopoulos",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-10/-the-house-is-losing-mike-contopoulos-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-10T19:29:47.000Z"
-    },
-    {
-      "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
-      "url": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-10T19:21:00.000Z"
-    },
-    {
-      "title": "Pretty Far From 'Liz Truss Moment': Herr",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-10/pretty-far-from-liz-truss-moment-herr-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-10T19:18:51.000Z"
-    },
-    {
-      "title": "Would you buy stock in a company whose own scientists think the product might kill you?",
-      "url": "https://www.marketwatch.com/story/would-you-buy-stock-in-a-company-whose-own-scientists-think-the-product-might-kill-you-f8bc04c3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-10T19:07:00.000Z"
+      "publishedAt": "2026-09-10T20:42:34.000Z"
     }
   ]
 }
