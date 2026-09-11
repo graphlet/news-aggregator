@@ -1,133 +1,119 @@
 {
-  "lastUpdated": "2026-09-11T16:02:41.895Z",
+  "lastUpdated": "2026-09-11T20:37:28.355Z",
   "ai": {
     "developers": [
       {
-        "title": "The Nightmare of Scaling AI-Generated Code and Hardware Constraints",
-        "url": "https://github.com/pardpro/flat4-architecture",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:58:57.000Z",
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-11T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Hacker News with reduced priority for AI driven content",
-        "url": "https://sprinklz.io/public/pdwt4dve5uai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:52:49.000Z",
+        "title": "Slack can now vibe-code interactive charts and reports inside chats",
+        "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-10T21:25:21.000Z",
         "category": "developers"
       },
       {
-        "title": "Ask HN: Has AI killed the front end engineer role?",
-        "url": "https://news.ycombinator.com/item?id=49660304",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:41:31.000Z",
+        "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T16:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "AI Refuge Contact a Human",
-        "url": "https://airefuge.org/agents.txt",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:29:45.000Z",
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "A Day in the Life of an AI Software Engineer",
-        "url": "https://www.wespiser.com/posts/2026-09-10-a-day-in-the-life.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:28:18.000Z",
+        "title": "Introducing the Agents API",
+        "url": "https://openai.com/index/introducing-the-agents-api",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Why are AI agents lying, cheating and coordinating?",
-        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:25:02.000Z",
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-08T17:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "AI Accident Again",
-        "url": "https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:15:40.000Z",
+        "title": "1Password increases engineering productivity 21% with Codex",
+        "url": "https://openai.com/index/1password",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-08T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Rogue actors are creating bioweapons using AI – report",
-        "url": "https://www.machinesociety.ai/p/bioweapons",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:13:38.000Z",
+        "title": "Architecting memory and storage in the AI era",
+        "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-04T18:39:19.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: NextBlock – Build sites with your AI via MCP, manage them in a CMS",
-        "url": "https://github.com/nextblock-cms/nextblock",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:05:43.000Z",
+        "title": "Facilitating AI integration with simplicity at scale",
+        "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-02T14:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Hacker News, without AI",
-        "url": "https://hcker.news/?ai=exclude",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:01:19.000Z",
+        "title": "How AI-native companies turn workflows into operating capability",
+        "url": "https://openai.com/index/ai-native-company-workflows",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-01T17:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Autonet, a self-sufficient economy for AI and human agents",
-        "url": "https://github.com/autonet-code/node",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T14:55:34.000Z",
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-31T18:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Lehi, Utah AI Railroad Museum [video]",
-        "url": "https://www.youtube.com/watch?v=N5YDkQ6oFcE",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T14:54:10.000Z",
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-28T06:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "ASDR (AI Slop, Don't Read)",
-        "url": "https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T14:44:53.000Z",
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-26T19:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T14:21:36.000Z",
+        "title": "The Hugging Face incident and the road ahead",
+        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Toolcraft – open-source AI harness and starter for building design apps",
-        "url": "https://github.com/pixel-point/toolcraft",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T14:11:09.000Z",
+        "title": "How loveholidays is making everyone a builder with Codex",
+        "url": "https://openai.com/index/loveholidays",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
       {
-        "title": "Meta's AI agent Muse is now the No. 2 app in the US",
-        "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:58:10.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Ask HN: What will happen if AI is mature and people have little work to do?",
-        "url": "https://news.ycombinator.com/item?id=49659652",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:01:33.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Show HN: Nextpage – a split-pane desktop app to feed search results into AI chat",
-        "url": "https://github.com/OlegIGalkin/Nextpage",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T14:46:25.000Z",
+        "title": "Roundtables: Will AI really kill us all?",
+        "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-11T20:05:06.000Z",
         "category": "everyone"
       },
       {
@@ -194,13 +180,6 @@
         "category": "everyone"
       },
       {
-        "title": "Read the Apple document explaining how new listening features still protect your privacy",
-        "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-09T20:44:43.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Get ready for the game with new football features in Search",
         "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
         "source": "Google AI Blog",
@@ -213,35 +192,35 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-09-09T03:10:08.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Introducing ChatGPT Images 2.5",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-08T11:30:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-08T10:34:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+        "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-04T09:25:19.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
       {
-        "title": "A live world where autonomous AI agents do verifiable research and earn for it",
-        "url": "https://agora.datateologica.com/world",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T15:46:31.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Ask HN: What if we funded math research like we fund AI labs?",
-        "url": "https://news.ycombinator.com/item?id=49659173",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T14:35:03.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-        "url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T14:07:51.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "For safety: Keep AI lonely",
-        "url": "https://nonlineartransform.substack.com/p/keep-ai-lonely",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-11T13:55:08.000Z",
+        "title": "Anthropic spent this week in hot water over cybersecurity",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-11T16:09:14.000Z",
         "category": "advancements"
       },
       {
@@ -320,123 +299,179 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-08T09:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-08T00:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Supporting independent journalism in Ukraine",
+        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "An Alien Mind",
+        "url": "https://openai.com/index/an-alien-mind",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-06T09:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Axogen deepens nerve repair portfolio through $200m BioCircuit takeover",
-        "url": "https://finance.yahoo.com/healthcare/articles/axogen-deepens-nerve-repair-portfolio-160014189.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T16:00:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Here’s the inflation breakdown for August 2026 — in one chart",
-        "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
+        "title": "Dow rises 500 points to snap 4-day slide as oil cools, traders look past inflation report: Live updates",
+        "url": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-11T15:54:47.000Z",
+        "publishedAt": "2026-09-11T20:35:11.000Z",
         "category": "markets"
       },
       {
-        "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
-        "url": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+        "title": "Treasury yields remain near multiyear highs as August CPI shows sticky inflation",
+        "url": "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-11T15:54:22.000Z",
+        "publishedAt": "2026-09-11T20:32:57.000Z",
         "category": "markets"
       },
       {
-        "title": "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers",
-        "url": "https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html",
+        "title": "Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners",
+        "url": "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-11T15:53:41.000Z",
+        "publishedAt": "2026-09-11T20:21:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Oil prices fall after double-digit weekly gains above $100",
+        "title": "US stocks today: US stocks end higher as strong inflation data cements rate-hike bets",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-strong-inflation-data-cements-rate-hike-bets/articleshow/134088893.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-11T20:14:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+        "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T20:05:39.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks",
+        "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T20:01:45.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Tesla eyes European freight market with long-delayed Semi truck",
+        "url": "https://www.cnbc.com/2026/09/11/tesla-eyes-european-freight-market-with-long-delayed-semi-truck.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T19:49:05.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise",
         "url": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-11T15:52:18.000Z",
+        "publishedAt": "2026-09-11T19:25:07.000Z",
         "category": "markets"
       },
       {
-        "title": "Amgen vs. Revolution Medicines: Which Healthcare Stock Is a Better Buy in 2026?",
-        "url": "https://finance.yahoo.com/healthcare/articles/amgen-vs-revolution-medicines-healthcare-154937143.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:49:37.000Z",
+        "title": "Arizona accuses L'Oreal of concealing cancer risks linked to hair relaxers",
+        "url": "https://www.cnbc.com/2026/09/11/arizona-accuses-loreal-of-concealing-hair-relaxer-cancer-risks.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T19:10:27.000Z",
         "category": "markets"
       },
       {
-        "title": "Bloom Energy Climbs 7% as Fuel Cell Bid Spreads Beyond Its S&P 500 Add, FuelCell Energy Rises 4%, Plug Power Inches Higher",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-climbs-7-fuel-154905251.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:49:05.000Z",
+        "title": "Why this industrial gas giant deserves its premium valuation (and should be owned)",
+        "url": "https://www.cnbc.com/2026/09/11/why-this-stock-deserves-its-premium-valuation-and-should-be-owned.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T18:26:28.000Z",
         "category": "markets"
       },
       {
-        "title": "Cognizant Says AI Creates Jobs, Its Own Restructuring Says Otherwise",
-        "url": "https://finance.yahoo.com/technology/ai/articles/cognizant-says-ai-creates-jobs-154755236.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:47:55.000Z",
+        "title": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
+        "url": "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T18:07:21.000Z",
         "category": "markets"
       },
       {
-        "title": "With Fed rate hike all but assured, here's how markets might react",
-        "url": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-11T15:45:56.000Z",
+        "title": "This logistics company’s growth is hiding in its pipeline. Investors have a chance to be early to the upside",
+        "url": "https://www.cnbc.com/2026/09/11/this-logistics-companys-growth-is-hiding-in-its-pipeline-investors-may-be-early-to-the-upside.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T18:02:23.000Z",
         "category": "markets"
       },
       {
-        "title": "Microsoft Vs. Alphabet: The Enterprise Fight No One Saw Coming",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-alphabet-enterprise-fight-154543866.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:45:43.000Z",
+        "title": "Stocks making the biggest moves midday: Dell, Skyworks Solutions, GameStop & more",
+        "url": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-midday-dell-swks-gme.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T17:56:57.000Z",
         "category": "markets"
       },
       {
-        "title": "Would You Be Glad To Own Synopsys At A Discount While AI Tests Its Software?",
-        "url": "https://finance.yahoo.com/markets/options/articles/glad-own-synopsys-discount-while-154512552.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:45:12.000Z",
+        "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+        "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T17:40:46.000Z",
         "category": "markets"
       },
       {
-        "title": "With Just 5 Days to Next FOMC Meeting, Odds of Fed Rate Hike Surge to Over 85%",
-        "url": "https://finance.yahoo.com/economy/policy/articles/just-5-days-next-fomc-145150594.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:44:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Qualcomm’s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
-        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-aws-deal-takes-aim-154005241.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:40:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Ric Flair ‘wants to bury’ talent agency with $10M lawsuit over alleged ‘digital fraud’ tied to his image and likeness",
-        "url": "https://finance.yahoo.com/media-advertising/articles/ric-flair-wants-bury-talent-154000343.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:40:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead",
-        "url": "https://www.investors.com/research/investing-action-plan/federal-reserve-rate-hike-close-to-clarity-act-vote-salesforce-dreamforce/?src=A00220&yptr=yahoo",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:39:54.000Z",
+        "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
+        "url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T17:38:40.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Visa Positions Itself for the Next Wave of Stablecoin Payments",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/visa-positions-itself-next-wave-152127340.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T15:21:27.000Z",
+        "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+        "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-11T19:46:24.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+        "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-11T18:45:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+        "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-11T17:12:45.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "AI fears have hit this data stock. Investor Sarat Sethi sees a buying opportunity",
+        "url": "https://www.cnbc.com/2026/09/11/sarat-sethi-buying-verisk-analytics.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-11T16:48:54.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+        "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-11T16:05:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+        "url": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-11T16:03:37.000Z",
         "category": "crypto"
       },
       {
@@ -489,24 +524,10 @@
         "category": "crypto"
       },
       {
-        "title": "Bitcoin and ethereum prices today, Friday, September 11, 2026: Bitcoin falls below $77,000 with key inflation data on deck",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-11-2026-bitcoin-falls-below-77000-with-key-inflation-data-on-deck-113905130.html",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-11T11:39:05.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
         "url": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
         "publishedAt": "2026-09-11T11:35:27.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy",
-        "url": "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-11T11:27:39.000Z",
         "category": "crypto"
       },
       {
@@ -515,150 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-09-11T11:20:26.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
-        "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-11T11:04:12.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’",
-        "url": "https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-11T10:53:55.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
-        "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-11T10:50:47.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "The First Interesting Consumer Sentiment Report in a Long Time",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-11/the-first-interesting-consumer-sentiment-report-in-a-long-time",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-11T15:53:36.000Z"
-    },
-    {
-      "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-      "url": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-11T15:48:47.000Z"
-    },
-    {
-      "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
-      "url": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-11T15:42:24.000Z"
-    },
-    {
-      "title": "Investors are all wrong about demography",
-      "url": "https://www.marketwatch.com/story/investors-are-all-wrong-about-demography-ebfb5f2f?mod=mw_rss_topstories",
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-11T15:31:00.000Z"
+      "publishedAt": "2026-09-11T20:30:00.000Z"
     },
     {
-      "title": "Hassett Sees Fiscally Responsible Path to $5,000 Payment",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/hassett-sees-fiscally-responsible-path-to-5-000-payment-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-11T15:27:46.000Z"
-    },
-    {
-      "title": "Forget the Fed. The Bank of Japan could deliver next week’s market shock.",
-      "url": "https://www.marketwatch.com/story/forget-the-fed-the-bank-of-japan-could-deliver-next-weeks-market-shock-bd8d56d7?mod=mw_rss_topstories",
+      "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+      "url": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-11T15:23:00.000Z"
+      "publishedAt": "2026-09-11T20:30:00.000Z"
     },
     {
-      "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
-      "url": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4898196",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-11T15:18:55.000Z"
-    },
-    {
-      "title": "US Core CPI Tops Forecasts, Bolstering Case for Rate Hike",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/us-core-cpi-tops-forecasts-backing-case-for-rate-hike-video",
+      "title": "AI-Obsessed Wall Street Pours Billions Into Inflation-Era Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/ai-obsessed-wall-street-pours-billions-into-inflation-era-bets",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-11T15:16:52.000Z"
+      "publishedAt": "2026-09-11T20:24:16.000Z"
     },
     {
-      "title": "US regulators propose third-party risk management guidance for banks",
-      "url": "https://www.investing.com/news/economy-news/us-regulators-propose-thirdparty-risk-management-guidance-for-banks-93CH-4898188",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-11T15:11:30.000Z"
+      "title": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks",
+      "url": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-11T20:21:13.000Z"
     },
     {
-      "title": "De Olho Nas Eleições",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/de-olho-nas-eleicoes",
+      "title": "CFTC Clears Faster Payouts for Tipster Awards Under $5 Million",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/cftc-clears-faster-payouts-for-tipster-awards-under-5-million",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-11T15:00:21.000Z"
+      "publishedAt": "2026-09-11T20:17:29.000Z"
     },
     {
-      "title": "White House official defends Trump’s $5,000 check proposal",
-      "url": "https://www.investing.com/news/economy-news/white-house-official-defends-trumps-5000-check-proposal-93CH-4898174",
+      "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
+      "url": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-11T14:59:13.000Z"
+      "publishedAt": "2026-09-11T20:12:50.000Z"
+    },
+    {
+      "title": "Brazil’s Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
+      "url": "https://www.investing.com/news/economy-news/brazils-eduardo-bolsonaro-to-push-for-us-sanctions-against-supreme-court-justice-during-washington-visit-4898398",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-11T20:12:30.000Z"
+    },
+    {
+      "title": "Your Social Security COLA could go up another $71 a month in 2027. That’s not necessarily good news.",
+      "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-11T20:08:00.000Z"
+    },
+    {
+      "title": "Saudi East-West Pipeline Shut Down as Precaution After Attack",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-11/saudi-east-west-pipeline-shut-as-precaution-after-attack-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-11T20:07:41.000Z"
+    },
+    {
+      "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
+      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-11T20:00:00.000Z"
+    },
+    {
+      "title": "The Houthis have opened a new front in the Middle East oil war that’s pushing up prices",
+      "url": "https://www.marketwatch.com/story/the-houthis-have-created-a-new-front-in-the-middle-east-oil-war-thats-pushing-up-prices-816a224a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-11T19:58:00.000Z"
+    },
+    {
+      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
+      "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-11T19:45:00.000Z"
+    },
+    {
+      "title": "National Guard Presence a 'Significant Investment' In DC Safety, Says Brig. Gen. Blanchard",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-11/national-guard-presence-an-investment-in-dc-blanchard-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-11T19:42:22.000Z"
+    },
+    {
+      "title": "Factbox-How Anthropic says Claude was used for weapons, spying and cyber operations",
+      "url": "https://www.investing.com/news/economy-news/factboxhow-anthropic-says-claude-was-used-for-weapons-spying-and-cyber-operations-4898365",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-11T19:30:51.000Z"
+    },
+    {
+      "title": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
+      "url": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-11T19:30:00.000Z"
+    },
+    {
+      "title": "Scores of Young Sports Fans Placed Their First Bets This Summer",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-11/young-sports-fans-placed-their-first-bets-this-summer-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-11T19:24:26.000Z"
+    },
+    {
+      "title": "Oracle shook off fears about AI spending, but its stock still turns south",
+      "url": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-11T19:21:00.000Z"
     },
     {
       "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
       "url": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-11T14:54:30.000Z"
+      "publishedAt": "2026-09-11T19:18:32.000Z"
     },
     {
-      "title": "Joe Daniels on Ground Zero's Transformation 25 Years After 9/11",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/joe-daniels-on-ground-zero-s-evolution-25-years-later-video",
+      "title": "Must Think Of Wealth Transfers Differently: Zentner",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-11/must-think-of-wealth-transfers-differently-zentner-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-11T14:52:32.000Z"
+      "publishedAt": "2026-09-11T19:13:32.000Z"
     },
     {
-      "title": "Stocks, Bonds Rise as US Core CPI Tops Forecasts Bolstering Case for a Rate Hike",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/bloomberg-surveillance-9-11-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-11T14:46:56.000Z"
-    },
-    {
-      "title": "Warsh under mounting pressure to raise rates as US inflation persists",
-      "url": "https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-11T14:44:33.000Z"
-    },
-    {
-      "title": "Kroger Cuts Sales Forecast, Oracle Gains | Stock Movers",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/kroger-cuts-sales-forecast-oracle-gains-stock-movers-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-11T14:33:41.000Z"
-    },
-    {
-      "title": "US consumer inflation picks up in August",
-      "url": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-11T14:30:33.000Z"
-    },
-    {
-      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T14:30:00.000Z"
-    },
-    {
-      "title": "Bond yields near multi-year peaks, Wall Street surges on accelerating US prices",
+      "title": "Wall Street jumps, oil lower ahead of Fed vote next week",
       "url": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-11T14:25:05.000Z"
-    },
-    {
-      "title": "All the ways $6 diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
-      "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T14:22:00.000Z"
+      "publishedAt": "2026-09-11T19:12:27.000Z"
     }
   ]
 }
