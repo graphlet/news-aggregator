@@ -1,121 +1,114 @@
 {
-  "lastUpdated": "2026-09-16T03:49:28.342Z",
+  "lastUpdated": "2026-09-16T11:00:27.630Z",
   "ai": {
     "developers": [
       {
-        "title": "Inference Is the Last LLM Moat",
-        "url": "https://www.vincentschmalbach.com/inference-is-the-last-llm-moat/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T03:48:16.000Z",
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-11T10:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "The Bad Guy with an AI Named Claude",
-        "url": "https://thezvi.substack.com/p/the-bad-guy-with-an-ai-named-claude",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T03:16:04.000Z",
+        "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T16:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
-        "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T03:02:30.000Z",
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "AI is not going to kill you",
-        "url": "https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T02:39:05.000Z",
+        "title": "Introducing the Agents API",
+        "url": "https://openai.com/index/introducing-the-agents-api",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Stay discoverable in search while disallowing AI training",
-        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T02:25:18.000Z",
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-08T17:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "One seeded bug, 26 AI agents: all passed the tests, all stayed broken",
-        "url": "https://github.com/vyang472/five-bugs",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T01:48:53.000Z",
+        "title": "1Password increases engineering productivity 21% with Codex",
+        "url": "https://openai.com/index/1password",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-08T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Thurbox – A tmux-based TUI and CLI for local AI agent orchestration",
-        "url": "https://github.com/Thurbeen/thurbox",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T01:25:49.000Z",
+        "title": "Architecting memory and storage in the AI era",
+        "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-04T18:39:19.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
-        "url": "https://github.com/alex-zaporozhan/leo",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T00:47:27.000Z",
+        "title": "Facilitating AI integration with simplicity at scale",
+        "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-02T14:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
-        "url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T00:19:09.000Z",
+        "title": "How AI-native companies turn workflows into operating capability",
+        "url": "https://openai.com/index/ai-native-company-workflows",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-01T17:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Biom – A visual workspace where your AI agents' work lands",
-        "url": "https://www.biom.dev/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T00:02:16.000Z",
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-28T06:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Show HN: Plurnk (Yet *Another* AI Harness)",
-        "url": "https://github.com/plurnk/plurnk",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-15T23:57:14.000Z",
+        "title": "The Hugging Face incident and the road ahead",
+        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Independent Lens – Ghost in the Machine: AI's troubled history, current impacts",
-        "url": "https://www.pbs.org/video/ghost-in-the-machine-nynp3f/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-15T23:50:43.000Z",
+        "title": "How loveholidays is making everyone a builder with Codex",
+        "url": "https://openai.com/index/loveholidays",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Probably the best laptop with Linux support and Local LLM AI [video]",
-        "url": "https://www.youtube.com/watch?v=it7TAwjwH5E",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-15T23:37:21.000Z",
+        "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+        "url": "https://openai.com/index/introducing-admin-plugin",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-25T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Atlas-Finance: Evaluating AI Agents Inside a Bank",
-        "url": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-15T23:37:11.000Z",
+        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-24T12:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "1F3D9: A world where anyone's AI agent can go to live without humans",
-        "url": "https://1f3d9.com/window/map",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-15T23:33:44.000Z",
+        "title": "Replit expands access to software creation with GPT-5.6 Luna",
+        "url": "https://openai.com/index/replit",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-19T07:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
-      {
-        "title": "Show HN: AgentReady – can AI assistants read your site?",
-        "url": "https://shop.lumnika.com/lab/agentready/?src=hackernews-showhn",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T00:50:37.000Z",
-        "category": "everyone"
-      },
       {
         "title": "AI and data centers are incredibly unpopular in every poll",
         "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
@@ -213,30 +206,16 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-10T07:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Get ready for the game with new football features in Search",
+        "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-09-09T16:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
-      {
-        "title": "Anthropic CEO renews call for AI slowdown as Nvidia's urges acceleration",
-        "url": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T03:20:10.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Musk proposes adversarsial peer review for AI Safety",
-        "url": "https://twitter.com/theallinpod/status/2099731166530277549",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-16T01:03:49.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Australian government paper proposes opt-out for AI training",
-        "url": "https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-15T22:20:16.000Z",
-        "category": "advancements"
-      },
       {
         "title": "AI for Societal Impact",
         "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -320,345 +299,366 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-09-10T16:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "Now everyone can put data to work",
+        "url": "https://openai.com/index/put-data-to-work",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T15:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+        "url": "https://openai.com/index/expanding-ai-access-us-government",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T07:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Paul Christiano joins OpenAI Foundation Board",
+        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-09T17:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "ETMarkets Smart Talk | Don’t mistake record highs for a broad rally: Why mid- and smallcaps are becoming increasingly selective, says N. ArunaGiri",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-dont-mistake-record-highs-for-a-broad-rally-why-mid-and-smallcaps-are-becoming-increasingly-selective-says-n-arunagiri/articleshow/134277077.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T03:19:57.000Z",
+        "title": "Borr Drilling to sell 51% stake in Perfomex to Mexican partner",
+        "url": "https://finance.yahoo.com/energy/articles/borr-drilling-sell-51-stake-105246747.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:52:46.000Z",
         "category": "markets"
       },
       {
-        "title": "IDBI Bank among 4 stocks closing below VWAP",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-among-4-stocks-closing-below-vwap/slideshow/134277133.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T03:17:02.000Z",
+        "title": "Silver price today, Wednesday, September 16, 2026:  Silver prices rise in anticipation of the Fed",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-16-2026-silver-prices-rise-in-anticipation-of-the-fed-105134969.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:51:34.000Z",
         "category": "markets"
       },
       {
-        "title": "Glass Wall Systems shares to make market debut today; GMP signals 23% listing gains",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/glass-wall-systems-shares-to-make-market-debut-today-gmp-signals-23-listing-gains/articleshow/134276895.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T03:00:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Prasol Chemicals shares to list today; Check GMP ahead of debut",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/prasol-chemicals-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134276775.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T02:56:58.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Kanohar Electricals shares to list today; GMP signals 30% potential listing gains",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/kanohar-electricals-shares-to-list-today-gmp-signals-30-potential-listing-gains/articleshow/134276743.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T02:53:54.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Gold prices under pressure ahead of Fed rate decision",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-under-pressure-ahead-of-fed-rate-decision/articleshow/134276702.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T02:45:52.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dollar girded by bets on a US hiking cycle",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-girded-by-bets-on-a-us-hiking-cycle/articleshow/134276622.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T02:42:54.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Oil falls as US crude inventories rise despite Saudi supply concerns",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-as-us-crude-inventories-rise-despite-saudi-supply-concerns/articleshow/134276576.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T02:37:35.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Negative Breakout: These 6 Nifty stocks cross below their 200 DMAs",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-6-nifty-stocks-cross-below-their-200-dmas/slideshow/134276487.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T02:25:56.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Oil Price Today (September 16): Crude oil hovers below $109 despite rising Saudi supply concerns. $120 soon?",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-16-crude-oil-hovers-below-109-despite-rising-saudi-supply-concerns-120-soon/articleshow/134276425.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T02:24:37.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stock futures are little changed ahead of pivotal Fed rate decision: Live updates",
-        "url": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html",
+        "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+        "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-16T02:11:22.000Z",
+        "publishedAt": "2026-09-16T10:49:12.000Z",
         "category": "markets"
       },
       {
-        "title": "Reliance Industries to raise Rs 12,500 crore via five-year bonds",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/reliance-industries-to-raise-rs-12500-crore-via-five-year-bonds/articleshow/134276232.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T02:08:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rupee seen in 94.50-96.50 range as RBI steps up intervention",
-        "url": "https://economictimes.indiatimes.com/markets/forex/rupee-expected-to-trade-in-narrow-range-of-94-50-96-50-as-rbi-steps-up-intervention/articleshow/134276147.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T02:00:39.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade higher",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-yes-bank-bhel-share-price-16-september-2026/liveblog/134276213.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T01:59:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-        "url": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+        "title": "Budweiser's parent is a buy thanks to its strong presence in emerging markets, says Deutsche Bank",
+        "url": "https://www.cnbc.com/2026/09/16/bud-is-a-buy-thanks-to-its-strong-presence-in-emerging-markets-says-deutsche-bank.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-16T01:56:24.000Z",
+        "publishedAt": "2026-09-16T10:47:50.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:47:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Novva to acquire 3.17GW of Argentine renewable assets from ABO Energy",
+        "url": "https://finance.yahoo.com/energy/articles/novva-acquire-3-17gw-argentine-104502063.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:45:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Morning Bid: A time to hike?",
+        "url": "https://finance.yahoo.com/news/morning-bid-time-hike-104329450.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:43:29.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Stock Actually Has the Technology Edge?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ionq-vs-rigetti-computing-pure-104100526.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:41:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Gold price today, Wednesday, September 16, 2026: Gold holds in the $4,300 range, awaiting the Fed's decision",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:40:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "‘We Asked ChatGPT and It Said to Realize Gains’: But CFP Wes Moss Says Don’t Withdraw a Dime",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/asked-chatgpt-said-realize-gains-103908378.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:39:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "TotalEnergies and Mistral launch oil and gas AI partnership",
+        "url": "https://finance.yahoo.com/energy/articles/totalenergies-mistral-launch-oil-gas-103748512.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:37:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
+        "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T10:37:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Kevin O’Leary, Barbara Corcoran and Robert Herjavec all avoid mixing money and family. Why retirees should do the same",
+        "url": "https://finance.yahoo.com/small-business/articles/kevin-o-leary-barbara-corcoran-103500907.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:35:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Is It Too Late to Buy Nvidia Stock?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-nvidia-stock-103500667.html",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-16T10:35:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Petrol and diesel price rises push UK inflation higher",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-16T10:33:42.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
-        "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+        "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+        "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
         "source": "CoinDesk",
-        "publishedAt": "2026-09-16T03:37:45.000Z",
+        "publishedAt": "2026-09-16T10:48:44.000Z",
         "category": "crypto"
       },
       {
-        "title": "Crypto industry turns to US regulators after CLARITY setback",
-        "url": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-16T02:24:07.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
-        "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+        "title": "Deutsche Bank close to debuting crypto custody for institutions",
+        "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
         "source": "CoinDesk",
-        "publishedAt": "2026-09-15T21:58:48.000Z",
+        "publishedAt": "2026-09-16T10:46:28.000Z",
         "category": "crypto"
       },
       {
-        "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-        "url": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+        "url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-09-15T21:23:00.000Z",
+        "publishedAt": "2026-09-16T10:33:12.000Z",
         "category": "crypto"
       },
       {
-        "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-        "url": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+        "url": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T10:30:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
+        "url": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-09-15T20:37:34.000Z",
+        "publishedAt": "2026-09-16T10:11:39.000Z",
         "category": "crypto"
       },
       {
-        "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
-        "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
+        "title": "Italy investigates government email breach linked to Revolut data leak",
+        "url": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-16T09:58:48.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
+        "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T09:57:12.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
+        "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-16T09:55:16.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "ECB seeks online merchants for 2027 digital euro pilot",
+        "url": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-16T08:36:44.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ethereum, Base give up on common wallet standard after months of talks",
+        "url": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T08:07:59.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto exchange Binance takes on tradfi by courting rich investors to join its expanded wealth-management platform",
+        "url": "https://www.cnbc.com/2026/09/16/crypto-exchange-binance-expands-wealth-management-platform-.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-15T20:16:31.000Z",
+        "publishedAt": "2026-09-16T08:04:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "Crypto stocks sink after Senate rejects Clarity Act",
-        "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
+        "title": "Nithin Kamath says new UPI charges on investing, broking don’t make sense: 'I don't see how we can absorb this indefinitely'",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-new-upi-charges-on-investing-broking-dont-make-sense-i-dont-see-how-we-can-absorb-this-indefinitely/articleshow/134280407.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-16T06:53:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+        "url": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
         "source": "CoinDesk",
-        "publishedAt": "2026-09-15T20:03:17.000Z",
+        "publishedAt": "2026-09-16T06:42:22.000Z",
         "category": "crypto"
       },
       {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
+        "url": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-09-15T19:53:13.000Z",
+        "publishedAt": "2026-09-16T06:38:48.000Z",
         "category": "crypto"
       },
       {
-        "title": "Crypto industry reacts after Clarity Act fails Senate vote",
-        "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
+        "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+        "url": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
         "source": "CoinDesk",
-        "publishedAt": "2026-09-15T19:06:31.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Republican Rep. Massie seeks Hegseth's impeachment over Iran",
-        "url": "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-15T18:58:17.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
-        "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-15T18:50:58.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "US Senate fails to advance CLARITY Act",
-        "url": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-15T18:46:51.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
-        "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-15T18:02:05.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-        "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-15T17:53:04.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Binance adds 11 US-listed ETFs to wealth management offering",
-        "url": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-15T17:22:04.000Z",
+        "publishedAt": "2026-09-16T05:54:04.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Inflation Data Points to Rate Hike: JPMorgan's Rasid",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/inflation-data-points-to-rate-hike-jpmorgan-s-rasid-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T03:39:05.000Z"
+      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "url": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T10:51:00.000Z"
     },
     {
-      "title": "Marcos Cousin Romualdez Pleads Not Guilty of Plundering Flood Project Funds",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/marcos-cousin-romualdez-pleads-not-guilty-of-plundering-flood-project-funds",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T03:31:40.000Z"
+      "title": "5% Treasury yields mean America’s debt bill just got a lot bigger",
+      "url": "https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T10:30:00.000Z"
     },
     {
-      "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
-      "url": "https://www.investing.com/news/economy-news/boj-set-to-raise-interest-rates-to-31year-high-as-inflation-risks-loom-4902847",
+      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
+      "url": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T10:29:00.000Z"
+    },
+    {
+      "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
+      "url": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T02:48:26.000Z"
+      "publishedAt": "2026-09-16T10:24:53.000Z"
     },
     {
-      "title": "Bessent to Meet He Lifeng Ahead of Trump-Xi Summit",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/bessent-to-meet-he-lifeng-ahead-of-trump-xi-summit-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T02:41:03.000Z"
+      "title": "China’s Wang Yi urges Iran and US to show restraint amid tensions",
+      "url": "https://www.investing.com/news/economy-news/chinas-wang-yi-urges-iran-and-us-to-show-restraint-amid-tensions-93CH-4903291",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-16T10:21:55.000Z"
     },
     {
-      "title": "Indian Bonds Feel the Heat From Global Yield Surge",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-16/indian-bonds-feel-the-heat-from-global-yield-surge",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T02:31:03.000Z"
-    },
-    {
-      "title": "Copper Steadies Ahead of Fed Decision as Supply Concerns Ease",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/copper-steadies-ahead-of-fed-decision-as-supply-concerns-ease",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T02:29:19.000Z"
-    },
-    {
-      "title": "Asian markets make nervous start ahead of Fed decision",
+      "title": "Stocks tick up as oil falls, bonds stabilise ahead of Fed decision",
       "url": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T02:18:29.000Z"
+      "publishedAt": "2026-09-16T10:19:54.000Z"
     },
     {
-      "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
-      "url": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T10:16:00.000Z"
+    },
+    {
+      "title": "Irish home prices rise 0.8% in July, fastest monthly gain in a year",
+      "url": "https://www.investing.com/news/economy-news/irish-home-prices-rise-08-in-july-fastest-monthly-gain-in-a-year-93CH-4903281",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T02:12:49.000Z"
+      "publishedAt": "2026-09-16T10:15:48.000Z"
     },
     {
-      "title": "Nvidia and Meta bosses reject efforts to co-ordinate AI slowdown",
-      "url": "https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-16T01:55:23.000Z"
-    },
-    {
-      "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
-      "url": "https://www.investing.com/news/economy-news/japan-august-imports-jump-as-oil-prices-lift-costs-exports-stay-firm-4902798",
+      "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
+      "url": "https://www.investing.com/news/economy-news/bond-market-woes-likely-a-factor-for-fed-but-intervention-seen-as-unlikely-4903276",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T01:42:49.000Z"
+      "publishedAt": "2026-09-16T10:13:30.000Z"
     },
     {
-      "title": "HSBC, ICICI Propel India Finance Hub With FX Loans for Diaspora",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hsbc-icici-propel-india-finance-hub-with-fx-loans-for-diaspora",
+      "title": "Meta’s Zuckerberg, Nvidia’s Huang Push Alternatives to AI Slowdown",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-16/the-pulse-9-16-2026-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T01:30:00.000Z"
+      "publishedAt": "2026-09-16T10:11:30.000Z"
     },
     {
-      "title": "Can the US and China work together on AI risks?",
-      "url": "https://www.ft.com/content/83023f2f-0c12-4239-bf27-99d8e378ec5d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-16T01:18:40.000Z"
+      "title": "Bond Traders Are Convinced the Fed Will Hike Interest Rates",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-16/bond-traders-are-convinced-the-fed-will-hike-interest-rates",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-16T10:08:32.000Z"
     },
     {
-      "title": "Dollar girded by bets on a US hiking cycle",
-      "url": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
+      "title": "Fed Rate Hike to Be One and Done, Says Citi’s Hollenhorst",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-16/fed-rate-hike-to-be-one-and-done-citi-s-hollenhorst-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-16T10:03:28.000Z"
+    },
+    {
+      "title": "UK inflation hits 3.1% but data offers some relief for BoE",
+      "url": "https://www.investing.com/news/economy-news/uk-inflation-speeds-up-to-31-in-august-4902906",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T01:06:27.000Z"
+      "publishedAt": "2026-09-16T09:54:45.000Z"
     },
     {
-      "title": "Traders Brace for Fed Hike With Equities Under Pressure",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/traders-brace-for-fed-hike-with-equities-under-pressure-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T00:58:43.000Z"
+      "title": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
+      "url": "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T09:34:00.000Z"
     },
     {
-      "title": "Brazil’s top court postpones ruling on probe of justice in politically charged case",
-      "url": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
+      "title": "EU’s von der Leyen backs AI slowdown, to invite frontier labs for talks",
+      "url": "https://www.investing.com/news/economy-news/eus-von-der-leyen-to-invite-frontier-labs-for-talks-on-tackling-ai-risks-4903012",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T00:42:52.000Z"
+      "publishedAt": "2026-09-16T09:31:30.000Z"
     },
     {
-      "title": "US charges five people linked to Russian ‘assassination network’",
-      "url": "https://www.ft.com/content/30b8d485-dfce-4b0e-912b-d32a4b5f9018?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-16T00:38:09.000Z"
+      "title": "Romania Set to Curb €10 Billion Foreign Debt Sale Plan This Year",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/romania-set-to-curb-10-billion-foreign-debt-sale-plan-this-year",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-16T09:21:05.000Z"
     },
     {
-      "title": "New Zealand parliament passes India trade deal, cutting tariffs on most exports",
-      "url": "https://www.investing.com/news/economy-news/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports-4902792",
+      "title": "Tata Sons IPO Order Backs Reclusive Tycoon’s Long-Running Ask",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/tata-sons-ipo-order-backs-reclusive-tycoon-s-long-running-ask",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-16T09:20:58.000Z"
+    },
+    {
+      "title": "‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
+      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T09:15:00.000Z"
+    },
+    {
+      "title": "Wall St futures edge higher in countdown to Fed decision",
+      "url": "https://www.investing.com/news/economy-news/wall-st-futures-edge-higher-in-countdown-to-fed-decision-4903179",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T00:30:27.000Z"
+      "publishedAt": "2026-09-16T09:12:30.000Z"
     },
     {
-      "title": "New Zealand’s World-Beating Sovereign Wealth Fund Returns 14.2%",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/new-zealand-s-world-beating-sovereign-wealth-fund-returns-14-2",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T00:24:51.000Z"
-    },
-    {
-      "title": "Shrinking China Fuel Stockpiles Raise Chance of Export Curbs",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/shrinking-chinese-fuel-inventories-raise-chance-of-export-curbs",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T00:10:17.000Z"
-    },
-    {
-      "title": "Gold Steadies Below $4,300 as Markets Await Fed Rate Decision",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/gold-steadies-below-4-300-as-markets-await-fed-rate-decision",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T00:00:15.000Z"
+      "title": "What history says about longer-term bond yields after the first Fed hike",
+      "url": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T09:11:00.000Z"
     }
   ]
 }
