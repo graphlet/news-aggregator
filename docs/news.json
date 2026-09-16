@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-16T20:59:00.812Z",
+  "lastUpdated": "2026-09-16T23:36:47.342Z",
   "ai": {
     "developers": [
+      {
+        "title": "Our framework for reporting model misalignment",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-16T17:00:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "Claude comes for Gemini with its own take on Docs and Slides",
         "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
@@ -99,16 +106,16 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-24T12:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Replit expands access to software creation with GPT-5.6 Luna",
-        "url": "https://openai.com/index/replit",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-19T07:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+        "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-16T20:59:13.000Z",
+        "category": "everyone"
+      },
       {
         "title": "The AI data center e-waste problem is huge — and getting bigger",
         "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
@@ -206,13 +213,6 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-10T07:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Get ready for the game with new football features in Search",
-        "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-09-09T16:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
@@ -287,13 +287,6 @@
         "category": "advancements"
       },
       {
-        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-14T22:59:41.000Z",
-        "category": "advancements"
-      },
-      {
         "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
         "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
         "source": "Google AI Blog",
@@ -320,23 +313,100 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-11T16:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "3 ways to prep for your next big race with Search",
+        "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-09-10T16:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
-        "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
+        "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+        "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-16T20:55:28.000Z",
+        "publishedAt": "2026-09-16T23:21:14.000Z",
         "category": "markets"
       },
       {
-        "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
-        "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+        "title": "Would you buy branded clothing from your favourite tech firm?",
+        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-16T23:18:47.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+        "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-16T23:15:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-16T23:15:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+        "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-16T20:51:44.000Z",
+        "publishedAt": "2026-09-16T23:05:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Electricity discount to be paid to NI households",
+        "url": "https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-16T23:01:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+        "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-16T22:32:18.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Watch: Why has the Federal Reserve raised interest rates?",
+        "url": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-16T22:26:10.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-16T22:16:51.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-16T22:13:36.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
+        "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-16T21:50:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+        "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-16T21:40:18.000Z",
         "category": "markets"
       },
       {
@@ -359,76 +429,6 @@
         "source": "CNBC",
         "publishedAt": "2026-09-16T20:22:24.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Shorter-dated US Treasury yields surge in anticipation of another Fed rate hike",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/shorter-dated-us-treasury-yields-surge-in-anticipation-of-another-fed-rate-hike/articleshow/134296264.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T20:16:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dollar rises after Fed hikes rates in bid to counter inflation",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dollar-rises-after-fed-hikes-rates-in-bid-to-counter-inflation/articleshow/134296325.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T20:15:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
-        "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-16T20:10:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Gold falls more than 1% after Fed hikes interest rates",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-falls-more-than-1-after-fed-hikes-interest-rates/articleshow/134296279.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T20:09:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela",
-        "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-16T20:07:55.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Fed meeting recap: Warsh says inflation is still too high as Fed hikes for the first time since 2023",
-        "url": "https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-16T20:07:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks today: Dow ends 650 pts lower after Fed rate hike, more rate tightening seen",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-ends-lower-after-fed-hikes-interest-rates-sees-more-tightening-ahead/articleshow/134296300.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T20:04:58.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
-        "url": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-16T19:56:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US Fed chair Kevin Warsh explains why the Federal Reserve raised interest rates",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chair-kevin-warsh-explains-why-the-federal-reserve-raised-interest-rates/articleshow/134296073.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-16T19:43:14.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Now that the Fed raised rates, where to score the best yields on your cash",
-        "url": "https://www.cnbc.com/2026/09/16/now-that-the-fed-raised-rates-where-to-score-the-best-yields-on-your-cash.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-16T19:39:33.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
@@ -437,6 +437,13 @@
         "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
         "source": "CNBC",
         "publishedAt": "2026-09-16T20:54:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
+        "url": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-16T20:51:38.000Z",
         "category": "crypto"
       },
       {
@@ -529,136 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-09-16T14:00:00.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
-        "url": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-16T14:00:00.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-16T20:53:00.000Z"
+      "title": "Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says",
+      "url": "https://www.ft.com/content/5f4a4fce-72bb-4ea6-862b-1da1234d5b25?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-16T23:22:35.000Z"
     },
     {
-      "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
-      "url": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-16T20:52:00.000Z"
+      "title": "Fed defies Trump with first rate rise since 2023",
+      "url": "https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-16T23:18:26.000Z"
     },
     {
-      "title": "Here’s a sneaky way to play the Fed’s rate increase",
-      "url": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-16T20:38:00.000Z"
-    },
-    {
-      "title": "Fed rate hike pushes two-year Treasury yields to highest since July 2024",
-      "url": "https://www.investing.com/news/economy-news/fed-rate-hike-pushes-twoyear-treasury-yields-to-highest-since-july-2024-93CH-4904517",
+      "title": "Bank of England to hold rates but energy shock stirs talk of a hike",
+      "url": "https://www.investing.com/news/economy-news/bank-of-england-to-hold-rates-but-energy-shock-stirs-talk-of-a-hike-4904677",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T20:31:13.000Z"
+      "publishedAt": "2026-09-16T23:12:41.000Z"
     },
     {
-      "title": "Bloomberg Deals 9/16/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/bloomberg-deals-9-16-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T20:26:28.000Z"
-    },
-    {
-      "title": "Foreign Holdings of US Treasuries Fell to Nine-Month Low in July",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/foreign-holdings-of-us-treasuries-fell-to-nine-month-low-in-july",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T20:25:37.000Z"
-    },
-    {
-      "title": "Market Repricing Fed Expectations, BlackRock's Rosenberg Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/market-repricing-fed-expectations-blackrock-s-rosenberg-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T20:25:10.000Z"
-    },
-    {
-      "title": "Stocks fall as Fed delivers hawkish rate hike",
-      "url": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+      "title": "Fed policymakers forecast one more rate hike this year",
+      "url": "https://www.investing.com/news/economy-news/fed-forecasts-see-latest-hike-followed-by-another-before-end-of-year-4904264",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T20:18:34.000Z"
+      "publishedAt": "2026-09-16T23:08:52.000Z"
     },
     {
-      "title": "US banks raise prime rate after Fed decision",
+      "title": "Major US banks raise prime rate after first Fed rate hike since 2023",
       "url": "https://www.investing.com/news/economy-news/keycorp-raises-prime-rate-after-fed-decision-4904369",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T20:12:49.000Z"
+      "publishedAt": "2026-09-16T23:08:02.000Z"
     },
     {
-      "title": "Warsh Gets a Credibility Boost",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/opinion-warsh-gets-a-credibility-boost-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T20:10:03.000Z"
-    },
-    {
-      "title": "Canadian M&A Sentiment Amid Trade War",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/canadian-m-a-sentiment-amid-trade-war-video-mu4j78hl",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T20:06:34.000Z"
-    },
-    {
-      "title": "Canadian M&A Sentiment Amid Trade War",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/canadian-m-a-sentiment-amid-trade-war-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T20:05:03.000Z"
-    },
-    {
-      "title": "Fed raises rates for first time since 2023, Warsh says inflation still too high",
-      "url": "https://www.investing.com/news/economy-news/fed-hikes-key-policy-rate-by-25-basis-points-as-widely-expected-4904237",
+      "title": "Trump lashes out at Fed after Warsh backs rate hike",
+      "url": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T20:02:44.000Z"
+      "publishedAt": "2026-09-16T23:01:30.000Z"
     },
     {
-      "title": "Lawmaker Requests Emergency Hearing Into Kennedy Center Closure",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/lawmaker-requests-emergency-hearing-into-kennedy-center-closure",
+      "title": "Asia Risks Unrest as El Niño, War Threaten Food Supplies, Consultancy Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/asia-risks-unrest-as-el-nino-war-threaten-food-supplies-consultancy-says",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T19:59:23.000Z"
+      "publishedAt": "2026-09-16T23:01:00.000Z"
     },
     {
-      "title": "Carney Courts the World’s Top Investors at Toronto Summit",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/carney-courts-world-s-top-investors-at-toronto-summit-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T19:56:15.000Z"
-    },
-    {
-      "title": "U.S. 10-year Treasury yield tops 5% again as Fed’s Warsh spotlights inflation risk",
-      "url": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
+      "title": "Scientists challenge US NIH grant screening as unconstitutional",
+      "url": "https://www.investing.com/news/economy-news/scientists-challenge-us-nih-grant-screening-as-unconstitutional-4904669",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T19:56:10.000Z"
+      "publishedAt": "2026-09-16T22:54:50.000Z"
     },
     {
-      "title": "GFL CEO Dovigi Says Company Exploring Potential Take-Private",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/gfl-ceo-dovigi-says-company-exploring-potential-take-private",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T19:45:28.000Z"
-    },
-    {
-      "title": "No Decision On Going Private: GFL CEO",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/no-decision-on-going-private-gfl-ceo-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T19:44:15.000Z"
-    },
-    {
-      "title": "Gulf central banks raise rates following Fed decision",
-      "url": "https://www.investing.com/news/economy-news/gulf-central-banks-raise-rates-following-fed-decision-93CH-4904373",
+      "title": "US International Development Finance Corp approves more than $8 billion in new investments",
+      "url": "https://www.investing.com/news/economy-news/us-international-development-finance-corp-approves-more-than-8-billion-in-new-investments-4904664",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-16T19:36:10.000Z"
+      "publishedAt": "2026-09-16T22:48:15.000Z"
     },
     {
-      "title": "GFL CEO Discusses Potentially Going Private",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/gfl-ceo-discusses-potentially-going-private-video",
+      "title": "Walter and Boehly sell Chelsea FC stakes to Clearlake for £950mn",
+      "url": "https://www.ft.com/content/a9099b59-b5ed-47e2-bdf3-ae26f5dd7317?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-16T22:32:36.000Z"
+    },
+    {
+      "title": "Brazil central bank delivers fifth straight rate cut, leaves next move open",
+      "url": "https://www.investing.com/news/economy-news/brazil-central-bank-cuts-rates-for-fifth-straight-meeting-4904608",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-16T22:31:46.000Z"
+    },
+    {
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+      "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T22:25:00.000Z"
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T22:16:00.000Z"
+    },
+    {
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T22:15:00.000Z"
+    },
+    {
+      "title": "Trump administration can proceed with homelessness program overhaul, US court rules",
+      "url": "https://www.investing.com/news/economy-news/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-rules-4904643",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-16T22:12:53.000Z"
+    },
+    {
+      "title": "Asian Bonds Decline as Fed Hikes, Dollar Jumps: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/stock-market-today-dow-s-p-live-updates",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-16T19:36:04.000Z"
+      "publishedAt": "2026-09-16T22:06:59.000Z"
+    },
+    {
+      "title": "Oil Extends Drop as Saudi Arabia Moves to Restore Vital Pipeline",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/oil-extends-slump-as-saudi-arabia-moves-to-restore-key-pipeline",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-16T22:05:54.000Z"
+    },
+    {
+      "title": "Nuclear Services Firm Holtec Is Said to Suspend US IPO Plan",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/nuclear-services-firm-holtec-is-said-to-suspend-us-ipo-plan",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-16T22:03:00.000Z"
+    },
+    {
+      "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+      "url": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T21:56:00.000Z"
+    },
+    {
+      "title": "Highlights From Fed Chairman Warsh’s News Conference",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-16/highlights-from-fed-chairman-warsh-s-news-conference-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-16T21:47:30.000Z"
     }
   ]
 }
