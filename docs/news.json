@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T21:02:24.335Z",
+  "lastUpdated": "2026-09-18T03:41:49.687Z",
   "ai": {
     "developers": [
       {
@@ -124,6 +124,13 @@
         "category": "everyone"
       },
       {
+        "title": "How Cooley is accelerating IPO work with ChatGPT",
+        "url": "https://openai.com/index/cooley-gopublic",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-17T12:00:00.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
         "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
         "source": "The Verge – AI",
@@ -205,13 +212,6 @@
         "url": "https://openai.com/index/introducing-chatgpt-financial-services",
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-10T07:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Get ready for the game with new football features in Search",
-        "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-09-09T16:00:00.000Z",
         "category": "everyone"
       }
     ],
@@ -326,112 +326,147 @@
   "finance": {
     "markets": [
       {
-        "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
-        "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+        "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+        "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-17T21:00:47.000Z",
+        "publishedAt": "2026-09-18T03:31:45.000Z",
         "category": "markets"
       },
       {
-        "title": "House heads home to campaign amid calls for urgent AI action",
-        "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T20:41:54.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stocks surge as oil and bond yields retreat, recovering from Fed-induced sell-off",
-        "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T20:38:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "As Fed raises rates, income investors can buy these bonds for solid yields and a portfolio cushion",
-        "url": "https://www.cnbc.com/2026/09/17/as-fed-raises-rates-income-investors-can-buy-these-bonds-for-solid-yields-and-a-portfolio-cushion-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T20:34:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Chase celebrates the Sapphire Reserve’s 10th anniversary with new credits and a 5.5 million-point grand prize",
-        "url": "https://www.cnbc.com/select/chase-sapphire-reserves-10th-anniversary-offer/",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T20:33:39.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
-        "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T20:32:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate",
-        "url": "https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T20:27:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
-        "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T20:22:20.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks today: US stocks rebound as tech rally gains momentum on easing oil, yields",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-rebound-as-tech-rally-gains-momentum-on-easing-oil-yields/articleshow/134320980.cms",
+        "title": "Six factors, 250 stocks and one model: How JioBlackRock is building portfolios",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/six-factors-250-stocks-and-one-model-how-jioblackrock-is-building-portfolios/articleshow/134324879.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-17T20:15:35.000Z",
+        "publishedAt": "2026-09-18T03:24:31.000Z",
         "category": "markets"
       },
       {
-        "title": "Lawmakers must 'keep their options open' on Social Security reform, former Treasury Secretary Jack Lew says",
-        "url": "https://www.cnbc.com/2026/09/17/social-security-reform-cant-wait-former-treasury-secretary-jack-lew.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T19:57:41.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "CFTC expands regulatory relief for passive trading software providers",
-        "url": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-17T19:30:48.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "A breakout in the 10-year Treasury yield could hold back stocks if it reaches this level",
-        "url": "https://www.cnbc.com/2026/09/17/a-breakout-in-the-10-year-treasury-yield-could-hold-back-stocks-if-it-reaches-this-level.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T19:13:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US Treasuries rally as oil cools and confidence in Fed’s Warsh grows",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasuries-rally-as-oil-cools-and-confidence-in-feds-warsh-grows/articleshow/134320229.cms",
+        "title": "Hero Motors IPO Day 3: GMP at 7%; Check subscription status and key details. Should you subscribe?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-day-3-gmp-at-7-check-subscription-status-and-key-details-should-you-subscribe/articleshow/134324730.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-17T18:52:53.000Z",
+        "publishedAt": "2026-09-18T03:18:50.000Z",
         "category": "markets"
       },
       {
-        "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
-        "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T18:52:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US mortgage rates brush 7%, weighing on buyers, sellers and further straining a bleak housing market",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-mortgage-rates-brush-7-weighing-on-buyers-sellers-and-further-straining-a-bleak-housing-market/articleshow/134319374.cms",
+        "title": "Sonaselection India IPO Day 2: GMP at 7%. Check subscription status and key details",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sonaselection-india-ipo-day-2-gmp-at-7-check-subscription-status-and-key-details/articleshow/134324576.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-17T18:12:39.000Z",
+        "publishedAt": "2026-09-18T03:14:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "HDFC Life Insurance Company among 4 stocks showing RSI trending up",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-life-insurance-company-among-4-stocks-showing-rsi-trending-up/slideshow/134324817.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-18T03:11:49.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+        "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-18T03:09:22.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Veegaland Developers shares to list today; Check GMP ahead of debut",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/veegaland-developers-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134324439.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-18T03:08:18.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "BOJ raises interest rates to 31-year high in widely expected move",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/boj-raises-interest-rates-to-31-year-high-in-widely-expected-move/articleshow/134324577.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-18T03:04:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+        "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-18T02:56:35.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Axiom Gas Engineering IPO opens today: Check GMP and other key details",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/axiom-gas-engineering-ipo-opens-today-check-gmp-and-other-key-details/articleshow/134324349.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-18T02:52:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Dividend alert! Last day to buy Bharat Dynamics, Dixon Tech among 55 stocks for dividends, Do you own any?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-bharat-dynamics-dixon-tech-among-55-stocks-for-dividends-do-you-own-any/articleshow/134324303.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-18T02:51:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Four SME IPOs set to list today on BSE: Check GMP ahead of listing",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/four-sme-ipos-set-to-list-today-on-bse-check-gmp-ahead-of-listing/articleshow/134324237.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-18T02:43:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "JSW Steel Share Price Live Updates: JSW Steel Volume Performance",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-today-live-18-sep-2026/liveblog/134324251.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-18T02:40:14.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates",
+        "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-18T02:38:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Last day to bid! Jindal Supreme IPO closes today: Subscription tops 31 times, GMP at 27%; should you subscribe?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/last-day-to-bid-jindal-supreme-ipo-closes-today-subscription-tops-31-times-gmp-at-27-should-you-subscribe/articleshow/134324046.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-18T02:36:37.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+        "url": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T03:03:38.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
+        "url": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-18T01:33:54.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
+        "url": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-17T23:49:23.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+        "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-17T21:47:22.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
+        "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-17T21:28:35.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -489,13 +524,6 @@
         "category": "crypto"
       },
       {
-        "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
-        "url": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-17T16:00:17.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
         "url": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -508,157 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-09-17T15:08:24.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-        "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-17T15:03:19.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Crypto for Advisors: Beyond bitcoin and ether",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-17T14:57:11.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-        "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-17T14:50:58.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
-        "url": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-17T13:35:57.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Suspended Glencore Executive Told Radiant ‘Say Nothing on Email’",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-17/suspended-glencore-executive-told-radiant-say-nothing-on-email",
+      "title": "BOJ Split Vote Sends Bearish Signal on Yen, Strategists Say",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/boj-split-vote-sends-bearish-signal-on-yen-strategists-say",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:27:50.000Z"
+      "publishedAt": "2026-09-18T03:29:32.000Z"
     },
     {
-      "title": "Small Town America Confronts Data Centers, Rejects Some Plans",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/small-town-america-confronts-data-centers-rejects-plans-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:27:14.000Z"
+      "title": "Bank of Japan raises rates to 1.25%",
+      "url": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-18T03:26:05.000Z"
     },
     {
-      "title": "Braskem Creditors Shun Debt Plan, Push Owners to Inject Cash",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-17/braskem-creditors-shun-debt-plan-push-owners-to-inject-cash",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:26:26.000Z"
-    },
-    {
-      "title": "Big Take: Why The Federal Reserve Raised Interest Rates",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/big-take-why-the-federal-reserve-raised-interest-rates-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:25:22.000Z"
-    },
-    {
-      "title": "Generac Surges 18% on $8 Billion Amazon Data Center Deal | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/generac-surges-18-on-amazon-deal-closing-bell-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:25:16.000Z"
-    },
-    {
-      "title": "Canada and EU should ally to protect democracies, Carney says, after ’associate member’ proposal angers Trump",
-      "url": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
+      "title": "Investors react to BOJ raising interest rates to 31-year high",
+      "url": "https://www.investing.com/news/economy-news/investors-react-to-boj-raising-interest-rates-to-31year-high-4906646",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-17T20:24:33.000Z"
+      "publishedAt": "2026-09-18T03:24:32.000Z"
     },
     {
-      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
-      "url": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-17T20:23:00.000Z"
-    },
-    {
-      "title": "Munis Are Near Cheapest Levels in a Year",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/munis-are-near-cheapest-levels-in-a-year-video",
+      "title": "Flooding Kills Three People as Heavy Rains Hit Northern Vietnam",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/flooding-kills-three-people-as-heavy-rains-hit-northern-vietnam",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:21:21.000Z"
+      "publishedAt": "2026-09-18T03:18:59.000Z"
     },
     {
-      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
-      "url": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-17T20:19:00.000Z"
-    },
-    {
-      "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
-      "url": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
+      "title": "Bank of Japan hikes rates to 31-yr high amid growing inflationary risks",
+      "url": "https://www.investing.com/news/economy-news/bank-of-japan-hikes-rates-to-31yr-high-amid-growing-inflationary-risks-4906643",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-17T20:18:25.000Z"
+      "publishedAt": "2026-09-18T03:11:02.000Z"
     },
     {
-      "title": "Loan Dispersion Near An All-Time High: Sinjin Bowron",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/loan-dispersion-near-an-all-time-high-sinjin-bowron-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:14:37.000Z"
-    },
-    {
-      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
-      "url": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-17T20:13:00.000Z"
-    },
-    {
-      "title": "Leveraged Loan Maturity Wall Is Coming in 2028: Michael Best",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/leveraged-loan-maturity-wall-is-coming-in-2028-best-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:12:31.000Z"
-    },
-    {
-      "title": "Duration Is The 'Knife Fight' in Treasuries: Ed Al-Hussainy",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/duration-is-the-knife-fight-in-treasuries-al-hussainy-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:06:26.000Z"
-    },
-    {
-      "title": "Private Credit Funds Exposed to Bathla Face Platform Scrutiny",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-17/private-credit-funds-exposed-to-bathla-face-platform-scrutiny",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "title": "Capitol Hill Gets Social Security Wrong",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/opinion-capitol-hill-gets-social-security-wrong-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T19:59:39.000Z"
-    },
-    {
-      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
-      "url": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-17T19:52:00.000Z"
-    },
-    {
-      "title": "Fed Hikes, Warsh's Credibility, Credit Concerns | Real Yield 9/17/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/real-yield-9-17-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-17T19:50:01.000Z"
-    },
-    {
-      "title": "Dollar pauses after Fed rally as yields, oil retreat",
-      "url": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
+      "title": "BOJ raises interest rates to 31-year high in widely expected move",
+      "url": "https://www.investing.com/news/economy-news/boj-raises-interest-rates-to-31year-high-in-widely-expected-move-4906642",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-17T19:37:07.000Z"
+      "publishedAt": "2026-09-18T03:06:25.000Z"
     },
     {
-      "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions",
-      "url": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
+      "title": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO",
+      "url": "https://www.ft.com/content/6c467774-9d91-425e-a901-26db055e37ad?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-18T03:04:36.000Z"
+    },
+    {
+      "title": "Yen Extends Declines After BOJ Hikes Rates With Two Dissents",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/yen-drops-against-dollar-after-boj-raises-rates-as-expected",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T03:03:57.000Z"
+    },
+    {
+      "title": "Copper Set for Weekly Gain as Chinese Buyers Return to the Fore",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/copper-set-for-weekly-gain-as-chinese-buyers-return-to-the-fore",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T02:58:25.000Z"
+    },
+    {
+      "title": "Tata Sons Power Struggle Deepens as Chandra’s Return a Setback for Noel",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-18/tata-sons-power-struggle-deepens-as-chandra-s-return-a-setback-for-noel",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T02:33:17.000Z"
+    },
+    {
+      "title": "Tibet’s Unlikely Wine Industry Is Bearing Fruit",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-18/tibet-s-unlikely-wine-industry-is-bearing-fruit-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T02:16:51.000Z"
+    },
+    {
+      "title": "Australia’s central bank chief warns inflation risks materialising",
+      "url": "https://www.investing.com/news/economy-news/australias-central-bank-chief-warns-inflation-risks-materialising-4906611",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-17T19:25:18.000Z"
+      "publishedAt": "2026-09-18T01:42:27.000Z"
+    },
+    {
+      "title": "Stocks rise as oil dips, yen wobbles ahead of BOJ",
+      "url": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-18T01:36:26.000Z"
+    },
+    {
+      "title": "RBA: Firms Starting to Ask If Inflation Coming Back Under 3%",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/rba-firms-starting-to-ask-if-inflation-coming-back-under-3",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T01:32:20.000Z"
+    },
+    {
+      "title": "Yuan Hits Four-Year High as PBOC Signals Support Before Trump-Xi",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-yuan-hits-strongest-level-since-2022-after-pboc-fixing",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T01:32:12.000Z"
+    },
+    {
+      "title": "Jailed Ex-Malaysian PM Najib’s Bid for Royal Pardon Said to Be Reviewed Friday",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/jailed-ex-malaysian-pm-najib-s-bid-for-royal-pardon-said-to-be-reviewed-friday",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T01:07:52.000Z"
+    },
+    {
+      "title": "Yen weak ahead of BOJ decision; rate hike expected",
+      "url": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-18T01:06:51.000Z"
+    },
+    {
+      "title": "El Niño Puts India on Track for Its Driest Monsoon Since 2009",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/el-nino-puts-india-on-track-for-its-driest-monsoon-since-2009",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T00:30:00.000Z"
+    },
+    {
+      "title": "Vietnam Stocks See Early Foreign Flows as FTSE Upgrade Nears",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/vietnam-stocks-see-early-foreign-inflows-as-ftse-upgrade-nears",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T00:28:51.000Z"
+    },
+    {
+      "title": "Gold Holds Gain as Lower Oil and Fed Hike Temper Inflation Fears",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/gold-holds-gain-as-lower-oil-and-fed-hike-temper-inflation-fears",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-18T00:15:16.000Z"
     }
   ]
 }
