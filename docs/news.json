@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T19:53:31.062Z",
+  "lastUpdated": "2026-09-21T23:53:08.128Z",
   "ai": {
     "developers": [
       {
@@ -110,6 +110,13 @@
     ],
     "everyone": [
       {
+        "title": "California tightens rules on AI data center energy and water use",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-21T20:29:45.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Can John Ternus find Apple’s next big thing?",
         "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
         "source": "The Verge – AI",
@@ -141,6 +148,13 @@
         "title": "She died at the San Diego border. A surveillance camera was in plain sight",
         "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
         "source": "MIT Technology Review",
+        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "source": "OpenAI Blog",
         "publishedAt": "2026-09-21T12:00:00.000Z",
         "category": "everyone"
       },
@@ -194,24 +208,10 @@
         "category": "everyone"
       },
       {
-        "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-19T14:00:00.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Could AI really kill us all? Your questions, answered.",
         "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-09-18T11:29:22.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "How Cooley is accelerating IPO work with ChatGPT",
-        "url": "https://openai.com/index/cooley-gopublic",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-09-17T12:00:00.000Z",
         "category": "everyone"
       }
     ],
@@ -326,112 +326,140 @@
   "finance": {
     "markets": [
       {
-        "title": "Retailer Revolve announces partnership with Donatella Versace",
-        "url": "https://www.cnbc.com/2026/09/21/revolve-partnership-donatella-versace.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-21T19:44:52.000Z",
+        "title": "I couldn't cook when I left home – but these easy £2.50 recipes became my go-to",
+        "url": "https://www.bbc.co.uk/news/articles/cgjqgjn3n2wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-21T23:41:20.000Z",
         "category": "markets"
       },
       {
-        "title": "Eli Lilly CEO says 700,000 new seniors have started GLP-1s after Medicare coverage, and 70% are on Lilly drugs",
-        "url": "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html",
+        "title": "Stock futures are little changed after S&P 500 posts best day since early August: Live updates",
+        "url": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-21T19:37:01.000Z",
+        "publishedAt": "2026-09-21T23:30:37.000Z",
         "category": "markets"
       },
       {
-        "title": "Flights disrupted into Newark, New York, Philadelphia after Verizon cable cut",
-        "url": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-21T19:36:24.000Z",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
         "category": "markets"
       },
       {
-        "title": "Much of Trump’s promised midterm election spending has yet to surface, new filing shows",
-        "url": "https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-21T19:28:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads",
+        "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
         "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-21T19:14:21.000Z",
+        "publishedAt": "2026-09-21T23:03:57.000Z",
         "category": "markets"
       },
       {
-        "title": "Intel surges 12% as CPU stocks rally. Here's what's driving the move",
-        "url": "https://www.cnbc.com/2026/09/21/intel-surges-12percent-as-cpu-stocks-rally-heres-whats-driving-the-move.html",
+        "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
+        "url": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-21T19:11:22.000Z",
+        "publishedAt": "2026-09-21T23:03:04.000Z",
         "category": "markets"
       },
       {
-        "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-        "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-21T19:00:48.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production",
-        "url": "https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-21T18:57:34.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump media ban lawsuit set for Wednesday court hearing",
-        "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-21T18:56:39.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+        "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-09-21T18:42:44.000Z",
+        "publishedAt": "2026-09-21T23:01:26.000Z",
         "category": "markets"
       },
       {
-        "title": "Morgan Stanley's top picks list trounced the S&P 500 the last 12 months. Here are the new members",
-        "url": "https://www.cnbc.com/2026/09/21/morgan-stanleys-top-picks-list-beat-the-sp-500-the-last-12-months.html",
+        "title": "Vet prescription fees capped under rule changes",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-21T23:01:18.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
+        "url": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-21T18:38:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Investors upbeat on hawkish Fed fighting inflation but remain wary of crude oil prices and AI risks",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/investors-upbeat-on-hawkish-fed-fighting-inflation-but-remain-wary-of-crude-oil-prices-and-ai-risks/articleshow/134395926.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-21T18:23:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Landmark NSE IPO threatens to hollow out Dalal Street’s shadow market",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/landmark-nse-ipo-threatens-to-hollow-out-dalal-streets-shadow-market/articleshow/134396017.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-21T18:13:24.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What is the White House press pool and why does it matter?",
-        "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-21T17:27:40.000Z",
+        "publishedAt": "2026-09-21T22:46:26.000Z",
         "category": "markets"
       },
       {
         "title": "Stock boom is fueling a ‘retirement party,’ economists say — what it means for workers",
         "url": "https://www.cnbc.com/2026/09/21/stock-gains-fuel-retirements-among-older-workers-economists.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-21T17:14:25.000Z",
+        "publishedAt": "2026-09-21T21:45:45.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-21T21:34:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "What is the White House press pool and why does it matter?",
+        "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-21T21:01:26.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
+        "url": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-21T20:51:11.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Much of Trump’s promised midterm election spending has yet to surface, new filing shows",
+        "url": "https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-21T20:34:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+        "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-21T20:21:18.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "US stocks: US market ends sharply higher as AI optimism reignites and Treasury yields retreat",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat/articleshow/134397491.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-21T20:14:34.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
+        "url": "https://www.cnbc.com/2026/09/21/stocks-had-a-great-day-on-the-surface-but-something-alarming-occurred-not-seen-since-1999.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-21T21:20:41.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+        "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-21T20:39:39.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+        "url": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-21T20:37:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-21T19:53:04.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
         "url": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
@@ -508,157 +536,129 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-09-21T14:34:44.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
-        "url": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-21T13:30:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-        "url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-21T13:11:15.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
-        "url": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-21T12:48:21.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
-        "url": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-21T12:44:33.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Meta leads tech rally as oil prices fall",
-      "url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
+      "title": "Trump presses Zelenskyy to stop hitting Russian refineries",
+      "url": "https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-21T19:47:04.000Z"
+      "publishedAt": "2026-09-21T23:29:28.000Z"
     },
     {
-      "title": "Elon Musk, Jensen Huang and Tim Cook are set to dine with Xi this week. Here’s what their companies want from China.",
-      "url": "https://www.marketwatch.com/story/elon-musk-jensen-huang-and-tim-cook-are-set-to-dine-this-week-with-xi-heres-what-their-companies-want-from-china-cd1a1814?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T19:46:00.000Z"
-    },
-    {
-      "title": "Moderna will reveal the data for its mRNA cancer vaccine next month. Here’s why it matters.",
-      "url": "https://www.marketwatch.com/story/moderna-will-reveal-the-data-for-its-mrna-cancer-vaccine-next-month-heres-why-it-matters-4470a558?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T19:43:00.000Z"
-    },
-    {
-      "title": "Truist Sees ABS Sales Climbing 15% This Year as Spreads Narrow",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/truist-sees-abs-sales-climbing-15-this-year-as-spreads-narrow",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-21T19:39:55.000Z"
-    },
-    {
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T19:30:00.000Z"
-    },
-    {
-      "title": "The hottest part of the AI trade could be turning into its biggest weakness",
-      "url": "https://www.marketwatch.com/story/the-hottest-part-of-the-ai-trade-could-be-turning-into-its-biggest-weakness-099f2c09?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T19:24:00.000Z"
-    },
-    {
-      "title": "Forget Elon Musk and Jeff Bezos: The ‘everywhere millionaires’ created the blueprint for regular people to get rich in America",
-      "url": "https://www.marketwatch.com/story/forget-elon-musk-and-jeff-bezos-the-everywhere-millionaires-created-the-blueprint-for-regular-people-to-get-rich-in-america-df543f9c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T19:23:00.000Z"
-    },
-    {
-      "title": "Trump proposes $5 billion fund for Mideast energy infrastructure - WSJ",
-      "url": "https://www.investing.com/news/economy-news/trump-proposes-5-billion-fund-for-mideast-energy-infrastructure--wsj-93CH-4909547",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-21T19:21:03.000Z"
-    },
-    {
-      "title": "UNGA Convenes While Questions Remain on Iran, Russia",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-21/unga-convenes-while-questions-remain-on-iran-russia",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-21T19:20:55.000Z"
-    },
-    {
-      "title": "Calif. AG Bonta Says Settlement Is Not a 'Blessing' for Paramount Deal",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-21/calif-ag-bonta-says-paramount-settlement-protects-jobs-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-21T19:08:22.000Z"
-    },
-    {
-      "title": "Fed’s Musalem Says More Rate Hikes Likely Needed to Cool Prices",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/fed-s-musalem-says-more-rate-hikes-likely-needed-to-cool-prices",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-21T19:02:46.000Z"
-    },
-    {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T19:00:00.000Z"
-    },
-    {
-      "title": "Exclusive-Fed’s Musalem says more rate hikes likely needed to quell inflation",
-      "url": "https://www.investing.com/news/economy-news/exclusivefeds-musalem-says-more-rate-hikes-likely-needed-to-quell-inflation-4909515",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-21T18:54:33.000Z"
-    },
-    {
-      "title": "Paramount reaches settlement to clear path for $110bn Warner Bros deal",
-      "url": "https://www.ft.com/content/0bfc882f-fe1b-40cb-a356-162e833f2008?syn-25a6b1a6=1",
+      "title": "‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports",
+      "url": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-21T18:38:20.000Z"
+      "publishedAt": "2026-09-21T23:28:40.000Z"
+    },
+    {
+      "title": "Vietnam’s Leader Declares US Trade Deal Close",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-21/vietnam-s-leader-declares-us-trade-deal-close-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T23:00:23.000Z"
+    },
+    {
+      "title": "Paramount settles lawsuits, allowing for Warner Bros. deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-settles-suits-allowing-for-warner-bros-deal-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T22:29:35.000Z"
+    },
+    {
+      "title": "Asian Stocks to Gain on Tech Optimism, Oil Falls: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T22:18:13.000Z"
+    },
+    {
+      "title": "US Plans $5 Billion Middle East Reconstruction Fund for Iran War",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/us-plans-5-billion-middle-east-reconstruction-fund-for-iran-war",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T22:13:10.000Z"
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for Sept. 22",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/latest-oil-market-news-and-analysis-for-sept-22",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T22:04:50.000Z"
+    },
+    {
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-21T22:01:00.000Z"
+    },
+    {
+      "title": "Ecuador Asks US Daily to Help Curb $30 Billion Cocaine Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/ecuador-asks-us-daily-for-help-curbing-30-billion-cocaine-trade",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T22:00:44.000Z"
+    },
+    {
+      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+      "url": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-21T21:57:00.000Z"
+    },
+    {
+      "title": "'Years of Growth Left': Grimba",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-21/-years-of-growth-left-grimba-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T21:51:35.000Z"
+    },
+    {
+      "title": "Nvidia, QIA-backed Iambic Therapeutics files for US IPO as biotech boom rolls on",
+      "url": "https://www.investing.com/news/economy-news/nvidia-qiabacked-iambic-therapeutics-files-for-us-ipo-as-biotech-boom-rolls-on-4909708",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-21T21:48:55.000Z"
+    },
+    {
+      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "url": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-21T21:47:00.000Z"
+    },
+    {
+      "title": "Oil Settles Near $100 as Hormuz Flows Stunt Rally",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-21/oil-settles-near-100-as-hormuz-flows-stunt-rally-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T21:42:00.000Z"
+    },
+    {
+      "title": "CoreWeave-Tied Data Center Project Kicks Off Junk-Bond Offering",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/coreweave-tied-data-center-project-kicks-off-junk-bond-offering",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T21:40:59.000Z"
+    },
+    {
+      "title": "Test Your ETF Knowledge In Our IQ Test",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-21/test-your-etf-knowledge-in-our-iq-test-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-21T21:38:45.000Z"
+    },
+    {
+      "title": "Burnham to call for global effort to control threats posed by AI",
+      "url": "https://www.ft.com/content/697c5196-3aa4-4c59-bad9-a455bcc1858f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-21T21:30:12.000Z"
     },
     {
       "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
       "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-21T18:30:00.000Z"
+      "publishedAt": "2026-09-21T21:30:00.000Z"
     },
     {
-      "title": "Paramount Settles Lawsuits With States Clearing the Way to Buy WBD",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-settles-lawsuits-clearing-way-to-buy-wbd-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-21T18:27:40.000Z"
-    },
-    {
-      "title": "Fed’s Musalem says more rate hikes likely needed to curb inflation",
-      "url": "https://www.investing.com/news/economy-news/feds-musalem-says-more-rate-hikes-likely-needed-to-curb-inflation-4909511",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-21T18:22:43.000Z"
-    },
-    {
-      "title": "Trump administration sued over withheld federal grants for US community lenders",
-      "url": "https://www.investing.com/news/economy-news/trump-administration-sued-over-withheld-federal-grants-for-us-community-lenders-4909510",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-21T18:18:55.000Z"
-    },
-    {
-      "title": "Crypto Tokens Jump Up to 50% in a Post-Clarity Regulatory Bet",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/crypto-tokens-jump-up-to-50-in-a-post-clarity-regulatory-bet",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-21T18:18:39.000Z"
-    },
-    {
-      "title": "Top Republicans tell Trump to ban US diesel exports ahead of midterms",
-      "url": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1",
+      "title": "France calls on EU to take immediate action to lower energy prices",
+      "url": "https://www.ft.com/content/07c05f00-5c05-4b6d-837b-17118b266ecd?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-21T18:15:56.000Z"
+      "publishedAt": "2026-09-21T21:25:24.000Z"
+    },
+    {
+      "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+      "url": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-21T21:17:00.000Z"
     }
   ]
 }
