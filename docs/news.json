@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-24T16:41:06.039Z",
+  "lastUpdated": "2026-09-24T21:15:21.466Z",
   "ai": {
     "developers": [
+      {
+        "title": "Jensen Huang talks about AI and climate change like a supervillain",
+        "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-24T18:04:44.000Z",
+        "category": "developers"
+      },
       {
         "title": "Our framework for reporting model misalignment",
         "url": "https://openai.com/index/model-misalignment-reporting-framework",
@@ -99,16 +106,44 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-19T07:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Partnering with CodeAI to prepare the first AI generation",
-        "url": "https://openai.com/index/partnering-with-codeai",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-18T11:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-24T19:59:26.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Meta is going to let you build games with AI right on your phone",
+        "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-24T17:52:29.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Muse will apparently let you download its entire filesystem",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-24T17:14:12.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Muse sure looks a lot like OpenClaw",
+        "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-24T17:10:38.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+        "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-24T17:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
@@ -135,41 +170,6 @@
         "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
         "source": "The Verge – AI",
         "publishedAt": "2026-09-24T14:15:05.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "I have some questions for Mark Zuckerberg",
-        "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-24T14:15:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Meta’s Muse AI Charms can interact with each other",
-        "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-24T13:31:43.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Everything is spying on you and there&#8217;s no opting out",
-        "url": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-24T13:30:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "OpenAI agents hacked an Australian government website in search of data",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-24T11:52:32.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Meta is making a standalone Muse AI gadget",
-        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-24T00:15:20.000Z",
         "category": "everyone"
       },
       {
@@ -216,13 +216,6 @@
       }
     ],
     "advancements": [
-      {
-        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-        "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-24T09:04:18.000Z",
-        "category": "advancements"
-      },
       {
         "title": "Google Beam expands with new regions, partners, and customers",
         "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -320,118 +313,202 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-22T00:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+        "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 5%",
-        "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+        "title": "Senate narrowly votes down resolution calling for end to Iran war",
+        "url": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-24T16:38:08.000Z",
+        "publishedAt": "2026-09-24T20:36:15.000Z",
         "category": "markets"
       },
       {
-        "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
-        "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+        "title": "Dow falls for a third day as bond yields hit fresh highs: Live updates",
+        "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-24T16:37:02.000Z",
+        "publishedAt": "2026-09-24T20:35:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
+        "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-24T20:25:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
+        "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-24T20:11:24.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "US stocks: S&amp;P 500 ends nearly flat as US-Iran talks help stocks pare losses",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-ends-nearly-flat-as-us-iran-talks-help-stocks-pare-losses/articleshow/134469382.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-24T20:11:13.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
+        "url": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-24T20:04:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Oracle sends 'force majeure' notice about data center project — stock drops 3%",
+        "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-24T20:00:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Here's how to check your business credit score with Dun & Bradstreet",
+        "url": "https://www.cnbc.com/select/dun-and-bradstreet-how-to-check-your-business-credit-score/",
+        "source": "CNBC",
+        "publishedAt": "2026-09-24T19:56:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bond yields keep rising. How income investors can best take advantage of the moves",
+        "url": "https://www.cnbc.com/2026/09/24/bond-yields-keep-rising-how-income-investors-can-best-take-advantage.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-24T19:51:22.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "KFC debuts Open House restaurant in Texas to test new customer experiences",
+        "url": "https://www.cnbc.com/2026/09/24/kfc-open-house-concept-texas.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-24T19:47:56.000Z",
         "category": "markets"
       },
       {
         "title": "White House allows blocked reporters in after judge lifts Trump ban",
         "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-24T16:33:20.000Z",
+        "publishedAt": "2026-09-24T19:46:09.000Z",
         "category": "markets"
       },
       {
-        "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-        "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
+        "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+        "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-24T16:33:15.000Z",
+        "publishedAt": "2026-09-24T19:37:59.000Z",
         "category": "markets"
       },
       {
-        "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
-        "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+        "title": "What must happen for Boeing stock to get unstuck. The company needs, at least, to do its part",
+        "url": "https://www.cnbc.com/2026/09/24/what-must-happen-for-boeing-stock-to-get-unstuck-the-company-needs-to-do-its-part.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-24T16:26:47.000Z",
+        "publishedAt": "2026-09-24T19:27:25.000Z",
         "category": "markets"
       },
       {
-        "title": "Stocks making the biggest moves midday: Oracle, Everpure, Meta Platforms, Nebius, Bloom Energy, MGM & more",
-        "url": "https://www.cnbc.com/2026/09/24/stocks-making-the-biggest-moves-midday-orcl-p-meta-nbis-be.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-24T16:21:43.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Should you buy a home when rates are over 7%? Here are the best lenders for finding a deal",
-        "url": "https://www.cnbc.com/select/should-you-buy-a-home-when-rates-are-high/",
-        "source": "CNBC",
-        "publishedAt": "2026-09-24T16:15:16.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
-        "url": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-24T16:13:13.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "MGM Resorts shares sink 9% after Barry Diller's People Inc. rescinds takeover offer",
-        "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-24T16:06:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The 'Magnificent Seven' is bucking the market trend. Why the jump in Treasury yields may be helping",
-        "url": "https://www.cnbc.com/2026/09/24/magnificent-seven-rallies-as-treasury-yields-rise.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-24T16:05:26.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Sebi clears PRIM route for PMS players to invest in mutual funds, SIFs; Rs 25 lakh minimum ticket",
-        "url": "https://economictimes.indiatimes.com/markets/aif-pms/sebi-clears-prim-route-for-pms-players-to-invest-in-mutual-funds-sifs-rs-25-lakh-minimum-ticket/articleshow/134466306.cms",
+        "title": "US Federal Reserve’s Anna Paulson sees scope for more interest rate hikes amid inflation risks",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserves-anna-paulson-sees-scope-for-more-interest-rate-hikes-amid-inflation-risks/articleshow/134468950.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-24T16:04:31.000Z",
+        "publishedAt": "2026-09-24T19:01:01.000Z",
         "category": "markets"
       },
       {
-        "title": "HDFC MF bets on PB Fintech, buys stake worth Rs 321 crore as IRDAI reforms trigger 36% stock rout",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mf-bets-on-pb-fintech-buys-stake-worth-rs-321-crore-as-irdai-reforms-trigger-36-stock-rout/articleshow/134466281.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-24T16:00:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
-        "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+        "title": "This stock’s defensive appeal faces a valuation test. Here's where else investors can look",
+        "url": "https://www.cnbc.com/2026/09/24/this-stocks-defensive-appeal-faces-a-valuation-test-heres-where-else-investors-can-look.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-24T15:56:24.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134466210.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-24T15:53:54.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-09-24T15:42:07.000Z",
+        "publishedAt": "2026-09-24T18:57:10.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+        "url": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-24T20:57:11.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
+        "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-24T20:32:16.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
+        "url": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T20:13:25.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
+        "url": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T20:05:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
+        "url": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T20:04:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "The stock token debate, and the gap nobody can close alone",
+        "url": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T20:03:21.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
+        "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-24T19:57:28.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-24T19:50:39.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
+        "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T18:46:58.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+        "url": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-24T17:14:35.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+        "url": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-24T17:13:38.000Z",
+        "category": "crypto"
+      },
       {
         "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
         "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -459,206 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-09-24T15:07:18.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T14:49:28.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-        "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T14:41:05.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-24T13:29:50.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-        "url": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-24T13:29:06.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-        "url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
-        "url": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-        "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-24T13:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
-        "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T12:31:53.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
-        "url": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T12:26:43.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
-        "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-24T12:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
-        "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T11:33:57.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Do this one thing to help prevent your parents from being scammed",
-      "url": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-24T16:36:00.000Z"
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-24T16:30:00.000Z"
-    },
-    {
-      "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they’re building wealth.",
-      "url": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-24T16:27:00.000Z"
-    },
-    {
-      "title": "Bank of England rate setters warn of ’sparks in the tinderbox’",
-      "url": "https://www.investing.com/news/economy-news/bank-of-england-rate-setters-warn-of-sparks-in-the-tinderbox-4915841",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-24T16:25:32.000Z"
-    },
-    {
-      "title": "US long-term borrowing costs touch highest level since 2004",
-      "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-24T16:25:10.000Z"
-    },
-    {
-      "title": "The S&P 500’s newest tech stock is now its best performer",
-      "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-24T16:23:00.000Z"
-    },
-    {
-      "title": "Trump-Backed Export Ban Could Initially Lower Diesel Prices",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/trump-backed-export-ban-could-initially-lower-diesel-prices",
+      "title": "Big Take: This Isn't Your Grandparents' UN",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-24/big-take-this-isn-t-your-grandparents-un-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-24T16:22:29.000Z"
+      "publishedAt": "2026-09-24T21:05:30.000Z"
     },
     {
-      "title": "White House defies court order and blocks access to news outlets",
-      "url": "https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-24T16:21:13.000Z"
-    },
-    {
-      "title": "US mortgage rates breach 7% as affordability pressures mount",
-      "url": "https://www.ft.com/content/cabe2c29-9f66-470b-b7ac-b2bc324aa367?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-24T16:12:59.000Z"
-    },
-    {
-      "title": "Yields elevated as inflation fears keep markets on edge",
-      "url": "https://www.investing.com/news/economy-news/bond-market-selloff-rumbles-on-ahead-of-trump-and-xi-talks-4915616",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-24T16:02:00.000Z"
-    },
-    {
-      "title": "Top Intelligence Panel Democrat Seeks Briefing on F-35 Parts",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/top-intelligence-panel-democrat-seeks-briefing-on-f-35-parts",
+      "title": "Milei Rules Out Deporting Falkland Residents If UK Cedes Control of Islands",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/milei-rules-out-deporting-falkland-residents-if-uk-cedes-control-of-islands",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-24T16:01:02.000Z"
+      "publishedAt": "2026-09-24T20:55:03.000Z"
     },
     {
-      "title": "3 questions to ask your parents about their estate plan — other than ‘How much money do you have?’",
-      "url": "https://www.marketwatch.com/story/3-questions-to-ask-your-parents-about-their-estate-plan-other-than-how-much-money-do-you-have-4000199a?mod=mw_rss_topstories",
+      "title": "Uncertainty Creating 'Unfortunate Perfect Recipe' For Yield Upside: Patel",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-24/uncertainty-puts-yield-upside-in-perfect-recipe-patel-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-24T20:54:03.000Z"
+    },
+    {
+      "title": "Costco earnings beat expectations, thanks to tariff refunds",
+      "url": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-24T16:01:00.000Z"
+      "publishedAt": "2026-09-24T20:54:00.000Z"
     },
     {
-      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
-      "url": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+      "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
+      "url": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-24T16:00:00.000Z"
+      "publishedAt": "2026-09-24T20:50:00.000Z"
     },
     {
-      "title": "Brazil central bank says 2027 slowdown key to inflation convergence",
-      "url": "https://www.investing.com/news/economy-news/brazil-central-bank-says-2027-slowdown-key-to-inflation-convergence-4915845",
+      "title": "New Tech Issuance Repricing Existing Debt: Rosner",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-24/new-tech-issuance-repricing-existing-debt-rosner-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-24T20:38:40.000Z"
+    },
+    {
+      "title": "Trump and Xi agreed to support each other in hosting APEC, G20 summits, Xinhua reports",
+      "url": "https://www.investing.com/news/economy-news/trump-and-xi-agreed-to-support-each-other-in-hosting-apec-g20-summitsxinhua-reports-4916211",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-24T15:54:48.000Z"
+      "publishedAt": "2026-09-24T20:36:57.000Z"
     },
     {
-      "title": "As diesel prices surge, Tesla makes its big play for the trucking market",
-      "url": "https://www.marketwatch.com/story/as-diesel-prices-surge-tesla-makes-its-big-play-for-the-trucking-market-b6e2b6f7?mod=mw_rss_topstories",
+      "title": "Meta’s Best Month Since 2013 Has It on Cusp of $2 Trillion Level",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/meta-s-best-month-since-2013-has-it-on-cusp-of-2-trillion-level",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-24T20:31:34.000Z"
+    },
+    {
+      "title": "Blue Origin raises $10B as Bezos’ total investment hits $32B - WSJ",
+      "url": "https://www.investing.com/news/economy-news/blue-origin-raises-10b-as-bezos-total-investment-hits-32b--wsj-4916152",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-24T20:25:21.000Z"
+    },
+    {
+      "title": "Akamai Surges on $12 Billion Anthropic AI Computing Deal | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-24/akamai-surges-on-anthropic-ai-deal-closing-bell-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-24T20:22:32.000Z"
+    },
+    {
+      "title": "Poverty rate tests Argentina’s Milei ahead of election",
+      "url": "https://www.investing.com/news/economy-news/poverty-ratetests-argentinas-milei-ahead-of-election-4914838",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-24T20:20:36.000Z"
+    },
+    {
+      "title": "Half Of US Public Schools Report Operating Deficits: S&P Global",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-24/half-of-us-public-schools-have-deficits-s-p-global-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-24T20:20:23.000Z"
+    },
+    {
+      "title": "Stop trying to beat the market: Even the richest Americans can’t do it consistently",
+      "url": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-24T15:54:00.000Z"
+      "publishedAt": "2026-09-24T20:20:00.000Z"
     },
     {
-      "title": "Russia raises taxes to fund its war in Ukraine",
-      "url": "https://www.ft.com/content/ded9ae05-3c5c-431e-926b-9cb1864e4fb0?syn-25a6b1a6=1",
+      "title": "How the world’s biggest bond managers are investing in a tumultuous market",
+      "url": "https://www.investing.com/news/economy-news/how-the-worlds-biggest-bond-managers-are-investing-in-a-tumultuous-market-4914675",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-24T20:19:39.000Z"
+    },
+    {
+      "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
+      "url": "https://www.investing.com/news/economy-news/wall-st-futures-fall-on-middle-east-uncertainties-ahead-of-trumpxi-talks-4914927",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-24T20:19:18.000Z"
+    },
+    {
+      "title": "Oracle’s stock is falling as investors fear a data-center setback",
+      "url": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-24T20:12:00.000Z"
+    },
+    {
+      "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
+      "url": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-24T19:42:00.000Z"
+    },
+    {
+      "title": "There's Room For Bond Selloff To Go Further: Dunn",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-24/there-s-room-for-bond-selloff-to-go-further-dunn-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-24T19:42:00.000Z"
+    },
+    {
+      "title": "I’m afraid of ‘starving to death.’ Social Security stopped our checks due to a hacked bank account. What can we do?",
+      "url": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-24T19:40:00.000Z"
+    },
+    {
+      "title": "SoftBank pays steep price for record bond sale to fund OpenAI bet",
+      "url": "https://www.ft.com/content/17b09993-8fed-47d1-9c04-e2d29ca75615?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-24T15:52:48.000Z"
-    },
-    {
-      "title": "Bank of England official signals support for rate increase",
-      "url": "https://www.investing.com/news/economy-news/bank-of-england-official-signals-support-for-rate-increase-93CH-4915835",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-24T15:43:19.000Z"
-    },
-    {
-      "title": "Dollar ascends to fresh 2-month high on inflation worry, Fed hike expectations",
-      "url": "https://www.investing.com/news/economy-news/dollar-perched-at-twomonth-high-as-hot-pmi-fuels-inflation-fears-rate-hike-bets-4914371",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-24T15:42:29.000Z"
-    },
-    {
-      "title": "Westwood CEO Says Texas ETF Listing Aligns With Business",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-24/westwood-ceo-says-texas-etf-listing-aligns-with-business-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-24T15:41:53.000Z"
-    },
-    {
-      "title": "Nobel Prize Winner James Robinson at Odd Lots LIVE",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-24/nobel-prize-winner-james-robinson-at-odd-lots-live",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-24T15:40:19.000Z"
+      "publishedAt": "2026-09-24T19:39:43.000Z"
     }
   ]
 }
