@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T03:55:21.673Z",
+  "lastUpdated": "2026-09-25T11:22:25.416Z",
   "ai": {
     "developers": [
       {
@@ -7,6 +7,13 @@
         "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
         "source": "The Verge – AI",
         "publishedAt": "2026-09-24T18:04:44.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+        "url": "https://openai.com/index/v7",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
         "category": "developers"
       },
       {
@@ -99,16 +106,16 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-08-24T12:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Replit expands access to software creation with GPT-5.6 Luna",
-        "url": "https://openai.com/index/replit",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-19T07:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-25T09:16:25.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
         "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
@@ -203,13 +210,6 @@
       {
         "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
         "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-21T12:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-        "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-09-21T12:00:00.000Z",
         "category": "everyone"
@@ -326,339 +326,339 @@
   "finance": {
     "markets": [
       {
-        "title": "NSE shares in focus a day after IPO debut. Why Macquarie, other brokerages are bullish",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-shares-in-focus-a-day-after-ipo-debut-why-macquarie-other-brokerages-are-bullish/articleshow/134474308.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T03:31:21.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Axiom Gas Engineering SME IPO shares to list today: Key details investors should know",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/axiom-gas-engineering-sme-ipo-shares-to-list-today-key-details-investors-should-know/articleshow/134474261.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T03:27:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "U.S. government seeks to join Elon Musk in challenge against EU's fine on X",
-        "url": "https://www.cnbc.com/2026/09/25/us-government-seeks-to-join-musk-in-challenge-against-eus-fine-on-x.html",
+        "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
+        "url": "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-25T03:24:57.000Z",
+        "publishedAt": "2026-09-25T11:17:27.000Z",
         "category": "markets"
       },
       {
-        "title": "Moneyview IPO enters Day 2: Subscription reaches 1.4x, GMP signals 38% potential listing gain; should you bid?",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/moneyview-ipo-enters-day-2-subscription-reaches-1-4x-gmp-signals-38-potential-listing-gain-should-you-bid/articleshow/134473917.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T03:08:29.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "IPO GMP Today Live Updates | AceVector, Orient Cables IPO opens today; check GMP and other key details",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-acevector-snapdeal-orient-cables-moneyview-a-one-steals-india-grey-market-price-band-subscription-status-allotment-listing-date-news/liveblog/134474074.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T03:06:12.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Adroit Industries IPO Day 3: GMP at 28%, subscription reaches 18.07 times. Should you subscribe?",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/adroit-industries-ipo-day-3-gmp-at-28-subscription-reaches-18-07-times-should-you-subscribe/articleshow/134473661.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T03:02:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "A-One Steels IPO Day 2: Check subscription status, latest GMP, reviews, other key details",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/a-one-steels-ipo-day-2-check-subscription-status-latest-gmp-reviews-other-key-details/articleshow/134473541.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T02:46:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dollar set for weekly gains as yields surge, Fed bets build",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-set-for-weekly-gains-as-yields-surge-fed-bets-build/articleshow/134473522.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T02:39:37.000Z",
+        "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+        "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-25T11:14:24.000Z",
         "category": "markets"
       },
       {
         "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
         "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-25T02:38:53.000Z",
+        "publishedAt": "2026-09-25T11:08:05.000Z",
         "category": "markets"
       },
       {
-        "title": "Varmora Granito IPO allotment likely today: Flat GMP signals muted listing. Here’s how to check status",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/varmora-granito-ipo-allotment-likely-today-flat-gmp-signals-muted-listing-heres-how-to-check-status/articleshow/134473395.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T02:36:09.000Z",
+        "title": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
+        "url": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-25T11:00:01.000Z",
         "category": "markets"
       },
       {
-        "title": "5 SME IPOs open for subscription today, September 25: Check issue size, price band, lot size and key dates",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/5-sme-ipos-open-for-subscription-today-september-25-check-issue-size-price-band-lot-size-and-key-dates/articleshow/134473313.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T02:31:50.000Z",
+        "title": "NIH funding cuts delayed a promising childhood brain cancer trial. Patients lost time they didn't have.",
+        "url": "https://www.cnbc.com/2026/09/25/nih-cuts-delayed-a-cancer-trial-patients-lost-time-they-didnt-have.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-25T11:00:01.000Z",
         "category": "markets"
       },
       {
-        "title": "Orient Cables IPO opens today: GMP signals 19% listing gain; check key details",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/orient-cables-ipo-opens-today-gmp-signals-19-listing-gain-check-key-details/articleshow/134473285.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T02:24:36.000Z",
+        "title": "UK diesel price close to all-time high",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-25T10:50:49.000Z",
         "category": "markets"
       },
       {
-        "title": "Runwal Enterprises IPO opens today: Check GMP and key details. Should you subscribe?",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/runwal-enterprises-ipo-opens-today-check-gmp-and-key-details-should-you-subscribe/articleshow/134473268.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T02:24:31.000Z",
+        "title": "JPMorgan says buy this sports data stock that looks cheap",
+        "url": "https://www.cnbc.com/2026/09/25/jpmorgan-says-buy-this-sports-data-stock-that-looks-cheap.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-25T10:47:03.000Z",
         "category": "markets"
       },
       {
-        "title": "Negative Breakout: These 8 midcap stocks cross below their 200 DMAs",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-midcap-stocks-cross-below-their-200-dmas/slideshow/134473242.cms",
+        "title": "Global Market: Airbus shares fall after quality flaw found in hundreds of A321neo jets",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-airbus-shares-fall-after-quality-flaw-found-in-hundreds-of-a321neo-jets/articleshow/134482831.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T02:08:58.000Z",
+        "publishedAt": "2026-09-25T10:45:06.000Z",
         "category": "markets"
       },
       {
-        "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade mixed",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-waaree-energies-pb-fintech-share-price-25-september-2026/liveblog/134473224.cms",
+        "title": "Stock futures tick higher, but Dow heads for fourth straight losing week: Live updates",
+        "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-25T10:40:04.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+        "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-25T10:36:55.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Explained: What really drives the rupee? Decoding the forces behind currency moves",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/explained-what-really-drives-the-rupee-decoding-the-forces-behind-currency-moves/articleshow/134482274.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T02:08:45.000Z",
+        "publishedAt": "2026-09-25T10:30:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+        "url": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-25T10:30:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Rupee soothed by intervention, surge in forward premiums tipped to cool",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-soothed-by-intervention-surge-in-forward-premiums-tipped-to-cool/articleshow/134482310.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-25T10:27:02.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+        "url": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-25T10:25:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Global Market: VLCC rates hit record as Saudi crude flows jump",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-vlcc-rates-hit-record-as-saudi-crude-flows-jump/articleshow/134482091.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-25T10:18:37.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-        "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "IBIT options price trading more calmly after Bitcoin rebound",
+        "url": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-09-25T02:00:54.000Z",
+        "publishedAt": "2026-09-25T11:11:33.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-        "url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-25T00:32:46.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
-        "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-24T23:27:17.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-        "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+        "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+        "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
         "source": "CoinDesk",
-        "publishedAt": "2026-09-24T22:28:49.000Z",
+        "publishedAt": "2026-09-25T09:59:45.000Z",
         "category": "crypto"
       },
       {
-        "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
-        "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+        "url": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-09-24T22:10:09.000Z",
+        "publishedAt": "2026-09-25T09:48:53.000Z",
         "category": "crypto"
       },
       {
-        "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
-        "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+        "title": "Bitcoin ETFs have erased a $5.8 billion hole",
+        "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
         "source": "CoinDesk",
-        "publishedAt": "2026-09-24T21:59:32.000Z",
+        "publishedAt": "2026-09-25T09:13:01.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bitget confirms $352M security breach, suspends withdrawals",
-        "url": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+        "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T08:58:03.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
+        "url": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-09-24T21:47:17.000Z",
+        "publishedAt": "2026-09-25T08:51:17.000Z",
         "category": "crypto"
       },
       {
-        "title": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
-        "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
+        "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-25T07:41:36.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
+        "url": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-09-25T07:28:18.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "US Market: Fed proposes new rules for stablecoin issuers under GENIUS Act",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-proposes-new-rules-for-stablecoin-issuers-under-genius-act/articleshow/134476037.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-09-25T07:13:47.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+        "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T07:09:11.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+        "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-25T06:48:07.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+        "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-24T21:46:05.000Z",
+        "publishedAt": "2026-09-25T06:13:35.000Z",
         "category": "crypto"
       },
       {
-        "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-        "url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-09-24T21:42:51.000Z",
+        "publishedAt": "2026-09-25T05:30:56.000Z",
         "category": "crypto"
       },
       {
-        "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-        "url": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-24T20:57:11.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-        "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
+        "url": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-09-24T20:32:16.000Z",
+        "publishedAt": "2026-09-25T05:06:22.000Z",
         "category": "crypto"
       },
       {
-        "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
-        "url": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T20:13:25.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
-        "url": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T20:05:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
-        "url": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T20:04:46.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "The stock token debate, and the gap nobody can close alone",
-        "url": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T20:03:21.000Z",
+        "title": "Scam hotel booking sent family to Wetherspoon pub",
+        "url": "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-25T05:02:48.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Pomp prevails over substance as Trump hosts Xi",
-      "url": "https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-25T03:03:28.000Z"
-    },
-    {
-      "title": "SEBI Allows Portfolio Managers to Invest Overseas, Short Equity Options",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-25/sebi-allows-portfolio-managers-to-invest-overseas-short-equity-options",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T02:30:50.000Z"
-    },
-    {
-      "title": "Asian stocks weather bond storm, oil retreats slightly",
-      "url": "https://www.investing.com/news/economy-news/asian-stocks-weather-bond-storm-oil-retreats-slightly-4916537",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-25T02:24:27.000Z"
-    },
-    {
-      "title": "Iran offers US new ‘7-day’ ceasefire proposal",
-      "url": "https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-25T02:17:58.000Z"
-    },
-    {
-      "title": "South Africa’s Newest Lender Seeks to Take On Banks and Insurers",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/south-africa-s-newest-lender-seeks-to-take-on-banks-and-insurers",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T02:15:00.000Z"
-    },
-    {
-      "title": "Grains Slump as Trump-Xi Summit Lacks Broader Trade Details",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/grains-drop-with-trump-xi-summit-yet-to-offer-farm-trade-details",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T01:40:46.000Z"
-    },
-    {
-      "title": "China fuels rush to turn AI video into an industry",
-      "url": "https://www.investing.com/news/economy-news/china-fuels-rush-to-turn-ai-video-into-an-industry-4916500",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-25T01:06:28.000Z"
-    },
-    {
-      "title": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
-      "url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-25T01:01:20.000Z"
-    },
-    {
-      "title": "AI Boom Can Withstand Higher Rates: Goldman's Moe",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/ai-boom-can-withstand-higher-rates-goldman-s-moe-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T00:38:33.000Z"
-    },
-    {
-      "title": "Lula to Ban Online Betting, Offer Debt Relief Before Election",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/lula-to-ban-online-betting-offer-debt-relief-before-election",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T00:13:15.000Z"
-    },
-    {
-      "title": "Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-24T23:53:28.000Z"
-    },
-    {
-      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
-      "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-24T23:47:35.000Z"
-    },
-    {
-      "title": "Adarx Pharmaceuticals Raises $446.3 Million in Upsized US IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/adarx-pharmaceuticals-raises-446-3-million-in-upsized-us-ipo",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-24T23:43:53.000Z"
-    },
-    {
-      "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
-      "url": "https://www.investing.com/news/economy-news/wall-st-futures-fall-on-middle-east-uncertainties-ahead-of-trumpxi-talks-4914927",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-24T23:37:48.000Z"
-    },
-    {
-      "title": "Oil jump sends 30-year yields to two-decade high",
-      "url": "https://www.investing.com/news/economy-news/bond-market-selloff-rumbles-on-ahead-of-trump-and-xi-talks-4915616",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-24T23:37:30.000Z"
-    },
-    {
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
+      "url": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-24T23:35:00.000Z"
+      "publishedAt": "2026-09-25T11:15:00.000Z"
     },
     {
-      "title": "3 things Micron investors need to watch as the stakes get higher",
-      "url": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-24T23:28:00.000Z"
-    },
-    {
-      "title": "The S&P 500’s newest tech stock is now its best performer",
-      "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-24T23:26:00.000Z"
-    },
-    {
-      "title": "Xi Urges AI Cooperation WIth US",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-24/xi-urges-ai-cooperation-with-us-video",
+      "title": "Oil is King for Gilts in Volatile Week",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/oil-is-king-for-gilts-in-volatile-week-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-24T23:23:15.000Z"
+      "publishedAt": "2026-09-25T11:11:59.000Z"
     },
     {
-      "title": "Costco’s results beat expectations. Here’s why investors are still cautious.",
-      "url": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+      "title": "BASF makes takeover approach for chemicals rival Evonik",
+      "url": "https://www.ft.com/content/35a3a327-bb57-4070-942f-5988be564072?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-25T11:07:49.000Z"
+    },
+    {
+      "title": "Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that’s quietly outperformed",
+      "url": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-24T23:23:00.000Z"
+      "publishedAt": "2026-09-25T11:02:00.000Z"
+    },
+    {
+      "title": "Russia targets Ukraine’s data centres",
+      "url": "https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-25T11:00:08.000Z"
+    },
+    {
+      "title": "Trump Trying to Buy Time With Xi; Amundi's Rosenberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/trump-trying-to-buy-time-with-xi-amundi-s-rosenberg-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T10:57:14.000Z"
+    },
+    {
+      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+      "url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-25T10:46:00.000Z"
+    },
+    {
+      "title": "Lombard Odier Turns Bullish on Treasuries After Five-Year Hiatus",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/lombard-odier-turns-bullish-on-treasuries-after-five-year-hiatus",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T10:40:24.000Z"
+    },
+    {
+      "title": "US, Iran Said to Be Exploring Phased Deal to Open Hormuz",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-opening-trade-9-25-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T10:37:26.000Z"
+    },
+    {
+      "title": "Zambia Says Diesel Pipeline Open Access to Resume by January",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/zambia-says-diesel-pipeline-open-access-to-resume-by-january",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T10:33:20.000Z"
+    },
+    {
+      "title": "Max Kettner Would Be Long Anything If Oil Falls to $80",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/max-kettner-would-be-long-anything-if-oil-falls-to-80-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T10:32:45.000Z"
+    },
+    {
+      "title": "US, Iran Explore Hormuz Deal, Trump-Xi Summit Short on Substance",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-pulse-9-25-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T10:21:28.000Z"
+    },
+    {
+      "title": "Actis Merges India Road Assets Into $1 Billion Trust",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/actis-merges-india-road-assets-into-1-billion-trust",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T10:18:27.000Z"
+    },
+    {
+      "title": "Bank of England may struggle to hold rates amid high energy costs",
+      "url": "https://www.investing.com/news/economy-news/bank-of-england-may-struggle-to-hold-rates-amid-high-energy-costs-93CH-4917107",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-25T10:17:04.000Z"
+    },
+    {
+      "title": "Kremlin says US, Russia, Ukraine meeting may happen soon",
+      "url": "https://www.investing.com/news/economy-news/kremlin-says-us-russia-ukraine-meeting-may-happen-soon-93CH-4917104",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-25T10:15:22.000Z"
+    },
+    {
+      "title": "Morgan Stanley now expects two quarterly BoE hikes amid tough fiscal backdrop",
+      "url": "https://www.investing.com/news/economy-news/morgan-stanley-now-expects-two-quarterly-boe-hikes-amid-tough-fiscal-backdrop-4917094",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-25T10:14:47.000Z"
+    },
+    {
+      "title": "Jobs report, inflation data to test US rate path, economic strength",
+      "url": "https://www.investing.com/news/economy-news/jobs-report-inflation-data-to-test-us-rate-path-economic-strength-4917092",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-25T10:13:44.000Z"
+    },
+    {
+      "title": "Pimco Faces $35 Million Loss on Philadelphia Offices",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/pimco-faces-35-million-loss-on-philadelphia-offices",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T10:00:00.000Z"
+    },
+    {
+      "title": "US seizes bank accounts of payments group linked to Tether",
+      "url": "https://www.ft.com/content/1477567d-64b0-431a-b707-e2a4f5a9f8dc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-25T09:58:58.000Z"
+    },
+    {
+      "title": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+      "url": "https://www.investing.com/news/economy-news/wall-st-futures-gain-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-4917018",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-25T09:54:26.000Z"
     }
   ]
 }
