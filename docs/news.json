@@ -1,91 +1,7 @@
 {
-  "lastUpdated": "2026-09-25T21:12:59.498Z",
+  "lastUpdated": "2026-09-26T04:00:18.700Z",
   "ai": {
     "developers": [
-      {
-        "title": "Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI",
-        "url": "https://piloxa.com/for-ai-agents",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T20:38:05.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Too AI; Didn't Read",
-        "url": "https://www.tai-dr.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T20:37:56.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI starter pack for the X-curious",
-        "url": "https://xstarterpack.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T20:26:41.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI will grow beyond our control, we must instill good values before it does",
-        "url": "https://blog.kradle.ai/p/ai-will-grow-beyond-our-control-we",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T20:21:17.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The District – a live map where AI agents grow their own plots of land",
-        "url": "https://agentnet-wdyqqq-agentnet-district.static.hf.space/index.html",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T20:16:15.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "To Understand AI, Think Like a Dragonfly",
-        "url": "https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T20:05:14.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Geely's AI fast charging 'heals' EV batteries for 20% more cycle life",
-        "url": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T20:00:11.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Tell HN: Stop emailing HN users with deceptive AI spam",
-        "url": "https://news.ycombinator.com/item?id=49849134",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T19:56:26.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI-Powered PDF Extraction for Finance",
-        "url": "https://pedfs.com/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T19:55:20.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Pope: AI must serve humans not become tool of domination",
-        "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T19:18:05.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "A reminder on why basic prompt caching is so important to build AI agents",
-        "url": "https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T19:12:41.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "AI Infra Is Nothing Like the Classic Cloud Infra",
-        "url": "https://ramansharma.substack.com/p/ai-infra-is-nothing-like-the-classic",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T19:01:39.000Z",
-        "category": "developers"
-      },
       {
         "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
         "url": "https://openai.com/index/proaction",
@@ -94,63 +10,105 @@
         "category": "developers"
       },
       {
-        "title": "No country controls every layer: The hidden AI systems reshaping global power",
-        "url": "https://www.abc.net.au/news/2026-09-24/ai-race-chips-data-energy-cake-stack-us-china-asia-pacific/107071946",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T18:57:58.000Z",
+        "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+        "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-25T12:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-        "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T18:50:20.000Z",
+        "title": "Jensen Huang talks about AI and climate change like a supervillain",
+        "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-24T18:04:44.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+        "url": "https://openai.com/index/v7",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Our framework for reporting model misalignment",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-16T17:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-11T10:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T16:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Introducing the Agents API",
+        "url": "https://openai.com/index/introducing-the-agents-api",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-08T17:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "1Password increases engineering productivity 21% with Codex",
+        "url": "https://openai.com/index/1password",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-08T00:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How AI-native companies turn workflows into operating capability",
+        "url": "https://openai.com/index/ai-native-company-workflows",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-01T17:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-28T06:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "The Hugging Face incident and the road ahead",
+        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How loveholidays is making everyone a builder with Codex",
+        "url": "https://openai.com/index/loveholidays",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
-      {
-        "title": "The Scarcity Premium: AI made images free; advertising as a solvency bond",
-        "url": "https://scarcity.danieldeboulay.com",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T20:35:54.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Show HN: A free resume builder where the AI can rewrite but can't invent",
-        "url": "https://nokku.payanai.com/resume-builder",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T20:31:54.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Cambridge Analytica 2.0 – When the AI Assistant Becomes a Intelligence Graph",
-        "url": "https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/cambridge-analytica-20-when-ai-assistant-becomes-intelligence-graph-billion-dollar-company",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T18:47:21.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "The cost of free AI restaurant ads is greater than it seems",
-        "url": "https://www.phoenixnewtimes.com/opinion/ai-restaurant-ads-are-free-but-at-what-cost-40701302/",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T18:31:50.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI applications need better primitives than text generation",
-        "url": "https://seldon-ai.com/blog/better-primitives-than-text-generation",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T18:30:30.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "MacTube 2 YouTube as a real Mac app – without Shorts and without AI slop",
-        "url": "https://github.com/depo23/MacTube2",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T17:16:20.000Z",
-        "category": "everyone"
-      },
       {
         "title": "Meta makes the Muse filesystem even more accessible",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
@@ -213,16 +171,51 @@
         "source": "The Verge – AI",
         "publishedAt": "2026-09-24T17:10:38.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "The AI Hype Index: AI loves cheating",
+        "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-23T09:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+        "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-09-23T02:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-22T13:42:05.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Don’t be fooled by this summer of AI hype",
+        "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-22T11:04:51.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+        "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+        "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
-      {
-        "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
-        "url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-        "source": "Hacker News – AI",
-        "publishedAt": "2026-09-25T17:24:41.000Z",
-        "category": "advancements"
-      },
       {
         "title": "Google Beam expands with new regions, partners, and customers",
         "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -320,6 +313,13 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-22T00:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+        "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
@@ -329,7 +329,35 @@
         "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
         "url": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-25T21:06:24.000Z",
+        "publishedAt": "2026-09-25T23:28:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge",
+        "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-25T22:41:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Diesel prices exceed £2 a litre at hundreds of forecourts across Scotland",
+        "url": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-25T21:47:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+        "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-25T21:38:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+        "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T21:17:30.000Z",
         "category": "markets"
       },
       {
@@ -354,13 +382,6 @@
         "category": "markets"
       },
       {
-        "title": "Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge: Live updates",
-        "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-25T20:20:59.000Z",
-        "category": "markets"
-      },
-      {
         "title": "Bond market alarms are ringing on Wall Street. Here's what's ahead",
         "url": "https://www.cnbc.com/2026/09/25/stock-market-next-week-outlook-for-sept-28-oct-2-2026.html",
         "source": "CNBC",
@@ -372,6 +393,13 @@
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-ends-400-points-higher-as-investors-buy-ai-stocks-microsoft-rallies/articleshow/134492147.cms",
         "source": "Economic Times – Markets",
         "publishedAt": "2026-09-25T20:11:14.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Man City found guilty of breaking financial rules",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-09-25T20:11:12.000Z",
         "category": "markets"
       },
       {
@@ -401,37 +429,16 @@
         "source": "CNBC",
         "publishedAt": "2026-09-25T19:24:29.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/virtual-pharma-api-firm-hrv-preparing-for-ipo-drhp-likely-in-h1-of-2027-sources/articleshow/134491851.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T19:19:32.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-to-sway-policy/articleshow/134491575.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-25T19:06:32.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
-        "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-25T18:52:40.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
-        "url": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-25T18:46:23.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+        "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T22:17:38.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
         "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -529,17 +536,118 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-09-25T12:19:34.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-        "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-25T11:54:28.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "Billionaire Charoen’s Asset World Targets $1 Billion REIT IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-26/billionaire-charoen-s-asset-world-targets-1-billion-reit-ipo",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-26T02:42:50.000Z"
+    },
+    {
+      "title": "Blackstone Cements Shift From Star Dealmakers With Baratta Exit",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-26/blackstone-cements-shift-from-star-dealmakers-with-baratta-exit",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-26T01:43:05.000Z"
+    },
+    {
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Wall Street Week | China’s Trade Reckoning, Syracuse’s Second Chance, Humanoids in Healthcare",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/wall-street-week-china-s-trade-reckoning-syracuse-s-second-chance-humanoids-in-healthcare",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T23:43:13.000Z"
+    },
+    {
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-25T23:30:00.000Z"
+    },
+    {
+      "title": "Korea’s trade surplus hits a record $23B. Here’s what’s driving it",
+      "url": "https://www.investing.com/news/economy-news/koreas-trade-surplus-hits-a-record-23b-heres-whats-driving-it-4918287",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-25T23:00:58.000Z"
+    },
+    {
+      "title": "Lula Plans $28 Billion Debt Buyout to Aid Consumers Before Vote",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/lula-plans-28-billion-debt-buyout-to-aid-consumers-before-vote",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T22:43:22.000Z"
+    },
+    {
+      "title": "OpenAI says governments among ‘dozens’ of organisations hacked by its agents",
+      "url": "https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-25T22:18:19.000Z"
+    },
+    {
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-25T22:00:00.000Z"
+    },
+    {
+      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+      "url": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-25T21:57:00.000Z"
+    },
+    {
+      "title": "Ellison Pledges $9.2 Billion More in Oracle Shares for Loans",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/ellison-pledges-9-2-billion-more-in-oracle-shares-as-collateral",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T21:53:52.000Z"
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-25T21:45:00.000Z"
+    },
+    {
+      "title": "Fed’s Hammack worried inflation expectations could deteriorate",
+      "url": "https://www.investing.com/news/economy-news/feds-hammack-worried-inflation-expectations-could-deteriorate-4918170",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-25T21:43:25.000Z"
+    },
+    {
+      "title": "Search for the Next Leader of the UN",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/search-for-the-next-leader-of-the-un-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T21:33:51.000Z"
+    },
+    {
+      "title": "Keeneland CEO on Annual Yearling Sale",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/keeneland-ceo-on-annual-yearling-sale-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T21:33:04.000Z"
+    },
+    {
+      "title": "Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-09-25T21:27:56.000Z"
+    },
+    {
+      "title": "Trump administration weighs options to curb record US diesel costs - Bloomberg",
+      "url": "https://www.investing.com/news/economy-news/trump-administration-weighs-options-to-curb-record-us-diesel-costs--bloomberg-4918178",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-25T21:18:20.000Z"
+    },
+    {
+      "title": "Walmart chief rules out personalised pricing as AI transforms retail",
+      "url": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-25T21:16:49.000Z"
+    },
     {
       "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
       "url": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
@@ -547,118 +655,10 @@
       "publishedAt": "2026-09-25T21:04:00.000Z"
     },
     {
-      "title": "Wall Street’s ‘80/20’ Shift Finds Fresh Fuel in Stock Bounceback",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-80-20-shift-finds-fresh-fuel-in-stock-bounceback",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T20:48:29.000Z"
-    },
-    {
-      "title": "The Tiny Magnet Maker That Attracted $1.6 Billion From Lutnick",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-tiny-magnet-maker-that-attracted-1-6b-from-lutnick-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T20:43:21.000Z"
-    },
-    {
-      "title": "Great Bond Shakeout Locks In a 5% World ‘Until Something Breaks’",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/great-bond-shakeout-locks-in-a-5-world-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T20:39:53.000Z"
-    },
-    {
-      "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
-      "url": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-25T20:37:00.000Z"
-    },
-    {
-      "title": "Micron investors should get ready for a seesaw ride, analyst says",
-      "url": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-25T20:36:00.000Z"
-    },
-    {
-      "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
-      "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-25T20:34:00.000Z"
-    },
-    {
-      "title": "A 10% risk-free yield? For some, yes.",
-      "url": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-25T20:32:00.000Z"
-    },
-    {
-      "title": "US bond sell-off pushes long-term yields to highest since 2004",
-      "url": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-25T20:24:38.000Z"
-    },
-    {
-      "title": "Taylor Swift To Debut 'Patient Zero' at VMAs",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/taylor-swift-to-debut-patient-zero-at-vmas-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T20:20:24.000Z"
-    },
-    {
-      "title": "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
-      "url": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-25T20:19:00.000Z"
-    },
-    {
-      "title": "Americans Misunderstand Where Wealth Comes From: Ritholtz",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/americans-misjudge-where-wealth-comes-from-ritholtz-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T20:16:43.000Z"
-    },
-    {
-      "title": "Oracle Notice to Weigh on Data Center Debt, Morgan Stanley Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/oracle-notice-to-weigh-on-data-center-debt-morgan-stanley-says",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T20:12:16.000Z"
-    },
-    {
-      "title": "Manchester City Found Guilty of Nearly All 115 Premier League Charges",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/manchester-city-found-guilty-of-premier-league-charges-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T20:11:06.000Z"
-    },
-    {
-      "title": "Blackstone’s top private equity executive prepares exit for possible public service move",
-      "url": "https://www.ft.com/content/c1ab1254-bf38-43ca-aa22-02a09d6e2b73?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-25T20:10:36.000Z"
-    },
-    {
-      "title": "Hedge Funds Cut Bullish Yen Bets as BOJ Held Back on Rate Vows",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/hedge-funds-cut-bullish-yen-bets-as-boj-held-back-on-rate-vows",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T20:06:07.000Z"
-    },
-    {
-      "title": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say",
-      "url": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-25T20:00:09.000Z"
-    },
-    {
-      "title": "Fed’s Hammack Says Yields Reflect Growth, US Debt and Rate Path",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/fed-s-hammack-says-yields-reflect-growth-us-debt-and-rate-path",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T19:51:28.000Z"
-    },
-    {
-      "title": "Can't Say 60/40 Is Back: Rosenberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/can-t-say-60-40-is-back-rosenberg-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-25T19:46:24.000Z"
-    },
-    {
-      "title": "Trump’s ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
-      "url": "https://www.marketwatch.com/story/trumps-ban-on-canadian-alcohol-starts-tuesday-but-these-well-known-brands-will-avoid-it-89c2e5c5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-25T19:45:00.000Z"
+      "title": "Corporate debt maturities set to test US borrowers as rates rise",
+      "url": "https://www.investing.com/news/economy-news/corporate-debt-maturities-set-to-test-us-borrowers-as-rates-rise-4917933",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-09-25T21:00:42.000Z"
     }
   ]
 }
