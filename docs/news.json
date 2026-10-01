@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T21:57:45.737Z",
+  "lastUpdated": "2026-10-01T04:42:19.063Z",
   "ai": {
     "developers": [
       {
@@ -110,6 +110,27 @@
     ],
     "everyone": [
       {
+        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-01T00:23:45.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-30T20:41:41.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "The AI Tamagotchis are coming",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-30T18:07:38.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
         "source": "The Verge – AI",
@@ -142,27 +163,6 @@
         "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
         "source": "The Verge – AI",
         "publishedAt": "2026-09-29T22:25:45.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-        "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-29T21:49:09.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "OpenAI launches Dots, its Muse competitor",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-29T17:15:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Protesters gather at OpenAI’s DevDay",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-29T17:12:27.000Z",
         "category": "everyone"
       },
       {
@@ -217,6 +217,13 @@
     ],
     "advancements": [
       {
+        "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-09-30T17:15:49.000Z",
+        "category": "advancements"
+      },
+      {
         "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
         "source": "The Verge – AI",
@@ -242,13 +249,6 @@
         "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-30T10:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-09-29T17:35:03.000Z",
         "category": "advancements"
       },
       {
@@ -326,112 +326,133 @@
   "finance": {
     "markets": [
       {
-        "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
-        "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T21:54:16.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
-        "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T21:51:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-        "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T21:09:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-        "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T20:59:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-        "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T20:51:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed",
-        "url": "https://www.cnbc.com/2026/09/30/grindr-purposemed-freddie-telehealth-acquisition.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T20:45:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
-        "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T20:33:30.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
-        "url": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T20:17:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
-        "url": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T20:16:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
-        "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T20:15:48.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "US stocks: Nasdaq rises while S&amp;P, Dow dip as softer inflation cools Fed hike bets",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-while-sp-dow-dip-as-softer-inflation-cools-fed-hike-bets/articleshow/134601845.cms",
+        "title": "Global Market: Japanese bond yields rise as investors weigh inflation, rate-hike risks",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-rise-as-investors-weigh-inflation-rate-hike-risks/articleshow/134608120.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-09-30T20:10:47.000Z",
+        "publishedAt": "2026-10-01T04:35:23.000Z",
         "category": "markets"
       },
       {
-        "title": "Broken market: 75% of S&P 500 stocks had a lousy September",
-        "url": "https://www.cnbc.com/2026/09/30/broken-market-75percent-of-sp-500-stocks-had-a-lousy-september-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T20:03:16.000Z",
+        "title": "Anarock Property Consultants files papers for Rs 1,000 crore IPO",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/anarock-property-consultants-files-papers-for-rs-1000-crore-ipo/articleshow/134608009.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T04:32:30.000Z",
         "category": "markets"
       },
       {
-        "title": "Gen Z’s 'little treat’ economy is thriving. These financial products help you enjoy responsibly",
-        "url": "https://www.cnbc.com/select/gen-z-little-treat-economy-financial-tools/",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T20:02:37.000Z",
+        "title": "IPO investors strike gold with 7 multibagger stocks in 3 months. Did you miss the bus?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-investors-strike-gold-with-7-multibagger-stocks-in-3-months-did-you-miss-the-bus/articleshow/134608026.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T04:29:16.000Z",
         "category": "markets"
       },
       {
-        "title": "Why Jim Cramer isn't buying more Boeing despite its huge Navy contract win",
-        "url": "https://www.cnbc.com/2026/09/30/why-jim-cramer-isnt-buying-more-boeing-despite-its-huge-navy-contract-win-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-30T19:47:03.000Z",
+        "title": "Code red! NSE breadth breaks down as 350 out of 500 stocks crash up to 60% in two month selloff",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/code-red-nse-breadth-breaks-down-as-350-out-of-500-stocks-crash-up-to-60-in-two-month-selloff/articleshow/134607984.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T04:26:09.000Z",
         "category": "markets"
       },
       {
-        "title": "Senators clinch construction permitting deal before election jet-set",
-        "url": "https://www.cnbc.com/2026/09/30/permitting-deal-congress-election.html",
+        "title": "Vishal Nirmiti IPO Day 2: GMP at 16%, check subscription and key details. Should you apply?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-day-2-gmp-at-16-check-subscription-and-key-details-should-you-apply/articleshow/134607914.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T04:23:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Cupid shares hit fresh 52-week high as firm raises FY27 revenue, profit guidance again; multibagger stock skyrockets 617% in a year",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-hit-fresh-52-week-high-as-firm-raises-fy27-revenue-profit-guidance-again-multibagger-stock-skyrockets-617-in-a-year/articleshow/134607835.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T04:18:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Portfolio adviser to the super-rich wanted a bigger stock market correction. Here's why",
+        "url": "https://www.cnbc.com/2026/10/01/citi-wealth-adviser-super-rich-wanted-bigger-stock-market-correctio.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-30T19:35:53.000Z",
+        "publishedAt": "2026-10-01T04:16:48.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Goldman Sachs pushes Fed rate hike forecast to December",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-pushes-fed-rate-hike-forecast-to-december/articleshow/134607820.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T04:14:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock futures rise as traders eye elevated Treasury yields, brace for jobs report due this week: Live updates",
+        "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-01T04:11:23.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AI boom could trigger market shocks, Bank of England boss warns",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-01T04:03:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Global Market: Kospi falls as oil prices, Middle East uncertainty weigh",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-falls-as-oil-prices-middle-east-uncertainty-weigh/articleshow/134607491.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T03:50:07.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+        "url": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-01T03:48:47.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Jefferies picks 6 hospitals as Buy after steep correction offers 'excellent' entry points. Check target price",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-picks-6-hospitals-as-buy-after-steep-correction-offers-excellent-entry-points-check-target-price/articleshow/134607485.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T03:47:04.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Nityas Gems &amp; Jewellery IPO Day 2: Check GMP, subscription status; should you subscribe?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nityas-gems-jewellery-ipo-day-2-check-gmp-subscription-status-should-you-subscribe/articleshow/134607455.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T03:43:32.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Dr. Lal PathLabs among 3 stocks that closed above VWAP",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/dr-lal-pathlabs-among-3-stocks-that-closed-above-vwap/slideshow/134607466.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-01T03:37:30.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+        "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-01T04:15:20.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+        "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-01T01:07:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
+        "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-01T00:15:55.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
         "url": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
@@ -515,150 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-09-30T14:56:07.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
-        "url": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-30T14:04:19.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Could THORChain face prosecution over stolen Bitget funds?",
-        "url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-09-30T13:30:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-        "url": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-30T13:00:00.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "US competition watchdog expands investigation of Anthropic and OpenAI",
-      "url": "https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1",
+      "title": "Global bond sell-off deepens as Japanese yields jump",
+      "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-30T21:39:02.000Z"
+      "publishedAt": "2026-10-01T04:17:41.000Z"
     },
     {
-      "title": "Paramount stomachs heavy borrowing costs to fund Warner Bros deal",
-      "url": "https://www.ft.com/content/188ab0ab-e39d-4221-9730-0610fbc22ee9?syn-25a6b1a6=1",
+      "title": "Laos Eyes Second Junk Dollar Bond Since 2025 Market Return",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/laos-eyes-second-junk-dollar-bond-since-2025-market-return",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-01T04:16:40.000Z"
+    },
+    {
+      "title": "Pandora CEO Says US Demand Dampening as Inflation Worries Grow",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/pandora-ceo-says-us-demand-dampening-as-inflation-worries-grow",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-01T04:00:31.000Z"
+    },
+    {
+      "title": "Why we can thumb our noses at AI",
+      "url": "https://www.ft.com/content/dd33034e-86f0-48b6-b62f-4a32a5334be0?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-30T21:37:36.000Z"
+      "publishedAt": "2026-10-01T04:00:25.000Z"
     },
     {
-      "title": "US government debt rout triggers ‘vicious loop’ of selling",
-      "url": "https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2?syn-25a6b1a6=1",
+      "title": "OpenAI’s agents obscured hacking activity in government site breaches",
+      "url": "https://www.ft.com/content/11502a49-5319-4df5-95ea-2d76669c31a6?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-30T21:32:32.000Z"
+      "publishedAt": "2026-10-01T04:00:24.000Z"
     },
     {
-      "title": "UMich’s Stevenson on Fed Report, Inflation Reading",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-30/umich-s-stevenson-on-fed-report-inflation-reading-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-30T21:26:26.000Z"
-    },
-    {
-      "title": "Hedge Funds Diameter, Redwood Purchased Nuveen’s Brightline Debt",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-30/hedge-funds-diameter-redwood-purchased-nuveen-s-brightline-debt",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-30T21:23:15.000Z"
-    },
-    {
-      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-      "url": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T21:22:00.000Z"
-    },
-    {
-      "title": "Google releases most advanced Gemini AI model",
-      "url": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1",
+      "title": "Manchester City chair shielded by diplomatic immunity",
+      "url": "https://www.ft.com/content/125675ee-0d2c-4ffc-b7c5-814dd6b82612?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-30T21:21:48.000Z"
+      "publishedAt": "2026-10-01T04:00:24.000Z"
     },
     {
-      "title": "Why American Homeowners Are Stuck",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-30/opinion-why-american-homeowners-are-stuck-video",
+      "title": "How Europe can stall Russia’s hybrid war",
+      "url": "https://www.ft.com/content/cd2e89d3-2606-4116-b523-309450462d2b",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-01T04:00:16.000Z"
+    },
+    {
+      "title": "Big Tech out-lobbies European companies in Brussels",
+      "url": "https://www.ft.com/content/817f40f7-d4ac-43ee-beaf-12cfac08c621?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-01T04:00:06.000Z"
+    },
+    {
+      "title": "Dealmakers Face Fresh Risks Chasing $5 Trillion-Plus M&A Record",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/dealmakers-face-fresh-risks-chasing-5-trillion-plus-m-a-record",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-30T21:19:22.000Z"
+      "publishedAt": "2026-10-01T04:00:00.000Z"
     },
     {
-      "title": "National Geographic Shares its 130+ Year Story",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-30/national-geographic-shares-its-130-year-story-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-30T21:18:15.000Z"
-    },
-    {
-      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
-      "url": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T21:16:00.000Z"
-    },
-    {
-      "title": "Trading Day: Shrugging off a volatile September, markets shuffle into Q4",
-      "url": "https://www.investing.com/news/economy-news/trading-day-shrugging-off-a-volatile-september-markets-shuffle-into-q4-4925953",
+      "title": "Goldman Sachs pushes Fed rate hike forecast to December",
+      "url": "https://www.investing.com/news/economy-news/goldman-sachs-pushes-fed-rate-hike-forecast-to-december-4926222",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-09-30T21:06:57.000Z"
+      "publishedAt": "2026-10-01T03:54:33.000Z"
     },
     {
-      "title": "Paramount names Mattel boss co-CEO as it looks to close Warner Bros deal",
-      "url": "https://www.ft.com/content/baa261b7-681d-41b7-b41a-d704858cd0b2?syn-25a6b1a6=1",
+      "title": "M&G's Pershad on How AI Is Reshaping Jobs in Asia",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-01/m-g-s-pershad-on-how-ai-is-reshaping-jobs-in-asia-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-01T03:50:09.000Z"
+    },
+    {
+      "title": "Ted Sarandos on Next Stage of Growth for Netflix",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-01/ted-sarandos-on-next-stage-of-growth-for-netflix-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-01T03:30:18.000Z"
+    },
+    {
+      "title": "Japan’s patchy business mood takes pressure off BOJ for immediate hike",
+      "url": "https://www.investing.com/news/economy-news/japan-business-mood-improves-tankan-survey-shows-4926127",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-01T03:24:45.000Z"
+    },
+    {
+      "title": "Garuda Turns to Share Sale as Fuel Eats Into $1.4 Billion Rescue",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/garuda-turns-to-share-sale-as-fuel-eats-into-1-4-billion-rescue",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-01T03:18:56.000Z"
+    },
+    {
+      "title": "Nidec Bond Spreads Widen as Auditor Withholds Financials Opinion",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/nidec-bond-spreads-widen-as-auditor-withholds-financials-opinion",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-01T03:16:11.000Z"
+    },
+    {
+      "title": "Film Icon Kennedy on Career and Star Wars Future",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-01/film-icon-kennedy-on-career-and-star-wars-future-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-01T03:13:24.000Z"
+    },
+    {
+      "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
+      "url": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-09-30T21:03:06.000Z"
+      "publishedAt": "2026-10-01T02:57:46.000Z"
     },
     {
-      "title": "The Elusive Power Players Behind the Rise of Jane Street",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-30/the-elusive-power-players-behind-the-rise-of-jane-street",
+      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
+      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-01T02:35:00.000Z"
+    },
+    {
+      "title": "Asian stocks dip, bonds in focus after torrid September",
+      "url": "https://www.investing.com/news/economy-news/asian-stocks-dip-bonds-in-focus-after-torrid-september-4926176",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-01T02:31:04.000Z"
+    },
+    {
+      "title": "India Inc. Faces Higher Borrowing Costs as Short-Term Yields Surge",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-01/india-inc-faces-higher-borrowing-costs-as-short-term-yields-surge",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-30T21:00:20.000Z"
-    },
-    {
-      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
-      "url": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T20:59:00.000Z"
-    },
-    {
-      "title": "Trump says Powell should resign after Fed watchdog clears ex-chair of misconduct",
-      "url": "https://www.ft.com/content/78431eef-50ee-4ec9-9ca6-af801da1e617?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-30T20:56:46.000Z"
-    },
-    {
-      "title": "Spending for the End of the World",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-30/spending-for-the-end-of-the-world",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-30T20:56:41.000Z"
-    },
-    {
-      "title": "A brutal September for bonds points to an even darker October",
-      "url": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T20:56:00.000Z"
-    },
-    {
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T20:45:00.000Z"
-    },
-    {
-      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-      "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T20:32:00.000Z"
-    },
-    {
-      "title": "Micron Beats Estimates as AI Data Center Revenue Surges | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-30/micron-beats-estimates-closing-bell-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-09-30T20:17:20.000Z"
+      "publishedAt": "2026-10-01T02:30:12.000Z"
     }
   ]
 }
