@@ -1,12 +1,19 @@
 {
-  "lastUpdated": "2026-10-08T10:09:33.069Z",
+  "lastUpdated": "2026-10-08T18:34:12.288Z",
   "ai": {
     "developers": [
       {
-        "title": "Microsoft is giving Copilot more control over Windows and your files",
-        "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+        "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
         "source": "The Verge – AI",
-        "publishedAt": "2026-10-07T18:01:20.000Z",
+        "publishedAt": "2026-10-08T17:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "url": "https://openai.com/index/oracle",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-10-08T16:00:00.000Z",
         "category": "developers"
       },
       {
@@ -66,15 +73,15 @@
         "category": "developers"
       },
       {
-        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "title": "Introducing the Agents API",
+        "url": "https://openai.com/index/introducing-the-agents-api",
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-10T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Introducing the Agents API",
-        "url": "https://openai.com/index/introducing-the-agents-api",
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-10T00:00:00.000Z",
         "category": "developers"
@@ -99,16 +106,44 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-01T17:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-08-28T06:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "USA Today becomes the latest publisher to sue OpenAI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-08T17:58:33.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+        "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-08T15:27:30.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Google is launching a one-stop Gemini agent for your work tasks",
+        "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-08T14:28:03.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+        "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-08T14:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Artificial is a wicked satire that also sticks to the facts",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-08T14:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
@@ -121,48 +156,6 @@
         "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
         "source": "The Verge – AI",
         "publishedAt": "2026-10-07T18:42:22.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-        "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-07T17:46:44.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "ChatGPT is getting college planning tools",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-07T16:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Muse launches on the iPad",
-        "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-07T15:37:23.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-        "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-07T14:40:52.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "AI could upend food delivery",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-07T12:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-07T09:00:00.000Z",
         "category": "everyone"
       },
       {
@@ -213,9 +206,30 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-01T00:00:00.000Z",
         "category": "everyone"
+      },
+      {
+        "title": "Making AI an asset, not an expense",
+        "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-29T10:43:45.000Z",
+        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+        "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-08T17:57:01.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "url": "https://openai.com/index/pollo-ai",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-10-08T12:00:00.000Z",
+        "category": "advancements"
+      },
       {
         "title": "AI breakthroughs in robotics won’t change your life any time soon",
         "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
@@ -228,6 +242,20 @@
         "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-10-08T08:17:32.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Disrupting AI-enabled “false front” operations",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "It appears .agent and .agi are about to be the hot new domains",
+        "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-07T18:46:16.000Z",
         "category": "advancements"
       },
       {
@@ -249,13 +277,6 @@
         "url": "https://openai.com/index/gpt-6-for-everyone",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-07T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "OpenAI drops another batch of mathematical breakthroughs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-06T23:26:38.000Z",
         "category": "advancements"
       },
       {
@@ -299,366 +320,345 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-02T16:15:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Redefining enterprise intelligence with autonomous AI",
-        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-10-02T15:49:04.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "The latest AI news we announced in September 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-10-02T15:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "The eternal complement",
-        "url": "https://openai.com/index/the-eternal-complement",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-01T17:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
+        "title": "We're adding to our position in a hard-hit stock before important catalysts arrive",
+        "url": "https://www.cnbc.com/investingclub/2026/10/08/were-adding-to-our-position-in-a-hard-hit-stock-before-important-catalysts-arrive.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T18:26:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "How soon into dating do you talk about your salary?",
+        "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-08T18:26:41.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stocks fall, weighed down by oil prices and tech declines: Live updates",
+        "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T18:25:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
+        "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T18:23:38.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T18:18:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
+        "url": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T18:16:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+        "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T18:06:41.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
+        "url": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T18:04:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+        "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-08T17:58:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Media attorneys ask court for help in preventing White House ban until legal case is resolved",
+        "url": "https://www.cnbc.com/2026/10/08/trump-media-ban-court-hearing-lawsuit-cnn-msnow-politico.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T17:53:41.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump says U.S. will not attack Iran before midterm election",
+        "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T17:41:20.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+        "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T17:31:03.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
+        "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T17:28:01.000Z",
+        "category": "markets"
+      },
+      {
         "title": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
         "url": "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-08T10:07:13.000Z",
+        "publishedAt": "2026-10-08T17:27:54.000Z",
         "category": "markets"
       },
       {
-        "title": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
-        "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
+        "title": "CNBC's No. 1 financial advisor takes a family-office approach: 'There is real value in all of those relationships'",
+        "url": "https://www.cnbc.com/2026/10/08/howland-capital-management-top-financial-advisor-strategy.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-08T10:00:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "How to Invest in Gold, copper &amp; other commodities? Praveena Rai of MCX Answers",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-invest-in-gold-copper-other-commodities-praveena-rai-of-mcx-answers/videoshow/134786422.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-08T09:48:20.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Asos hackers took more personal details than first revealed, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-10-08T09:45:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'",
-        "url": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T09:45:20.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Russia's internet giant Yandex halts operations at major data center after drone attack",
-        "url": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T09:40:36.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Adani Group stocks tumble as market rout deepens; Adani Green, Adani Ent, others tank up to 10%",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-stocks-tumble-as-market-rout-deepens-adani-green-adani-ent-others-tank-up-to-10/articleshow/134786010.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-08T09:30:16.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
-        "url": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T09:27:31.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Global Market: Eurozone bond yields surge as energy prices fuel rate hike bets",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-surge-as-energy-prices-fuel-rate-hike-bets/articleshow/134785743.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-08T09:16:40.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "ET Alpha Wealth Summit 2.0: Equities aren’t enough? Praveena Rai makes a case for commodities",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-equities-arent-enough-praveena-rai-makes-a-case-for-commodities/articleshow/134785142.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-08T09:12:37.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Inside 11-quarter high earnings pomp, 46 companies may wipe out up to 84% of their Q2 profits",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/inside-11-quarter-high-earnings-pomp-46-companies-may-wipe-out-up-to-84-of-their-q2-profits/articleshow/134785476.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-08T09:07:56.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Vedanta dividend alert! Anil Agarwal-led firm announces Rs 5/share interim dividend for FY27. Check record date",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-dividend-alert-anil-agarwal-led-firm-announces-rs-5/share-interim-dividend-for-fy27-check-record-date/articleshow/134785319.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-08T08:59:52.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "8 smallcap stocks turned multibaggers in 2026 after crashing over 40% in 2025",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/8-smallcap-stocks-turned-multibaggers-in-2026-after-crashing-over-40-in-2025/slideshow/134785509.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-08T08:50:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nifty 50 hits fresh 52-week low! What technical charts indicate as selloff intensifies",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-just-100-points-away-from-a-new-52-week-low-what-technical-levels-may-bring-some-support/articleshow/134785090.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-08T08:47:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-        "url": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T08:43:44.000Z",
+        "publishedAt": "2026-10-08T17:26:47.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
+        "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+        "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-08T18:17:35.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto crumbles as anniversary of flash crash nears",
+        "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T18:14:39.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "IMF warns tokenized markets could amplify financial risks",
+        "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-08T16:25:06.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+        "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-08T15:55:55.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+        "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T15:43:04.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "US government moves $1B in seized Bitcoin after $770M transfers",
+        "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-08T15:24:16.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+        "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T15:23:26.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T15:11:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
+        "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T14:39:48.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
+        "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T14:24:24.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
+        "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T14:03:20.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
+        "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-08T13:42:27.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
         "url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-08T10:00:02.000Z",
+        "publishedAt": "2026-10-08T13:40:12.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
-        "url": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Crypto lending rises again… but have they solved the risks?",
+        "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T09:56:07.000Z",
+        "publishedAt": "2026-10-08T13:30:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-        "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T09:42:04.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
-        "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+        "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+        "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
         "source": "CoinDesk",
-        "publishedAt": "2026-10-08T09:32:13.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-        "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T09:17:18.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
-        "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T08:39:23.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-        "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T08:24:24.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
-        "url": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T08:17:14.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Standard Chartered plans institutional crypto custody in Singapore",
-        "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T08:08:03.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Greece plans 10% capital gains tax on cryptocurrencies",
-        "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T08:03:47.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
-        "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T08:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
-        "url": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T07:30:42.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
-        "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T06:17:13.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T06:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
-        "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T05:40:41.000Z",
+        "publishedAt": "2026-10-08T13:06:24.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Samsung just did something no tech company has ever done, and investors still aren’t satisfied",
-      "url": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-08T09:50:00.000Z"
-    },
-    {
-      "title": "HK Regulators Signal Tightening for Distressed Listed Stocks",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/hk-regulators-signal-tightening-for-distressed-listed-stocks",
+      "title": "LA, Florida Schools Face Budget Pressures",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/la-florida-schools-face-budget-pressures-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T09:40:59.000Z"
+      "publishedAt": "2026-10-08T18:30:59.000Z"
     },
     {
-      "title": "Attacks on Saudi airports kill three people - AP",
-      "url": "https://www.investing.com/news/economy-news/attacks-on-saudi-airports-kill-three-people--ap-4938274",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T09:36:50.000Z"
-    },
-    {
-      "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
-      "url": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-08T09:33:00.000Z"
-    },
-    {
-      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
-      "url": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-08T09:32:00.000Z"
-    },
-    {
-      "title": "Shares slip as European bond bashing rumbles on",
-      "url": "https://www.investing.com/news/economy-news/shares-slip-as-european-bond-bashing-rumbles-on-4938264",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T09:30:25.000Z"
-    },
-    {
-      "title": "NatWest Pulls Back From Dealing US and European Government Bonds",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/natwest-pulls-back-from-dealing-us-and-european-government-bonds",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T09:26:50.000Z"
-    },
-    {
-      "title": "Oil Spike Would Be Just The Worst: Market Analysis",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/oil-spike-would-be-just-the-worst-3-minutes-mliv-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T09:18:03.000Z"
-    },
-    {
-      "title": "I’m a 68-year-old widow. My two adult children keep asking me for money. Are they taking advantage of me?",
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
       "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-08T09:15:00.000Z"
+      "publishedAt": "2026-10-08T18:30:00.000Z"
     },
     {
-      "title": "Olympian Gabby Thomas On Building a New Track League",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/olympian-gabby-thomas-on-building-a-new-track-league-video",
+      "title": "Private Credit Firms See Rare Growth Shortcut With BDCs for Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/private-credit-firms-see-rare-growth-shortcut-with-bdcs-for-sale",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T09:06:27.000Z"
+      "publishedAt": "2026-10-08T18:19:08.000Z"
     },
     {
-      "title": "Dutch firm uses AI to help drone systems ’talk’ on Ukraine’s battlefield",
-      "url": "https://www.investing.com/news/economy-news/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield-4938210",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T09:06:22.000Z"
-    },
-    {
-      "title": "Why Bollywood Hasn't Matched Hollywood's Global Reach",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/why-bollywood-hasn-t-matched-hollywood-s-global-reach-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T09:04:23.000Z"
-    },
-    {
-      "title": "Simone Biles and Jonathan Owens find a buyer for $1.2 million Texas home—in less than a week",
-      "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-find-a-buyer-for-1-2-million-texas-homein-less-than-a-week-52b1a2a4?mod=mw_rss_topstories",
+      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
+      "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-08T09:03:00.000Z"
+      "publishedAt": "2026-10-08T18:19:00.000Z"
     },
     {
-      "title": "Saudis in Talks to Formalize Hormuz Shuttles in Fight for Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/saudis-in-talks-to-formalize-hormuz-shuttles-in-fight-for-market",
+      "title": "Musalem Signals Fed Rates Should Rise Over Next Six-to-Nine Months",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/musalem-says-fed-rates-should-rise-over-next-6-9-months-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T09:00:48.000Z"
+      "publishedAt": "2026-10-08T18:17:35.000Z"
     },
     {
-      "title": "Fed’s Waller: More hikes needed, but there is ’flexibility’ about the pace",
-      "url": "https://www.investing.com/news/economy-news/feds-waller-more-hikes-needed-but-there-is-flexibility-about-the-pace-4938165",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T09:00:39.000Z"
-    },
-    {
-      "title": "Le Pen lifting retirement age is key to French bond yields, RBC BlueBay strategist says",
-      "url": "https://www.investing.com/news/economy-news/le-pen-lifting-retirement-age-is-key-to-french-bond-yields-rbc-bluebay-strategist-says-4938184",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T09:00:22.000Z"
-    },
-    {
-      "title": "Germany’s ex-spymaster admits holding files but denies treason",
-      "url": "https://www.ft.com/content/572b899b-0e36-4a90-aadc-776818e339c3?syn-25a6b1a6=1",
+      "title": "Trump says US ‘will not be attacking Iran’ before midterm elections",
+      "url": "https://www.ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-10-08T08:56:16.000Z"
+      "publishedAt": "2026-10-08T18:16:46.000Z"
     },
     {
-      "title": "ECB’s Wunsch pushes back on proposal to increase bank charges",
-      "url": "https://www.investing.com/news/economy-news/ecbs-wunsch-pushes-back-on-proposal-to-increase-bank-charges-4938168",
+      "title": "Seeing 'Bond Abundance': BNP Paribas' Robson",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/seeing-bond-abundance-bnp-paribas-robson-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-08T18:14:27.000Z"
+    },
+    {
+      "title": "Bank of England’s Bailey urges credible fiscal plans amid bond selloff",
+      "url": "https://www.investing.com/news/economy-news/bank-of-englands-bailey-urges-credible-fiscal-plans-amid-bond-selloff-93CH-4939598",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T08:48:32.000Z"
+      "publishedAt": "2026-10-08T18:14:12.000Z"
     },
     {
-      "title": "How India Can Turn Its Culture into Economic Power | Emerging",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/how-india-can-turn-its-culture-into-economic-power-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T08:46:55.000Z"
+      "title": "Fed’s Musalem says lowering inflation will require more rate hikes",
+      "url": "https://www.investing.com/news/economy-news/feds-musalem-says-lowering-inflation-will-require-more-rate-hikes-4939596",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-08T18:12:31.000Z"
     },
     {
-      "title": "Polish Debt Collector Kruk Eyes US, UK as Europe Loses Momentum",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/polish-debt-collector-kruk-eyes-us-uk-as-europe-loses-momentum",
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-08T18:08:00.000Z"
+    },
+    {
+      "title": "French teens march for decent schools despite government’s pledge to act",
+      "url": "https://www.investing.com/news/economy-news/french-teens-march-for-decent-schools-despite-governments-pledge-to-act-4938931",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-08T18:06:55.000Z"
+    },
+    {
+      "title": "Some French IG Bonds Seem Safer Than Sovereign",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/some-french-ig-bonds-seem-safer-than-sovereign-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T08:38:47.000Z"
+      "publishedAt": "2026-10-08T17:59:37.000Z"
+    },
+    {
+      "title": "U.S. suspends Microsoft, Adobe, others from green card program, cites abuse",
+      "url": "https://www.investing.com/news/economy-news/us-suspends-microsoft-adobe-others-from-green-card-program-cites-abuse-4939382",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-08T17:53:15.000Z"
+    },
+    {
+      "title": "SpaceX Crew Capsule Splashes Down After ISS Stay",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/spacex-crew-capsule-splashes-down-after-iss-stay-video-muzu3fbg",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-08T17:52:23.000Z"
+    },
+    {
+      "title": "Rising Yields Creates Value: JPMorgan's Berro",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/rising-yields-creates-value-jpmorgan-s-berro-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-08T17:50:02.000Z"
+    },
+    {
+      "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
+      "url": "https://www.ft.com/content/79cef26a-e5e9-41d0-9af2-876dc23a9a7d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-08T17:49:28.000Z"
+    },
+    {
+      "title": "US 30-year fixed-rate mortgage rate hits 7.40%, likely to further erode housing demand",
+      "url": "https://www.investing.com/news/economy-news/us-30year-fixedrate-mortgage-rate-jumps-to-740-4939500",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-08T17:48:38.000Z"
+    },
+    {
+      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+      "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-08T17:45:00.000Z"
+    },
+    {
+      "title": "Hurricane Isaias forces Gulf oil and gas production shutdowns",
+      "url": "https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-08T17:44:16.000Z"
+    },
+    {
+      "title": "OpenAI annualised revenues $20bn less than previously signalled",
+      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-08T17:40:56.000Z"
     }
   ]
 }
