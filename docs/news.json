@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-08T18:34:12.288Z",
+  "lastUpdated": "2026-10-09T01:01:25.554Z",
   "ai": {
     "developers": [
+      {
+        "title": "Anthropic launches free AI security scans for open-source projects",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-08T21:53:51.000Z",
+        "category": "developers"
+      },
       {
         "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
@@ -14,6 +21,13 @@
         "url": "https://openai.com/index/oracle",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-08T16:00:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "LegalOn halves Codex costs while maintaining development speed",
+        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-10-08T12:00:00.000Z",
         "category": "developers"
       },
       {
@@ -92,23 +106,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-08T17:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "1Password increases engineering productivity 21% with Codex",
-        "url": "https://openai.com/index/1password",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-09-08T00:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "How AI-native companies turn workflows into operating capability",
-        "url": "https://openai.com/index/ai-native-company-workflows",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-09-01T17:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-10-09T00:08:24.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "California is trying to shut down robot vs. human cage matches",
+        "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-08T20:06:56.000Z",
+        "category": "everyone"
+      },
       {
         "title": "USA Today becomes the latest publisher to sue OpenAI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
@@ -149,13 +163,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
         "source": "The Verge – AI",
         "publishedAt": "2026-10-07T19:10:42.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
-        "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-07T18:42:22.000Z",
         "category": "everyone"
       },
       {
@@ -206,13 +213,6 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-01T00:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Making AI an asset, not an expense",
-        "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-29T10:43:45.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
@@ -249,13 +249,6 @@
         "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-08T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "It appears .agent and .agi are about to be the hot new domains",
-        "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-07T18:46:16.000Z",
         "category": "advancements"
       },
       {
@@ -320,118 +313,181 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-02T16:15:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-10-02T15:49:04.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "We're adding to our position in a hard-hit stock before important catalysts arrive",
-        "url": "https://www.cnbc.com/investingclub/2026/10/08/were-adding-to-our-position-in-a-hard-hit-stock-before-important-catalysts-arrive.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T18:26:43.000Z",
+        "title": "Global Market Today: Asian stocks drop on tech jitters, oil edges lower",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-tech-jitters-oil-edges-lower/articleshow/134803253.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-09T00:48:02.000Z",
         "category": "markets"
       },
       {
-        "title": "How soon into dating do you talk about your salary?",
-        "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
+        "title": "Stocks in news: TCS, ITC, Infosys, Cochin Shipyard and RIL",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-itc-infosys-cochin-shipyard-and-ril/articleshow/134798204.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-09T00:30:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Pre-market action: Here's the trade setup for today's session",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134797262.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-09T00:30:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stock futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates",
+        "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-09T00:29:49.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Anup Bagchi set to become India's highest-paid bank CEO, may earn Rs 35.9 crore a year",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/anup-bagchi-set-to-become-indias-highest-paid-bank-ceo-may-earn-rs-35-9-crore-a-year/articleshow/134803148.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-09T00:27:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "JM Financial tops investment banking league table in H1 FY27",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-tops-investment-banking-league-table-in-h1-fy27-with-rs-75775-crore/articleshow/134802728.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-09T00:16:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "GQG Partners sells Rs 24,400 cr worth of Indian stocks in 2026; ITC, Adani shares among key exits",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-partners-trims-stake-in-itc-to-rs-9395-crore-amidst-broader-market-sell-off-in-2026/articleshow/134803001.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-09T00:10:26.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+        "url": "https://www.cnbc.com/2026/10/08/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T23:47:52.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+        "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-10-08T18:26:41.000Z",
+        "publishedAt": "2026-10-08T23:14:02.000Z",
         "category": "markets"
       },
       {
-        "title": "Stocks fall, weighed down by oil prices and tech declines: Live updates",
-        "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T18:25:00.000Z",
+        "title": "Why are more roofs not made of solar tiles?",
+        "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-08T23:09:56.000Z",
         "category": "markets"
       },
       {
-        "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
-        "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T18:23:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T18:18:31.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
-        "url": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T18:16:53.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-        "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T18:06:41.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
-        "url": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T18:04:08.000Z",
+        "title": "'Add me to WhatsApp' scam calls to be investigated",
+        "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-08T23:05:09.000Z",
         "category": "markets"
       },
       {
         "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
         "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-10-08T17:58:25.000Z",
+        "publishedAt": "2026-10-08T23:01:16.000Z",
         "category": "markets"
       },
       {
-        "title": "Media attorneys ask court for help in preventing White House ban until legal case is resolved",
-        "url": "https://www.cnbc.com/2026/10/08/trump-media-ban-court-hearing-lawsuit-cnn-msnow-politico.html",
+        "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+        "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-08T17:53:41.000Z",
+        "publishedAt": "2026-10-08T22:55:46.000Z",
         "category": "markets"
       },
       {
-        "title": "Trump says U.S. will not attack Iran before midterm election",
-        "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T17:41:20.000Z",
+        "title": "White House blocks Microsoft from foreign worker hiring program",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-08T21:37:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-        "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+        "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-08T17:31:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
-        "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T17:28:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
-        "url": "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T17:27:54.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "CNBC's No. 1 financial advisor takes a family-office approach: 'There is real value in all of those relationships'",
-        "url": "https://www.cnbc.com/2026/10/08/howland-capital-management-top-financial-advisor-strategy.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T17:26:47.000Z",
+        "publishedAt": "2026-10-08T21:19:14.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties",
+        "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-09T00:46:27.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+        "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-08T23:57:23.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+        "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-08T22:35:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+        "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T21:22:58.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+        "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T19:46:15.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+        "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-08T19:31:38.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
+        "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-08T19:17:18.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-08T18:29:33.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
         "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -461,7 +517,7 @@
         "category": "crypto"
       },
       {
-        "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+        "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
         "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
         "source": "CoinDesk",
         "publishedAt": "2026-10-08T15:43:04.000Z",
@@ -480,185 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-10-08T15:23:26.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T15:11:15.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
-        "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T14:39:48.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
-        "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T14:24:24.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
-        "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T14:03:20.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
-        "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T13:42:27.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
-        "url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-08T13:40:12.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Crypto lending rises again… but have they solved the risks?",
-        "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-08T13:30:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
-        "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T13:06:24.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "LA, Florida Schools Face Budget Pressures",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/la-florida-schools-face-budget-pressures-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T18:30:59.000Z"
-    },
-    {
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+      "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-08T18:30:00.000Z"
+      "publishedAt": "2026-10-09T00:52:00.000Z"
     },
     {
-      "title": "Private Credit Firms See Rare Growth Shortcut With BDCs for Sale",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/private-credit-firms-see-rare-growth-shortcut-with-bdcs-for-sale",
+      "title": "Japan reboots DOGE-style spending review in hunt for funds for Takaichi pledges",
+      "url": "https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-09T00:48:21.000Z"
+    },
+    {
+      "title": "Japan Deal Drought Cuts IPO Fundraising to Lowest in 14 Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/japan-deal-drought-cuts-ipo-fundraising-to-lowest-in-14-years",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T18:19:08.000Z"
+      "publishedAt": "2026-10-09T00:30:00.000Z"
     },
     {
-      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "title": "De olho nas eleições",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/de-olho-nas-eleicoes-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-09T00:10:34.000Z"
+    },
+    {
+      "title": "Exclusive-AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say",
+      "url": "https://www.investing.com/news/economy-news/exclusiveai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-4940031",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-09T00:06:17.000Z"
+    },
+    {
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-08T18:19:00.000Z"
+      "publishedAt": "2026-10-09T00:03:00.000Z"
     },
     {
-      "title": "Musalem Signals Fed Rates Should Rise Over Next Six-to-Nine Months",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/musalem-says-fed-rates-should-rise-over-next-6-9-months-video",
+      "title": "Gold Steadies as Traders Assess US-Iran Tensions, Fed Rate Path",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/gold-steadies-as-traders-assess-us-iran-tensions-fed-rate-path",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T18:17:35.000Z"
+      "publishedAt": "2026-10-09T00:02:32.000Z"
     },
     {
-      "title": "Trump says US ‘will not be attacking Iran’ before midterm elections",
-      "url": "https://www.ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1",
+      "title": "Chinese Bonds Become Source of Cheap Money for Global Borrowers",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/chinese-bonds-become-source-of-cheap-money-for-global-borrowers",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "Japanese annual household spending drops for 9 straight months",
+      "url": "https://www.investing.com/news/economy-news/japanese-annual-household-spending-drops-for-9-straight-months-4940012",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-08T23:48:23.000Z"
+    },
+    {
+      "title": "Japan’s Household Spending Falls Again Despite Wage Gains",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/japan-s-household-spending-falls-again-despite-wage-gains",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-08T23:35:57.000Z"
+    },
+    {
+      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-08T23:14:00.000Z"
+    },
+    {
+      "title": "US to publicly execute former soldier by firing squad",
+      "url": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-10-08T18:16:46.000Z"
+      "publishedAt": "2026-10-08T22:28:10.000Z"
     },
     {
-      "title": "Seeing 'Bond Abundance': BNP Paribas' Robson",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/seeing-bond-abundance-bnp-paribas-robson-video",
+      "title": "AI Borrowing Spree Hammers Tech Debt in Rush to Reprice Risk",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-debt-spree-hammers-tech-debt-as-traders-rush-to-reprice-risk",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T18:14:27.000Z"
+      "publishedAt": "2026-10-08T22:24:51.000Z"
     },
     {
-      "title": "Bank of England’s Bailey urges credible fiscal plans amid bond selloff",
-      "url": "https://www.investing.com/news/economy-news/bank-of-englands-bailey-urges-credible-fiscal-plans-amid-bond-selloff-93CH-4939598",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T18:14:12.000Z"
+      "title": "Barclays’ Lauren Lieberman on PepsiCo Earnings",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/barclays-lauren-lieberman-on-pepsico-earnings-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-08T22:13:29.000Z"
     },
     {
-      "title": "Fed’s Musalem says lowering inflation will require more rate hikes",
-      "url": "https://www.investing.com/news/economy-news/feds-musalem-says-lowering-inflation-will-require-more-rate-hikes-4939596",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T18:12:31.000Z"
-    },
-    {
-      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+      "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-08T18:08:00.000Z"
+      "publishedAt": "2026-10-08T22:08:00.000Z"
     },
     {
-      "title": "French teens march for decent schools despite government’s pledge to act",
-      "url": "https://www.investing.com/news/economy-news/french-teens-march-for-decent-schools-despite-governments-pledge-to-act-4938931",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T18:06:55.000Z"
-    },
-    {
-      "title": "Some French IG Bonds Seem Safer Than Sovereign",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/some-french-ig-bonds-seem-safer-than-sovereign-video",
+      "title": "Asian Stocks Slip After US Tech Jitters, Oil Drops: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T17:59:37.000Z"
+      "publishedAt": "2026-10-08T22:05:53.000Z"
     },
     {
-      "title": "U.S. suspends Microsoft, Adobe, others from green card program, cites abuse",
-      "url": "https://www.investing.com/news/economy-news/us-suspends-microsoft-adobe-others-from-green-card-program-cites-abuse-4939382",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T17:53:15.000Z"
-    },
-    {
-      "title": "SpaceX Crew Capsule Splashes Down After ISS Stay",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/spacex-crew-capsule-splashes-down-after-iss-stay-video-muzu3fbg",
+      "title": "True Religion CEO on Company Transformation and Gen Z Customers",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/true-religion-ceo-on-company-transformation-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T17:52:23.000Z"
+      "publishedAt": "2026-10-08T22:05:23.000Z"
     },
     {
-      "title": "Rising Yields Creates Value: JPMorgan's Berro",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/rising-yields-creates-value-jpmorgan-s-berro-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-08T17:50:02.000Z"
-    },
-    {
-      "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
-      "url": "https://www.ft.com/content/79cef26a-e5e9-41d0-9af2-876dc23a9a7d?syn-25a6b1a6=1",
+      "title": "Amex fined $350mn for failing to flag suspected money laundering",
+      "url": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-10-08T17:49:28.000Z"
+      "publishedAt": "2026-10-08T22:03:23.000Z"
     },
     {
-      "title": "US 30-year fixed-rate mortgage rate hits 7.40%, likely to further erode housing demand",
-      "url": "https://www.investing.com/news/economy-news/us-30year-fixedrate-mortgage-rate-jumps-to-740-4939500",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T17:48:38.000Z"
+      "title": "Latest Oil Market News and Analysis for Oct. 9",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/latest-oil-market-news-and-analysis-for-oct-9",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-08T22:02:47.000Z"
     },
     {
-      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-      "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-08T17:45:00.000Z"
-    },
-    {
-      "title": "Hurricane Isaias forces Gulf oil and gas production shutdowns",
-      "url": "https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-08T17:44:16.000Z"
-    },
-    {
-      "title": "OpenAI annualised revenues $20bn less than previously signalled",
-      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-08T17:40:56.000Z"
+      "title": "Rachel Gamarski conta sobre os cotados de Flávio Bolsonaro",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/rachel-gamarski-conta-sobre-os-cotados-de-flavio-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-08T22:02:07.000Z"
     }
   ]
 }
