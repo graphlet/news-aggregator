@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-17T10:17:18.912Z",
+  "lastUpdated": "2026-10-17T15:08:55.709Z",
   "ai": {
     "developers": [
       {
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "url": "https://openai.com/index/benefit-street-partners",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-16T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-16T00:00:00.000Z",
         "category": "developers"
@@ -110,6 +110,20 @@
     ],
     "everyone": [
       {
+        "title": "Meta removes language that may have allowed it to scrape news sites",
+        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-17T15:04:36.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-17T13:00:00.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
         "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
         "source": "MIT Technology Review",
@@ -163,20 +177,6 @@
         "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
         "source": "The Verge – AI",
         "publishedAt": "2026-10-15T18:15:36.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Friends don&#8217;t let friends feed their data to AI agents",
-        "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-15T16:21:45.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-        "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-15T14:30:00.000Z",
         "category": "everyone"
       },
       {
@@ -273,15 +273,15 @@
         "category": "advancements"
       },
       {
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-09T07:00:00.000Z",
         "category": "advancements"
       },
       {
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-09T07:00:00.000Z",
         "category": "advancements"
@@ -326,112 +326,147 @@
   "finance": {
     "markets": [
       {
-        "title": "Nifty reclaims 200 WMA; eyes further gains as key resistance shapes next move",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-reclaims-200-wma-eyes-further-gains-as-key-resistance-shapes-next-move/articleshow/135011480.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T09:49:28.000Z",
+        "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+        "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T15:00:01.000Z",
         "category": "markets"
       },
       {
-        "title": "10 smallcap stocks surge up to 65% in 3 months despite market weakness",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-smallcap-stocks-surge-up-to-65-in-3-months-despite-market-weakness/slideshow/135010857.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T08:46:40.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "HDFC Bank Q2 Results: Net profit rises 5% YoY to Rs 19,510 crore; NII grows 10%",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-net-profit-rises-5-yoy-to-rs-19510-crore-nii-grows-10/articleshow/135010605.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T08:46:36.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Axis Bank Q2 Results: Net profit jumps 38% YoY to Rs 7,003 crore, NII rises 12%",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-results-net-profit-jumps-38-yoy-to-rs-7003-crore-nii-rises-12/articleshow/135009892.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T07:42:58.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "F&amp;O Talk: Nifty’s break above 23,450 could push index to 23,650; Sudeep Shah picks Tech Mahindra, TCS strategy",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-23450-could-push-index-to-23650-sudeep-shah-picks-tech-mahindra-tcs-strategy/articleshow/135009790.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T07:27:50.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "8 small, midcap stocks with upside potential of up to 50%. How many are in your portfolio?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/8-small-midcap-stocks-with-upside-potential-of-up-to-50-how-many-are-in-your-portfolio/slideshow/135009761.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T07:10:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Nicholas Sleep’s investing lessons: Why patience, conviction and long-term thinking matter",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nicholas-sleeps-investing-lessons-why-patience-conviction-and-long-term-thinking-matter/articleshow/135009564.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T07:08:15.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Concurrent Gainers: 15 stocks gain for 5 days in a row",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-15-stocks-gain-for-5-days-in-a-row/slideshow/135008981.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T06:23:45.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jio IPO’s grey market hints at 20% listing pop. What are Emkay, SBI Securities saying?",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-grey-market-hints-at-20-listing-pop-what-are-emkay-sbi-securities-saying/articleshow/135008712.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T06:21:19.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Brent crude oil prices hit $110 for first time since May as Iran attacks continue, Ukraine eyes Russia energy infra",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/brentcrude-oil-prices-hit-110-for-first-time-since-may-as-iran-attacks-continue-ukraine-eyes-russia-energy-infra/articleshow/135008770.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T06:18:37.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Call for more food funding due to high living cost",
-        "url": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o?at_medium=RSS&at_campaign=rss",
+        "title": "Low-cost clinic helps pet owners with vet bills",
+        "url": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-10-17T06:18:16.000Z",
+        "publishedAt": "2026-10-17T14:12:02.000Z",
         "category": "markets"
       },
       {
-        "title": "Charity reflects on changing needs over 25 years",
-        "url": "https://www.bbc.co.uk/news/articles/c615jnxv7n45o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-10-17T06:11:54.000Z",
+        "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+        "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T13:47:59.000Z",
         "category": "markets"
       },
       {
-        "title": "Nightclubs are disappearing - and it's affecting young people",
-        "url": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-10-17T06:01:55.000Z",
+        "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+        "url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T13:30:01.000Z",
         "category": "markets"
       },
       {
-        "title": "ETMarkets Smart Talk | Manufacturing, healthcare and financialisation could create India’s next wealth creators: Sanjay Doshi",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-manufacturing-healthcare-and-financialisation-could-create-indias-next-wealth-creators-sanjay-doshi/articleshow/135008355.cms",
+        "title": "Tear gas, clashes hit French cities in cost-of-living protests",
+        "url": "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T13:21:37.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+        "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T13:00:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "These tech stocks are a buy ahead of their earnings reports, Bank of America says",
+        "url": "https://www.cnbc.com/2026/10/17/tech-stocks-to-buy-going-into-their-earnings-reports.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T12:49:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+        "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T12:46:21.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Central Bank of India Q2 profit rises 21% as loans grow 30%",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q2-profit-rises-21-as-loans-grow-30/articleshow/135014014.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T05:59:17.000Z",
+        "publishedAt": "2026-10-17T12:14:25.000Z",
         "category": "markets"
       },
       {
-        "title": "ET Alpha Wealth Summit 2.0 | Why alternatives are becoming essential for wealth creation beyond stocks and bonds, says Rahul Jain",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/et-alpha-wealth-summit-2-0-why-alternatives-are-becoming-essential-for-wealth-creation-beyond-stocks-and-bonds-says-rahul-jain/articleshow/135008310.cms",
+        "title": "Hurricane Trudy makes its way toward Mexico as Typhoon Champi threatens Guam",
+        "url": "https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T12:08:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+        "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T12:00:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "IMFC chair says global economy resilient; delegates walk out on Russian official",
+        "url": "https://www.cnbc.com/2026/10/17/imf-members-call-for-more-support-amid-war-shocks-advanced-intelligence-risks.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-17T11:41:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Rising borrowing costs signal funding risks for global AI expansion: Jefferies report",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-jefferies-report/articleshow/135012567.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-17T05:53:27.000Z",
+        "publishedAt": "2026-10-17T11:04:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/articleshow/135012540.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-17T11:02:52.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "ixigo Q2 profit at Rs 63 cr on robust show in hotel booking biz",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ixigo-q2-profit-at-rs-63-cr-on-robust-show-in-hotel-booking-biz/articleshow/135012396.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-17T10:51:46.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Citrini sees a tokenization boom. The harder question is who profits",
+        "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-17T15:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+        "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-17T14:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-17T13:29:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+        "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-17T12:58:03.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+        "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-17T12:00:00.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
         "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -448,7 +483,7 @@
       },
       {
         "title": "Crypto’s leverage machine finds new life beyond Bitcoin bets",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets/articleshow/135007267.cms",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets/articleshow/135007267.cms",
         "source": "Economic Times – Markets",
         "publishedAt": "2026-10-17T08:27:30.000Z",
         "category": "crypto"
@@ -489,13 +524,6 @@
         "category": "crypto"
       },
       {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-16T19:17:04.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
         "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -508,157 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-10-16T17:21:45.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-        "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-16T15:52:28.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-16T15:45:43.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Big Tech's AI auditors will only see what they're shown",
-        "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-16T14:58:22.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
-        "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-10-16T13:51:35.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "German minister seeks debt brake exemption to maintain Ukraine aid",
-      "url": "https://www.investing.com/news/economy-news/german-minister-seeks-debt-brake-exemption-to-maintain-ukraine-aid-4955372",
+      "title": "Analysis-High debt, growing strains put focus on need for new development approaches",
+      "url": "https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T10:01:54.000Z"
+      "publishedAt": "2026-10-17T14:54:21.000Z"
     },
     {
-      "title": "Trump exempts Russia from further sanctions mandated by new law",
-      "url": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-17T14:35:04.000Z"
+    },
+    {
+      "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-17T14:27:13.000Z"
+    },
+    {
+      "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+      "url": "https://www.investing.com/news/economy-news/bank-of-canada-sees-sharply-higher-inflation-outlook-as-oil-surges-macklem-says-4955437",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-17T14:06:43.000Z"
+    },
+    {
+      "title": "Northwell CEO Says Health Care Model Must Change",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-17T14:03:47.000Z"
+    },
+    {
+      "title": "Can the Fed Fight Inflation Without Hurting Farmers?",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-17T14:03:13.000Z"
+    },
+    {
+      "title": "Freeland Warns US Alliances Are Fraying",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-17T13:39:38.000Z"
+    },
+    {
+      "title": "Sports Fashion Finds a Growing Female Audience",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/sports-fashion-finds-a-growing-female-audience-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-17T13:17:32.000Z"
+    },
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T13:00:00.000Z"
+    },
+    {
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T13:00:00.000Z"
+    },
+    {
+      "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
+      "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-10-17T09:53:31.000Z"
+      "publishedAt": "2026-10-17T12:53:53.000Z"
     },
     {
-      "title": "Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP",
-      "url": "https://www.investing.com/news/economy-news/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp-4955359",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T09:18:19.000Z"
-    },
-    {
-      "title": "Russia says it struck Ukrainian steel plants and power infrastructure",
-      "url": "https://www.investing.com/news/economy-news/russia-says-it-struck-ukrainian-steel-plants-and-power-infrastructure-4955358",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T09:08:59.000Z"
-    },
-    {
-      "title": "Delegates walked out of IMF steering committee meeting when Russian official spoke, sources say",
-      "url": "https://www.investing.com/news/economy-news/delegates-walked-out-of-imf-steering-committee-meeting-when-russian-official-spoke-sources-say-4955349",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T08:48:20.000Z"
-    },
-    {
-      "title": "ECB’s Lagarde says bond selloff will slow inflation",
-      "url": "https://www.investing.com/news/economy-news/ecbs-lagarde-says-bond-selloff-will-slow-inflation-4955322",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T08:06:23.000Z"
-    },
-    {
-      "title": "IMF members call for more support amid war shocks, ’advanced intelligence’ risks",
-      "url": "https://www.investing.com/news/economy-news/imf-members-call-for-increased-support-for-countries-amid-negative-risks-and-war-spillovers-4955272",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T08:00:20.000Z"
-    },
-    {
-      "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-      "url": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
+      "title": "By The Way: Headlines You May Have Missed",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-17T08:00:00.000Z"
+      "publishedAt": "2026-10-17T12:51:57.000Z"
     },
     {
-      "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
-      "url": "https://www.investing.com/news/economy-news/china-ai-supplychain-ipos-hold-firm-despite-valuation-pullback-citi-says-4955300",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T07:48:19.000Z"
-    },
-    {
-      "title": "UK-U.S. relations strained as Trump shifts stance on Russia-Ukraine war",
-      "url": "https://www.investing.com/news/economy-news/ukus-relations-strained-as-trump-shifts-stance-on-russiaukraine-war-4955294",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T07:21:35.000Z"
-    },
-    {
-      "title": "Lagarde Says Sustainable Finances Key for Economic Stability",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
+      "title": "Global Aid Cuts Deepen Humanitarian Strain",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-17T05:40:45.000Z"
+      "publishedAt": "2026-10-17T12:44:18.000Z"
     },
     {
-      "title": "China Warns Corrupt Officials Can’t Expect a Safe Landing",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-17/china-warns-corrupt-officials-can-t-expect-a-safe-landing",
+      "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
+      "url": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T12:31:00.000Z"
+    },
+    {
+      "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+      "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T12:30:00.000Z"
+    },
+    {
+      "title": "Rockstar Rebuilt Itself to Make GTA VI",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/rockstar-rebuilt-itself-to-make-gta-vi-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-17T05:35:22.000Z"
+      "publishedAt": "2026-10-17T12:15:53.000Z"
     },
     {
-      "title": "Japan’s Takaichi to Attend APEC in China if Parliament Allows",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
+      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
+      "url": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T12:01:00.000Z"
+    },
+    {
+      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T12:00:00.000Z"
+    },
+    {
+      "title": "Trump Puts New Russia Sanctions on Hold",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/trump-puts-new-russia-sanctions-on-hold-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-17T05:22:12.000Z"
+      "publishedAt": "2026-10-17T11:49:42.000Z"
     },
     {
-      "title": "Iran war: Missiles target Saudi oil hub as Yemen conflict escalates",
-      "url": "https://www.investing.com/news/economy-news/iran-war-missiles-target-saudi-oil-hub-as-yemen-conflict-escalates-4955004",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T05:08:21.000Z"
-    },
-    {
-      "title": "Fairfax’s Watsa Bets On IDBI Payoff As India Booms, Report Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-17/fairfax-s-watsa-bets-on-idbi-payoff-as-india-booms-report-says",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-17T04:55:30.000Z"
-    },
-    {
-      "title": "India Halts Sugar Diversion to Ethanol After El Nino Hurts Crops",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-17/india-halts-sugar-diversion-to-ethanol-after-el-nino-hurts-crops",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-17T04:50:55.000Z"
-    },
-    {
-      "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-      "url": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4955234",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-17T04:48:23.000Z"
-    },
-    {
-      "title": "Houthis encircle new target in conflict with Saudi-backed forces",
-      "url": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-17T04:00:30.000Z"
-    },
-    {
-      "title": "The Man City theory of politics",
-      "url": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-17T04:00:21.000Z"
-    },
-    {
-      "title": "The dress rehearsal for an AI reckoning",
-      "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-17T04:00:21.000Z"
+      "title": "It was another great week for the average stock as market leadership shifts away from tech",
+      "url": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T11:30:00.000Z"
     }
   ]
 }
