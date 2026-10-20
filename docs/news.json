@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-19T20:24:31.451Z",
+  "lastUpdated": "2026-10-20T00:08:04.308Z",
   "ai": {
     "developers": [
+      {
+        "title": "Advancing coding in low‑resource programming languages",
+        "url": "https://openai.com/index/low-resource-programming-languages",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-10-19T12:00:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
         "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
@@ -10,15 +17,15 @@
         "category": "developers"
       },
       {
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-16T00:00:00.000Z",
         "category": "developers"
       },
       {
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "url": "https://openai.com/index/benefit-street-partners",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-16T00:00:00.000Z",
         "category": "developers"
@@ -99,16 +106,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-09-10T16:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "Introducing the Agents API",
-        "url": "https://openai.com/index/introducing-the-agents-api",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-09-10T00:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "The fossil fuel comeback is here",
+        "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-19T21:48:01.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-19T21:28:20.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Making the internet better for AI agents might make it worse for everyone else",
         "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
@@ -184,20 +198,6 @@
         "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
         "source": "The Verge – AI",
         "publishedAt": "2026-10-16T14:02:40.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "ChatGPT can peek at your Chrome tabs now",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-15T22:43:23.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-15T22:35:55.000Z",
         "category": "everyone"
       },
       {
@@ -326,52 +326,31 @@
   "finance": {
     "markets": [
       {
-        "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-        "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T20:22:03.000Z",
+        "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+        "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-19T23:00:21.000Z",
         "category": "markets"
       },
       {
-        "title": "Nasdaq climbs more than 1% as AI trade makes a comeback",
-        "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T20:20:15.000Z",
+        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-19T21:30:06.000Z",
         "category": "markets"
       },
       {
-        "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-        "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T20:12:45.000Z",
+        "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-19T21:12:30.000Z",
         "category": "markets"
       },
       {
-        "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-        "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T19:46:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-        "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T19:45:28.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-        "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T19:37:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Wells Fargo's comeback is just getting started. Here's why I'm buying",
-        "url": "https://www.cnbc.com/2026/10/19/wells-fargo-stock-why-im-buying-as-its-comeback-gains-momentum.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T19:21:56.000Z",
+        "title": "US stocks today: Nasdaq leads Wall Street gains as chip, AI stocks rebound",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-gains-as-chip-ai-stocks-rebound/articleshow/135056194.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-19T20:18:35.000Z",
         "category": "markets"
       },
       {
@@ -382,17 +361,10 @@
         "category": "markets"
       },
       {
-        "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
-        "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T19:13:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-        "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T18:36:21.000Z",
+        "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-19T18:21:54.000Z",
         "category": "markets"
       },
       {
@@ -410,28 +382,70 @@
         "category": "markets"
       },
       {
-        "title": "Goldman says play defense with these stocks if you're worried about the AI bull failing",
-        "url": "https://www.cnbc.com/2026/10/19/goldman-says-play-defense-with-these-stocks-if-youre-worried-about-the-ai-bull-failing.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T17:28:11.000Z",
+        "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+        "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-19T16:47:00.000Z",
         "category": "markets"
       },
       {
-        "title": "CNBC Points Pro: Which card should I use for an appliance purchase?",
-        "url": "https://www.cnbc.com/select/which-credit-card-should-i-use-to-buy-an-appliance/",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T17:07:12.000Z",
+        "title": "Vinted blocks French looters listing stolen goods for sale",
+        "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-19T16:46:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-        "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T16:58:20.000Z",
+        "title": "AI stocks rebound as CoreWeave jumps on Goldman Sachs upgrade",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rebound-as-coreweave-jumps-on-goldman-upgrade/articleshow/135052127.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-19T16:17:35.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Ireda net profit grows to Rs 554 cr in Sep qtr",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ireda-net-profit-grows-to-rs-554-cr-in-sep-qtr/articleshow/135051929.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-19T15:59:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-nvidia/articleshow/135051867.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-19T15:52:49.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bikes 'not for jousting,' says Lime after duel video",
+        "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-19T15:44:53.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Global Markets: French markets tumble as riots add to political crisis",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-19T15:22:55.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+        "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-19T21:04:34.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+        "url": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-19T20:22:41.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
         "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
@@ -489,13 +503,6 @@
         "category": "crypto"
       },
       {
-        "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
-        "url": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-19T16:17:37.000Z",
-        "category": "crypto"
-      },
-      {
         "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
         "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
@@ -529,136 +536,129 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-10-19T12:30:00.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-        "url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-19T12:16:58.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Citgo Raises Profit Outlook by $2 Billion as Fuel Margins Surge",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/citgo-raises-profit-outlook-by-2-billion-as-fuel-margins-surge",
+      "title": "French Protests Taper Off as Officials Admit Failure",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-20/french-protests-taper-off-as-officials-admit-failure-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T20:14:41.000Z"
+      "publishedAt": "2026-10-20T00:00:15.000Z"
     },
     {
-      "title": "Bond Sale Tied to Manhattan Office Building Is Latest On Hold",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/bond-sale-tied-to-manhattan-office-building-is-latest-on-hold",
+      "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T20:13:03.000Z"
+      "publishedAt": "2026-10-19T23:55:45.000Z"
     },
     {
       "title": "Nasdaq climbs as chip and AI-linked stocks bounce back",
       "url": "https://www.investing.com/news/economy-news/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall-4956777",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-19T20:06:24.000Z"
+      "publishedAt": "2026-10-19T23:36:43.000Z"
     },
     {
-      "title": "ASX Chief Says Australia Risks Falling Behind Asian Finance Hubs",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/asx-chief-says-australia-risks-falling-behind-asian-finance-hubs",
+      "title": "Mynt’s Record IPO Brings a New Heavyweight to Philippine Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/mynt-s-record-ipo-brings-a-new-heavyweight-to-philippine-stocks",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T20:00:00.000Z"
+      "publishedAt": "2026-10-19T23:00:00.000Z"
     },
     {
-      "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-      "url": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal",
+      "url": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-19T22:27:32.000Z"
+    },
+    {
+      "title": "Asian Stocks Shrug Off US Chip Rally, Oil Steadies: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-19T22:09:31.000Z"
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for Oct. 20",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-19T22:04:11.000Z"
+    },
+    {
+      "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
+      "url": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-19T19:56:00.000Z"
+      "publishedAt": "2026-10-19T21:58:00.000Z"
+    },
+    {
+      "title": "When should you dump your target-date funds?",
+      "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-19T21:37:00.000Z"
+    },
+    {
+      "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+      "url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-19T21:36:00.000Z"
+    },
+    {
+      "title": "How the Buffett Kids Will Shape a $150 Billion Legacy",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-19/how-the-buffett-kids-will-shape-a-150-billion-legacy-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-19T21:35:07.000Z"
+    },
+    {
+      "title": "Trading Day: AI storm abates",
+      "url": "https://www.investing.com/news/economy-news/trading-day-ai-storm-abates-4958391",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-19T21:30:36.000Z"
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-19T21:30:00.000Z"
+    },
+    {
+      "title": "OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim",
+      "url": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-19T21:27:34.000Z"
+    },
+    {
+      "title": "New York pensions chief says private equity firm sought to expense jet use",
+      "url": "https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-19T21:18:40.000Z"
+    },
+    {
+      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-19T21:15:00.000Z"
+    },
+    {
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-19T21:06:00.000Z"
     },
     {
       "title": "SpaceX earnings will be all about AI — for better or for worse",
       "url": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-19T19:47:00.000Z"
+      "publishedAt": "2026-10-19T21:02:00.000Z"
     },
     {
-      "title": "Why the Treasury’s financing plans are sparking anxiety on Wall Street",
-      "url": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
+      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+      "url": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-19T19:45:00.000Z"
+      "publishedAt": "2026-10-19T21:00:00.000Z"
     },
     {
-      "title": "Indonesia faces rare MSCI exclusion that could cut it off from global capital",
-      "url": "https://www.investing.com/news/economy-news/indonesia-faces-rare-msci-exclusion-that-could-cut-it-off-from-global-capital-4956189",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-19T19:36:28.000Z"
-    },
-    {
-      "title": "Why Elon Musk, Anthropic and other AI titans are giving away shares",
-      "url": "https://www.marketwatch.com/story/why-elon-musk-anthropic-and-other-ai-titans-are-giving-away-shares-a6709d24?mod=mw_rss_topstories",
+      "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
+      "url": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-19T19:30:00.000Z"
-    },
-    {
-      "title": "Bank of Canada Hike Bets Grow Among Economists, Traders",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/bank-of-canada-hike-bets-grow-among-economists-traders",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T19:23:07.000Z"
-    },
-    {
-      "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
-      "url": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-19T19:17:00.000Z"
-    },
-    {
-      "title": "Trump Accounts, Bonds Barometer, ‘Dividend Nomads’",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/etf-iq-10-19-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T19:01:57.000Z"
-    },
-    {
-      "title": "The World’s Most Profitable Subway",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/the-world-s-most-profitable-subway-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T19:01:02.000Z"
-    },
-    {
-      "title": "US to Make Some Dark Fleet Ships Legitimate, Wright Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/us-to-make-some-dark-fleet-ships-legitimate-wright-says-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T18:50:57.000Z"
-    },
-    {
-      "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-      "url": "https://www.investing.com/news/economy-news/fed-sees-ai-boom-adding-to-inflation-headache-but-others-may-pay-for-the-medicine-4956834",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-19T18:42:20.000Z"
-    },
-    {
-      "title": "Diversification Will Win Out With Trump Accounts: Bartolini",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/diversification-wins-with-trump-accounts-bartolini-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T18:42:14.000Z"
-    },
-    {
-      "title": "French bond sell-off intensifies after riots and looting",
-      "url": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-19T18:31:54.000Z"
-    },
-    {
-      "title": "‘Dividend Nomads’ Invest Their Way Out of the 9-to-5",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/-dividend-nomads-invest-their-way-out-of-the-9-to-5-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T18:25:19.000Z"
-    },
-    {
-      "title": "Europe Should Release More Diesel Fuel, Wright Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/europe-should-release-more-diesel-fuel-wright-says-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T18:16:39.000Z"
-    },
-    {
-      "title": "Seeing Healthy Rotation In Thematic ETFs: Rosenbluth",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/seeing-healthy-rotation-in-thematic-etfs-rosenbluth-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-19T18:13:57.000Z"
+      "publishedAt": "2026-10-19T21:00:00.000Z"
     }
   ]
 }
