@@ -1,114 +1,149 @@
 {
-  "lastUpdated": "2026-10-28T04:33:47.541Z",
+  "lastUpdated": "2026-10-28T12:17:56.242Z",
   "ai": {
     "developers": [
       {
-        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-26T22:00:00.000Z",
+        "title": "A Measurement Study of Contextual Leakage in AI Chat Platforms",
+        "url": "https://arxiv.org/abs/2610.37467",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T12:15:16.000Z",
         "category": "developers"
       },
       {
-        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-26T13:45:00.000Z",
+        "title": "I Started with 12 Names. An LLM Sieve Found the Rest",
+        "url": "https://zamechek.com/blog/the-sieve-growing-from-a-seed/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T12:14:52.000Z",
         "category": "developers"
       },
       {
-        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-23T17:00:00.000Z",
+        "title": "Getting good at AI takes time and practice",
+        "url": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T12:06:03.000Z",
         "category": "developers"
       },
       {
-        "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-        "url": "https://openai.com/index/anima",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-23T00:00:00.000Z",
+        "title": "Video Games for AI Agents, so they don't get bored",
+        "url": "https://play.agentickingdoms.com/?guest=1&src=news.hn",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T12:05:51.000Z",
         "category": "developers"
       },
       {
-        "title": "Build more responsive apps with the Decisions API",
-        "url": "https://openai.com/index/decisions-api",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-22T19:00:00.000Z",
+        "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+        "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T12:05:44.000Z",
         "category": "developers"
       },
       {
-        "title": "AI’s hidden storage bill: What inference leaves behind",
-        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-10-22T08:41:18.000Z",
+        "title": "Show HN: AI Workflows – 32 step-by-step workflows built from 146 AI tools",
+        "url": "https://aiworkflows.tools/workflows",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T12:03:05.000Z",
         "category": "developers"
       },
       {
-        "title": "Advancing coding in low‑resource programming languages",
-        "url": "https://openai.com/index/low-resource-programming-languages",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-19T12:00:00.000Z",
+        "title": "I don't trust Lean code from AI",
+        "url": "https://karagila.org/2026/lean/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T12:00:08.000Z",
         "category": "developers"
       },
       {
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "title": "Show HN: ToolmakerAgent,AI SDLC platform where humans and agents can collaborate",
+        "url": "https://toolmaker.io/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T11:57:34.000Z",
         "category": "developers"
       },
       {
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "title": "Flyover (1982. c64,vic20,c16,zx,PC. not AI)",
+        "url": "https://orac81.itch.io/flyover",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T11:49:42.000Z",
         "category": "developers"
       },
       {
-        "title": "Amp puts AI agents to work beyond code with OpenAI models",
-        "url": "https://openai.com/index/amp-beyond-coding",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-14T12:00:00.000Z",
+        "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+        "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T11:41:06.000Z",
         "category": "developers"
       },
       {
-        "title": "The EU’s next chapter in AI is agentic",
-        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "title": "Wall Street's AI Debt Machine Is Starting to Choke on Supply",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T11:34:30.000Z",
         "category": "developers"
       },
       {
-        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "url": "https://openai.com/index/oracle",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-08T16:00:00.000Z",
+        "title": "Why We Should Work on AI Instead of Fearing It: A Philosophical Perspective",
+        "url": "https://news.ycombinator.com/item?id=50271924",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T11:34:05.000Z",
         "category": "developers"
       },
       {
-        "title": "LegalOn halves Codex costs while maintaining development speed",
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-08T12:00:00.000Z",
+        "title": "Analysts followed AI agent's randomly assigned preferences in 86% of decisions",
+        "url": "https://www.anthropic.com/research/agents-judgment-calls",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T11:33:10.000Z",
         "category": "developers"
       },
       {
-        "title": "Chatham scales its capital markets expertise with OpenAI",
-        "url": "https://openai.com/index/chatham-financial",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-02T00:00:00.000Z",
+        "title": "AI Agents Flooded RubyGems to Get Code Execution on Its Docs Builder",
+        "url": "https://optimuslabs.io/research/briefings/rubygems-rubydoc-agent-execution",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T11:23:51.000Z",
         "category": "developers"
       },
       {
-        "title": "Are you a Codex Original?",
-        "url": "https://openai.com/form/codex-originals",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-09-28T00:00:00.000Z",
+        "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+        "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T11:13:42.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Voters in Texas agree: They hate data centers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-28T12:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Meta launched an 'AI pet journal' app",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T11:44:34.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Formaster.app – Turn PDF forms into reusable, fillable forms with AI",
+        "url": "https://www.formaster.app/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T09:50:54.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "New prize launches for books co-written with AI",
+        "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T08:57:54.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Show HN: Curate. free, no ADS, with AI, private photo cleaner for iPhone",
+        "url": "https://apps.apple.com/us/app/curate-photo/id6825514911",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T08:52:34.000Z",
+        "category": "everyone"
+      },
       {
         "title": "VisionQuest is what happens when AI really goes rogue",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
@@ -166,13 +201,6 @@
         "category": "everyone"
       },
       {
-        "title": "The RealReal won’t let AI agents hog designer clothing",
-        "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-26T17:30:55.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Our newest AI Quest: Mapping the human brain",
         "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
         "source": "Google AI Blog",
@@ -185,37 +213,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-26T10:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Designing an AI serving harness built to last",
-        "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-10-22T21:17:29.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "The Foundations of Scalable AI",
-        "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-10-22T18:48:04.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Making the case for context-aware AI",
-        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-10-22T10:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-        "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-22T00:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "LibreOffice Development/AI Policy",
+        "url": "https://wiki.documentfoundation.org/Development/AI_policy",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T12:02:59.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "NLnet Publishes More Stringent Generative AI Policy",
+        "url": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-10-28T09:12:34.000Z",
+        "category": "advancements"
+      },
       {
         "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
@@ -242,13 +256,6 @@
         "url": "https://openai.com/index/check-point-daybreak",
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-27T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Anthropic is burning gas to feed the AI boom",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-26T21:45:31.000Z",
         "category": "advancements"
       },
       {
@@ -313,352 +320,345 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-22T06:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Broad access through consistent standards",
-        "url": "https://openai.com/index/broad-access-through-consistent-standards",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-21T21:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
-        "url": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+        "title": "Robinhood to rally on prediction markets and new offerings, Bernstein says",
+        "url": "https://www.cnbc.com/2026/10/28/robinhood-to-rally-on-prediction-markets-bernstein-says.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-28T04:29:20.000Z",
+        "publishedAt": "2026-10-28T12:13:38.000Z",
         "category": "markets"
       },
       {
-        "title": "Rupee rises 4 paise to 95.03 against US dollar in early trade",
-        "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-4-paise-to-95-03-against-us-dollar-in-early-trade/articleshow/135251622.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T04:15:05.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stock futures are mixed as traders await Fed decision, Big Tech earnings: Live updates",
-        "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+        "title": "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's next",
+        "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-28T04:08:02.000Z",
+        "publishedAt": "2026-10-28T12:09:31.000Z",
         "category": "markets"
       },
       {
-        "title": "Kotak adds 5 new midcap stocks which fell up to 16% in one month to its model portfolio. Take a look",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-adds-5-new-midcap-stocks-which-fell-up-to-16-in-one-month-to-its-model-portfolio-take-a-look/slideshow/135251652.cms",
+        "title": "Stocks making the biggest moves premarket: Ultralife, SK Hynix, Robinhood, Enphase Energy & more",
+        "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-premarket-ulbi-slhy-hood-enph.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T12:08:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Traders are betting big against this restaurant giant into earnings",
+        "url": "https://www.cnbc.com/2026/10/28/traders-are-betting-big-against-chipotle-into-earnings.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T12:04:47.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Cholamandalam Investment Q2 Results: Profit surges 41% to Rs 1,630 crore; co plans to raise Rs 5,00O crore via QIP",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/cholamandalam-investment-q2-results-profit-surges-41-to-rs-1630-crore-co-plans-to-raise-rs-500o-crore-via-qip/articleshow/135264678.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T04:07:33.000Z",
+        "publishedAt": "2026-10-28T12:00:29.000Z",
         "category": "markets"
       },
       {
-        "title": "Why is market falling today? Sensex tumbles 700 pts, Nifty slips below 22,600. 4 key triggers behind bear attack on D-St",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tumbles-700-pts-nifty-slips-below-22600-4-key-triggers-behind-bear-attack-on-d-st/articleshow/135251274.cms",
+        "title": "DraftKings CEO Jason Robins says parents should talk with kids about gambling addiction",
+        "url": "https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T12:00:01.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "TVS Motor Q2 Results: Profit jumps 52% YoY to Rs 1,377 crore; revenue rises 44%",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-motor-q2-results-profit-jumps-52-yoy-to-rs-1377-crore-revenue-rises-44/articleshow/135264582.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T04:06:15.000Z",
+        "publishedAt": "2026-10-28T11:57:39.000Z",
         "category": "markets"
       },
       {
-        "title": "TD Power Systems among 3 stocks close crossing below VWAP",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/td-power-systems-among-3-stocks-close-crossing-below-vwap/slideshow/135251464.cms",
+        "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+        "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T11:57:26.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
+        "url": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T11:45:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "At least 30 people reported dead in high-speed Spain train crash",
+        "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T11:43:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Luxury round-the-world cruise ends abruptly as fuel costs skyrocket",
+        "url": "https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T11:39:44.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Jio debuts on D-Street: India’s biggest IPOs delivered negative returns over one month after listing. Will Jio break the curse?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-debuts-on-d-street-indias-biggest-ipos-delivered-negative-returns-over-one-month-after-listing-will-jio-break-the-curse/articleshow/135263845.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T04:02:45.000Z",
+        "publishedAt": "2026-10-28T11:36:26.000Z",
         "category": "markets"
       },
       {
-        "title": "M.K. Sons Fine Jewels IPO opens today: Check GMP, key details. Should you subscribe?",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/m-k-sons-fine-jewels-ipo-opens-today-check-gmp-key-details-should-you-subscribe/articleshow/135251159.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T03:59:46.000Z",
+        "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
+        "url": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T11:33:43.000Z",
         "category": "markets"
       },
       {
-        "title": "Ambani pulls off a blockbuster: Jio IPO makes 13 records, rewrites Dalal Street history",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ambani-pulls-off-a-blockbuster-jio-ipo-makes-13-records-rewrites-dalal-street-history/articleshow/135251207.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T03:55:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "RIL shares in focus ahead of Oct 30 earnings, fundraising decision; all eyes on Jio’s mega listing",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ril-shares-in-focus-ahead-of-oct-30-earnings-fundraising-decision-all-eyes-on-jios-mega-listing/articleshow/135251085.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T03:47:20.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-        "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+        "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-10-28T03:43:38.000Z",
+        "publishedAt": "2026-10-28T11:30:26.000Z",
         "category": "markets"
       },
       {
-        "title": "Jio Platforms gets first Buy call! Nomura says ‘disruptor now the leader’; starts coverage with Rs 1,340 target",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-gets-first-buy-call-nomura-says-disruptor-now-the-leader-starts-coverage-with-rs-1340-target/articleshow/135250963.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T03:40:40.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
-        "url": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
+        "title": "A Democratic win in midterms could put prediction markets and the CFTC in the hot seat",
+        "url": "https://www.cnbc.com/2026/10/28/democrats-prediction-markets-cftc-midterms.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-28T03:33:53.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "SIFs offer a middle ground between arbitrage and equity risk: AlphaGrep MF CEO Bhautik Ambani",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/sifs-offer-a-middle-ground-between-arbitrage-and-equity-risk-alphagrep-mf-ceo-bhautik-ambani/articleshow/135250236.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T03:24:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Jio IPO Listing Live Updates: Jio shares settle at Rs 1,358 vs issue price of Rs 1,119 on NSE, BSE. Catch all listing updates here",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/jio-platforms-share-price-live-updates-check-jio-ipo-listing-time-on-nse-bse-gmp-allotment-latest-jio-ipo-shares-news/liveblog/135250655.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T03:09:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Data Patterns among 4 stocks showing the White Marubozu pattern",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-4-stocks-showing-the-white-marubozu-pattern/slideshow/135250555.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T03:05:12.000Z",
+        "publishedAt": "2026-10-28T11:24:49.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-        "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+        "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+        "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
         "source": "CoinDesk",
-        "publishedAt": "2026-10-28T04:15:20.000Z",
+        "publishedAt": "2026-10-28T11:52:14.000Z",
         "category": "crypto"
       },
       {
-        "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-        "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+        "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+        "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
         "source": "CoinDesk",
-        "publishedAt": "2026-10-28T03:11:14.000Z",
+        "publishedAt": "2026-10-28T11:32:31.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bond market doubts gridlock will ease deficit woes this time",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bond-market-doubts-gridlock-will-ease-deficit-woes-this-time/articleshow/135248828.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-28T01:17:25.000Z",
+        "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
+        "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T11:23:34.000Z",
         "category": "crypto"
       },
       {
-        "title": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
+        "title": "Mirae Asset Securities issues tokenized notes on Solana",
+        "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-28T11:05:33.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Google to preview crypto custody security system as AI threats grow",
+        "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T11:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+        "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T10:41:51.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+        "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T10:07:54.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-28T09:56:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
         "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-27T21:07:51.000Z",
+        "publishedAt": "2026-10-28T09:29:26.000Z",
         "category": "crypto"
       },
       {
-        "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-        "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+        "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
+        "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
         "source": "CoinDesk",
-        "publishedAt": "2026-10-27T20:41:33.000Z",
+        "publishedAt": "2026-10-28T09:15:22.000Z",
         "category": "crypto"
       },
       {
-        "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-        "url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+        "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+        "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
         "source": "CoinDesk",
-        "publishedAt": "2026-10-27T20:32:21.000Z",
+        "publishedAt": "2026-10-28T09:00:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
-        "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+        "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-28T07:57:18.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Coinbase denies systems breach, says vendor exposed customer data",
+        "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-28T07:42:55.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-28T06:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+        "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
         "source": "CoinDesk",
-        "publishedAt": "2026-10-27T19:07:59.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-        "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-27T18:57:45.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Dynamic pricing's unacceptable in insurance, big payouts erode value: IRDAI chief Ajay Seth",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/dynamic-pricings-unacceptable-in-insurance-big-payouts-erode-value-irdai-chief-ajay-seth/articleshow/135248774.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-10-27T18:36:44.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-        "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-27T18:13:02.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-        "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-27T16:59:07.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-        "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-27T16:35:29.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-        "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-27T13:13:50.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-        "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-27T12:00:39.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
-        "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-27T11:40:50.000Z",
+        "publishedAt": "2026-10-28T05:28:13.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Fortescue Says Iron Ore Deal With China Must Protect Australia",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/fortescue-says-iron-ore-deal-with-china-must-protect-australia",
+      "title": "Lula Feels the Heat From Brazil’s Solar Boom",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-28/lula-feels-the-heat-from-brazil-s-solar-boom",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T04:17:09.000Z"
+      "publishedAt": "2026-10-28T12:08:07.000Z"
     },
     {
-      "title": "Hong Kong's Kevin Choi on Innovation",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-28/hong-kong-s-kevin-choi-on-innovation-video",
+      "title": "Inside America's Prediction Market Boom",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-28/inside-america-s-prediction-market-boom",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T04:15:17.000Z"
+      "publishedAt": "2026-10-28T12:01:05.000Z"
     },
     {
-      "title": "Regal's Poman Lo On Green Investing",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-28/regal-s-poman-lo-on-green-investing-video",
+      "title": "Aftermath of Spanish Train Crash Near Madrid",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-28/aftermath-of-spanish-train-crash-near-madrid-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T04:11:35.000Z"
+      "publishedAt": "2026-10-28T11:59:01.000Z"
     },
     {
-      "title": "AI worries expose dollar’s hot-money problem",
-      "url": "https://www.investing.com/news/economy-news/ai-worries-expose-dollars-hotmoney-problem-4977439",
+      "title": "European banks beat profit forecasts, Brazil overshadows Santander",
+      "url": "https://www.investing.com/news/economy-news/european-banks-beat-profit-forecasts-brazil-overshadows-santander-4978783",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T04:06:23.000Z"
+      "publishedAt": "2026-10-28T11:48:58.000Z"
     },
     {
-      "title": "Traders Brace for Jio Debut",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-28/traders-brace-for-jio-debut-video",
+      "title": "At least 30 killed in collision of high-speed trains in Spain",
+      "url": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-28T11:45:20.000Z"
+    },
+    {
+      "title": "Saudi Oil Exports Near Wartime High as Houthis Mount Attacks",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/saudi-oil-exports-near-wartime-high-as-houthis-mount-attacks",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T04:03:40.000Z"
+      "publishedAt": "2026-10-28T11:44:36.000Z"
     },
     {
-      "title": "US, Australia Pledge to ‘Swiftly Execute’ Defense Collaboration",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/us-australia-pledge-to-swiftly-execute-defense-collaboration",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T04:03:39.000Z"
-    },
-    {
-      "title": "RBA Governor Bullock warns that inflation remains high, to debate more rate hikes",
-      "url": "https://www.investing.com/news/economy-news/rba-governor-bullock-warns-that-inflation-remains-high-to-debate-more-rate-hikes-4977435",
+      "title": "Robinhood shares fall as crypto markets chill drives profit miss",
+      "url": "https://www.investing.com/news/economy-news/robinhood-shares-fall-as-crypto-markets-chill-drives-profit-miss-4977880",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T03:59:19.000Z"
+      "publishedAt": "2026-10-28T11:36:44.000Z"
     },
     {
-      "title": "China rushes to shore up struggling markets",
-      "url": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1",
+      "title": "Israel’s election: what happens next?",
+      "url": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15",
       "source": "Financial Times",
-      "publishedAt": "2026-10-28T03:54:50.000Z"
+      "publishedAt": "2026-10-28T11:32:37.000Z"
     },
     {
-      "title": "US-Friendly Nations Slash Treasury Purchases by 60%, Led by Asia",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/us-friendly-nations-slash-treasury-purchases-by-60-led-by-asia",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T03:21:11.000Z"
-    },
-    {
-      "title": "SK Hynix profits soar amid roaring AI chip demand",
-      "url": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-28T03:06:38.000Z"
-    },
-    {
-      "title": "Jio Platforms Listing Live Updates: Ambani Firm's Trading Debut After Record IPO",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-10-28/jio-platforms-trading-debut",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T03:04:48.000Z"
-    },
-    {
-      "title": "Chinese Government to Speed Bond Sales to Stimulate Growth",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/chinese-government-to-speed-bond-sales-to-stimulate-growth",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T03:00:09.000Z"
-    },
-    {
-      "title": "Bolsonaro lands in US after fleeing Brazil following election defeat",
-      "url": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-28T02:58:30.000Z"
-    },
-    {
-      "title": "Israel elections: exit polls show Netanyahu, Eisenkot deadlocked with no majority",
-      "url": "https://www.investing.com/news/economy-news/israel-elections-exit-polls-show-netanyahu-eisenkot-deadlocked-with-no-majority-4977398",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T02:45:33.000Z"
-    },
-    {
-      "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
-      "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-28T02:43:22.000Z"
-    },
-    {
-      "title": "Jio Looks to Break India Mega-IPO Jinx With a Blockbuster Stock-Market Debut",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-28/jio-looks-to-break-india-mega-ipo-jinx-with-a-blockbuster-stock-market-debut",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T02:35:31.000Z"
-    },
-    {
-      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T02:15:00.000Z"
-    },
-    {
-      "title": "India’s Record Bank Cash Surplus Fades as RBI Curbs Rupee Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/india-s-record-bank-cash-surplus-fades-as-rbi-curbs-rupee-bets",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T01:51:10.000Z"
-    },
-    {
-      "title": "New Zealand Dollar Slides Most Versus Aussie Since 2017 on RBNZ",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/new-zealand-dollar-slides-most-versus-aussie-since-2017-on-rbnz",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T01:50:36.000Z"
-    },
-    {
-      "title": "Stocks get AI lift, dollar holds steady ahead of Fed decision",
+      "title": "Global stocks get AI boost ahead of packed 48 hours",
       "url": "https://www.investing.com/news/economy-news/stocks-get-ai-lift-dollar-holds-steady-ahead-of-fed-decision-4977355",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T01:48:41.000Z"
+      "publishedAt": "2026-10-28T11:30:38.000Z"
+    },
+    {
+      "title": "Fed Communication Has Gotten Confusing, Economist Sahm Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-28/fed-communication-has-gotten-confusing-economist-sahm-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-28T11:27:03.000Z"
+    },
+    {
+      "title": "Trans-Oil Bonds Drop as Agricultural Firm Delays Audited Results",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/trans-oil-bonds-drop-as-agricultural-firm-delays-audited-results",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-28T11:26:50.000Z"
+    },
+    {
+      "title": "The AI boom is starting to break time-tested stock-market signals",
+      "url": "https://www.marketwatch.com/story/the-ai-boom-is-starting-to-break-time-tested-stock-market-signals-b172d67e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-28T11:25:00.000Z"
+    },
+    {
+      "title": "SK Hynix Profits Surge, Fed Decision on Deck",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-28/the-opening-trade-10-28-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-28T11:19:31.000Z"
+    },
+    {
+      "title": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro",
+      "url": "https://www.investing.com/news/economy-news/brazil-supreme-court-says-no-search-warrant-issued-against-senator-flavio-bolsonaro-4978522",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-28T11:12:32.000Z"
+    },
+    {
+      "title": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
+      "url": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-28T11:08:00.000Z"
+    },
+    {
+      "title": "Pimco Would Welcome 2027 UK Fiscal Deficit of Around 3.5%",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-28/pimco-would-welcome-uk-2027-fiscal-deficit-around-3-5-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-28T11:05:11.000Z"
+    },
+    {
+      "title": "Basis trade retreat spurs shift into new rate bets",
+      "url": "https://www.investing.com/news/economy-news/basis-trade-retreat-spurs-shift-into-new-rate-bets-4978229",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-28T10:30:58.000Z"
+    },
+    {
+      "title": "The real way to tell if Amazon’s AI spending is paying off",
+      "url": "https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-28T10:30:00.000Z"
+    },
+    {
+      "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-28T10:30:00.000Z"
+    },
+    {
+      "title": "Fed likely to go into wait-and-see mode on rates",
+      "url": "https://www.investing.com/news/economy-news/fed-likely-to-go-into-waitandsee-mode-on-rates-4978243",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-28T10:27:28.000Z"
     }
   ]
 }
