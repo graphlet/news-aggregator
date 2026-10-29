@@ -1,12 +1,26 @@
 {
-  "lastUpdated": "2026-10-28T20:06:35.041Z",
+  "lastUpdated": "2026-10-29T00:38:39.665Z",
   "ai": {
     "developers": [
+      {
+        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-28T21:34:04.000Z",
+        "category": "developers"
+      },
       {
         "title": "Microsoft is ending Copilot support on smart TVs",
         "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
         "source": "The Verge – AI",
         "publishedAt": "2026-10-28T18:36:26.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-10-28T13:15:00.000Z",
         "category": "developers"
       },
       {
@@ -92,23 +106,23 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-14T00:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "url": "https://openai.com/index/oracle",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-08T16:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "LegalOn halves Codex costs while maintaining development speed",
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-08T12:00:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-10-28T23:05:39.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Creating AI value with enterprise context",
+        "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-10-28T20:32:02.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
         "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
@@ -159,13 +173,6 @@
         "category": "everyone"
       },
       {
-        "title": "VisionQuest is what happens when AI really goes rogue",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-27T17:30:00.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
         "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
         "source": "MIT Technology Review",
@@ -206,13 +213,6 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-10-22T18:48:04.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "Making the case for context-aware AI",
-        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-10-22T10:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
@@ -228,13 +228,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
         "source": "The Verge – AI",
         "publishedAt": "2026-10-27T20:48:58.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-10-27T16:51:22.000Z",
         "category": "advancements"
       },
       {
@@ -320,118 +313,139 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-21T21:00:00.000Z",
         "category": "advancements"
+      },
+      {
+        "title": "How AT&T is rethinking in-house legal work with OpenAI",
+        "url": "https://openai.com/index/att-legal",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-10-21T17:00:00.000Z",
+        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
+        "title": "Fed holds rates, says data will guide next move",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-holds-rates-says-data-will-guide-next-move/articleshow/135284541.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-10-29T00:18:16.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+        "url": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-29T00:16:39.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-29T00:00:25.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-10-29T00:00:15.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+        "url": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T23:38:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T23:17:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+        "url": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T22:38:41.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+        "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T22:34:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+        "url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T22:27:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+        "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T22:12:28.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+        "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T22:07:17.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+        "url": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-28T21:58:51.000Z",
+        "category": "markets"
+      },
+      {
         "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
         "url": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-28T20:05:58.000Z",
+        "publishedAt": "2026-10-28T21:42:24.000Z",
         "category": "markets"
       },
       {
-        "title": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
-        "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+        "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+        "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-28T20:05:32.000Z",
+        "publishedAt": "2026-10-28T21:31:46.000Z",
         "category": "markets"
       },
       {
-        "title": "Alphabet earnings are out – here are the numbers",
-        "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+        "title": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Chipotle, ServiceNow, Fortinet & more",
+        "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-after-hours-googl-msft-cmg-now.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-28T20:05:32.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "What the Budget offers for under 25s - and what it leaves out",
-        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-10-28T20:02:38.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
-        "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-28T20:00:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Three media outlets seek full White House access in amended lawsuit",
-        "url": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-28T19:54:49.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-        "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-28T19:53:50.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years",
-        "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-28T19:53:25.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
-        "url": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-28T19:52:06.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-10-28T19:51:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-        "url": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-28T19:30:34.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
-        "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-28T19:30:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Biotechs buck a sluggish IPO market, but investors should tread warily",
-        "url": "https://www.cnbc.com/2026/10/28/biotech-ipo-market-investor-risks.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-28T19:29:17.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-10-28T19:15:58.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
-        "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-28T19:01:53.000Z",
+        "publishedAt": "2026-10-28T21:09:21.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
+      {
+        "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+        "url": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-10-28T21:35:52.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+        "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T21:13:44.000Z",
+        "category": "crypto"
+      },
       {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -522,143 +536,129 @@
         "source": "CoinDesk",
         "publishedAt": "2026-10-28T11:52:14.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-        "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-28T11:32:31.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates",
-        "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-28T11:23:34.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
-      "url": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T19:56:00.000Z"
-    },
-    {
-      "title": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
-      "url": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T19:54:00.000Z"
-    },
-    {
-      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T19:50:00.000Z"
-    },
-    {
-      "title": "FOMC holds rates steady, markets rise modestly",
-      "url": "https://www.investing.com/news/economy-news/fomc-holds-rates-steady-markets-mostly-follow-suit-4980441",
+      "title": "New Zealand central bank governor says chances of December hike are ’high’",
+      "url": "https://www.investing.com/news/economy-news/new-zealand-central-bank-governor-says-chances-of-december-hike-are-high-4981263",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T19:42:21.000Z"
+      "publishedAt": "2026-10-29T00:24:42.000Z"
     },
     {
-      "title": "Here’s what just sent Oracle’s stock soaring",
-      "url": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+      "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+      "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-28T19:40:00.000Z"
+      "publishedAt": "2026-10-29T00:20:00.000Z"
     },
     {
-      "title": "Fed’s Warsh says US economy not running too hot",
-      "url": "https://www.investing.com/news/economy-news/feds-warsh-says-us-economy-not-running-too-hot-4980529",
+      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-29T00:17:00.000Z"
+    },
+    {
+      "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-29T00:15:00.000Z"
+    },
+    {
+      "title": "The major reason Microsoft’s stock is heading higher after earnings",
+      "url": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-29T00:10:00.000Z"
+    },
+    {
+      "title": "China’s Green Exports Enough to Offset Brazil’s Emissions: CREA",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/china-s-green-exports-enough-to-offset-brazil-s-emissions-crea",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-29T00:01:08.000Z"
+    },
+    {
+      "title": "Irish Government Spending to Aid Economic Growth, AIB Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/irish-government-spending-to-aid-economic-growth-aib-says",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-29T00:01:00.000Z"
+    },
+    {
+      "title": "Global stocks hold gains after Fed decision, oil prices rise",
+      "url": "https://www.investing.com/news/economy-news/stocks-get-ai-lift-dollar-holds-steady-ahead-of-fed-decision-4977355",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T19:37:24.000Z"
+      "publishedAt": "2026-10-29T00:00:23.000Z"
+    },
+    {
+      "title": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-10-28T23:44:02.000Z"
     },
     {
       "title": "Fed leaves rates unchanged as it awaits ’accumulation of more information’",
       "url": "https://www.investing.com/news/economy-news/fed-holds-rates-steady-as-it-awaits-accumulation-of-more-information-4980411",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T19:36:29.000Z"
+      "publishedAt": "2026-10-28T23:37:38.000Z"
     },
     {
-      "title": "Healey hits banks and savers to fund modest Budget handout",
-      "url": "https://www.ft.com/content/5ec57ee9-4eb9-4889-82f0-df402185b147?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-28T19:35:50.000Z"
-    },
-    {
-      "title": "Oracle jumps 12% as it tells investors its AI bet will pay off sooner than expected",
-      "url": "https://www.ft.com/content/fb08df06-da63-4e94-822d-a47b94616871?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-28T19:34:13.000Z"
-    },
-    {
-      "title": "Costa Rica drops bid to join Pacific trade pact, sacks trade minister",
-      "url": "https://www.investing.com/news/economy-news/costa-rica-drops-bid-to-join-pacific-trade-pact-sacks-trade-minister-4980521",
+      "title": "Warsh says politics played no role in Fed’s rate decision by group he is ’honored’ to lead",
+      "url": "https://www.investing.com/news/economy-news/warsh-says-politics-played-no-role-in-feds-rate-decision-by-group-he-is-honored-to-lead-4981000",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T19:31:12.000Z"
+      "publishedAt": "2026-10-28T23:37:22.000Z"
     },
     {
-      "title": "Petroperu Chair Eyes Rare Profit, Investors for Minority Stake",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/petroperu-chair-eyes-rare-profit-investors-for-minority-stake",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T19:19:43.000Z"
-    },
-    {
-      "title": "Fed’s Warsh to attend AI productivity task force hearing in November",
-      "url": "https://www.investing.com/news/economy-news/feds-warsh-to-attend-ai-productivity-task-force-hearing-in-november-4980502",
+      "title": "Fed’s Warsh announces changes in how future FOMC meetings will go",
+      "url": "https://www.investing.com/news/economy-news/feds-warsh-announces-changes-in-how-future-fomc-meetings-will-go-4980835",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T19:18:57.000Z"
+      "publishedAt": "2026-10-28T23:37:11.000Z"
     },
     {
-      "title": "Weil leadership to tell partners firm should be dissolved",
-      "url": "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-28T19:17:43.000Z"
-    },
-    {
-      "title": "Fed holds rates steady as expected, though two policymakers prefer 25 bps hike",
-      "url": "https://www.investing.com/news/economy-news/fed-holds-rates-steady-as-expected-4980406",
+      "title": "Fed’s Warsh says US economy not running too hot",
+      "url": "https://www.investing.com/news/economy-news/feds-warsh-says-us-economy-not-running-too-hot-4980529",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T19:17:12.000Z"
-    },
-    {
-      "title": "Chickens Are Coming Home to Roost in Credit",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-28/chickens-are-coming-home-to-roost-in-credit",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T19:16:44.000Z"
+      "publishedAt": "2026-10-28T23:37:01.000Z"
     },
     {
       "title": "Warsh to attend Fed jobs and productivity task force hearing to refine views",
       "url": "https://www.investing.com/news/economy-news/warsh-to-attend-fed-jobs-and-productivity-task-force-hearing-to-refine-views-4980494",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T19:13:20.000Z"
+      "publishedAt": "2026-10-28T23:36:47.000Z"
     },
     {
-      "title": "Judge skeptical of Justice Dept lawsuit over alleged noncitizens on voting rolls",
-      "url": "https://www.investing.com/news/economy-news/judge-skeptical-of-justice-dept-lawsuit-over-alleged-noncitizens-on-voting-rolls-4980480",
+      "title": "Fed’s policy committee to weigh balance sheet issues early next year, Warsh says",
+      "url": "https://www.investing.com/news/economy-news/feds-policy-committee-to-weigh-balance-sheet-issues-early-next-year-warsh-says-4980804",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-10-28T19:01:00.000Z"
+      "publishedAt": "2026-10-28T23:36:33.000Z"
     },
     {
-      "title": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-telekom-is-said-to-hit-brakes-on-giant-t-mobile-merger",
+      "title": "BYD Short Sellers Retreat Ahead of Expected Profit Rebound",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/byd-short-sellers-retreat-ahead-of-expected-profit-rebound",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T18:59:25.000Z"
+      "publishedAt": "2026-10-28T23:30:00.000Z"
     },
     {
-      "title": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
-      "url": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
+      "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+      "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-28T23:27:01.000Z"
+    },
+    {
+      "title": "Microsoft blames data centre delays for lower capital expenditure",
+      "url": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-28T23:20:51.000Z"
+    },
+    {
+      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-28T18:58:00.000Z"
+      "publishedAt": "2026-10-28T23:18:00.000Z"
     },
     {
-      "title": "Fed's Warsh Says Monetary 'Medicine' Starting to Work",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-28/fed-s-warsh-says-monetary-medicine-starting-to-work-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-10-28T18:57:02.000Z"
+      "title": "ECB to hold rates as investors focus on French bonds, Lagarde’s future",
+      "url": "https://www.investing.com/news/economy-news/ecb-to-hold-rates-as-investors-focus-on-french-bondslagardes-future-4981183",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-10-28T23:06:57.000Z"
     }
   ]
 }
