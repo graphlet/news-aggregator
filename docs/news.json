@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-10T06:21:52.725Z",
+  "lastUpdated": "2026-11-10T16:50:17.587Z",
   "ai": {
     "developers": [
       {
-        "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+        "title": "Adobe is going all in on agentic AI",
+        "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
         "source": "The Verge – AI",
-        "publishedAt": "2026-11-09T19:00:00.000Z",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
         "category": "developers"
       },
       {
@@ -110,6 +110,55 @@
     ],
     "everyone": [
       {
+        "title": "eBay appears to have shut the door on third-party AI agents",
+        "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-10T16:20:30.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-10T16:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+        "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Hands-on with Ring’s new AI drone camera for your home",
+        "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-10T13:30:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Google Cloud launches Gemini for healthcare.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-11-10T13:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Work at the Frontier: AI’s effect on freelance work",
+        "url": "https://openai.com/index/ai-effect-on-freelance-work",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-11-10T07:00:00.000Z",
+        "category": "everyone"
+      },
+      {
         "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
         "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
         "source": "The Verge – AI",
@@ -145,31 +194,10 @@
         "category": "everyone"
       },
       {
-        "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-        "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-09T19:09:58.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "ChatGPT Enterprise now available in AWS Marketplace",
         "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
         "source": "OpenAI Blog",
         "publishedAt": "2026-11-09T19:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-        "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-09T18:07:23.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-09T17:36:08.000Z",
         "category": "everyone"
       },
       {
@@ -180,47 +208,33 @@
         "category": "everyone"
       },
       {
-        "title": "Disney and Adobe are building generative AI tools together",
-        "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-09T15:38:56.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "Innovating with AI in the special chemicals industry",
         "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-11-09T13:00:00.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-11-06T10:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-        "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-11-04T18:50:55.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-04T07:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
       {
-        "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+        "title": "Anthropic targets $1.4 trillion IPO",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
         "source": "The Verge – AI",
-        "publishedAt": "2026-11-09T15:50:38.000Z",
+        "publishedAt": "2026-11-10T14:06:54.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Helping caregivers use AI in everyday life",
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-11-10T12:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Closing the AI guidance gap in education",
+        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-11-10T09:00:00.000Z",
         "category": "advancements"
       },
       {
@@ -306,359 +320,345 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-11-04T08:00:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "Introducing Images 2.6",
-        "url": "https://openai.com/index/introducing-images-2-6",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-04T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-        "url": "https://openai.com/index/devrev-enterprise-self-service",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-04T00:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Holiday hunger bill to face final Stormont hurdle",
-        "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-11-10T06:21:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump’s C-SPAN call marks latest surprise post-midterm appearance",
-        "url": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-10T06:19:09.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "New chief outlines main issues facing Isle of Man",
-        "url": "https://www.bbc.co.uk/news/articles/cw0737zmv799o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-11-10T06:09:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-        "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-11-10T06:01:44.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "TSMC's October sales jump as global chip boom rolls on",
-        "url": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-10T05:42:42.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
+        "title": "S&P 500 falls after hot CPI ignites inflation concerns: Live updates",
         "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-10T05:36:48.000Z",
+        "publishedAt": "2026-11-10T16:49:34.000Z",
         "category": "markets"
       },
       {
-        "title": "Why The Trade Desk stock surged 15% despite revenue decline",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-trade-desk-stock-surged-15-despite-revenue-decline/slideshow/135701057.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-10T05:31:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+        "title": "Some pupils 'struggling just to get a hot meal'",
+        "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-11-10T05:22:39.000Z",
+        "publishedAt": "2026-11-10T16:46:21.000Z",
         "category": "markets"
       },
       {
-        "title": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
-        "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+        "title": "Our Nvidia downgrade — plus, Cramer is looking to add to this position",
+        "url": "https://www.cnbc.com/investingclub/2026/11/10/our-nvidia-downgrade-plus-cramer-is-looking-to-add-to-this-position.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-10T05:03:55.000Z",
+        "publishedAt": "2026-11-10T16:44:13.000Z",
         "category": "markets"
       },
       {
-        "title": "Former BP CEO Lord John Browne reflects on the crisis that ended his tenure",
-        "url": "https://www.cnbc.com/video/2026/11/10/former-bp-ceo-lord-john-browne-on-secrecy-and-his-resignation.html",
+        "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+        "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-10T05:00:01.000Z",
+        "publishedAt": "2026-11-10T16:44:11.000Z",
         "category": "markets"
       },
       {
-        "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
-        "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
+        "title": "Here's the inflation breakdown for October 2026 — in one chart",
+        "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-10T04:46:37.000Z",
+        "publishedAt": "2026-11-10T16:36:40.000Z",
         "category": "markets"
       },
       {
-        "title": "Anthropic plans IPO live stream with Amodei, JPMorgan CEO Dimon",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon/articleshow/135699137.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-10T04:24:56.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
-        "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+        "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
+        "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-10T03:58:46.000Z",
+        "publishedAt": "2026-11-10T16:30:23.000Z",
         "category": "markets"
       },
       {
-        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-        "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "title": "U.S. gas prices fall below $4 for the first time since July",
+        "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-10T16:29:09.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. ‘failed’ survivors",
+        "url": "https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-10T16:17:20.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Bridgepoint sees opportunity in 're-rated' real estate",
+        "url": "https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-10T16:13:27.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+        "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-11-10T03:58:13.000Z",
+        "publishedAt": "2026-11-10T16:03:46.000Z",
         "category": "markets"
       },
       {
-        "title": "Anthropic retracts details of $69 billion IPO filing sent to bankers. Why analysts are raising worries over valuations",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms",
+        "title": "Gold has been in a bear market since January. Katie Stockton sees a comeback ahead",
+        "url": "https://www.cnbc.com/2026/11/10/gold-has-been-in-a-bear-market-since-january-katie-stockton-sees-a-comeback-ahead.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-10T16:01:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+        "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-10T15:51:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+        "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-10T15:42:00.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stocks making the biggest moves in early trading: Sanmina, Hims & Hers, Securitize & more",
+        "url": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-10T15:40:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Traders raise odds of 50 bps Fed rate hike as CPI rise exceeds expectations",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
         "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-10T02:18:28.000Z",
+        "publishedAt": "2026-11-10T15:15:45.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
+        "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+        "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-10T16:25:03.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
+        "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-10T14:48:34.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Will stablecoins survive once the banks catch up?",
+        "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+        "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-10T13:40:39.000Z",
+        "category": "crypto"
+      },
+      {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-10T06:00:00.000Z",
+        "publishedAt": "2026-11-10T13:34:37.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-        "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+        "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+        "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-10T05:18:31.000Z",
+        "publishedAt": "2026-11-10T13:32:09.000Z",
         "category": "crypto"
       },
       {
-        "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-        "url": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+        "url": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-10T05:05:58.000Z",
+        "publishedAt": "2026-11-10T13:30:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-        "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+        "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-10T13:15:59.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+        "url": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-10T04:51:20.000Z",
+        "publishedAt": "2026-11-10T12:38:20.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-        "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+        "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+        "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-10T03:22:26.000Z",
+        "publishedAt": "2026-11-10T12:15:00.000Z",
         "category": "crypto"
       },
       {
-        "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
-        "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+        "url": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-10T03:04:54.000Z",
+        "publishedAt": "2026-11-10T11:44:55.000Z",
         "category": "crypto"
       },
       {
-        "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-        "url": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Binance warns iOS flaw could expose crypto wallet keys",
+        "url": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-10T00:42:39.000Z",
+        "publishedAt": "2026-11-10T11:25:57.000Z",
         "category": "crypto"
       },
       {
-        "title": "Hegseth impeachment articles introduced by Rep. Massie",
-        "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-09T22:41:12.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-        "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-11-09T21:52:28.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
-        "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-09T21:24:13.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-        "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-09T21:00:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-        "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-09T20:26:34.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-        "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-09T19:52:34.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
-        "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+        "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+        "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-09T19:36:15.000Z",
+        "publishedAt": "2026-11-10T11:24:10.000Z",
         "category": "crypto"
       },
       {
-        "title": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
-        "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-09T19:34:43.000Z",
+        "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+        "url": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-10T10:56:51.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+        "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-10T10:48:37.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Dollar sellers hit pause for US inflation data",
+      "title": "Brazil’s central bank signals high bar for rate hikes despite inflation risks",
+      "url": "https://www.investing.com/news/economy-news/brazil-central-bank-flags-oil-el-nino-labor-and-fx-shocks-behind-inflation-rebound-5015065",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-10T16:42:55.000Z"
+    },
+    {
+      "title": "Deutsche Bank expects Fed rate hike in January 2027 after hot inflation data",
+      "url": "https://www.investing.com/news/economy-news/deutsche-bank-expects-fed-rate-hike-in-january-2027-after-hot-inflation-data-5016313",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-10T16:42:43.000Z"
+    },
+    {
+      "title": "Wall Street Bonuses Expected to Rise by 30% For Some",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/wall-street-bonuses-expected-to-rise-by-30-for-some-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-10T16:39:38.000Z"
+    },
+    {
+      "title": "Fed Needs to Raise Rates at Least Two More Times, Logan Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-needs-to-raise-rates-two-more-times-logan-says-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-10T16:36:43.000Z"
+    },
+    {
+      "title": "Bucks President on Building Beyond Giannis",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/bucks-president-on-building-beyond-giannis-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-10T16:34:48.000Z"
+    },
+    {
+      "title": "Hedge Funds Ask SEC, CFTC to Go Slow in Push to 24/7 Trading",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-10T16:34:10.000Z"
+    },
+    {
+      "title": "US Postal Service warns of need for new cuts without action from Congress",
+      "url": "https://www.investing.com/news/economy-news/us-postal-service-warns-of-need-for-new-cuts-without-action-from-congress-5016214",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-10T16:30:28.000Z"
+    },
+    {
+      "title": "Tribunal Finds Emerge Canada Mismanaged Cathie Wood-Linked ETFs",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/tribunal-finds-emerge-canada-mismanaged-cathie-wood-linked-etfs",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-10T16:28:30.000Z"
+    },
+    {
+      "title": "Why stocks are falling and the 10-year Treasury yield is back near 5% after Tuesday’s inflation report",
+      "url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-10T16:28:00.000Z"
+    },
+    {
+      "title": "Reaction roundup: Experts, analysts weigh in on October CPI report",
+      "url": "https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-october-cpi-report-5016277",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-10T16:21:33.000Z"
+    },
+    {
+      "title": "Alice Huang’s tangled web of connections",
+      "url": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-10T16:17:20.000Z"
+    },
+    {
+      "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+      "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-10T16:16:16.000Z"
+    },
+    {
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-10T16:15:00.000Z"
+    },
+    {
+      "title": "Dollar strengthens after US inflation data boosts Fed rate-hike expectations",
       "url": "https://www.investing.com/news/economy-news/dollar-sellers-hit-pause-for-us-inflation-data-5013809",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-10T06:12:24.000Z"
+      "publishedAt": "2026-11-10T16:13:19.000Z"
     },
     {
-      "title": "Analysis-China seeks high-tech upper hand in industry carrying 80% of global trade",
-      "url": "https://www.investing.com/news/economy-news/analysischina-seeks-hightech-upper-hand-in-industry-carrying-80-of-global-trade-5013897",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-10T06:06:30.000Z"
-    },
-    {
-      "title": "Morning Bid: Anthropic IPO: Please try again",
-      "url": "https://www.investing.com/news/economy-news/morning-bid-anthropic-ipo-please-try-again-5014123",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-10T05:54:25.000Z"
-    },
-    {
-      "title": "Adnoc Gas CFO: Still Exploring Opportunities in Fujairah",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/adnoc-gas-cfo-still-exploring-opportunities-in-fujairah-video",
+      "title": "Goldman, Citi Among Banks in $270 Million Stablecoin Backing",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-10T05:54:23.000Z"
+      "publishedAt": "2026-11-10T16:12:55.000Z"
     },
     {
-      "title": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens",
-      "url": "https://www.investing.com/news/economy-news/nvidias-outofhour-shares-fall-as-firm-probes-ceo-jensen-huang-5010476",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-10T05:48:59.000Z"
-    },
-    {
-      "title": "Japanese investors become net buyers of foreign bonds for the first time in three months",
-      "url": "https://www.investing.com/news/economy-news/japanese-investors-become-net-buyers-of-foreign-bonds-for-the-first-time-in-three-months-5014144",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-10T05:48:43.000Z"
-    },
-    {
-      "title": "UK seeks military talks with Russia, says Moscow rebuffed earlier bids - report",
-      "url": "https://www.investing.com/news/economy-news/uk-seeks-military-talks-with-russia-says-moscow-rebuffed-earlier-bids--report-5014105",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-10T05:29:38.000Z"
-    },
-    {
-      "title": "Citi's Fraser: China License Gives Bank Edge on Rivals",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-fraser-china-license-gives-bank-edge-on-rivals-video",
+      "title": "Nagel: ECB Rate Hike in December Looks ‘Rather Obvious’",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/nagel-ecb-rate-hike-in-december-looks-rather-obvious-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-10T05:20:48.000Z"
+      "publishedAt": "2026-11-10T16:11:37.000Z"
     },
     {
-      "title": "US consumer prices expected to have risen at slower pace in October",
-      "url": "https://www.investing.com/news/economy-news/us-consumer-prices-expected-to-have-risen-at-slower-pace-in-october-5014085",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-10T05:12:22.000Z"
+      "title": "Fed’s Waller Sparks Larger Rate Hike Debate After Hot Inflation",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-sparks-larger-rate-hike-debate-on-hot-cpi-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-10T16:04:03.000Z"
     },
     {
-      "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
-      "url": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+      "title": "Top Fed official considers largest rate rise since 2022",
+      "url": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-11-10T05:03:06.000Z"
+      "publishedAt": "2026-11-10T16:03:45.000Z"
     },
     {
-      "title": "Neolix's Zhao on Business Strategy",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/neolix-s-zhao-on-business-strategy-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-10T05:00:43.000Z"
-    },
-    {
-      "title": "No, Brits have not fallen out of love with work",
-      "url": "https://www.ft.com/content/9be099de-58b1-471c-aa05-92622585ffac?syn-25a6b1a6=1",
+      "title": "Monthly US inflation higher than expected in October",
+      "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-11-10T05:00:29.000Z"
+      "publishedAt": "2026-11-10T16:03:34.000Z"
     },
     {
-      "title": "Talks aimed at ending Russia’s war in Ukraine to resume",
-      "url": "https://www.ft.com/content/352539b3-41fd-4418-a171-43975897ec0e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-11-10T05:00:29.000Z"
-    },
-    {
-      "title": "The last of the Botíns",
-      "url": "https://www.ft.com/content/0eab6768-1bdb-4a6c-bf6a-2fb8d35eef03?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-11-10T05:00:11.000Z"
-    },
-    {
-      "title": "Investors pile into defensive stocks amid fears AI bull market may be over",
-      "url": "https://www.ft.com/content/efe9653b-6802-485e-8eae-97fa2e6df770?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-11-10T05:00:11.000Z"
-    },
-    {
-      "title": "Analysis-Market rout tests BOJ’s upbeat view of financial conditions",
-      "url": "https://www.investing.com/news/economy-news/analysismarket-rout-tests-bojs-upbeat-view-of-financial-conditions-5014065",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-10T04:36:18.000Z"
-    },
-    {
-      "title": "Anthropic Prepares to Market IPO as Nvidia Scandal Stokes AI Jitters",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/the-asia-trade-11-10-2026-video",
+      "title": "Treasury Yields Jump as Inflation Fuels Fed Wagers",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/treasury-yields-jump-as-inflation-fuels-fed-wagers-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-10T04:28:45.000Z"
-    },
-    {
-      "title": "Australia Faces New US Reality After Midterms",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/australia-ahead-11-10-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-10T04:13:22.000Z"
-    },
-    {
-      "title": "US extends Vietnam trade probe on intellectual property to end of February",
-      "url": "https://www.investing.com/news/economy-news/us-extends-vietnam-trade-probe-on-intellectual-property-to-end-of-february-5014037",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-10T04:12:25.000Z"
-    },
-    {
-      "title": "China Oil Imports Rebound as More Crude Flows From Persian Gulf",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-oil-imports-rebound-as-more-crude-flows-from-persian-gulf",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-10T03:42:53.000Z"
+      "publishedAt": "2026-11-10T16:01:48.000Z"
     }
   ]
 }
