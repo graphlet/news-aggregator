@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T00:49:13.015Z",
+  "lastUpdated": "2026-11-15T10:28:59.014Z",
   "ai": {
     "developers": [
       {
@@ -326,17 +326,38 @@
   "finance": {
     "markets": [
       {
-        "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
-        "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-11-15T00:01:07.000Z",
+        "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+        "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-15T10:00:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+        "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-15T08:34:46.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Could Budapest be the next digital nomad hotspot?",
+        "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-15T06:00:01.000Z",
         "category": "markets"
       },
       {
         "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
         "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-14T23:21:21.000Z",
+        "publishedAt": "2026-11-15T02:53:59.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Beauty advent calendars can cost hundreds but are they value for money?",
+        "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publishedAt": "2026-11-15T00:01:07.000Z",
         "category": "markets"
       },
       {
@@ -351,13 +372,6 @@
         "url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
         "source": "CNBC",
         "publishedAt": "2026-11-14T22:34:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Italy fines Meta $887 million over Android users' data access",
-        "url": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-14T18:49:11.000Z",
         "category": "markets"
       },
       {
@@ -415,25 +429,39 @@
         "source": "CNBC",
         "publishedAt": "2026-11-14T14:30:01.000Z",
         "category": "markets"
-      },
-      {
-        "title": "Bank of America says these stocks have major upside potential in an uncertain market",
-        "url": "https://www.cnbc.com/2026/11/14/stocks-with-upside-potential-in-an-uncertain-market.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-14T14:13:51.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "How Canadian stocks could be big winners of U.S. midterms",
-        "url": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-14T14:11:48.000Z",
-        "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+        "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+        "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-15T10:23:17.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Coinone warns of phishing, identity theft after customer data breach",
+        "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-15T08:07:58.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+        "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-15T06:27:26.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-15T02:50:57.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
         "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
         "source": "CoinDesk",
         "publishedAt": "2026-11-14T16:33:29.000Z",
@@ -508,38 +536,106 @@
         "source": "CoinTelegraph",
         "publishedAt": "2026-11-14T06:33:13.000Z",
         "category": "crypto"
-      },
-      {
-        "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-        "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-        "source": "CoinDesk",
-        "publishedAt": "2026-11-14T04:30:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin’s billion-dollar wipeouts are becoming a familiar sight",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoins-billion-dollar-wipeouts-are-becoming-a-familiar-sight/articleshow/135822462.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-14T04:16:35.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-        "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-        "source": "CoinDesk",
-        "publishedAt": "2026-11-13T23:30:00.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-        "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-13T22:01:03.000Z",
-        "category": "crypto"
       }
     ]
   },
   "trends": [
+    {
+      "title": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-15T08:00:00.000Z"
+    },
+    {
+      "title": "Iran claims fresh strike on U.S. base as Hormuz shipping crisis deepens",
+      "url": "https://www.investing.com/news/economy-news/iran-claims-fresh-strike-on-us-base-as-hormuz-shipping-crisis-deepens-5027672",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-15T06:29:31.000Z"
+    },
+    {
+      "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-15T05:10:27.000Z"
+    },
+    {
+      "title": "What will Nvidia’s post-Huang era look like?",
+      "url": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-15T05:00:14.000Z"
+    },
+    {
+      "title": "How Infantino flew his way out of a Fifa rebellion",
+      "url": "https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-15T05:00:13.000Z"
+    },
+    {
+      "title": "‘Low fire, low hire’ job market hurts US and UK productivity",
+      "url": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-15T05:00:13.000Z"
+    },
+    {
+      "title": "EU banking watchdog veers away from single deposit insurance scheme",
+      "url": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-15T05:00:13.000Z"
+    },
+    {
+      "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+      "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-15T05:00:04.000Z"
+    },
+    {
+      "title": "Huang’s downfall shows human judgment is not all it’s cracked up to be",
+      "url": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-15T05:00:04.000Z"
+    },
+    {
+      "title": "France’s once best hope of stopping Marine Le Pen is losing ground",
+      "url": "https://www.ft.com/content/3d951137-cba3-47d5-a78c-0d82b9fd84e7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-15T05:00:04.000Z"
+    },
+    {
+      "title": "Copa Airlines, UPS planes collide while taxiing at Miami airport",
+      "url": "https://www.investing.com/news/economy-news/copa-airlines-ups-planes-collide-while-taxiing-at-miami-airport-5027661",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-15T04:23:54.000Z"
+    },
+    {
+      "title": "U.S. diesel prices fall below $6 a gallon to two-month low",
+      "url": "https://www.investing.com/news/economy-news/us-diesel-prices-fall-below-6-a-gallon-to-twomonth-low-5027641",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-15T03:02:25.000Z"
+    },
+    {
+      "title": "The world according to China",
+      "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-15T03:00:02.000Z"
+    },
+    {
+      "title": "US judge again blocks Trump’s makeover plan for DC golf course",
+      "url": "https://www.investing.com/news/economy-news/us-judge-again-blocks-trumps-makeover-plan-for-dc-golf-course-5027633",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-15T02:42:22.000Z"
+    },
+    {
+      "title": "UK to expand youth job guarantee program amid rising unemployment",
+      "url": "https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-15T02:16:30.000Z"
+    },
+    {
+      "title": "Hamas confirms senior commander killed in Israeli airstrike in Gaza",
+      "url": "https://www.investing.com/news/economy-news/hamas-confirms-senior-commander-killed-in-israeli-airstrike-in-gaza-5027609",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-15T01:00:19.000Z"
+    },
     {
       "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
       "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
@@ -547,13 +643,7 @@
       "publishedAt": "2026-11-15T00:33:00.000Z"
     },
     {
-      "title": "Passengers face widespread disruption after US air traffic control outage",
-      "url": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-11-14T23:32:08.000Z"
-    },
-    {
-      "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
+      "title": "One router overload brought US air travel to a standstill",
       "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
       "source": "Financial Times",
       "publishedAt": "2026-11-14T22:57:26.000Z"
@@ -569,96 +659,6 @@
       "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-11-14T21:31:00.000Z"
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T21:00:00.000Z"
-    },
-    {
-      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T20:00:00.000Z"
-    },
-    {
-      "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-14T20:00:00.000Z"
-    },
-    {
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T19:30:00.000Z"
-    },
-    {
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T18:30:00.000Z"
-    },
-    {
-      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T18:00:00.000Z"
-    },
-    {
-      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T17:50:00.000Z"
-    },
-    {
-      "title": "The trillion-dollar mistake corporate America is making about retirement",
-      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T17:50:00.000Z"
-    },
-    {
-      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
-      "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T17:50:00.000Z"
-    },
-    {
-      "title": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-14T16:45:01.000Z"
-    },
-    {
-      "title": "Iran reports tanker fire after mine strike as Strait of Hormuz tensions mount",
-      "url": "https://www.investing.com/news/economy-news/iran-says-four-tankers-hit-mines-in-hormuz-as-shipping-crisis-deepens-5027172",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-14T16:37:48.000Z"
-    },
-    {
-      "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-14T16:22:29.000Z"
-    },
-    {
-      "title": "The Entrepreneurs Behind Poppi Start Over",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-14T16:13:04.000Z"
-    },
-    {
-      "title": "Fed’s Collins says gradual rate hikes best to manage economic risks",
-      "url": "https://www.investing.com/news/economy-news/feds-collins-says-gradual-rate-hikes-best-to-manage-economic-risks-5027385",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-14T15:48:19.000Z"
-    },
-    {
-      "title": "How China’s Intelligence Operations Target Tech",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-14T15:41:12.000Z"
     }
   ]
 }
