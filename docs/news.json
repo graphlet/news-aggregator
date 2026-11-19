@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-19T11:14:37.743Z",
+  "lastUpdated": "2026-11-19T20:05:43.714Z",
   "ai": {
     "developers": [
+      {
+        "title": "Introducing Tool Retrieval in the Gemini API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-11-19T18:00:00.000Z",
+        "category": "developers"
+      },
       {
         "title": "Inside the Codex sandbox",
         "url": "https://openai.com/index/inside-the-codex-sandbox",
@@ -99,16 +106,44 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-10-26T22:00:00.000Z",
         "category": "developers"
-      },
-      {
-        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-10-26T13:45:00.000Z",
-        "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Google is putting AI chats right on the homepage",
+        "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-19T20:05:06.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-19T15:16:45.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+        "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-19T13:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Canva adds an AI ‘off’ button",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-19T12:30:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-11-19T08:00:00.000Z",
+        "category": "everyone"
+      },
       {
         "title": "The nation’s largest school districts consider ditching Google Search",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
@@ -131,27 +166,6 @@
         "category": "everyone"
       },
       {
-        "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-        "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-18T19:07:29.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "What is Nvidia without AI’s sugar daddy in charge?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-18T18:34:15.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-        "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-18T17:50:57.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "The Gemini app is now available on lower-memory Android devices.",
         "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
         "source": "Google AI Blog",
@@ -163,20 +177,6 @@
         "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-11-18T14:42:44.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Will Wright’s next game uses AI to map your memories",
-        "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-18T14:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Suno now lets you make AI videos for your AI music",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-18T11:16:53.000Z",
         "category": "everyone"
       },
       {
@@ -217,17 +217,31 @@
     ],
     "advancements": [
       {
-        "title": "Remember the frontier AI pause? Chip companies don’t either",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+        "title": "Gemini on Mac can now use your computer",
+        "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
         "source": "The Verge – AI",
-        "publishedAt": "2026-11-18T15:44:02.000Z",
+        "publishedAt": "2026-11-19T18:21:13.000Z",
         "category": "advancements"
       },
       {
-        "title": "Nvidia isn’t selling any more AI chips to China",
-        "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+        "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-11-19T17:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Anthropic starts trading on Wall Street",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
         "source": "The Verge – AI",
-        "publishedAt": "2026-11-18T13:01:05.000Z",
+        "publishedAt": "2026-11-19T16:52:01.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-19T14:25:37.000Z",
         "category": "advancements"
       },
       {
@@ -273,15 +287,15 @@
         "category": "advancements"
       },
       {
-        "title": "Astra for Law leads in legal intelligence",
-        "url": "https://openai.com/index/astra-law-6-2",
+        "title": "Introducing OpenAI for Chile",
+        "url": "https://openai.com/index/introducing-openai-for-chile",
         "source": "OpenAI Blog",
         "publishedAt": "2026-11-17T00:00:00.000Z",
         "category": "advancements"
       },
       {
-        "title": "Introducing OpenAI for Chile",
-        "url": "https://openai.com/index/introducing-openai-for-chile",
+        "title": "Astra for Law leads in legal intelligence",
+        "url": "https://openai.com/index/astra-law-6-2",
         "source": "OpenAI Blog",
         "publishedAt": "2026-11-17T00:00:00.000Z",
         "category": "advancements"
@@ -306,359 +320,345 @@
         "source": "OpenAI Blog",
         "publishedAt": "2026-11-16T09:30:00.000Z",
         "category": "advancements"
-      },
-      {
-        "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "url": "https://openai.com/index/lvmh-media-division-partnership",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-16T09:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Our first phase of embedded assessments",
-        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-16T08:00:00.000Z",
-        "category": "advancements"
       }
     ]
   },
   "finance": {
     "markets": [
       {
-        "title": "Nasdaq-100 futures gain as traders gear up for Anthropic’s highly anticipated debut: Live updates",
+        "title": "Dow dives 1,000 points as Anthropic IPO milestone causes investors to take profits: Live updates",
         "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-19T11:11:21.000Z",
+        "publishedAt": "2026-11-19T20:04:35.000Z",
         "category": "markets"
       },
       {
-        "title": "Anthropic IPO live updates: AI lab's Nasdaq debut follows record $81 billion offering",
+        "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
         "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-19T11:10:52.000Z",
+        "publishedAt": "2026-11-19T20:00:42.000Z",
         "category": "markets"
       },
       {
-        "title": "Anthropic’s $107 billion raise set to surpass Spacex’s IPO haul",
-        "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+        "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+        "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T19:58:30.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
+        "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T19:52:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+        "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T19:43:08.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
+        "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T19:38:33.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+        "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T19:29:31.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "This tech stock has been nearly cut in half this year. I think Wall Street is getting it wrong",
+        "url": "https://www.cnbc.com/2026/11/19/applovin-app-paul-meeks-buying.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T19:08:20.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
+        "url": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T19:06:56.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T18:44:34.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
+        "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T18:30:51.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AMD dives on short-seller report of alleged China exposure",
+        "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T18:24:54.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "AMD shares slide 8% as report says China links could invite US scrutiny",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
+        "source": "Economic Times – Markets",
+        "publishedAt": "2026-11-19T18:13:12.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Stocks making the biggest moves Thursday: Anthropic, CoreWeave, Coherent, AMD & more",
+        "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T17:59:39.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Anthropic gains after IPO, but pulls off highest levels",
+        "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-19T11:06:13.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
-        "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-19T10:54:07.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Anthropic raises $81bn in record-breaking stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publishedAt": "2026-11-19T10:48:04.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
-        "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-19T10:41:32.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
-        "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-19T10:38:01.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Stock rally keeps rupee upbeat, traders eye exporters for fresh fuel",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-stock-rally-keeps-rupee-upbeat-traders-eye-exporters-for-fresh-fuel/articleshow/135986825.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-19T10:29:20.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Data center electricity use could double by 2030, IEA says",
-        "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-19T10:22:10.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove growth can last",
-        "url": "https://www.cnbc.com/2026/11/19/novartis-stock-cmd-2026-ceo.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-19T09:57:53.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-        "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-19T09:02:00.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "How this hedge fund is betting on people’s fears of getting old",
-        "url": "https://www.cnbc.com/2026/11/19/beauty-tech-group-kernow-led-mask-stock.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-19T09:00:18.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Tiger-backed Razorpay set to file for India IPO as early as next week",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-backed-razorpay-set-to-file-for-india-ipo-as-early-as-next-week/articleshow/135983381.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-19T08:45:45.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million",
-        "url": "https://www.cnbc.com/2026/11/19/sothebys-van-gogh-painting-record-auction.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-19T07:48:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-        "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-19T07:38:29.000Z",
+        "publishedAt": "2026-11-19T17:01:47.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "‘Highly advanced’ quantum computers could crack financial encryption in five years",
-        "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+        "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+        "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-19T10:55:29.000Z",
+        "publishedAt": "2026-11-19T19:53:42.000Z",
         "category": "crypto"
       },
       {
-        "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
-        "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
+        "title": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
+        "url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-19T19:06:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+        "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-19T18:20:49.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+        "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-19T10:48:26.000Z",
+        "publishedAt": "2026-11-19T18:15:56.000Z",
         "category": "crypto"
       },
       {
-        "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
-        "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+        "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+        "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-19T18:09:32.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-19T18:06:50.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-19T10:39:36.000Z",
+        "publishedAt": "2026-11-19T16:09:28.000Z",
         "category": "crypto"
       },
       {
-        "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-        "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-19T10:32:05.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-        "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+        "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+        "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-19T10:22:12.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-        "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-19T08:54:58.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-        "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-19T08:26:19.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "BTCPay Server issues emergency update for 5 security flaws",
-        "url": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-19T08:04:37.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-        "url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-19T07:55:56.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Fed's rate hike push may be a mistake. Here's why",
-        "url": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
-        "source": "CoinDesk",
-        "publishedAt": "2026-11-19T06:23:19.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-        "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-19T06:00:00.000Z",
+        "publishedAt": "2026-11-19T15:20:38.000Z",
         "category": "crypto"
       },
       {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-19T06:00:00.000Z",
+        "publishedAt": "2026-11-19T13:48:14.000Z",
         "category": "crypto"
       },
       {
-        "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-        "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+        "title": "Ethereum’s new DeFi security tool raises questions over censorship",
+        "url": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-19T13:30:00.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
+        "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-19T05:39:06.000Z",
+        "publishedAt": "2026-11-19T13:11:31.000Z",
         "category": "crypto"
       },
       {
-        "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
-        "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
+        "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-19T05:27:45.000Z",
+        "publishedAt": "2026-11-19T12:44:06.000Z",
         "category": "crypto"
       },
       {
-        "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
-        "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+        "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-19T12:40:12.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
+        "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-19T05:09:45.000Z",
+        "publishedAt": "2026-11-19T12:33:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+        "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-19T12:20:39.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "Trump, Xi and Putin Hold Unprecedented Trilateral Meeting",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video",
+      "title": "Bloomberg Green New York 2026 Highlights",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T11:01:45.000Z"
+      "publishedAt": "2026-11-19T20:01:26.000Z"
     },
     {
-      "title": "Koenigsegg Stake Sale Values Hyper-car Maker at €1.3 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/koenigsegg-stake-sale-values-hyper-car-maker-at-1-3-billion",
+      "title": "Traders and Investors Want to Exercise Their Convictions: Bilal Little",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/traders-and-investors-act-on-convictions-bilal-little-video",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T11:00:00.000Z"
+      "publishedAt": "2026-11-19T19:47:41.000Z"
     },
     {
-      "title": "Stocks look to break losing streak ahead of blockbuster Anthropic IPO",
-      "url": "https://www.investing.com/news/economy-news/stocks-rise-after-anthropic-ipo-pricing-sets-stage-for-blockbuster-debut-5037540",
+      "title": "Why Micron, Broadcom and other AI stocks have given up their gains",
+      "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-19T19:43:00.000Z"
+    },
+    {
+      "title": "US Fed tells regional staff to expect lower pay increases in 2027, Bloomberg News reports",
+      "url": "https://www.investing.com/news/economy-news/us-fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027-bloomberg-news-reports-5039812",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-19T10:30:32.000Z"
+      "publishedAt": "2026-11-19T19:42:39.000Z"
     },
     {
-      "title": "UBS Plans to Shift Hundreds of Roles to India in Offshoring Push",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/ubs-plans-to-shift-hundreds-of-roles-to-india-in-offshoring-push",
+      "title": "Big Checks and Big Blobs of Compute",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/big-checks-and-big-blobs-of-compute",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T10:28:44.000Z"
+      "publishedAt": "2026-11-19T19:42:17.000Z"
     },
     {
-      "title": "Former Brexit Negotiator Barnier Welcomes UK-EU Cooperation",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/former-brexit-negotiator-welcomes-uk-eu-cooperation-video",
+      "title": "Crunch Fitness Sells $800 Million of ABS Tied to Franchise Deals",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/crunch-fitness-sells-800-million-of-abs-tied-to-franchise-deals",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T10:21:26.000Z"
+      "publishedAt": "2026-11-19T19:25:15.000Z"
     },
     {
-      "title": "My wife pays thousands of dollars for her family to visit from Argentina. How can I convince her to stop?",
-      "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "title": "Anthropic Leveraged ETF Race Heats Up",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-19T19:23:40.000Z"
+    },
+    {
+      "title": "Anthropic IPO Sets New Standard: Rice Nelson",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-sets-new-standard-rice-nelson-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-19T19:17:07.000Z"
+    },
+    {
+      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-19T10:15:00.000Z"
+      "publishedAt": "2026-11-19T19:15:00.000Z"
     },
     {
-      "title": "Trump begins historic trilateral talks with Xi, Putin in China",
-      "url": "https://www.investing.com/news/economy-news/trump-begins-historic-trilateral-talks-with-xi-putin-in-china-5038233",
+      "title": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-19T19:14:11.000Z"
+    },
+    {
+      "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
+      "url": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-19T19:13:00.000Z"
+    },
+    {
+      "title": "Anthropic IPO Backs Up Private Valuations: Schlossman",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-19T19:11:45.000Z"
+    },
+    {
+      "title": "Anthropic's Record-Breaking IPO",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-19T19:00:20.000Z"
+    },
+    {
+      "title": "Exclusive-South Korean firm plans $150 million lifeline for Eric Trump-backed robot maker",
+      "url": "https://www.investing.com/news/economy-news/exclusivesouth-korean-firm-plans-150-million-lifeline-for-eric-trumpbacked-robot-maker-5039698",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-19T10:04:44.000Z"
+      "publishedAt": "2026-11-19T18:54:59.000Z"
     },
     {
-      "title": "The real beneficiary of the AI tech revolution fueled by Anthropic may surprise you",
-      "url": "https://www.marketwatch.com/story/the-real-beneficiary-of-the-ai-tech-revolution-fueled-by-anthropic-may-surprise-you-6fa098b2?mod=mw_rss_topstories",
+      "title": "Lina Khan’s Economic Playbook Shows in NYC Revenue-Share Deals",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/lina-khan-s-economic-playbook-shows-in-nyc-revenue-share-deals",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-19T18:54:52.000Z"
+    },
+    {
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-19T10:04:00.000Z"
+      "publishedAt": "2026-11-19T18:54:00.000Z"
     },
     {
-      "title": "Former Fox News anchor Maria Bartiromo sells $7 million N.Y.C. townhouse",
-      "url": "https://www.marketwatch.com/story/former-fox-news-anchor-maria-bartiromo-sells-7-million-n-y-c-townhouse-ef993dbb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-19T10:03:00.000Z"
-    },
-    {
-      "title": "Air strike hits Saudi sovereign wealth fund headquarters",
-      "url": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
+      "title": "Putin invites European leaders to Moscow for talks on Ukraine",
+      "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-11-19T09:41:38.000Z"
+      "publishedAt": "2026-11-19T18:53:08.000Z"
     },
     {
-      "title": "Brasília em Off",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/brasilia-em-off-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T09:38:06.000Z"
-    },
-    {
-      "title": "Sify Infinit Said to Revive $396 Million India IPO Plan",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/sify-infinit-said-to-revive-396-million-india-ipo-plan",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T09:22:34.000Z"
-    },
-    {
-      "title": "Here’s the precise moment when cyberattacks started increasing exponentially",
-      "url": "https://www.marketwatch.com/story/heres-the-precise-moment-when-cyberattacks-started-increasing-exponentially-244a4294?mod=mw_rss_topstories",
+      "title": "Social Security should be shut down, this Republican senator says",
+      "url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-19T09:13:00.000Z"
+      "publishedAt": "2026-11-19T18:53:00.000Z"
     },
     {
-      "title": "Amundi Not Seeing ‘Panic Selling’ in French Debt, Mortier Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/amundi-not-seeing-panic-selling-in-french-debt-mortier-says",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T09:05:34.000Z"
-    },
-    {
-      "title": "Anthropic’s record-setting IPO; Fed minutes - what’s moving markets",
-      "url": "https://www.investing.com/news/economy-news/anthropics-recordsetting-ipo-fed-minutes--whats-moving-markets-5038148",
+      "title": "Trump ally Essayli to lead stalled probe into Trump documents case, sources say",
+      "url": "https://www.investing.com/news/economy-news/trump-ally-essayli-to-lead-stalled-probe-into-trump-documents-case-sources-say-5039748",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-19T09:04:18.000Z"
+      "publishedAt": "2026-11-19T18:43:20.000Z"
     },
     {
-      "title": "Nick Khan on Making WWE a Global Media Power",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/nick-khan-on-making-wwe-a-global-media-power-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T09:01:02.000Z"
-    },
-    {
-      "title": "This Is The Problem With AI's Most Bullish Chart",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/this-is-the-problem-with-ai-s-most-bullish-chart",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T09:00:04.000Z"
-    },
-    {
-      "title": "Odd Lots: AI’s Credit Crunch Moment (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-11-19/odd-lots-ai-s-credit-crunch-moment-podcast",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T09:00:00.000Z"
-    },
-    {
-      "title": "Dollar and Commodities Hint at Cooler Growth Ahead: Market Analysis",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/dollar-and-commodities-hint-at-cooler-growth-ahead-mliv-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T08:49:27.000Z"
-    },
-    {
-      "title": "Trump, Xi and Putin Hold Talks at APEC Summit",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/insight-with-haslinda-amin-11-19-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-19T08:41:06.000Z"
+      "title": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
+      "url": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-19T18:43:00.000Z"
     }
   ]
 }
