@@ -1,114 +1,163 @@
 {
-  "lastUpdated": "2026-11-24T08:52:51.691Z",
+  "lastUpdated": "2026-11-24T19:59:43.792Z",
   "ai": {
     "developers": [
       {
-        "title": "AI data centers throw another wrench into chaotic UN climate talks",
-        "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+        "title": "Is AI Still a Sychophant?",
+        "url": "https://techstackups.com/articles/is-ai-still-a-sycophant/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T19:55:46.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Show HN: GrowPython, an AI agent that runs outreach up to the booked call",
+        "url": "https://growpython.com/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T19:52:27.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "\"I am the cardholder\": What AI shopping agents declare in the customer's name",
+        "url": "https://zenodo.org/records/24393764",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T19:52:10.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+        "url": "https://news.ycombinator.com/item?id=50633601",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T19:51:01.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI Firms Seek Government-Sanctioned Spying on Dissenters",
+        "url": "https://prospect.org/2026/11/20/ai-seeks-government-sanctioned-spying-on-dissenters/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T19:50:33.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Humanity's First Exam: Testing LLM Reliability",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T19:34:31.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Jensen Huang deepfakes are the hot new AI slop",
+        "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T19:17:15.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "AI Ban Hammer",
+        "url": "https://yunzi.co.uk/ai-ban-hammer/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T18:52:00.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "China Just Gave Itself a Switch for Open AI Models [video]",
+        "url": "https://www.youtube.com/watch?v=E5Trav-bgmo",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T18:46:05.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "PRætore, a Rust authorization engine between AI agents and their tools",
+        "url": "https://github.com/Mavericksantander/praetore",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T18:43:08.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Modernised 64-bit port of Inferno, designed for testing AI agents",
+        "url": "https://infernode.io/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T18:40:29.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "A live peek inside your LLM inference engine (SGLang, vLLM) as it runs",
+        "url": "https://gauravjain14.github.io/inference-observe/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T18:37:14.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "An ethical AI does not exist",
+        "url": "https://humancode.us/2026/11/22/an-ethical-ai-does-not-exist",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T18:33:24.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "Regidi – Identity and Delegated Authorization for AI Agents",
+        "url": "https://zenodo.org/records/24469990",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T18:24:06.000Z",
+        "category": "developers"
+      },
+      {
+        "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+        "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
         "source": "The Verge – AI",
-        "publishedAt": "2026-11-23T21:09:37.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Claude AI can review pull requests and ship fixes on its own now",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-23T20:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-        "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-23T16:30:11.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Introducing Tool Retrieval in the Gemini API",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-11-19T18:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Explore the Codex Security Plugin",
-        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-19T00:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Deploying Daybreak Red",
-        "url": "https://openai.com/business/learn/deploying-daybreak-red",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-19T00:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Inside the Codex sandbox",
-        "url": "https://openai.com/index/inside-the-codex-sandbox",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-18T08:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Managing frontier AI risk: From training to deployment",
-        "url": "https://openai.com/index/managing-frontier-ai-risk",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-18T06:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "The open-source movement wants Jensen Huang back",
-        "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-11-16T18:38:47.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Gondola doubles revenue as its team builds more with Codex",
-        "url": "https://openai.com/business/customer-stories/gondola",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-12T12:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Holiday Extras is rethinking what it can build with Codex",
-        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-12T09:30:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-11-11T18:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "CodeRabbit scales agentic software development and ships 20x more",
-        "url": "https://openai.com/index/coderabbit-codex-daybreak",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-09T08:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Cult.fit builds operational muscle with Codex",
-        "url": "https://openai.com/index/cultfit-builds-with-codex",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-05T20:00:00.000Z",
-        "category": "developers"
-      },
-      {
-        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-11-05T17:00:00.000Z",
+        "publishedAt": "2026-11-24T18:15:00.000Z",
         "category": "developers"
       }
     ],
     "everyone": [
+      {
+        "title": "Compiling Web Applications into Verified Operations for AI Agents",
+        "url": "https://protocolis.co/paper/",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T19:12:02.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T18:39:44.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+        "url": "https://joonoo.art/create-comic",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T17:53:53.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Tidal will start banning AI-generated music next month",
+        "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+        "source": "The Verge – AI",
+        "publishedAt": "2026-11-24T17:17:09.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Hackathon: Build an iOS app in 1 hour, $1k in AI credits",
+        "url": "https://mobilecode.ai/hackathon",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T16:38:57.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "How Gemini is changing the game for Golden State's organization and fans.",
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-11-24T16:00:00.000Z",
+        "category": "everyone"
+      },
+      {
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-11-24T15:15:16.000Z",
+        "category": "everyone"
+      },
       {
         "title": "Trump engineered a risky comeback for Jensen Huang",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
@@ -138,27 +187,6 @@
         "category": "everyone"
       },
       {
-        "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-        "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-23T19:04:52.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-23T18:26:47.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Tech leaders are celebrating Jensen Huang’s return",
-        "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-        "source": "The Verge – AI",
-        "publishedAt": "2026-11-23T16:14:04.000Z",
-        "category": "everyone"
-      },
-      {
         "title": "The most misunderstood graph in AI just got a major update",
         "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
         "source": "MIT Technology Review",
@@ -185,37 +213,30 @@
         "source": "MIT Technology Review",
         "publishedAt": "2026-11-18T14:42:44.000Z",
         "category": "everyone"
-      },
-      {
-        "title": "This smell startup says its AI nose is as good as a human’s",
-        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-11-18T10:20:30.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-        "url": "https://openai.com/business/customer-stories/sumitomo-life",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-18T08:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-18T00:00:00.000Z",
-        "category": "everyone"
-      },
-      {
-        "title": "Put Gemini to work for you",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-11-17T17:00:00.000Z",
-        "category": "everyone"
       }
     ],
     "advancements": [
+      {
+        "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+        "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+        "source": "Hacker News – AI",
+        "publishedAt": "2026-11-24T17:46:41.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "Searching for distant planets with Astra",
+        "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-11-24T11:00:00.000Z",
+        "category": "advancements"
+      },
+      {
+        "title": "How Intentful uses dots to make more time for growth",
+        "url": "https://openai.com/business/customer-stories/intentful-dots",
+        "source": "OpenAI Blog",
+        "publishedAt": "2026-11-24T00:00:00.000Z",
+        "category": "advancements"
+      },
       {
         "title": "OpenAI and Cisco introduce Shirudo",
         "url": "https://openai.com/index/introducing-shirudo",
@@ -287,13 +308,6 @@
         "category": "advancements"
       },
       {
-        "title": "See PR scans in action",
-        "url": "https://openai.com/business/learn/pr-scans-demo",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-19T00:00:00.000Z",
-        "category": "advancements"
-      },
-      {
         "title": "Get started with Daybreak Blue",
         "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
         "source": "OpenAI Blog",
@@ -301,24 +315,10 @@
         "category": "advancements"
       },
       {
-        "title": "The Silent Consensus",
-        "url": "https://openai.com/index/the-silent-consensus",
+        "title": "See PR scans in action",
+        "url": "https://openai.com/business/learn/pr-scans-demo",
         "source": "OpenAI Blog",
-        "publishedAt": "2026-11-18T10:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Research acceleration: The jagged frontier",
-        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-18T08:00:00.000Z",
-        "category": "advancements"
-      },
-      {
-        "title": "Advancing chip design with OpenAI models",
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-        "source": "OpenAI Blog",
-        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "publishedAt": "2026-11-19T00:00:00.000Z",
         "category": "advancements"
       }
     ]
@@ -326,339 +326,339 @@
   "finance": {
     "markets": [
       {
-        "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+        "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+        "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T08:35:16.000Z",
+        "publishedAt": "2026-11-24T19:47:42.000Z",
         "category": "markets"
       },
       {
-        "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+        "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+        "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T08:13:58.000Z",
+        "publishedAt": "2026-11-24T19:44:34.000Z",
         "category": "markets"
       },
       {
-        "title": "Investors mint Rs 34.61 lakh cr in November as markets rally nearly 11%",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-mint-rs-34-61-lakh-cr-in-november-as-markets-rally-nearly-11/articleshow/136123662.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-24T07:58:46.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter",
-        "url": "https://www.cnbc.com/2026/11/24/rene-haas-to-remain-ceo-of-chipmaker-arm-through-2033-amid-nvidia-top-job-chatter.html",
+        "title": "Buffer ETFs protect investors from the harshest market swings – for a price",
+        "url": "https://www.cnbc.com/2026/11/24/buffer-etfs-downside-protection.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T07:30:10.000Z",
+        "publishedAt": "2026-11-24T19:27:25.000Z",
         "category": "markets"
       },
       {
-        "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-        "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+        "title": "Retail turnarounds are taking hold just in time for the holiday season",
+        "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T07:25:41.000Z",
+        "publishedAt": "2026-11-24T19:26:39.000Z",
         "category": "markets"
       },
       {
-        "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+        "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+        "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T07:12:33.000Z",
+        "publishedAt": "2026-11-24T19:26:26.000Z",
         "category": "markets"
       },
       {
-        "title": "Why France is at risk of recession — and what could keep it out of one",
-        "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+        "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
+        "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T06:55:36.000Z",
+        "publishedAt": "2026-11-24T19:23:59.000Z",
         "category": "markets"
       },
       {
-        "title": "HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-reliance-industries-among-10-stocks-with-highest-dii-holding-in-q2-see-full-list/slideshow/136121838.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-24T06:15:03.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "The LTCG debate: Why markets need tax stability and not ad-hoc fixes",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-ltcg-debate-why-markets-need-tax-stability-and-not-ad-hoc-fixes/articleshow/136121257.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-24T06:08:55.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-        "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+        "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T05:07:16.000Z",
+        "publishedAt": "2026-11-24T19:19:12.000Z",
         "category": "markets"
       },
       {
-        "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
-        "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+        "title": "Investors are fleeing this data center stock. I see an opportunity",
+        "url": "https://www.cnbc.com/2026/11/24/investors-are-fleeing-this-data-center-stock-i-see-an-opportunity.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T05:05:08.000Z",
+        "publishedAt": "2026-11-24T19:15:12.000Z",
         "category": "markets"
       },
       {
-        "title": "IFS CEO Mark Moffat on why he walked away from a 24-year career at PwC",
-        "url": "https://www.cnbc.com/video/2026/11/24/ifs-ceo-mark-moffat-on-leaving-pwc-to-reach-his-full-potential.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-24T05:00:02.000Z",
-        "category": "markets"
-      },
-      {
-        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+        "title": "US attorney general dodges questions about Nvidia investigation",
+        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "publishedAt": "2026-11-24T04:36:31.000Z",
+        "publishedAt": "2026-11-24T18:55:59.000Z",
         "category": "markets"
       },
       {
-        "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
-        "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+        "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+        "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T04:27:38.000Z",
+        "publishedAt": "2026-11-24T18:34:55.000Z",
         "category": "markets"
       },
       {
-        "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
-        "url": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
+        "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+        "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T03:32:26.000Z",
+        "publishedAt": "2026-11-24T18:34:43.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "CFTC sets new prediction market rules as more firms seek US entry",
+        "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-24T18:31:42.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Nvidia shares fall 7% as Huang comeback rally cools",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-24T18:30:58.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+        "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-24T18:30:06.000Z",
+        "category": "markets"
+      },
+      {
+        "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+        "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-24T18:28:33.000Z",
         "category": "markets"
       }
     ],
     "crypto": [
       {
-        "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
-        "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+        "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+        "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-24T19:44:23.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Gold is doing something strange. Here's one way to play it",
+        "url": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-24T08:22:53.000Z",
+        "publishedAt": "2026-11-24T19:25:13.000Z",
         "category": "crypto"
       },
       {
-        "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
-        "url": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+        "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-24T07:41:50.000Z",
+        "publishedAt": "2026-11-24T19:04:26.000Z",
         "category": "crypto"
       },
       {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+        "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-24T06:00:00.000Z",
+        "publishedAt": "2026-11-24T18:07:22.000Z",
         "category": "crypto"
       },
       {
-        "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
-        "url": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-24T05:07:30.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin fails to hold Nvidia bump with crypto headwinds in focus",
-        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-fails-to-hold-nvidia-bump-with-crypto-headwinds-in-focus/articleshow/136119619.cms",
-        "source": "Economic Times – Markets",
-        "publishedAt": "2026-11-24T04:40:09.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Google wants to make you the star of your own AI slop movies",
-        "url": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-24T03:13:22.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
-        "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-24T00:36:26.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
-        "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+        "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
+        "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-24T00:25:04.000Z",
+        "publishedAt": "2026-11-24T17:50:08.000Z",
         "category": "crypto"
       },
       {
-        "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
-        "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+        "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-23T23:43:34.000Z",
+        "publishedAt": "2026-11-24T17:09:11.000Z",
         "category": "crypto"
       },
       {
-        "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-        "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
+        "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-23T21:04:03.000Z",
+        "publishedAt": "2026-11-24T16:33:26.000Z",
         "category": "crypto"
       },
       {
-        "title": "Kalshi secures temporary win in New York gambling law dispute",
-        "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-23T20:38:43.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
-        "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-23T19:35:06.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
-        "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "CoinTelegraph",
-        "publishedAt": "2026-11-23T19:16:46.000Z",
-        "category": "crypto"
-      },
-      {
-        "title": "New York judge declines to block Kalshi from operating in the state for now",
-        "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+        "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+        "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
         "source": "CoinDesk",
-        "publishedAt": "2026-11-23T18:22:03.000Z",
+        "publishedAt": "2026-11-24T16:00:25.000Z",
         "category": "crypto"
       },
       {
-        "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-        "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Anchorage Digital to unveil new asset-management subsidiary",
+        "url": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-24T15:06:32.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+        "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-24T14:40:53.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+        "url": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "CoinTelegraph",
-        "publishedAt": "2026-11-23T17:42:18.000Z",
+        "publishedAt": "2026-11-24T14:10:23.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+        "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-24T13:57:56.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
+        "url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-24T13:43:46.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+        "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "CoinTelegraph",
+        "publishedAt": "2026-11-24T13:11:44.000Z",
+        "category": "crypto"
+      },
+      {
+        "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+        "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-24T12:47:49.000Z",
         "category": "crypto"
       }
     ]
   },
   "trends": [
     {
-      "title": "European Auto Sales Increase Again on Surging EV Demand",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/european-auto-sales-increase-again-on-surging-ev-demand-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T08:40:56.000Z"
-    },
-    {
-      "title": "Tech stocks surge on Jensen Huang’s return",
-      "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-11-24T08:29:57.000Z"
-    },
-    {
-      "title": "Japan cuts view on consumer spending for 1st time since 2024",
-      "url": "https://www.investing.com/news/economy-news/japan-cuts-view-on-consumer-spending-for-1st-time-since-2024-5047324",
+      "title": "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
+      "url": "https://www.investing.com/news/economy-news/cibc-flags-december-rate-hike-as-macklem-doubles-down-on-inflation-concerns-5048927",
       "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-24T08:24:21.000Z"
+      "publishedAt": "2026-11-24T19:52:08.000Z"
     },
     {
-      "title": "Sutcliffe: US Appears Set to Reengage With Iran",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/sutcliffe-us-appears-set-to-reengage-with-iran-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T08:17:11.000Z"
+      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
+      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T19:48:00.000Z"
     },
     {
-      "title": "Tullow Jumps 20% After Settling $387 Million Ghana Tax Case",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/tullow-jumps-20-after-settling-387-million-ghana-tax-case",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T08:13:11.000Z"
-    },
-    {
-      "title": "BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says",
-      "url": "https://www.investing.com/news/economy-news/boj-to-keep-hiking-rates-but-soft-spending-muddies-path-excentral-bank-policymaker-says-5047268",
-      "source": "Investing.com – Economy",
-      "publishedAt": "2026-11-24T08:12:56.000Z"
-    },
-    {
-      "title": "Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Return?",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T08:09:48.000Z"
-    },
-    {
-      "title": "Hong Kong’s Hedge Fund Tax Breaks Offer Boon for Pod Shop Stars",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/hong-kong-s-hedge-fund-tax-breaks-offer-boon-for-pod-shop-stars",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T08:03:36.000Z"
-    },
-    {
-      "title": "Japan’s Top Life Insurers Book $7.5 Billion in Bond Sale Losses",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-s-top-life-insurers-book-7-5-billion-in-bond-sale-losses",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T08:01:34.000Z"
-    },
-    {
-      "title": "JPMorgan, HSBC Trade Digital Gold in London for the First Time",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-hsbc-trade-digital-gold-in-london-for-the-first-time",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T08:00:00.000Z"
-    },
-    {
-      "title": "Franklin Templeton Urges Investors to Look Beyond the AI Trade",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/franklin-templeton-urges-investors-to-look-beyond-the-ai-trade",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T07:49:59.000Z"
-    },
-    {
-      "title": "Dangote Clears Key Hurdle Toward Africa’s Biggest Listing",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/dangote-clears-key-hurdle-toward-africa-s-biggest-listing",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T07:39:48.000Z"
-    },
-    {
-      "title": "Pound’s Resilience Burnishes UK’s Role as `Quieter Harbour’",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/pound-s-resilience-burnishes-uk-s-role-as-quieter-harbour",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T07:39:06.000Z"
-    },
-    {
-      "title": "Commerzbank Weighs Partial Withdrawal From US Treasury Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/commerzbank-weighs-partial-withdrawal-from-us-treasury-market",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T07:35:48.000Z"
-    },
-    {
-      "title": "Compass Plans New York Main Listing, Adding to London Exodus",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/compass-plans-to-move-main-listing-to-new-york-in-blow-to-london",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T07:11:59.000Z"
-    },
-    {
-      "title": "FTSE 100 Live: UK Stocks Dip After Nvidia-Driven Bounce",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-11-24/ftse-100-live-updates-pound-gilts-gold-prices-uk-retail-sales-nvidia-ai-stocks-jensen-huang-trump-iran-what-s-moving-uk-markets-right-now-markets-today-mwucfxwp",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T06:58:48.000Z"
-    },
-    {
-      "title": "Copper Rally Fades as Demand Worries Deepen",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/copper-rally-fades-as-demand-worries-deepen-video",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T06:49:13.000Z"
-    },
-    {
-      "title": "The Jensen put",
-      "url": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1",
+      "title": "Huang says he still doesn’t believe in Nvidia succession planning",
+      "url": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "publishedAt": "2026-11-24T06:30:04.000Z"
+      "publishedAt": "2026-11-24T19:37:01.000Z"
     },
     {
-      "title": "Emerging Market Stocks Rally as Huang’s Return Revives AI Trade",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
-      "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T06:26:44.000Z"
+      "title": "US arrears leave chemical weapons watchdog facing budget crisis",
+      "url": "https://www.investing.com/news/economy-news/us-arrears-leave-chemical-weapons-watchdog-facing-budget-crisis-5048914",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-24T19:36:25.000Z"
     },
     {
-      "title": "South Korea Considers Potential $3 Billion Dollar Bond Sale",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/south-korea-considers-potential-3-billion-dollar-bond-sale",
+      "title": "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
       "source": "Bloomberg Markets",
-      "publishedAt": "2026-11-24T06:20:31.000Z"
+      "publishedAt": "2026-11-24T19:31:25.000Z"
+    },
+    {
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T19:31:00.000Z"
+    },
+    {
+      "title": "Democrats aim to reverse Trump’s slashes to US food aid, but path unclear",
+      "url": "https://www.investing.com/news/economy-news/democrats-aim-to-reverse-trumps-slashes-to-us-food-aid-but-path-unclear-5048908",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-24T19:24:19.000Z"
+    },
+    {
+      "title": "Many people overlook this crucial piece of retirement planning — and it isn’t money",
+      "url": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T19:21:00.000Z"
+    },
+    {
+      "title": "Quant Funds Reduce US Treasury Short Bets, Fueling Bond Rally",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-24T19:08:17.000Z"
+    },
+    {
+      "title": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+      "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T19:02:00.000Z"
+    },
+    {
+      "title": "Trump awards Presidential Medal of Freedom to Rudy Giuliani",
+      "url": "https://www.investing.com/news/economy-news/trump-awards-presidential-medal-of-freedom-to-rudy-giuliani-5048876",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-24T18:51:18.000Z"
+    },
+    {
+      "title": "FHFA Clears FICO 10T Scores for Fannie Mae and Freddie Mac",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/fhfa-clears-fico-10t-scores-for-fannie-mae-and-freddie-mac",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-24T18:48:49.000Z"
+    },
+    {
+      "title": "Venezuela moves toward possible debt restructuring with release of economic framework",
+      "url": "https://www.investing.com/news/economy-news/venezuela-unveils-longawaited-economic-framework-puts-debt-at-2375-billion-5048560",
+      "source": "Investing.com – Economy",
+      "publishedAt": "2026-11-24T18:48:39.000Z"
+    },
+    {
+      "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+      "url": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T18:48:00.000Z"
+    },
+    {
+      "title": "AI Is a Financing Story",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/ai-is-a-financing-story",
+      "source": "Bloomberg Markets",
+      "publishedAt": "2026-11-24T18:42:57.000Z"
+    },
+    {
+      "title": "The expanding boundaries of the Ukraine war",
+      "url": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-24T18:38:23.000Z"
+    },
+    {
+      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+      "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T18:33:00.000Z"
+    },
+    {
+      "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
+      "url": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T18:28:00.000Z"
+    },
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T18:15:00.000Z"
+    },
+    {
+      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+      "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T18:14:00.000Z"
     }
   ]
 }
